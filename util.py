@@ -13,7 +13,6 @@ def set_sumo(gui, sumocfg_file_name, max_steps):
         sys.path.append(tools)
     else:
         sys.exit("please declare environment variable 'SUMO_HOME'")
-
     
     # setting the cmd mode or the visual mode    
     if gui == False:
