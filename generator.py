@@ -29,9 +29,9 @@ class CarGenerator:
             weibull_distribution_route=["S_to_W", "S_to_N","S_to_E"]
 
         print('weibull distribution car lane is',weibull_distribution_route)
-        # limit of car generation timing 0~3000
+        # limit of car generation timing 0~3400
 
-        lambda_=700
+        lambda_=800
 
         for i in range(self._n_cars_generated):
             car_id = f"vehicle_{i}"
@@ -46,14 +46,14 @@ class CarGenerator:
 
             # selected lane follows weibull distribution
             if route_id in weibull_distribution_route: # traffic jam lane
-                depart=np.random.weibull(2)*lambda_
+                depart=np.random.weibull(2)*lambda_+300
             else:
-                depart=np.random.uniform(0, 3000)
+                depart=np.random.uniform(0, 3400)
                 # depart=np.random.weibull(2)*lambda_
 
             # others are just uniform distribution
             depart = np.rint(depart)
-            depart = np.clip(depart, 0, 3000)
+            depart = np.clip(depart, 0, 3400)
             vehicles_info.append((depart, car_id, route_id))
 
         # sort depart time
