@@ -1,6 +1,5 @@
 
 import numpy as np
-import math
 
 class CarGenerator:
     def __init__(self, max_steps, n_cars_generated):
@@ -49,8 +48,8 @@ class CarGenerator:
             if route_id in weibull_distribution_route: # traffic jam lane
                 depart=np.random.weibull(2)*lambda_
             else:
-                # depart=np.random.uniform(0, 3000)
-                depart=np.random.weibull(2)*lambda_
+                depart=np.random.uniform(0, 3000)
+                # depart=np.random.weibull(2)*lambda_
 
             # others are just uniform distribution
             depart = np.rint(depart)
