@@ -17,39 +17,48 @@ class CarGenerator:
         route_ids_turn=["W_to_N", "N_to_E" , "E_to_S" , "S_to_W","W_to_S","N_to_W", "E_to_N", "S_to_E"]
         # car generation distribution : normal distribution selection
         # only one way is selected, that way follows normal distribution to describe commuting time
-        distribution_switch=np.random.uniform()
 
-        if(distribution_switch<0.25):
-            weibull_distribution_route=["W_to_E", "W_to_S","W_to_N"]
-        elif distribution_switch<0.5 and distribution_switch>=0.25 :
-            weibull_distribution_route=["E_to_W", "E_to_S","E_to_N"]
-        elif distribution_switch<0.75 and distribution_switch>=0.5 :
-            weibull_distribution_route=["N_to_W", "N_to_S","N_to_E"]
-        elif distribution_switch>=0.75 :
-            weibull_distribution_route=["S_to_W", "S_to_N","S_to_E"]
+        gaussian_distribution_routes=[["W_to_E", "W_to_S","W_to_N"],["E_to_W", "E_to_S","E_to_N"],["S_to_W", "S_to_N","S_to_E"],["N_to_W", "N_to_S","N_to_E"]]
+        np.random.shuffle(gaussian_distribution_routes)
+        
+        gaussian_distribution_route_1=gaussian_distribution_routes[0]
+        gaussian_distribution_route_2=gaussian_distribution_routes[1]
+        gaussian_distribution_route_3=gaussian_distribution_routes[2]
+        # guassian_distribution_route[3] don't care
 
-        print('weibull distribution car lane is',weibull_distribution_route)
         # limit of car generation timing 0~3400
 
-        lambda_=800
+        sigma_1=0.2 #for mean_1,mean_2
+        sigma_2=0.1 #for mean_3,mean_4
+        mean_1=np.random.uniform(0,0.7)
+        mean_2=np.random.uniform(0.5,1.2)
+        mean_3=np.random.uniform(1.0,1.7)
+        mean_4=np.random.uniform(1.5,2)
 
+        means=[mean_1,mean_2,mean_3,mean_4]
+        
         for i in range(self._n_cars_generated):
             car_id = f"vehicle_{i}"
-            ### straight or left switch ###
-            straight_or_left_switch=np.random.uniform()
-            if(straight_or_left_switch<0.75):
+
+            ### straight or left switch ### 75% straight , 25% left,right
+            straight_or_turn_switch=np.random.uniform()
+            if(straight_or_turn_switch<0.75):
                 route_id=np.random.choice(route_ids_straight)
             else:
                 route_id=np.random.choice(route_ids_turn)
             ################################
                 
 
-            # selected lane follows weibull distribution
-            if route_id in weibull_distribution_route: # traffic jam lane
-                depart=np.random.weibull(2)*lambda_+300
+            # each lanes follow lognormal distribution.
+            # mean[0] : 0~0.5 , mean[1] : 0.5~1.0 , mean[2] : 1.0~1.5 mean[3] : 1.5~2.0
+            if route_id in gaussian_distribution_route_1:
+                depart=np.random.lognormal(means[0],sigma_1)*400
+            elif route_id in gaussian_distribution_route_2:
+                depart=np.random.lognormal(means[1],sigma_1)*400
+            elif route_id in gaussian_distribution_route_3:
+                depart=np.random.lognormal(means[2],sigma_2)*400
             else:
-                depart=np.random.uniform(0, 3400)
-                # depart=np.random.weibull(2)*lambda_
+                depart=np.random.lognormal(means[3],sigma_2)*400                     
 
             # others are just uniform distribution
             depart = np.rint(depart)
