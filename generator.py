@@ -1,5 +1,6 @@
 
 import numpy as np
+import pandas as pd
 
 class CarGenerator:
     def __init__(self, max_steps, n_cars_generated):
@@ -30,15 +31,39 @@ class CarGenerator:
 
         sigma_1=0.2 #for mean_1,mean_2
         sigma_2=0.1 #for mean_3,mean_4
-        mean_1=np.random.uniform(0,0.7)
-        mean_2=np.random.uniform(0.5,1.2)
-        mean_3=np.random.uniform(1.0,1.7)
+        mean_1=np.random.uniform(0,0.5)
+        mean_2=np.random.uniform(0.5,1.0)
+        mean_3=np.random.uniform(1.0,1.5)
         mean_4=np.random.uniform(1.5,2)
 
         means=[mean_1,mean_2,mean_3,mean_4]
-        
-        for i in range(self._n_cars_generated):
-            car_id = f"vehicle_{i}"
+
+        randint_distribution_cars=600
+
+        for i in range(randint_distribution_cars):
+            car_id=f"vehicle_{i}_rand"
+             ### straight or left switch ### 75% straight , 25% left,right
+            straight_or_turn_switch=np.random.uniform()
+            if(straight_or_turn_switch<0.75):
+                route_id=np.random.choice(route_ids_straight)
+            else:
+                route_id=np.random.choice(route_ids_turn)
+            ################################
+                
+            if route_id in gaussian_distribution_route_1:
+                depart=np.random.randint(0,3400)
+            elif route_id in gaussian_distribution_route_2:
+                depart=np.random.randint(0,3400)
+            elif route_id in gaussian_distribution_route_3:
+                depart=np.random.randint(0,3400)
+            else:
+                depart=np.random.randint(0,3400)
+
+            vehicles_info.append((depart, car_id, route_id))  
+
+
+        for i in range(self._n_cars_generated-randint_distribution_cars):
+            car_id = f"vehicle_{i}_gaussian"
 
             ### straight or left switch ### 75% straight , 25% left,right
             straight_or_turn_switch=np.random.uniform()
@@ -61,12 +86,18 @@ class CarGenerator:
                 depart=np.random.lognormal(means[3],sigma_2)*400                     
 
             # others are just uniform distribution
-            depart = np.rint(depart)
+            depart = np.rint(depart).astype(int)
+
             depart = np.clip(depart, 0, 3400)
             vehicles_info.append((depart, car_id, route_id))
 
         # sort depart time
         vehicles_info.sort()
+        # 방향별로 depart 값들을 저장할 딕셔너리 초기화
+               # Save to Excel
+        df = pd.DataFrame(vehicles_info, columns=['depart', 'car_id', 'route_id'])
+        df.to_excel('./intersection/car_generation.xlsx', index=False)
+
 
         # .rou.xml update
         with open("./intersection/cross.rou.xml", "w") as routes:
@@ -95,3 +126,4 @@ class CarGenerator:
             print("</routes>", file=routes)
 
 
+    
