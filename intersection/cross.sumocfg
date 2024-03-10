@@ -5,11 +5,16 @@
     <input>
         <net-file value="cross.net.xml"/>
         <route-files value="cross.rou.xml"/>
+        <additional-files value="viewpoint.xml"/>
     </input>
 
     <time>
         <begin value="0"/>
         <end value="3600"/>
     </time>
+
+    <gui_only>
+        <gui-settings-file value="viewpoint.xml"/>
+    </gui_only>
 
 </configuration>
