@@ -16,6 +16,7 @@ class Simulation:
     #         filename = f'./intersection/{base_filename}_{i}.csv'
     #         df.to_csv(filename)
     #         print(f'Saved dimension {i} to {filename}')
+    # test
     
     def run(self,episode):
         lane=["W_in_0","W_in_1","W_in_2","W_in_3","N_in_0","N_in_1","N_in_2","N_in_3",
