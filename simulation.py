@@ -2,6 +2,18 @@ import traci
 import numpy as np
 import pandas as pd
 
+# action phase 정의
+
+PHASE_NS_GREEN = 0  # action 0 code 00 -> 북/남 직진
+PHASE_NS_YELLOW = 1 
+PHASE_NSL_GREEN = 2  # action 1 code 01 -> 북/남 좌회전
+PHASE_NSL_YELLOW = 3
+PHASE_EW_GREEN = 4  # action 2 code 10 -> 동/서 직진
+PHASE_EW_YELLOW = 5
+PHASE_EWL_GREEN = 6  # action 3 code 11 -> 동/서 좌회전
+PHASE_EWL_YELLOW = 7
+
+
 class Simulation:
     def __init__(self,Cargenerator,sumo_cmd,max_steps,num_states):
         self._Cargenerator=Cargenerator
@@ -9,23 +21,15 @@ class Simulation:
         self._max_steps=max_steps
         self._num_states=num_states
 
-    # def save_state_to_csv(state, lanes, base_filename='state'):
-    #     for i in range(state[0]):
-    #         df = pd.DataFrame(state[i])
-    #         df.index=lanes
-    #         filename = f'./intersection/{base_filename}_{i}.csv'
-    #         df.to_csv(filename)
-    #         print(f'Saved dimension {i} to {filename}')
-    
     def run(self,episode):
         lane=["W_in_0","W_in_1","W_in_2","W_in_3","N_in_0","N_in_1","N_in_2","N_in_3",
             "E_in_0","E_in_1","E_in_2","E_in_3","S_in_0","S_in_1","S_in_2","S_in_3"]
-        self._Cargenerator.generate_car(seed=episode) # car generation
+        self._Cargenerator.generate_car(seed=episode)
         traci.start(self._sumo_cmd)
         print("Simulating")
         for step in range(self._max_steps):
             current_state=self._get_state()
-
+            
             # self.save_state_to_csv(current_state,lane)
             df1=pd.DataFrame(current_state[0],index=lane)
             df1.to_csv('./intersection/generate_exist.csv')
@@ -33,6 +37,7 @@ class Simulation:
             df2.to_csv('./intersection/generate_velocity.csv')
             df3=pd.DataFrame(current_state[2],index=lane)
             df3.to_csv('./intersection/generate_waiting_time.csv')
+
 
             traci.simulationStep()
 
