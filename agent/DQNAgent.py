@@ -12,7 +12,7 @@ Experience = namedtuple('Experience',
                         ('state', 'action', 'next_state', 'reward'))
 
 
-class DqnAgent:
+class DqnAgent: 
     def __init__(self, mode: str, replay, target_update: int, gamma: float, use_sgd: bool, eps_start: float, eps_end: float, eps_decay: int, input_dim: int, output_dim: int, batch_size: int, network_file: str = ''
     ):
         self.mode = mode
@@ -41,7 +41,7 @@ class DqnAgent:
         self.update_gamma = False
         self.q_value_batch_avg = 0
 
-    def select_action(self, state, steps_done, invalid_action):
+    def select_action(self, state, steps_done, invalid_action): # 현재 상태를 기반으로 액션을 선택 (훈련 시 입실론 그리디, 테스트 시 그리디)
         original_state = state
         state = torch.from_numpy(state)
         if self.mode == 'train':
@@ -72,7 +72,7 @@ class DqnAgent:
                 else:
                     return sorted_indices[0]
 
-    def learn(self):
+    def learn(self): 
         if self.mode == 'train':
             if self.replay.steps_done <= 10000:
                 return
@@ -108,7 +108,7 @@ class DqnAgent:
             self.learn_steps += 1
             self.update_gamma = True
 
-    def cal_z(self, state_batch, action_batch, q_max):
+    def cal_z(self, state_batch, action_batch, q_max): # 감마 업데이트용 (보조)
         self.policy_net_copy.load_state_dict(self.policy_net.state_dict())
         z_optimizer = torch.optim.SGD(self.policy_net_copy.parameters(), lr=0.0001)
         state_action_copy_values = self.policy_net_copy(state_batch).gather(1, action_batch)
@@ -120,7 +120,7 @@ class DqnAgent:
                   'l2.weight': self.policy_net_copy.l2.weight.grad,
                   'l2.bias': self.policy_net_copy.l2.bias.grad}
 
-    def learn_gamma(self):
+    def learn_gamma(self): # 계산한 값으로 감마 업데이트 적용. 
         loss_fn = nn.MSELoss()
         optimizer = torch.optim.SGD(self.policy_net.parameters(), lr=0.00025)
 

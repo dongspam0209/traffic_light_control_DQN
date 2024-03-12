@@ -2,6 +2,18 @@ import traci
 import numpy as np
 import pandas as pd
 
+# action phase 정의
+
+PHASE_NS_GREEN = 0  # action 0 code 00 -> 북/남 직진
+PHASE_NS_YELLOW = 1 
+PHASE_NSL_GREEN = 2  # action 1 code 01 -> 북/남 좌회전
+PHASE_NSL_YELLOW = 3
+PHASE_EW_GREEN = 4  # action 2 code 10 -> 동/서 직진
+PHASE_EW_YELLOW = 5
+PHASE_EWL_GREEN = 6  # action 3 code 11 -> 동/서 좌회전
+PHASE_EWL_YELLOW = 7
+
+
 class Simulation:
     def __init__(self,Cargenerator,sumo_cmd,max_steps,num_states):
         self._Cargenerator=Cargenerator
