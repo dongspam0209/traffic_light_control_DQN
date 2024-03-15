@@ -9,12 +9,11 @@ from replay import Experience
 
 ###################################################################
 # hyper-parameters
-BATCH_SIZE = 128
+BATCH_SIZE = 32
 GAMMA = 0.99
-TAU = 0.005
 LR = 1e-4
-MEMORY_CAPACITY=2000
-Q_NETWORK_ITERATION=5
+MEMORY_CAPACITY=10000
+Q_NETWORK_ITERATION=100 
 
 #action phase definition
 PHASE_NS_GREEN = 0  # action_number 0 code 00 -> 북/남 직진
@@ -39,7 +38,7 @@ class Simulation:
 
         self.learn_step_counter = 0
         self.memory_counter = 0
-        self.optimizer = torch.optim.Adam(self.policy_net.parameters(), lr=LR)
+        self.optimizer = optim.Adam(self.policy_net.parameters(), lr=LR)
 
         self._ReplayMemory=ReplayMemory
         self._Cargenerator=Cargenerator
@@ -53,6 +52,12 @@ class Simulation:
         self._queue_length_per_episode=[]
         self.loss_history=[]
 
+        self._previous_total_waiting_time=0
+        self._previous_lane_waiting_times = {"E_in": 0, "N_in": 0, "W_in": 0, "S_in": 0}
+
+
+
+
     def run(self,episode,epsilon):
         self._Cargenerator.generate_car(seed=episode) # car generation
         traci.start(self._sumo_cmd)
@@ -63,20 +68,23 @@ class Simulation:
         self._waiting_times = {}
         self._sum_queue_length = 0
         self._sum_waiting_time = 0
-        old_total_wait = 0
         old_state = -1
         old_action_number=-1
         
-
-        
         while self._step < self._max_steps:
-            current_state=self._get_state()
-            current_total_wait = self._collect_waiting_times()  
-            reward = old_total_wait - current_total_wait
+            
+            self._reward_queue_length=0 # queue length for reward
 
+            ############# get state ##################
+            current_state=self._get_state()                  
+            ##########################################
+
+            ############# reward & memory push #######
+            reward=self._reward()
             if self._step != 0:
                 self._ReplayMemory.push(old_state, old_action_number,current_state,reward)
-            
+            ###########################################
+
             df1=pd.DataFrame(current_state[0],index=lane)
             df1.to_csv('./intersection/generate_exist.csv')
             df2=pd.DataFrame(current_state[1],index=lane)
@@ -84,6 +92,7 @@ class Simulation:
             df3=pd.DataFrame(current_state[2],index=lane)
             df3.to_csv('./intersection/generate_waiting_time.csv')
 
+            ############ action select ##############
             action_to_do=self._choose_action(current_state,epsilon)
         
             if self._step != 0 and old_action_number != action_to_do:
@@ -92,10 +101,11 @@ class Simulation:
 
             duration=self._set_green_phase(action_to_do)
             self._simulate(duration)
+            ###########################################
 
+            
             old_state=current_state
             old_action_number=action_to_do
-            old_total_wait=current_total_wait
 
         
 
@@ -178,6 +188,7 @@ class Simulation:
             steps_todo -= 1
             queue_length = self._get_queue_length()
             self._sum_queue_length+=queue_length
+            self._reward_queue_length+=queue_length
             
 
 
@@ -186,6 +197,7 @@ class Simulation:
         Retrieve the waiting time of every car in the incoming roads
         """
         incoming_roads = ["E_in", "N_in", "W_in", "S_in"]
+        
         car_list = traci.vehicle.getIDList()
         for car_id in car_list:
             wait_time = traci.vehicle.getAccumulatedWaitingTime(car_id)
@@ -195,9 +207,28 @@ class Simulation:
             else:
                 if car_id in self._waiting_times: # a car that was tracked has cleared the intersection
                     del self._waiting_times[car_id] 
+
         total_waiting_time = sum(self._waiting_times.values())
         return total_waiting_time
 
+    def _collect_waiting_times_per_lane(self):
+        incoming_roads = ["E_in", "N_in", "W_in", "S_in"]
+        lane_waiting_times = {road: [] for road in incoming_roads}
+        car_list = traci.vehicle.getIDList()
+
+        for car_id in car_list:
+            wait_time = traci.vehicle.getAccumulatedWaitingTime(car_id)
+            road_id = traci.vehicle.getRoadID(car_id)  
+
+            if road_id in incoming_roads:
+                lane_waiting_times[road_id].append(wait_time)
+
+        aggregated_waiting_times = {road: sum(times) for road, times in lane_waiting_times.items()}
+        delta_waiting_times = {road: aggregated_waiting_times[road] - self._previous_lane_waiting_times[road] for road in incoming_roads}
+        self._previous_lane_waiting_times = aggregated_waiting_times
+
+        return delta_waiting_times
+    
 
     def _get_queue_length(self):
         """
@@ -211,6 +242,19 @@ class Simulation:
         
         return queue_length
 
+    def _get_queue_length_per_lane(self):
+        halt_N = traci.edge.getLastStepHaltingNumber("N_in")
+        halt_S = traci.edge.getLastStepHaltingNumber("S_in")
+        halt_E = traci.edge.getLastStepHaltingNumber("E_in")
+        halt_W = traci.edge.getLastStepHaltingNumber("W_in")
+
+        queue_lengths_per_lane={
+            "N_in": halt_N,
+            "S_in": halt_S,
+            "E_in": halt_E,
+            "W_in": halt_W,
+        }
+        return queue_lengths_per_lane
 
     def optimize_model(self):
 
@@ -226,6 +270,10 @@ class Simulation:
                                             batch.next_state)), device=device, dtype=torch.bool)
         non_final_next_states = torch.cat([s for s in batch.next_state if s is not None]).view(-1,3,16,100).to(device)
         # non_final_next_states = torch.cat([torch.tensor(s, dtype=torch.float).unsqueeze(0) for s in batch.next_state if s is not None]).to(device)
+        
+        for state in batch.state:
+            print(torch.tensor(state).size())
+
 
         state_batch = torch.cat(batch.state).view(BATCH_SIZE,3,16,100).to(device)
         # state_batch = torch.cat([torch.tensor(s, dtype=torch.float).unsqueeze(0) for s in batch.state]).to(device)
@@ -238,6 +286,7 @@ class Simulation:
 
         with torch.no_grad():
             next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+       
         # 기대 Q 값 계산
         q_target = (next_state_values * GAMMA) + reward_batch
 
@@ -251,10 +300,46 @@ class Simulation:
         self.optimizer.step()
 
         self.loss_history.append(loss.item())
+       
         #update the parameters
         if self.learn_step_counter % Q_NETWORK_ITERATION ==0:
             self.target_net.load_state_dict(self.policy_net.state_dict())
         self.learn_step_counter+=1
+
+    def _reward(self):
+        w_1=10
+        w_2=10
+        w_3=10
+
+        current_total_waiting_time=self._collect_waiting_times()
+        delta_waiting_time=current_total_waiting_time-self._previous_total_waiting_time
+        self._previous_total_waiting_time=current_total_waiting_time
+        queue_length=self._reward_queue_length
+
+        avg_waiting_time=1000
+        avg_queue_length=1000
+
+        each_waiting_time_for_fairness=self._collect_waiting_times_per_lane()
+        each_queue_length_for_fairness=self._get_queue_length_per_lane()
+        waiting_time_fairness=self.calculate_fairness_index(list(each_waiting_time_for_fairness.values()))
+        queue_length_fairness=self.calculate_fairness_index(list(each_queue_length_for_fairness.values()))
+
+        reward=-(w_1*delta_waiting_time/avg_waiting_time+w_2*queue_length/avg_queue_length+w_3*(w_1/(w_1+w_2)*waiting_time_fairness+ w_2/(w_1+w_2)*queue_length_fairness))
+        return reward
+    
+
+    def calculate_fairness_index(self,values):
+        if not values:
+            return 1.0
+        square_of_sums=np.square(np.sum(values))
+        sum_of_squares=np.sum(np.square(values))
+        if sum_of_squares > 0:
+            return square_of_sums/(len(values)*sum_of_squares) 
+        else:
+            return 1
+
+    
+
 
     @property
     def queue_length_store(self):
@@ -262,3 +347,4 @@ class Simulation:
     @property
     def loss_store(self):
         return self.loss_history
+    
