@@ -27,7 +27,7 @@ if __name__ == "__main__":
 
 #################################################################
     sumocfg_file_name = "cross.sumocfg"
-    gui = False  # Change to False if you don't want the GUI
+    gui = True  # Change to False if you don't want the GUI
     max_steps=3600
     sumo_cmd = set_sumo(gui, sumocfg_file_name, max_steps)
     path=set_train_path('plot')

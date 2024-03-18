@@ -61,22 +61,26 @@ class Simulation:
     def run(self,episode,epsilon):
         self._Cargenerator.generate_car(seed=episode) # car generation
         traci.start(self._sumo_cmd)
+        self._sum_queue_length = 0
         print("Simulating")
-
+        print("cur sum of queue: ")
+        print(self._sum_queue_length)
         # inits
         self._step=0
         self._waiting_times = {}
-        self._sum_queue_length = 0
-        self._sum_waiting_time = 0
+        # self._sum_queue_length = 0
+        # self._sum_waiting_time = 0
         old_state = -1
         old_action_number=-1
         
         while self._step < self._max_steps:
-            
-            self._reward_queue_length=0 # queue length for reward
+            # self._sum_queue_length = 0
+            print("현재 step : ")
+            print(self._step)
+            self._reward_queue_length = 0 # queue length for reward
 
             ############# get state ##################
-            current_state=self._get_state()                  
+            current_state = self._get_state()                  
             ##########################################
 
             ############# reward & memory push #######
@@ -93,7 +97,7 @@ class Simulation:
             df3.to_csv('./intersection/generate_waiting_time.csv')
 
             ############ action select ##############
-            action_to_do=self._choose_action(current_state,epsilon)
+            action_to_do = self._choose_action(current_state,epsilon)
         
             if self._step != 0 and old_action_number != action_to_do:
                 self._set_yellow_phase(old_action_number)
@@ -103,14 +107,16 @@ class Simulation:
             self._simulate(duration)
             ###########################################
 
-            
             old_state=current_state
             old_action_number=action_to_do
-
+            print("cur sum of queue: ")
+            print(self._sum_queue_length)
         
 
-        print("epsilon",round(epsilon,2))
+        print("epsilon",round(epsilon, 2))
         self.optimize_model()        
+        print("cur sum of queue: ")
+        print(self._sum_queue_length)
         self._queue_length_per_episode.append(self._sum_queue_length)
         
         traci.close()
@@ -181,8 +187,10 @@ class Simulation:
         """
         if (self._step + steps_todo) >= self._max_steps:  # do not do more steps than the maximum allowed number of steps
             steps_todo = self._max_steps - self._step
-
         while steps_todo > 0:
+            self.queue_length = 0
+            # self._sum_queue_length = 0
+            # self._reward_queue_length = 0
             traci.simulationStep()  # simulate 1 step in sumo
             self._step += 1 # update the step counter
             steps_todo -= 1
@@ -229,11 +237,14 @@ class Simulation:
 
         return delta_waiting_times
     
-
+    def _reset_queue_length(self):
+        self._queue_length_per_episode = []
+        
     def _get_queue_length(self):
         """
         Retrieve the number of cars with speed = 0 in every incoming lane
         """
+        queue_length = 0
         halt_N = traci.edge.getLastStepHaltingNumber("N_in")
         halt_S = traci.edge.getLastStepHaltingNumber("S_in")
         halt_E = traci.edge.getLastStepHaltingNumber("E_in")
@@ -307,9 +318,9 @@ class Simulation:
         self.learn_step_counter+=1
 
     def _reward(self):
-        w_1=10
-        w_2=10
-        w_3=10
+        w_1 = 1/3
+        w_2 = 1/3
+        w_3 = 1/3
 
         current_total_waiting_time=self._collect_waiting_times()
         delta_waiting_time=current_total_waiting_time-self._previous_total_waiting_time
@@ -324,7 +335,9 @@ class Simulation:
         waiting_time_fairness=self.calculate_fairness_index(list(each_waiting_time_for_fairness.values()))
         queue_length_fairness=self.calculate_fairness_index(list(each_queue_length_for_fairness.values()))
 
-        reward=-(w_1*delta_waiting_time/avg_waiting_time+w_2*queue_length/avg_queue_length+w_3*(w_1/(w_1+w_2)*waiting_time_fairness+ w_2/(w_1+w_2)*queue_length_fairness))
+        reward = -(w_1*(delta_waiting_time/avg_waiting_time) + w_2*(queue_length/avg_queue_length) + w_3*(w_1/(w_1+w_2)*waiting_time_fairness+ w_2/(w_1+w_2)*queue_length_fairness))
+        print("reward: ")
+        print(reward)
         return reward
     
 
@@ -339,7 +352,6 @@ class Simulation:
             return 1
 
     
-
 
     @property
     def queue_length_store(self):
