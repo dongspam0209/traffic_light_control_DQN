@@ -58,7 +58,7 @@ class Simulation:
         self.loss_history=[]
         self.plot_waiting_time=[]
         # reward variables
-       
+        self._cumulative_queue_lengths_per_lane=[]
         self.plot_queue_length=0
 
     def run(self,episode,epsilon):
@@ -216,7 +216,7 @@ class Simulation:
             traci.simulationStep()  # simulate 1 step in sumo
             current_state=self._get_state()
             sum_velocity+=current_state[1]
-            car_presence += (current_state[0]>0)
+            car_presence += (np.array(current_state[0])>0)
             self._step += 1 # update the step counter
             steps_todo -= 1
 
