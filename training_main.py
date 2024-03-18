@@ -27,7 +27,7 @@ if __name__ == "__main__":
 
 #################################################################
     sumocfg_file_name = "cross.sumocfg"
-    gui = False  # Change to False if you don't want the GUI
+    gui = True  # Change to False if you don't want the GUI
     max_steps=3600
     sumo_cmd = set_sumo(gui, sumocfg_file_name, max_steps)
     path=set_train_path('plot')
@@ -70,10 +70,16 @@ if __name__ == "__main__":
         print(f'episode {episode}')
         epsilon=1.0-(episode/total_episode)
         Simulation.run(episode,epsilon)
+        print(f'queue length in epsiode {episode}',Simulation.queue_length_store[episode])
+        print(f'loss in epsiode {episode}',Simulation.loss_store[episode])
+        print(f'wait time in epsiode {episode}',Simulation.wait_time_store[episode])
         episode += 1
+
+
 
     Visualization.save_data_and_plot(data=Simulation.queue_length_store,filename='queue',xlabel='Episode',ylabel='queue length')
     Visualization.save_data_and_plot(data=Simulation.loss_store,filename='loss',xlabel='Episode',ylabel='loss')
+    Visualization.save_data_and_plot(data=Simulation.wait_time_store,filename='wait_time_episode',xlabel='Episode',ylabel='wait_time')
 
 
  

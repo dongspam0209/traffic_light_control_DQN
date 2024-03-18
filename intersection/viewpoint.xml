@@ -1,3 +1,5 @@
 <viewsettings>
-    <viewport zoom="636.36" x="514.09" y="500.73" angle="0.00"/>
+    <scheme name="real world"/>
+    <viewport zoom="847" x="717.24" y="684.76" z="166.612" angle="0.00"/>
+    <delay value="5"/>
 </viewsettings>
