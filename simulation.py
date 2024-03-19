@@ -67,25 +67,29 @@ class Simulation:
         print("Simulating")
 
         # inits
-        self._step=0
+        self._step = 0
         old_state = -1
         old_action_number=-1
-        self._reward_queue_length=0 # queue length for reward
+        self._reward_queue_length = 0 # queue length for reward
         
         self.total_wait_time_this_episode=0
         self.waiting_time_between_action=0
         self.waiting_time_between_action_per_lane=[0,0,0,0]
         waiting_time_difference=np.zeros((16,100))
-
+        self.plot_queue_length = 0
+        print("현재 에피소드의 큐 길이: ", self.plot_queue_length)
+        print("현재 에피소드의 waiting time: ",self.total_wait_time_this_episode)
         while self._step < self._max_steps:
-            
+            print("현재 step은 : ")
+            print(self._step)
+            print("\n###################\n")
             ############# get state ##################
             current_state=self._get_state()
             ##########################################
             ############## plot waiting time in one episode ###################
             for lane_group in range (16):
                 for lane_cell in range (100):
-                    self.total_wait_time_this_episode+=current_state[2][lane_group][lane_cell]
+                    self.total_wait_time_this_episode += current_state[2][lane_group][lane_cell]
             ###################################################################
             ############## calculate waiting time gradient between actions###########
             if self._step != 0:
@@ -101,8 +105,10 @@ class Simulation:
             n_in_sum=waiting_time_df.filter(like='N_in_').astype(float).sum(axis=1).sum()
             e_in_sum=waiting_time_df.filter(like='E_in_').astype(float).sum(axis=1).sum()
 
-            self.waiting_time_between_action_per_lane=[w_in_sum,s_in_sum,n_in_sum,e_in_sum]
-            self.waiting_time_between_action=w_in_sum+s_in_sum+n_in_sum+e_in_sum
+            self.waiting_time_between_action_per_lane = [w_in_sum,s_in_sum,n_in_sum,e_in_sum]
+            self.waiting_time_between_action = w_in_sum + s_in_sum + n_in_sum + e_in_sum
+            print("보상에 들어갈 waiting_time의 값: ", self.waiting_time_between_action)
+            
             #########################################################################
 
             ############# reward & memory push #######
@@ -128,14 +134,14 @@ class Simulation:
             self._simulate(duration)
             ###########################################
 
-            
             old_state=current_state
             old_action_number=action_to_do
 
-        self.plot_waiting_time.append(self.total_wait_time_this_episode/self._step)
-        self._queue_length_per_episode.append(self.plot_queue_length/3600)
+        self.plot_waiting_time.append(self.total_wait_time_this_episode / self._step)
+        self._queue_length_per_episode.append(self.plot_queue_length / self._step)
 
         print("epsilon",round(epsilon,2))
+        print("큐 길이: ", self._queue_length_per_episode)
         self.optimize_model()        
        
         
@@ -156,7 +162,7 @@ class Simulation:
                 if lane_id==lane[idx]:
                     lane_group=idx
 
-            state[0][lane_group][lane_cell]=1 # cell occupied
+            state[0][lane_group][lane_cell] = 1 # cell occupied
             state[1][lane_group][lane_cell]=traci.vehicle.getSpeed(veh_id) # vehicle velocity
             state[2][lane_group][lane_cell]=traci.vehicle.getAccumulatedWaitingTime(veh_id) # waiting time
 
@@ -194,10 +200,11 @@ class Simulation:
         """
         state_tensor=torch.tensor([state],device=device,dtype=torch.float)
         if random.random() < epsilon:
+            print("탐험중임")
             return random.randint(0, self._num_actions - 1) # random action
         else:
             with torch.no_grad():
-
+                print("탐험안함")
                 return self.policy_net(state_tensor).max(1)[1].item() # the best action given the current state    
 
     def _simulate(self, steps_todo):
@@ -214,8 +221,8 @@ class Simulation:
         
         while steps_todo > 0:
             traci.simulationStep()  # simulate 1 step in sumo
-            current_state=self._get_state()
-            sum_velocity+=current_state[1]
+            current_state = self._get_state()
+            sum_velocity += current_state[1]
             car_presence += (np.array(current_state[0])>0)
             self._step += 1 # update the step counter
             steps_todo -= 1
@@ -229,11 +236,19 @@ class Simulation:
         halted_vehicles_per_lane = []
 
         for direction in ['W_in_', 'S_in_', 'N_in_', 'E_in_']:
-            halted_count = ((average_velocity_df.filter(like=direction) <= 0.1) & car_presence_df.filter(like=direction)).sum().sum()
-            halted_vehicles_per_lane.append(halted_count)
+            halted_count = ((average_velocity_df.filter(like=direction) <= 0.1) & car_presence_df.filter(like=direction)).sum()
+            print(halted_count)
+            halted_vehicles_per_lane.append(sum(halted_count))
+            print(halted_vehicles_per_lane)
 
-        self._cumulative_queue_lengths_per_lane=halted_vehicles_per_lane
-        self._reward_queue_length=sum(halted_vehicles_per_lane)
+        self._cumulative_queue_lengths_per_lane = halted_vehicles_per_lane
+        print("현재 queue sum : ")
+        print(sum(halted_vehicles_per_lane))
+        print("누적 queue sum : ")
+        self._reward_queue_length = sum(halted_vehicles_per_lane)
+        self.plot_queue_length += sum(halted_vehicles_per_lane)
+        print(self.plot_queue_length)
+        
 
     def _calculate_waiting_time_difference(self, current_state, old_state):
         waiting_time_difference = np.zeros((16, 100))  # Initialize waiting time difference array
@@ -243,6 +258,13 @@ class Simulation:
             for lane_cell in range(100):
                 # Calculate waiting time difference for each cell
                 waiting_time_difference[lane_group][lane_cell] = current_state[2][lane_group][lane_cell] - old_state[2][lane_group][lane_cell]
+                if (current_state[2][lane_group][lane_cell] - old_state[2][lane_group][lane_cell] < 0): waiting_time_difference[lane_group][lane_cell] = 0
+                #print("이전 시간: ", old_state[2][lane_group][lane_cell])
+                #print("현재 시간: ", old_state[2][lane_group][lane_cell])
+                #if (current_state[2][lane_group][lane_cell] - old_state[2][lane_group][lane_cell] < 0): 
+                   # print(current_state[2][lane_group][lane_cell] - old_state[2][lane_group][lane_cell])
+                  #  waiting_time_difference[lane_group][lane_cell] = 0
+                # if (current_state[2][lane_group][lane_cell] - old_state[2][lane_group][lane_cell] < 0): waiting_time_difference[lane_group][lane_cell] = 0
 
         return waiting_time_difference
     
@@ -314,7 +336,7 @@ class Simulation:
         delta_waiting_time=self.waiting_time_between_action
         queue_length=self._reward_queue_length
 
-        avg_waiting_time=300
+        avg_waiting_time=30000
         avg_queue_length=1000
 
         each_waiting_time_for_fairness=self.waiting_time_between_action_per_lane
@@ -322,7 +344,8 @@ class Simulation:
         waiting_time_fairness=self.calculate_fairness_index(each_waiting_time_for_fairness)
         queue_length_fairness=self.calculate_fairness_index(each_queue_length_for_fairness)
 
-        reward=-(w_1*delta_waiting_time/avg_waiting_time+w_2*queue_length/avg_queue_length+w_3*(w_1/(w_1+w_2)*waiting_time_fairness+ w_2/(w_1+w_2)*queue_length_fairness))
+        reward=-(w_1*delta_waiting_time/avg_waiting_time + w_2*queue_length/avg_queue_length+w_3*(w_1/(w_1+w_2)*waiting_time_fairness+ w_2/(w_1+w_2)*queue_length_fairness))
+        
         return reward
     
     # fairness index 0~1
@@ -346,3 +369,4 @@ class Simulation:
     @property
     def wait_time_store(self):
         return self.plot_waiting_time
+    

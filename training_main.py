@@ -9,7 +9,7 @@ from replay import ReplayMemory
 
 from visualization import Visualization
 ################################################################
-total_episode=1000
+total_episode=100
 n_cars_generated=1000
 
 num_states=(3,16,100)

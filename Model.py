@@ -4,7 +4,7 @@ import torch.nn.functional as F
 class DQN(nn.Module):
     def __init__(self, n_states, n_actions):
         super(DQN, self).__init__()
-        self.conv1 = nn.Conv2d(3, 16, kernel_size=(3, 3), stride=1, padding=1)
+        self.conv1 = nn.Conv2d(n_states[0], 16, kernel_size=(3, 3), stride=1, padding=1)
         self.conv2 = nn.Conv2d(16, 32, kernel_size=(3, 3), stride=1, padding=1)
         
 
