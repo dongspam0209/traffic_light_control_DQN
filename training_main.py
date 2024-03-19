@@ -6,10 +6,11 @@ from environment.traffic_signal import TrafficSignal
 from Model import DQN
 import traci
 from replay import ReplayMemory
+import wandb
 
 from visualization import Visualization
 ################################################################
-total_episode=100
+total_episode=50
 n_cars_generated=1000
 
 num_states=(3,16,100)
@@ -20,7 +21,18 @@ green_duration=8
 green_turn_duration=4
 memory_capacity=1000
 
-
+wandb.init(
+    # set the wandb project where this run will be logged
+    project="tlsc-project",
+    
+    # track hyperparameters and run metadata
+    config={
+    "learning_rate": 0.0001,
+    "architecture": "DQN",
+    "dataset": "CIFAR-100",
+    "epochs": 10000,
+    }
+)
 ################################################################
 
 if __name__ == "__main__":
@@ -69,6 +81,7 @@ if __name__ == "__main__":
     while episode < total_episode:
         print(f'episode {episode}')
         epsilon=1.0-(episode/total_episode)
+        #epsilon = 0.1
         Simulation.run(episode,epsilon)
         print(f'queue length in epsiode {episode}',Simulation.queue_length_store[episode])
         print(f'loss in epsiode {episode}',Simulation.loss_store[episode])
