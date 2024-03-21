@@ -20,7 +20,7 @@ class CarGenerator:
         # only one way is selected, that way follows normal distribution to describe commuting time
 
         gaussian_distribution_routes=[["W_to_E", "W_to_S","W_to_N"],["E_to_W", "E_to_S","E_to_N"],["S_to_W", "S_to_N","S_to_E"],["N_to_W", "N_to_S","N_to_E"]]
-        np.random.shuffle(gaussian_distribution_routes)
+        # np.random.shuffle(gaussian_distribution_routes)
         
         gaussian_distribution_route_1=gaussian_distribution_routes[0]
         gaussian_distribution_route_2=gaussian_distribution_routes[1]
