@@ -1,25 +1,34 @@
 import pandas as pd
-import numpy as np
 
-lane=["W_in_0","W_in_1","W_in_2","W_in_3","N_in_0","N_in_1","N_in_2","N_in_3",
-    "E_in_0","E_in_1","E_in_2","E_in_3","S_in_0","S_in_1","S_in_2","S_in_3"]
+df1=pd.read_csv('generate_exist.csv',encoding='utf-8')
+df2=pd.read_csv('generate_velocity.csv',encoding='utf-8')
 
-df1=pd.read_csv('generate_exist.csv').transpose()
-df2=pd.read_csv('generate_velocity.csv').transpose()
+df1=df1.transpose()
+df2=df2.transpose()
+df1.columns=df1.iloc[0]
+df2.columns=df2.iloc[0]
+df1=df1[1:]
+df2=df2[1:]
 
-car_presence=np.zeros((16,100))
-car_presence += (df2[0]>0)
+# print(df1)
+# print(df2)
+queue_length_sum_per_lane_list=[]
+# 각 방향에 대해 집계
+for direction in ['W_in', 'N_in', 'E_in', 'S_in']:
+    # _0 lane - 차량 존재하고, 속도가 0.1보다 작은 경우 count
+    halted_count = ((df1[direction + '_0'] == 1) & (df2[direction + '_0'] <= 0.1)).sum()
+    queue_length_sum_per_lane_list.append(halted_count)
+    
+    # else lanes - 차량 존재하고, 속도가 0.1보다 작은 경우 count
+    # 각 차선에 대해 조건 적용 후 sum
+    halted_count_else = sum(
+        ((df1[direction + '_' + str(i)] == 1) & (df2[direction + '_' + str(i)] <= 0.1)).sum()
+        for i in range(1, 4)
+    )
+    queue_length_sum_per_lane_list.append(halted_count_else)
 
-car_presence_boolean=car_presence>0
+queue_len_per_lane=queue_length_sum_per_lane_list
+reward_queue_length=sum(queue_length_sum_per_lane_list)
 
-car_presence_df=pd.DataFrame(car_presence_boolean,index=lane).transpose()
-
-
-halted_vehicles_per_lane = []
-
-for direction in ['W_in_', 'S_in_', 'N_in_', 'E_in_']:
-        halted_count = ((df2.filter(like=direction) <= 0.1) & df1.filter(like=direction)).sum().sum()
-        halted_vehicles_per_lane.append(halted_count)
-
-
-print(halted_vehicles_per_lane)
+print(queue_len_per_lane)
+print(reward_queue_length)

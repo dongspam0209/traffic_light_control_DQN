@@ -10,7 +10,7 @@ import wandb
 
 from visualization import Visualization
 ################################################################
-total_episode=50
+total_episode=1000
 n_cars_generated=1000
 
 num_states=(3,16,100)
@@ -39,7 +39,7 @@ if __name__ == "__main__":
 
 #################################################################
     sumocfg_file_name = "cross.sumocfg"
-    gui = True  # Change to False if you don't want the GUI
+    gui = False  # Change to False if you don't want the GUI
     max_steps=3600
     sumo_cmd = set_sumo(gui, sumocfg_file_name, max_steps)
     path=set_train_path('plot')
@@ -75,17 +75,27 @@ if __name__ == "__main__":
         path,
         dpi=96
     )
+
     episode=0
 
 
     while episode < total_episode:
         print(f'episode {episode}')
         epsilon=1.0-(episode/total_episode)
-        #epsilon = 0.1
         Simulation.run(episode,epsilon)
         print(f'queue length in epsiode {episode}',Simulation.queue_length_store[episode])
         print(f'loss in epsiode {episode}',Simulation.loss_store[episode])
         print(f'wait time in epsiode {episode}',Simulation.wait_time_store[episode])
+
+        # wandb
+        wandb.log({
+                "episode": episode,
+                "queue length": Simulation.queue_length_store[episode],
+                "loss": Simulation.loss_store[episode],
+                "wait time": Simulation.wait_time_store[episode],
+                "reward": Simulation.reward_store[episode]
+
+        })
         episode += 1
 
 

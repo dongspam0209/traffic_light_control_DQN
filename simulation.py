@@ -6,7 +6,6 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 from replay import Experience
-from typing import List
 ###################################################################
 # hyper-parameters
 BATCH_SIZE = 128
@@ -55,75 +54,102 @@ class Simulation:
 
         # plot variables
         self._queue_length_per_episode=[]
+
+        self._waiting_time_per_episode=[]
+
+        self.reward_per_epsiode=[]
         self.loss_history=[]
-        self.plot_waiting_time=[]
-        # reward variables
-        self._cumulative_queue_lengths_per_lane=[]
-        self.plot_queue_length=0
-        self._previous_total_waiting_time=0
-        self._previous_lane_waiting_times = {"E_in": 0, "N_in": 0, "W_in": 0, "S_in": 0}
+
+        
 
     def run(self,episode,epsilon):
         self._Cargenerator.generate_car(seed=episode) # car generation
         traci.start(self._sumo_cmd)
         print("Simulating")
 
+        # plot variables
+        self.plot_queue_length=0
+        self.plot_wait_time=0
+        self.plot_reward=0
+
+        # reward variables
+        self.queue_len_per_lane=[]
+        self._reward_queue_length = 0 # queue length for reward
+
+        self.wait_times_per_lane=[]
+        self._reward_wait_time=0
+
         # inits
         self._step = 0
         old_state = -1
         old_action_number=-1
-        self._reward_queue_length = 0 # queue length for reward
-        
-        self.total_wait_time_this_episode=0
-        self.waiting_time_between_action=0
-        self.waiting_time_between_action_per_lane=[0,0,0,0]
-        waiting_time_difference=np.zeros((16,100))
-        self.plot_queue_length = 0
-        #print("현재 에피소드의 큐 길이: ", self.plot_queue_length)
-        #print("현재 에피소드의 waiting time: ",self.total_wait_time_this_episode)
+        old_total_wait=0
+        print("현재 에피소드의 큐 길이: ", self.plot_queue_length)
+        print("현재 에피소드의 waiting time: ",self.plot_wait_time)
+
         while self._step < self._max_steps:
-            print("현재 step은 : ", self._step)
-            print("\n###################\n")
+            # print("현재 step은 : ", self._step)
+            # print("\n###################\n")
             ############# get state ##################
             current_state=self._get_state()
-            ##########################################
-            ############## plot waiting time in one episode ###################
-            for lane_group in range (16):
-                for lane_cell in range (100):
-                    self.total_wait_time_this_episode += current_state[2][lane_group][lane_cell]
-            ###################################################################
-            ############## calculate waiting time gradient between actions###########
-            if self._step != 0:
-                waiting_time_difference = self._calculate_waiting_time_difference(current_state, old_state)
-            # waiting_time_difference =(16,100)
-            waiting_time_df=pd.DataFrame(waiting_time_difference,index=lane)
-            waiting_time_df=np.transpose(waiting_time_df)
-            waiting_time_df.to_csv('./intersection/waiting_time_difference.csv')
-
-            # waiting_time per lane
-            w_in_sum=waiting_time_df.filter(like='W_in_').astype(float).sum(axis=1).sum()
-            s_in_sum=waiting_time_df.filter(like='S_in_').astype(float).sum(axis=1).sum()
-            n_in_sum=waiting_time_df.filter(like='N_in_').astype(float).sum(axis=1).sum()
-            e_in_sum=waiting_time_df.filter(like='E_in_').astype(float).sum(axis=1).sum()
-
-            self.waiting_time_between_action_per_lane = [w_in_sum,s_in_sum,n_in_sum,e_in_sum]
-            self.waiting_time_between_action = w_in_sum + s_in_sum + n_in_sum + e_in_sum
-            print("보상에 들어갈 waiting_time의 값: ", self.waiting_time_between_action)
-            
-            #########################################################################
-
-            ############# reward & memory push #######
-            reward=self._reward()
-            if self._step != 0:
-                self._ReplayMemory.push(old_state, old_action_number,current_state,reward)
-            ###########################################
-
             df1=pd.DataFrame(current_state[0],index=lane)
             df1.to_csv('./intersection/generate_exist.csv')
             df2=pd.DataFrame(current_state[1],index=lane)
             df2.to_csv('./intersection/generate_velocity.csv')
             df3=pd.DataFrame(current_state[2],index=lane)
             df3.to_csv('./intersection/generate_waiting_time.csv')
+
+            ########## waiting time calculate ###############
+            df3=df3.transpose()
+            wait_time_sum_per_lane_list=[]
+            # 각 방향에 대해 집계
+            for direction in ['W_in', 'N_in', 'E_in', 'S_in']:
+                # W_in_0
+                wait_time_sum_per_lane_list.append(df3[direction + '_0'].sum())
+                
+                # else lanes
+                sum_123 = df3[[direction + '_1', direction + '_2', direction + '_3']].sum().sum()
+                wait_time_sum_per_lane_list.append(sum_123)
+
+            self.wait_times_per_lane=wait_time_sum_per_lane_list
+            current_total_wait=sum(wait_time_sum_per_lane_list)
+            self._reward_wait_time=current_total_wait-old_total_wait
+            #################################################
+            ########## queue_length calculate ###############
+            df1=df1.transpose()
+            df2=df2.transpose()
+            queue_length_sum_per_lane_list=[]
+            # 각 방향에 대해 집계
+            for direction in ['W_in', 'N_in', 'E_in', 'S_in']:
+                # _0 lane - 차량 존재하고, 속도가 0.1보다 작은 경우 count
+                halted_count = ((df1[direction + '_0'] == 1) & (df2[direction + '_0'] <= 0.1)).sum()
+                queue_length_sum_per_lane_list.append(halted_count)
+                
+                # else lanes - 차량 존재하고, 속도가 0.1보다 작은 경우 count
+                # 각 차선에 대해 조건 적용 후 sum
+                halted_count_else = sum(
+                    ((df1[direction + '_' + str(i)] == 1) & (df2[direction + '_' + str(i)] <= 0.1)).sum()
+                    for i in range(1, 4)
+                )
+                queue_length_sum_per_lane_list.append(halted_count_else)
+
+            self.queue_len_per_lane=queue_length_sum_per_lane_list
+            self._reward_queue_length=sum(queue_length_sum_per_lane_list)
+            self.plot_queue_length+=self._reward_queue_length
+            #################################################
+            ############## to plot waiting time in one episode (total sum of waiting time in whole one episode ###################
+            for lane_group in range (16):
+                for lane_cell in range (100):
+                    self.plot_wait_time += current_state[2][lane_group][lane_cell]
+
+            #######################################################################################################################
+
+            ############# reward & memory push #######
+            reward=self._reward()
+            self.plot_reward+=reward
+            if self._step != 0:
+                self._ReplayMemory.push(old_state, old_action_number,current_state,reward)
+            ###########################################
 
             ############ action select ##############
             action_to_do=self._choose_action(current_state,epsilon)
@@ -137,13 +163,16 @@ class Simulation:
 
             old_state=current_state
             old_action_number=action_to_do
+            old_total_wait=current_total_wait
+            self.optimize_model()        
 
-        self.plot_waiting_time.append(self.total_wait_time_this_episode / self._step)
+
+        self.reward_per_epsiode.append(self.plot_reward/self._step)
+        self._waiting_time_per_episode.append(self.plot_wait_time / self._step)
         self._queue_length_per_episode.append(self.plot_queue_length / self._step)
 
         print("epsilon",round(epsilon,2))
-        print("큐 길이: ", self._queue_length_per_episode)
-        self.optimize_model()        
+        # print("큐 길이: ", self._queue_length_per_episode)
        
         
         traci.close()
@@ -152,12 +181,15 @@ class Simulation:
         state=np.zeros((3,16,100))
         vehicle_list=traci.vehicle.getIDList()
         lane_group=0
-
+        # print(len(vehicle_list))
+        # print('get state')
         for veh_id in vehicle_list:
             lane_position = traci.vehicle.getLanePosition(veh_id) # car position in lane
             lane_id=traci.vehicle.getLaneID(veh_id) # -> lane
+            # print(lane_id)
             lane_position=700-lane_position # traffic light ~> max len of road 0~700
             lane_cell= int(lane_position/7) # 7m : hegiht of the cell
+            lane_cell=min(lane_cell,99)
 
             for idx in range(len(lane)):
                 if lane_id==lane[idx]:
@@ -201,11 +233,11 @@ class Simulation:
         """
         state_tensor=torch.tensor([state],device=device,dtype=torch.float)
         if random.random() < epsilon:
-            print("탐험중임. 현재 값: ", random.random())
+            # print("탐험중임. 현재 값: ", random.random())
             return random.randint(0, self._num_actions - 1) # random action
         else:
             with torch.no_grad():
-                print("탐험 안 함 : ", random.random())
+                # print("탐험 안 함 : ", random.random())
                 return self.policy_net(state_tensor).max(1)[1].item() # the best action given the current state    
 
     def _simulate(self, steps_todo):
@@ -214,91 +246,13 @@ class Simulation:
         """
         if (self._step + steps_todo) >= self._max_steps:  # do not do more steps than the maximum allowed number of steps
             steps_todo = self._max_steps - self._step
-        
-        discount_factor=max(steps_todo,1)
-        
-        sum_velocity=np.zeros((16,100))
-        car_presence=np.zeros((16,100))
-        
+
         while steps_todo > 0:
             traci.simulationStep()  # simulate 1 step in sumo
-            current_state = self._get_state()
-            sum_velocity += current_state[1]
-            car_presence += (np.array(current_state[0])>0)
             self._step += 1 # update the step counter
             steps_todo -= 1
 
-        average_velocity=sum_velocity/discount_factor
-        car_presence_boolean=car_presence>0
-
-        average_velocity_df=pd.DataFrame(average_velocity,index=lane).transpose()
-        car_presence_df=pd.DataFrame(car_presence_boolean,index=lane).transpose()
-
-        halted_vehicles_per_lane = []
-
-        for direction in ['W_in_', 'S_in_', 'N_in_', 'E_in_']:
-            halted_count = ((average_velocity_df.filter(like=direction) <= 0.1) & car_presence_df.filter(like=direction)).sum()
-            #print(halted_count)
-            halted_vehicles_per_lane.append(sum(halted_count))
-            #print(halted_vehicles_per_lane)
-
-        self._cumulative_queue_lengths_per_lane = halted_vehicles_per_lane
-        print("현재 queue sum : ")
-        print(sum(halted_vehicles_per_lane))
-        print("누적 queue sum : ")
-        self._reward_queue_length = sum(halted_vehicles_per_lane)
-        self.plot_queue_length += sum(halted_vehicles_per_lane)
-        print(self.plot_queue_length)
         
-    def _collect_waiting_times(self):
-        """
-        Retrieve the waiting time of every car in the incoming roads
-        """
-        incoming_roads = ["E_in", "N_in", "W_in", "S_in"]
-        
-        car_list = traci.vehicle.getIDList()
-        for car_id in car_list:
-            wait_time = traci.vehicle.getAccumulatedWaitingTime(car_id)
-            road_id = traci.vehicle.getRoadID(car_id)  # get the road id where the car is located
-            if road_id in incoming_roads:  # consider only the waiting times of cars in incoming roads
-                self._waiting_times[car_id] = wait_time
-            else:
-                if car_id in self._waiting_times: # a car that was tracked has cleared the intersection
-                    del self._waiting_times[car_id] 
-
-        total_waiting_time = sum(self._waiting_times.values())
-        return total_waiting_time
-
-    def _collect_waiting_times_per_lane(self):
-        incoming_roads = ["E_in", "N_in", "W_in", "S_in"]
-        lane_waiting_times = {road: [] for road in incoming_roads}
-        car_list = traci.vehicle.getIDList()
-
-        for car_id in car_list:
-            wait_time = traci.vehicle.getAccumulatedWaitingTime(car_id)
-            road_id = traci.vehicle.getRoadID(car_id)  
-
-            if road_id in incoming_roads:
-                lane_waiting_times[road_id].append(wait_time)
-
-        aggregated_waiting_times = {road: sum(times) for road, times in lane_waiting_times.items()}
-        delta_waiting_times = {road: aggregated_waiting_times[road] - self._previous_lane_waiting_times[road] for road in incoming_roads}
-        self._previous_lane_waiting_times = aggregated_waiting_times
-
-        return delta_waiting_times
-    
-    def _calculate_waiting_time_difference(self, current_state, old_state):
-        waiting_time_difference = np.zeros((16, 100)) 
-
-        # Iterate over each lane group and lane cell
-        for lane_group in range(16):
-            for lane_cell in range(100):
-                # Calculate waiting time difference for each cell
-                waiting_time_difference[lane_group][lane_cell] = current_state[2][lane_group][lane_cell] - old_state[2][lane_group][lane_cell]
-                if (current_state[2][lane_group][lane_cell] - old_state[2][lane_group][lane_cell] < 0): waiting_time_difference[lane_group][lane_cell] = 0
-
-        return waiting_time_difference
-    
 
     def optimize_model(self):
 
@@ -346,22 +300,22 @@ class Simulation:
         self.learn_step_counter+=1
 
     def _reward(self):
-        w_1=0
-        w_2=1
-        w_3=0
+        w_1=1/3
+        w_2=1/3
+        w_3=1/3
 
-        delta_waiting_time=self.waiting_time_between_action
+        waiting_time=self._reward_wait_time
         queue_length=self._reward_queue_length
 
-        avg_waiting_time=30000
-        avg_queue_length=1000
+        avg_waiting_time=80
+        avg_queue_length=1
 
-        each_waiting_time_for_fairness=self.waiting_time_between_action_per_lane
-        each_queue_length_for_fairness=self._cumulative_queue_lengths_per_lane
+        each_waiting_time_for_fairness=self.wait_times_per_lane
+        each_queue_length_for_fairness=self.queue_len_per_lane
         waiting_time_fairness=self.calculate_fairness_index(each_waiting_time_for_fairness)
         queue_length_fairness=self.calculate_fairness_index(each_queue_length_for_fairness)
 
-        reward=-(w_1*delta_waiting_time/avg_waiting_time + w_2*queue_length/avg_queue_length+w_3*(w_1/(w_1+w_2)*waiting_time_fairness+ w_2/(w_1+w_2)*queue_length_fairness))
+        reward=-(w_1*waiting_time/avg_waiting_time + w_2*queue_length/avg_queue_length+w_3*(w_1/(w_1+w_2)*waiting_time_fairness+ w_2/(w_1+w_2)*queue_length_fairness))
         
         return reward
     
@@ -385,5 +339,9 @@ class Simulation:
         return self.loss_history
     @property
     def wait_time_store(self):
-        return self.plot_waiting_time
+        return self._waiting_time_per_episode
+    
+    @property
+    def reward_store(self):
+        return self.reward_per_epsiode
     
