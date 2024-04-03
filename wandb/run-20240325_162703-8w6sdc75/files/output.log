@@ -1,0 +1,12 @@
+episode 0
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 88, in <module>
+    waiting_time_W_in = Simulation.get_directional_waiting_times('W_in')[episode]
+TypeError: Simulation.get_directional_waiting_times() missing 1 required positional argument: 'direction_key'
+epsilon 1.0
+queue length in epsiode 0 1.5083333333333333
+loss in epsiode 0 83.61341094970703
+wait time in epsiode 0 207.85

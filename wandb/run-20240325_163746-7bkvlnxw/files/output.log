@@ -1,0 +1,12 @@
+episode 0
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 0 2.0519444444444446
+loss in epsiode 0 90.8302001953125
+wait time in epsiode 0 307.4372222222222
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 88, in <module>
+    directional_waiting_times = Simulation.directional_waiting_times
+AttributeError: 'Simulation' object has no attribute 'directional_waiting_times'

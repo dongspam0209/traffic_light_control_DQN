@@ -1,0 +1,42 @@
+episode 0
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 0 0.87
+loss in epsiode 0 14.55920124053955
+wait time in epsiode 0 98.68444444444444
+wait time in wait time W 0 0.0
+wait time in wait time N 0 0.0
+episode 1
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 1 1.156111111111111
+loss in epsiode 1 12.975289344787598
+wait time in epsiode 1 143.62222222222223
+wait time in wait time W 1 0.0
+wait time in wait time N 1 0.0
+episode 2
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 84, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 102, in run
+    df2=pd.DataFrame(current_state[1],index=lane)
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\util\_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 3964, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\io\formats\format.py", line 1014, in to_csv
+    csv_formatter.save()
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\io\formats\csvs.py", line 270, in save
+    self._save()
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\io\formats\csvs.py", line 275, in _save
+    self._save_body()
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\io\formats\csvs.py", line 311, in _save_body
+    if start_i >= end_i:
+KeyboardInterrupt

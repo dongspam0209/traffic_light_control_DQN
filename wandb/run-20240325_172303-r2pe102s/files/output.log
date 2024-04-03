@@ -1,0 +1,51 @@
+episode 0
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 0 0.9138888888888889
+loss in epsiode 0 25.636682510375977
+wait time in epsiode 0 91.65305555555555
+wait time in wait time W 0 0.0
+wait time in wait time N 0 0.0
+episode 1
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 1 1.475
+loss in epsiode 1 23.762332916259766
+wait time in epsiode 1 196.9738888888889
+wait time in wait time W 1 0.0
+wait time in wait time N 1 0.0
+episode 2
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 2 1.293611111111111
+loss in epsiode 2 19.45411491394043
+wait time in epsiode 2 156.9925
+wait time in wait time W 2 0.0
+wait time in wait time N 2 0.0
+episode 3
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 84, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 180, in run
+    self.optimize_model()
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 293, in optimize_model
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\Model.py", line 18, in forward
+    x = F.max_pool2d(x, kernel_size=2, stride=2)
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\_jit_internal.py", line 499, in fn
+    return if_false(*args, **kwargs)
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\nn\functional.py", line 796, in _max_pool2d
+    return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+KeyboardInterrupt

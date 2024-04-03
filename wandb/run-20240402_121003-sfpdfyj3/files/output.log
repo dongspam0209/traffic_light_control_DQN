@@ -1,0 +1,35 @@
+episode 0
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 0 1.1869444444444444
+loss in epsiode 0 2.4618592262268066
+wait time in epsiode 0 131.80305555555555
+wait time in wait time W 0 50.015
+wait time in wait time N 0 21.41111111111111
+episode 1
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 1 1.3502777777777777
+loss in epsiode 1 1.9027495384216309
+wait time in epsiode 1 171.02527777777777
+wait time in wait time W 1 70.4325
+wait time in wait time N 1 25.255277777777778
+episode 2
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 84, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 194, in run
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 325, in optimize_model
+    self.optimizer.step()
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\_tensor.py", line 522, in backward
+    torch.autograd.backward(
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\autograd\__init__.py", line 266, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

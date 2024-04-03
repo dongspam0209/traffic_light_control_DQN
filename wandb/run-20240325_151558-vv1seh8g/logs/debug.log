@@ -1,0 +1,27 @@
+2024-03-25 15:15:58,951 INFO    MainThread:33044 [wandb_setup.py:_flush():76] Current SDK version is 0.16.4
+2024-03-25 15:15:58,952 INFO    MainThread:33044 [wandb_setup.py:_flush():76] Configure stats pid to 33044
+2024-03-25 15:15:58,953 INFO    MainThread:33044 [wandb_setup.py:_flush():76] Loading settings from C:\Users\nks23\.config\wandb\settings
+2024-03-25 15:15:58,953 INFO    MainThread:33044 [wandb_setup.py:_flush():76] Loading settings from C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\settings
+2024-03-25 15:15:58,953 INFO    MainThread:33044 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-03-25 15:15:58,953 INFO    MainThread:33044 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-03-25 15:15:58,965 INFO    MainThread:33044 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'training_main.py', 'program_abspath': 'C:\\Users\\nks23\\python310\\traffic_signal_control\\traffic_light_control\\traffic_light_control_DQN-master\\training_main.py', 'program': 'C:\\Users\\nks23\\python310\\traffic_signal_control\\traffic_light_control\\traffic_light_control_DQN-master\\training_main.py'}
+2024-03-25 15:15:58,966 INFO    MainThread:33044 [wandb_init.py:_log_setup():526] Logging user logs to C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240325_151558-vv1seh8g\logs\debug.log
+2024-03-25 15:15:58,968 INFO    MainThread:33044 [wandb_init.py:_log_setup():527] Logging internal logs to C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240325_151558-vv1seh8g\logs\debug-internal.log
+2024-03-25 15:15:58,968 INFO    MainThread:33044 [wandb_init.py:init():566] calling init triggers
+2024-03-25 15:15:58,968 INFO    MainThread:33044 [wandb_init.py:init():573] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.0001, 'architecture': 'DQN', 'dataset': 'CIFAR-100', 'epochs': 10000}
+2024-03-25 15:15:58,969 INFO    MainThread:33044 [wandb_init.py:init():616] starting backend
+2024-03-25 15:15:58,969 INFO    MainThread:33044 [wandb_init.py:init():620] setting up manager
+2024-03-25 15:15:58,985 INFO    MainThread:33044 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn, using: spawn
+2024-03-25 15:15:58,991 INFO    MainThread:33044 [wandb_init.py:init():628] backend started and connected
+2024-03-25 15:15:59,016 INFO    MainThread:33044 [wandb_init.py:init():720] updated telemetry
+2024-03-25 15:15:59,019 INFO    MainThread:33044 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2024-03-25 15:16:01,062 ERROR   MainThread:33044 [wandb_init.py:init():779] encountered error: It appears that you do not have permission to access the requested resource. Please reach out to the project owner to grant you access. If you have the correct permissions, verify that there are no issues with your networking setup.(Error 403: Forbidden)
+2024-03-25 15:16:01,487 ERROR   MainThread:33044 [wandb_init.py:init():1194] It appears that you do not have permission to access the requested resource. Please reach out to the project owner to grant you access. If you have the correct permissions, verify that there are no issues with your networking setup.(Error 403: Forbidden)
+Traceback (most recent call last):
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\wandb\sdk\wandb_init.py", line 1176, in init
+    run = wi.init()
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\wandb\sdk\wandb_init.py", line 785, in init
+    raise error
+wandb.errors.CommError: It appears that you do not have permission to access the requested resource. Please reach out to the project owner to grant you access. If you have the correct permissions, verify that there are no issues with your networking setup.(Error 403: Forbidden)
+2024-03-25 15:16:02,506 WARNING MsgRouterThr:33044 [router.py:message_loop():77] message_loop has been closed

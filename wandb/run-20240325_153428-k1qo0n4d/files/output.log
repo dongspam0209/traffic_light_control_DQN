@@ -1,0 +1,18 @@
+
+episode 0
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 84, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 66, in run
+    self._Cargenerator.generate_car(seed=episode) # car generation
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\generator.py", line 99, in generate_car
+    df.to_excel('./intersection/car_generation.xlsx', index=False)
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\util\_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 2414, in to_excel
+    formatter.write(
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\io\formats\excel.py", line 943, in write
+    writer = ExcelWriter(
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\io\excel\_openpyxl.py", line 57, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'

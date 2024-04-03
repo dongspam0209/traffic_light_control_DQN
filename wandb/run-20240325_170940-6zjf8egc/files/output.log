@@ -1,0 +1,117 @@
+
+episode 0
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 0 1.2955555555555556
+loss in epsiode 0 76.66083526611328
+wait time in epsiode 0 178.7213888888889
+wait time in wait time W 0 0.0
+wait time in wait time N 0 0.0
+episode 1
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 1 1.8044444444444445
+loss in epsiode 1 66.62287902832031
+wait time in epsiode 1 258.385
+wait time in wait time W 1 0.0
+wait time in wait time N 1 0.0
+episode 2
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 2 1.513611111111111
+loss in epsiode 2 58.08342361450195
+wait time in epsiode 2 233.6461111111111
+wait time in wait time W 2 0.0
+wait time in wait time N 2 0.0
+episode 3
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 3 1.2369444444444444
+loss in epsiode 3 49.3049201965332
+wait time in epsiode 3 154.01444444444445
+wait time in wait time W 3 0.0
+wait time in wait time N 3 0.0
+episode 4
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 4 1.7675
+loss in epsiode 4 43.669639587402344
+wait time in epsiode 4 238.56083333333333
+wait time in wait time W 4 0.0
+wait time in wait time N 4 0.0
+episode 5
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.99
+queue length in epsiode 5 1.2775
+loss in epsiode 5 39.50820541381836
+wait time in epsiode 5 196.0688888888889
+wait time in wait time W 5 0.0
+wait time in wait time N 5 0.0
+episode 6
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.99
+queue length in epsiode 6 1.2425
+loss in epsiode 6 35.021385192871094
+wait time in epsiode 6 157.72666666666666
+wait time in wait time W 6 7.0
+wait time in wait time N 6 6.0
+episode 7
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.99
+queue length in epsiode 7 1.2369444444444444
+loss in epsiode 7 33.751739501953125
+wait time in epsiode 7 153.76888888888888
+wait time in wait time W 7 5.0
+wait time in wait time N 7 12.0
+episode 8
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.99
+queue length in epsiode 8 1.2852777777777777
+loss in epsiode 8 31.763315200805664
+wait time in epsiode 8 161.7252777777778
+wait time in wait time W 8 0.0
+wait time in wait time N 8 0.0
+episode 9
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.99
+queue length in epsiode 9 1.1966666666666668
+loss in epsiode 9 25.599763870239258
+wait time in epsiode 9 150.70472222222222
+wait time in wait time W 9 30.0
+wait time in wait time N 9 55.0
+episode 10
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 84, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 187, in run
+    self._waiting_time_per_episode.append(self.plot_wait_time / self._step)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 313, in optimize_model
+    #update the parameters
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\_tensor.py", line 522, in backward
+    torch.autograd.backward(
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\autograd\__init__.py", line 266, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

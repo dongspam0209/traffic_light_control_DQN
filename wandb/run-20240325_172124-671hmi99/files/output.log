@@ -1,0 +1,30 @@
+episode 0
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 0 1.0966666666666667
+loss in epsiode 0 28.03662872314453
+wait time in epsiode 0 130.55083333333334
+episode 1
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 84, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 180, in run
+    self.optimize_model()
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 310, in optimize_model
+    self.optimizer.step()
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\optim\optimizer.py", line 385, in wrapper
+    out = func(*args, **kwargs)
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\optim\optimizer.py", line 76, in _use_grad
+    ret = func(self, *args, **kwargs)
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\optim\adam.py", line 166, in step
+    adam(
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\optim\adam.py", line 316, in adam
+    func(params,
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\optim\adam.py", line 392, in _single_tensor_adam
+    exp_avg_sq.mul_(beta2).addcmul_(grad, grad.conj(), value=1 - beta2)
+KeyboardInterrupt

@@ -1,0 +1,1 @@
+{"episode": 4, "queue length": 1.3508333333333333, "loss": 12.669363021850586, "wait time": 230.32861111111112, "reward": -0.4644708720282237, "wait time W": 0.0, "wait time N": 0.0, "wait time E": 0.0, "wait time S": 0.0, "_timestamp": 1711355565.1575515, "_runtime": 295.7878224849701, "_step": 4, "_wandb": {"runtime": 299}}

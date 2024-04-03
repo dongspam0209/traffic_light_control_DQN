@@ -1,0 +1,1508 @@
+episode 0
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 0 2.2094444444444443
+loss in epsiode 0 56.156551361083984
+wait time in epsiode 0 413.45972222222224
+wait time in wait time W 0 70.6375
+wait time in wait time N 0 50.579166666666666
+episode 1
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 1 1.1269444444444445
+loss in epsiode 1 49.55781936645508
+wait time in epsiode 1 135.42527777777778
+wait time in wait time W 1 25.156666666666666
+wait time in wait time N 1 19.726388888888888
+episode 2
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 2 0.9627777777777777
+loss in epsiode 2 38.281272888183594
+wait time in epsiode 2 97.23861111111111
+wait time in wait time W 2 22.191944444444445
+wait time in wait time N 2 28.337222222222223
+episode 3
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 3 1.2041666666666666
+loss in epsiode 3 29.911725997924805
+wait time in epsiode 3 154.05527777777777
+wait time in wait time W 3 40.14805555555556
+wait time in wait time N 3 17.3325
+episode 4
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 4 1.2825
+loss in epsiode 4 23.366302490234375
+wait time in epsiode 4 196.52388888888888
+wait time in wait time W 4 30.994444444444444
+wait time in wait time N 4 42.76555555555556
+episode 5
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.99
+queue length in epsiode 5 1.5208333333333333
+loss in epsiode 5 17.891056060791016
+wait time in epsiode 5 254.1625
+wait time in wait time W 5 118.61666666666666
+wait time in wait time N 5 18.204722222222223
+episode 6
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.99
+queue length in epsiode 6 1.24
+loss in epsiode 6 15.467941284179688
+wait time in epsiode 6 163.51944444444445
+wait time in wait time W 6 42.23083333333334
+wait time in wait time N 6 32.045833333333334
+episode 7
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.99
+queue length in epsiode 7 1.2758333333333334
+loss in epsiode 7 14.626185417175293
+wait time in epsiode 7 168.0677777777778
+wait time in wait time W 7 74.70277777777778
+wait time in wait time N 7 24.430555555555557
+episode 8
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.99
+queue length in epsiode 8 1.3105555555555555
+loss in epsiode 8 14.00432014465332
+wait time in epsiode 8 182.75472222222223
+wait time in wait time W 8 34.67388888888889
+wait time in wait time N 8 31.52777777777778
+episode 9
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.99
+queue length in epsiode 9 1.2680555555555555
+loss in epsiode 9 13.338886260986328
+wait time in epsiode 9 193.04305555555555
+wait time in wait time W 9 85.94666666666667
+wait time in wait time N 9 55.86277777777778
+episode 10
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.99
+queue length in epsiode 10 1.3811111111111112
+loss in epsiode 10 12.996420860290527
+wait time in epsiode 10 175.92444444444445
+wait time in wait time W 10 51.705555555555556
+wait time in wait time N 10 18.069166666666668
+episode 11
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.99
+queue length in epsiode 11 1.6330555555555555
+loss in epsiode 11 14.20095443725586
+wait time in epsiode 11 288.34722222222223
+wait time in wait time W 11 44.87416666666667
+wait time in wait time N 11 13.935
+episode 12
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.99
+queue length in epsiode 12 1.0880555555555556
+loss in epsiode 12 13.948629379272461
+wait time in epsiode 12 118.62694444444445
+wait time in wait time W 12 37.76694444444445
+wait time in wait time N 12 18.845277777777778
+episode 13
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.99
+queue length in epsiode 13 1.1769444444444443
+loss in epsiode 13 11.888076782226562
+wait time in epsiode 13 136.29833333333335
+wait time in wait time W 13 26.755277777777778
+wait time in wait time N 13 26.064444444444444
+episode 14
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.99
+queue length in epsiode 14 0.9955555555555555
+loss in epsiode 14 9.2327299118042
+wait time in epsiode 14 103.62944444444445
+wait time in wait time W 14 29.976666666666667
+wait time in wait time N 14 17.881666666666668
+episode 15
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.98
+queue length in epsiode 15 1.4258333333333333
+loss in epsiode 15 10.198758125305176
+wait time in epsiode 15 172.88583333333332
+wait time in wait time W 15 38.5125
+wait time in wait time N 15 26.361944444444443
+episode 16
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.98
+queue length in epsiode 16 1.1127777777777779
+loss in epsiode 16 8.792557716369629
+wait time in epsiode 16 122.96833333333333
+wait time in wait time W 16 36.30861111111111
+wait time in wait time N 16 27.640555555555554
+episode 17
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.98
+queue length in epsiode 17 1.0830555555555557
+loss in epsiode 17 6.89045524597168
+wait time in epsiode 17 124.73694444444445
+wait time in wait time W 17 38.690555555555555
+wait time in wait time N 17 17.98027777777778
+episode 18
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.98
+queue length in epsiode 18 1.3716666666666666
+loss in epsiode 18 7.405159950256348
+wait time in epsiode 18 170.11
+wait time in wait time W 18 59.63305555555556
+wait time in wait time N 18 38.030833333333334
+episode 19
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.98
+queue length in epsiode 19 1.2741666666666667
+loss in epsiode 19 6.058544635772705
+wait time in epsiode 19 158.77138888888888
+wait time in wait time W 19 71.17
+wait time in wait time N 19 31.306944444444444
+episode 20
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.98
+queue length in epsiode 20 1.7136111111111112
+loss in epsiode 20 7.107366561889648
+wait time in epsiode 20 295.0461111111111
+wait time in wait time W 20 134.04611111111112
+wait time in wait time N 20 21.595
+episode 21
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.98
+queue length in epsiode 21 1.4297222222222221
+loss in epsiode 21 11.993042945861816
+wait time in epsiode 21 193.39666666666668
+wait time in wait time W 21 66.6438888888889
+wait time in wait time N 21 22.690277777777776
+episode 22
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.98
+queue length in epsiode 22 1.011111111111111
+loss in epsiode 22 9.957277297973633
+wait time in epsiode 22 113.14666666666666
+wait time in wait time W 22 33.89138888888889
+wait time in wait time N 22 11.719722222222222
+episode 23
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.98
+queue length in epsiode 23 0.9847222222222223
+loss in epsiode 23 8.966630935668945
+wait time in epsiode 23 105.80833333333334
+wait time in wait time W 23 45.97888888888889
+wait time in wait time N 23 25.230555555555554
+episode 24
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.98
+queue length in epsiode 24 1.3616666666666666
+loss in epsiode 24 8.998576164245605
+wait time in epsiode 24 176.4688888888889
+wait time in wait time W 24 49.62416666666667
+wait time in wait time N 24 22.87611111111111
+episode 25
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.97
+queue length in epsiode 25 1.4052777777777778
+loss in epsiode 25 7.765942096710205
+wait time in epsiode 25 179.98305555555555
+wait time in wait time W 25 46.24055555555555
+wait time in wait time N 25 25.18111111111111
+episode 26
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.97
+queue length in epsiode 26 1.6627777777777777
+loss in epsiode 26 7.058338165283203
+wait time in epsiode 26 253.4688888888889
+wait time in wait time W 26 120.16222222222223
+wait time in wait time N 26 16.94527777777778
+episode 27
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.97
+queue length in epsiode 27 1.2216666666666667
+loss in epsiode 27 6.942306995391846
+wait time in epsiode 27 166.63972222222222
+wait time in wait time W 27 73.27555555555556
+wait time in wait time N 27 26.38138888888889
+episode 28
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.97
+queue length in epsiode 28 1.3202777777777779
+loss in epsiode 28 7.550783157348633
+wait time in epsiode 28 169.85777777777778
+wait time in wait time W 28 40.56861111111111
+wait time in wait time N 28 49.14138888888889
+episode 29
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.97
+queue length in epsiode 29 1.211111111111111
+loss in epsiode 29 6.582192897796631
+wait time in epsiode 29 166.2588888888889
+wait time in wait time W 29 34.19583333333333
+wait time in wait time N 29 18.22361111111111
+episode 30
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.97
+queue length in epsiode 30 0.8891666666666667
+loss in epsiode 30 7.071468830108643
+wait time in epsiode 30 93.23666666666666
+wait time in wait time W 30 20.25583333333333
+wait time in wait time N 30 17.82472222222222
+episode 31
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.97
+queue length in epsiode 31 1.7452777777777777
+loss in epsiode 31 9.160423278808594
+wait time in epsiode 31 282.745
+wait time in wait time W 31 96.29194444444444
+wait time in wait time N 31 25.52638888888889
+episode 32
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.97
+queue length in epsiode 32 0.9380555555555555
+loss in epsiode 32 8.937579154968262
+wait time in epsiode 32 105.10861111111112
+wait time in wait time W 32 42.736111111111114
+wait time in wait time N 32 13.87
+episode 33
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.97
+queue length in epsiode 33 1.1877777777777778
+loss in epsiode 33 7.418439865112305
+wait time in epsiode 33 145.24555555555557
+wait time in wait time W 33 66.67722222222223
+wait time in wait time N 33 16.64638888888889
+episode 34
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.97
+queue length in epsiode 34 1.175
+loss in epsiode 34 6.18328857421875
+wait time in epsiode 34 144.7422222222222
+wait time in wait time W 34 76.3525
+wait time in wait time N 34 18.65972222222222
+episode 35
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.96
+queue length in epsiode 35 1.265
+loss in epsiode 35 5.940816879272461
+wait time in epsiode 35 161.98833333333334
+wait time in wait time W 35 49.91583333333333
+wait time in wait time N 35 27.00027777777778
+episode 36
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.96
+queue length in epsiode 36 1.1783333333333332
+loss in epsiode 36 5.691110610961914
+wait time in epsiode 36 139.0677777777778
+wait time in wait time W 36 23.47972222222222
+wait time in wait time N 36 35.053333333333335
+episode 37
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.96
+queue length in epsiode 37 1.0297222222222222
+loss in epsiode 37 5.9976677894592285
+wait time in epsiode 37 113.95388888888888
+wait time in wait time W 37 35.85111111111111
+wait time in wait time N 37 17.851666666666667
+episode 38
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.96
+queue length in epsiode 38 0.7452777777777778
+loss in epsiode 38 4.601315975189209
+wait time in epsiode 38 81.95555555555555
+wait time in wait time W 38 26.72138888888889
+wait time in wait time N 38 15.815833333333334
+episode 39
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.96
+queue length in epsiode 39 0.9597222222222223
+loss in epsiode 39 5.646043300628662
+wait time in epsiode 39 103.80694444444444
+wait time in wait time W 39 37.82361111111111
+wait time in wait time N 39 16.430555555555557
+episode 40
+epsilon 0.96
+queue length in epsiode 40 1.3488888888888888
+loss in epsiode 40 5.175387859344482
+wait time in epsiode 40 172.44444444444446
+wait time in wait time W 40 35.666111111111114
+wait time in wait time N 40 38.01861111111111
+episode 41
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.96
+queue length in epsiode 41 0.9091666666666667
+loss in epsiode 41 7.488811016082764
+wait time in epsiode 41 106.43972222222222
+wait time in wait time W 41 39.10305555555556
+wait time in wait time N 41 22.38722222222222
+episode 42
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.96
+queue length in epsiode 42 1.2755555555555556
+loss in epsiode 42 6.855503559112549
+wait time in epsiode 42 157.19805555555556
+wait time in wait time W 42 63.34527777777778
+wait time in wait time N 42 28.74388888888889
+episode 43
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.96
+queue length in epsiode 43 1.1583333333333334
+loss in epsiode 43 5.644664764404297
+wait time in epsiode 43 134.92194444444445
+wait time in wait time W 43 69.77416666666667
+wait time in wait time N 43 15.82611111111111
+episode 44
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.96
+queue length in epsiode 44 0.9166666666666666
+loss in epsiode 44 5.181679725646973
+wait time in epsiode 44 93.74083333333333
+wait time in wait time W 44 25.288333333333334
+wait time in wait time N 44 20.203333333333333
+episode 45
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.95
+queue length in epsiode 45 1.3572222222222223
+loss in epsiode 45 5.487733364105225
+wait time in epsiode 45 163.9561111111111
+wait time in wait time W 45 53.70944444444444
+wait time in wait time N 45 29.48361111111111
+episode 46
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.95
+queue length in epsiode 46 1.3397222222222223
+loss in epsiode 46 4.976373195648193
+wait time in epsiode 46 181.6725
+wait time in wait time W 46 83.41805555555555
+wait time in wait time N 46 28.363055555555555
+episode 47
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.95
+queue length in epsiode 47 1.198611111111111
+loss in epsiode 47 5.3468708992004395
+wait time in epsiode 47 144.96027777777778
+wait time in wait time W 47 47.70583333333333
+wait time in wait time N 47 28.79222222222222
+episode 48
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.95
+queue length in epsiode 48 1.4388888888888889
+loss in epsiode 48 5.048733711242676
+wait time in epsiode 48 179.29694444444445
+wait time in wait time W 48 32.79388888888889
+wait time in wait time N 48 17.288611111111113
+episode 49
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.95
+queue length in epsiode 49 0.8661111111111112
+loss in epsiode 49 4.862694263458252
+wait time in epsiode 49 94.20444444444445
+wait time in wait time W 49 25.21611111111111
+wait time in wait time N 49 15.53138888888889
+episode 50
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.95
+queue length in epsiode 50 1.5002777777777778
+loss in epsiode 50 4.716686725616455
+wait time in epsiode 50 186.54833333333335
+wait time in wait time W 50 58.27972222222222
+wait time in wait time N 50 25.566388888888888
+episode 51
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.95
+queue length in epsiode 51 0.8588888888888889
+loss in epsiode 51 6.684659004211426
+wait time in epsiode 51 98.15694444444445
+wait time in wait time W 51 22.960277777777776
+wait time in wait time N 51 19.1475
+episode 52
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.95
+queue length in epsiode 52 0.9433333333333334
+loss in epsiode 52 8.02488899230957
+wait time in epsiode 52 101.36666666666666
+wait time in wait time W 52 27.59027777777778
+wait time in wait time N 52 18.165
+episode 53
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.95
+queue length in epsiode 53 1.2030555555555555
+loss in epsiode 53 7.472614288330078
+wait time in epsiode 53 163.545
+wait time in wait time W 53 15.450277777777778
+wait time in wait time N 53 22.584722222222222
+episode 54
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.95
+queue length in epsiode 54 0.9694444444444444
+loss in epsiode 54 6.814165115356445
+wait time in epsiode 54 110.03722222222223
+wait time in wait time W 54 37.717777777777776
+wait time in wait time N 54 16.609444444444446
+episode 55
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.94
+queue length in epsiode 55 1.1880555555555556
+loss in epsiode 55 5.371490478515625
+wait time in epsiode 55 148.35694444444445
+wait time in wait time W 55 40.416111111111114
+wait time in wait time N 55 34.16277777777778
+episode 56
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.94
+queue length in epsiode 56 1.0916666666666666
+loss in epsiode 56 5.246731281280518
+wait time in epsiode 56 121.43888888888888
+wait time in wait time W 56 24.315
+wait time in wait time N 56 29.933611111111112
+episode 57
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.94
+queue length in epsiode 57 1.655
+loss in epsiode 57 4.9519829750061035
+wait time in epsiode 57 243.78194444444443
+wait time in wait time W 57 72.84972222222223
+wait time in wait time N 57 21.122777777777777
+episode 58
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.94
+queue length in epsiode 58 1.0291666666666666
+loss in epsiode 58 5.295908451080322
+wait time in epsiode 58 181.87805555555556
+wait time in wait time W 58 104.68222222222222
+wait time in wait time N 58 27.014444444444443
+episode 59
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.94
+queue length in epsiode 59 0.7713888888888889
+loss in epsiode 59 4.821285247802734
+wait time in epsiode 59 77.86972222222222
+wait time in wait time W 59 28.908333333333335
+wait time in wait time N 59 16.1525
+episode 60
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.94
+queue length in epsiode 60 1.2108333333333334
+loss in epsiode 60 4.091126441955566
+wait time in epsiode 60 149.9597222222222
+wait time in wait time W 60 21.79861111111111
+wait time in wait time N 60 42.013333333333335
+episode 61
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.94
+queue length in epsiode 61 0.8936111111111111
+loss in epsiode 61 6.077873706817627
+wait time in epsiode 61 93.3325
+wait time in wait time W 61 26.796944444444446
+wait time in wait time N 61 18.97
+episode 62
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.94
+queue length in epsiode 62 1.2847222222222223
+loss in epsiode 62 5.194713115692139
+wait time in epsiode 62 153.13666666666666
+wait time in wait time W 62 23.154722222222222
+wait time in wait time N 62 20.170555555555556
+episode 63
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.94
+queue length in epsiode 63 0.9133333333333333
+loss in epsiode 63 5.064853191375732
+wait time in epsiode 63 96.33583333333333
+wait time in wait time W 63 25.690555555555555
+wait time in wait time N 63 27.442222222222224
+episode 64
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.94
+queue length in epsiode 64 1.0905555555555555
+loss in epsiode 64 6.634852409362793
+wait time in epsiode 64 127.62694444444445
+wait time in wait time W 64 36.40472222222222
+wait time in wait time N 64 43.54194444444445
+episode 65
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.94
+queue length in epsiode 65 1.431111111111111
+loss in epsiode 65 6.0082011222839355
+wait time in epsiode 65 198.31722222222223
+wait time in wait time W 65 95.64916666666667
+wait time in wait time N 65 20.221944444444443
+episode 66
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.93
+queue length in epsiode 66 1.1483333333333334
+loss in epsiode 66 7.00811767578125
+wait time in epsiode 66 148.965
+wait time in wait time W 66 36.158055555555556
+wait time in wait time N 66 20.569444444444443
+episode 67
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.93
+queue length in epsiode 67 0.7505555555555555
+loss in epsiode 67 6.639594078063965
+wait time in epsiode 67 75.9
+wait time in wait time W 67 13.875833333333333
+wait time in wait time N 67 20.981944444444444
+episode 68
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.93
+queue length in epsiode 68 1.033611111111111
+loss in epsiode 68 5.265091419219971
+wait time in epsiode 68 121.93472222222222
+wait time in wait time W 68 41.336666666666666
+wait time in wait time N 68 21.229444444444443
+episode 69
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.93
+queue length in epsiode 69 1.4594444444444445
+loss in epsiode 69 4.660106182098389
+wait time in epsiode 69 186.11083333333335
+wait time in wait time W 69 54.52777777777778
+wait time in wait time N 69 26.27722222222222
+episode 70
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.93
+queue length in epsiode 70 0.8791666666666667
+loss in epsiode 70 3.408987045288086
+wait time in epsiode 70 90.77333333333333
+wait time in wait time W 70 25.413611111111113
+wait time in wait time N 70 18.531944444444445
+episode 71
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.93
+queue length in epsiode 71 1.0297222222222222
+loss in epsiode 71 6.681540489196777
+wait time in epsiode 71 112.73194444444445
+wait time in wait time W 71 22.039166666666667
+wait time in wait time N 71 15.722777777777777
+episode 72
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.93
+queue length in epsiode 72 1.083888888888889
+loss in epsiode 72 7.987561225891113
+wait time in epsiode 72 128.71722222222223
+wait time in wait time W 72 47.996944444444445
+wait time in wait time N 72 18.225277777777777
+episode 73
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.93
+queue length in epsiode 73 0.9188888888888889
+loss in epsiode 73 5.891749858856201
+wait time in epsiode 73 97.51472222222222
+wait time in wait time W 73 33.165277777777774
+wait time in wait time N 73 15.435833333333333
+episode 74
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.93
+queue length in epsiode 74 0.9641666666666666
+loss in epsiode 74 5.055508613586426
+wait time in epsiode 74 107.04833333333333
+wait time in wait time W 74 36.59527777777778
+wait time in wait time N 74 16.60527777777778
+episode 75
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.93
+queue length in epsiode 75 0.9716666666666667
+loss in epsiode 75 3.594700574874878
+wait time in epsiode 75 104.68722222222222
+wait time in wait time W 75 25.46
+wait time in wait time N 75 32.87555555555556
+episode 76
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.92
+queue length in epsiode 76 1.2566666666666666
+loss in epsiode 76 5.2579498291015625
+wait time in epsiode 76 154.2436111111111
+wait time in wait time W 76 43.99638888888889
+wait time in wait time N 76 22.163055555555555
+episode 77
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.92
+queue length in epsiode 77 1.1108333333333333
+loss in epsiode 77 4.672889709472656
+wait time in epsiode 77 130.10305555555556
+wait time in wait time W 77 35.03055555555556
+wait time in wait time N 77 20.035
+episode 78
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.92
+queue length in epsiode 78 1.9022222222222223
+loss in epsiode 78 3.581754207611084
+wait time in epsiode 78 357.47527777777776
+wait time in wait time W 78 239.8775
+wait time in wait time N 78 33.55166666666667
+episode 79
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.92
+queue length in epsiode 79 1.0872222222222223
+loss in epsiode 79 3.222025156021118
+wait time in epsiode 79 133.38
+wait time in wait time W 79 47.786944444444444
+wait time in wait time N 79 25.886388888888888
+episode 80
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.92
+queue length in epsiode 80 0.8613888888888889
+loss in epsiode 80 3.3683254718780518
+wait time in epsiode 80 94.29388888888889
+wait time in wait time W 80 23.121388888888887
+wait time in wait time N 80 17.328333333333333
+episode 81
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.92
+queue length in epsiode 81 0.9661111111111111
+loss in epsiode 81 7.601624011993408
+wait time in epsiode 81 104.03861111111111
+wait time in wait time W 81 27.979444444444443
+wait time in wait time N 81 17.23611111111111
+episode 82
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.92
+queue length in epsiode 82 1.0616666666666668
+loss in epsiode 82 7.133300304412842
+wait time in epsiode 82 123.5225
+wait time in wait time W 82 52.30722222222222
+wait time in wait time N 82 20.80527777777778
+episode 83
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.92
+queue length in epsiode 83 1.0616666666666668
+loss in epsiode 83 5.801877975463867
+wait time in epsiode 83 130.3463888888889
+wait time in wait time W 83 66.34833333333333
+wait time in wait time N 83 25.218611111111112
+episode 84
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.92
+queue length in epsiode 84 1.1716666666666666
+loss in epsiode 84 4.59869909286499
+wait time in epsiode 84 137.82638888888889
+wait time in wait time W 84 39.11277777777778
+wait time in wait time N 84 16.378333333333334
+episode 85
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.92
+queue length in epsiode 85 1.7405555555555556
+loss in epsiode 85 6.248788833618164
+wait time in epsiode 85 252.76722222222222
+wait time in wait time W 85 120.92805555555556
+wait time in wait time N 85 20.86916666666667
+episode 86
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.91
+queue length in epsiode 86 1.346111111111111
+loss in epsiode 86 5.066810607910156
+wait time in epsiode 86 189.29305555555555
+wait time in wait time W 86 21.70638888888889
+wait time in wait time N 86 14.326944444444445
+episode 87
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.91
+queue length in epsiode 87 0.7627777777777778
+loss in epsiode 87 5.577288627624512
+wait time in epsiode 87 73.06583333333333
+wait time in wait time W 87 26.305555555555557
+wait time in wait time N 87 18.919444444444444
+episode 88
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.91
+queue length in epsiode 88 1.03
+loss in epsiode 88 4.7565999031066895
+wait time in epsiode 88 124.57
+wait time in wait time W 88 31.600833333333334
+wait time in wait time N 88 19.89138888888889
+episode 89
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.91
+queue length in epsiode 89 1.7238888888888888
+loss in epsiode 89 4.952462196350098
+wait time in epsiode 89 242.93444444444444
+wait time in wait time W 89 82.04166666666667
+wait time in wait time N 89 45.602222222222224
+episode 90
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.91
+queue length in epsiode 90 0.8658333333333333
+loss in epsiode 90 4.675033092498779
+wait time in epsiode 90 99.25972222222222
+wait time in wait time W 90 24.76222222222222
+wait time in wait time N 90 18.613333333333333
+episode 91
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.91
+queue length in epsiode 91 0.9922222222222222
+loss in epsiode 91 10.325201034545898
+wait time in epsiode 91 122.56694444444445
+wait time in wait time W 91 26.28361111111111
+wait time in wait time N 91 32.48583333333333
+episode 92
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.91
+queue length in epsiode 92 0.7836111111111111
+loss in epsiode 92 10.90722942352295
+wait time in epsiode 92 80.54527777777778
+wait time in wait time W 92 24.260555555555555
+wait time in wait time N 92 12.389444444444445
+episode 93
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.91
+queue length in epsiode 93 1.09
+loss in epsiode 93 7.399079322814941
+wait time in epsiode 93 125.15666666666667
+wait time in wait time W 93 28.51527777777778
+wait time in wait time N 93 13.376666666666667
+episode 94
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.91
+queue length in epsiode 94 0.7508333333333334
+loss in epsiode 94 6.716734409332275
+wait time in epsiode 94 86.47944444444444
+wait time in wait time W 94 34.483333333333334
+wait time in wait time N 94 16.73638888888889
+episode 95
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.91
+queue length in epsiode 95 1.0080555555555555
+loss in epsiode 95 8.4302339553833
+wait time in epsiode 95 119.35333333333334
+wait time in wait time W 95 23.916944444444443
+wait time in wait time N 95 13.644444444444444
+episode 96
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.9
+queue length in epsiode 96 0.8225
+loss in epsiode 96 6.323457717895508
+wait time in epsiode 96 85.97083333333333
+wait time in wait time W 96 20.592777777777776
+wait time in wait time N 96 18.322222222222223
+episode 97
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.9
+queue length in epsiode 97 1.2644444444444445
+loss in epsiode 97 4.20042085647583
+wait time in epsiode 97 173.41694444444445
+wait time in wait time W 97 54.47472222222222
+wait time in wait time N 97 20.62638888888889
+episode 98
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.9
+queue length in epsiode 98 0.8911111111111111
+loss in epsiode 98 5.062058925628662
+wait time in epsiode 98 88.83472222222223
+wait time in wait time W 98 23.876944444444444
+wait time in wait time N 98 13.63888888888889
+episode 99
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.9
+queue length in epsiode 99 0.7847222222222222
+loss in epsiode 99 4.236429691314697
+wait time in epsiode 99 79.135
+wait time in wait time W 99 25.41027777777778
+wait time in wait time N 99 19.483333333333334
+episode 100
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.9
+queue length in epsiode 100 0.8952777777777777
+loss in epsiode 100 3.945289134979248
+wait time in epsiode 100 106.66694444444444
+wait time in wait time W 100 32.56305555555556
+wait time in wait time N 100 20.73611111111111
+episode 101
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.9
+queue length in epsiode 101 1.165
+loss in epsiode 101 6.056731700897217
+wait time in epsiode 101 150.39111111111112
+wait time in wait time W 101 25.030555555555555
+wait time in wait time N 101 18.349444444444444
+episode 102
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.9
+queue length in epsiode 102 0.9747222222222223
+loss in epsiode 102 9.401276588439941
+wait time in epsiode 102 108.95
+wait time in wait time W 102 25.669166666666666
+wait time in wait time N 102 15.738333333333333
+episode 103
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.9
+queue length in epsiode 103 0.9519444444444445
+loss in epsiode 103 6.22137975692749
+wait time in epsiode 103 115.76861111111111
+wait time in wait time W 103 27.084722222222222
+wait time in wait time N 103 14.07
+episode 104
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.9
+queue length in epsiode 104 1.3027777777777778
+loss in epsiode 104 6.604782581329346
+wait time in epsiode 104 169.0738888888889
+wait time in wait time W 104 37.85944444444444
+wait time in wait time N 104 20.989166666666666
+episode 105
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.9
+queue length in epsiode 105 1.1180555555555556
+loss in epsiode 105 8.046529769897461
+wait time in epsiode 105 154.9736111111111
+wait time in wait time W 105 37.91027777777778
+wait time in wait time N 105 48.235277777777775
+episode 106
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.89
+queue length in epsiode 106 1.1541666666666666
+loss in epsiode 106 11.036907196044922
+wait time in epsiode 106 148.8538888888889
+wait time in wait time W 106 41.07888888888889
+wait time in wait time N 106 24.73777777777778
+episode 107
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.89
+queue length in epsiode 107 0.9108333333333334
+loss in epsiode 107 6.520353317260742
+wait time in epsiode 107 98.61777777777777
+wait time in wait time W 107 30.51388888888889
+wait time in wait time N 107 11.508611111111112
+episode 108
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.89
+queue length in epsiode 108 1.0691666666666666
+loss in epsiode 108 7.63124418258667
+wait time in epsiode 108 118.94361111111111
+wait time in wait time W 108 33.94138888888889
+wait time in wait time N 108 18.3825
+episode 109
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.89
+queue length in epsiode 109 0.7988888888888889
+loss in epsiode 109 6.391186714172363
+wait time in epsiode 109 84.59472222222222
+wait time in wait time W 109 20.92388888888889
+wait time in wait time N 109 22.656111111111112
+episode 110
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.89
+queue length in epsiode 110 1.1219444444444444
+loss in epsiode 110 6.608216285705566
+wait time in epsiode 110 151.57833333333335
+wait time in wait time W 110 97.40555555555555
+wait time in wait time N 110 14.698333333333334
+episode 111
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.89
+queue length in epsiode 111 0.9013888888888889
+loss in epsiode 111 8.249785423278809
+wait time in epsiode 111 98.30277777777778
+wait time in wait time W 111 38.64277777777778
+wait time in wait time N 111 10.016666666666667
+episode 112
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.89
+queue length in epsiode 112 0.9911111111111112
+loss in epsiode 112 9.15610408782959
+wait time in epsiode 112 114.97472222222223
+wait time in wait time W 112 39.23833333333334
+wait time in wait time N 112 21.258055555555554
+episode 113
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.89
+queue length in epsiode 113 1.0305555555555554
+loss in epsiode 113 10.82902717590332
+wait time in epsiode 113 114.43944444444445
+wait time in wait time W 113 36.26972222222222
+wait time in wait time N 113 18.740277777777777
+episode 114
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.89
+queue length in epsiode 114 1.031111111111111
+loss in epsiode 114 13.715906143188477
+wait time in epsiode 114 126.36694444444444
+wait time in wait time W 114 38.32361111111111
+wait time in wait time N 114 20.323888888888888
+episode 115
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.89
+queue length in epsiode 115 0.9166666666666666
+loss in epsiode 115 14.609021186828613
+wait time in epsiode 115 107.78444444444445
+wait time in wait time W 115 39.89416666666666
+wait time in wait time N 115 21.429444444444446
+episode 116
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.88
+queue length in epsiode 116 0.6908333333333333
+loss in epsiode 116 9.867036819458008
+wait time in epsiode 116 61.59638888888889
+wait time in wait time W 116 16.830833333333334
+wait time in wait time N 116 11.52361111111111
+episode 117
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.88
+queue length in epsiode 117 0.8886111111111111
+loss in epsiode 117 12.451021194458008
+wait time in epsiode 117 112.28527777777778
+wait time in wait time W 117 31.23777777777778
+wait time in wait time N 117 18.585833333333333
+episode 118
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.88
+queue length in epsiode 118 1.2547222222222223
+loss in epsiode 118 11.229565620422363
+wait time in epsiode 118 174.31444444444443
+wait time in wait time W 118 37.651944444444446
+wait time in wait time N 118 15.019444444444444
+episode 119
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.88
+queue length in epsiode 119 0.8125
+loss in epsiode 119 9.447519302368164
+wait time in epsiode 119 89.00138888888888
+wait time in wait time W 119 36.73027777777778
+wait time in wait time N 119 15.340833333333334
+episode 120
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.88
+queue length in epsiode 120 0.8791666666666667
+loss in epsiode 120 13.526183128356934
+wait time in epsiode 120 90.56388888888888
+wait time in wait time W 120 25.275
+wait time in wait time N 120 21.70861111111111
+episode 121
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.88
+queue length in epsiode 121 0.9497222222222222
+loss in epsiode 121 37.96882629394531
+wait time in epsiode 121 106.74583333333334
+wait time in wait time W 121 26.81388888888889
+wait time in wait time N 121 14.84388888888889
+episode 122
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.88
+queue length in epsiode 122 0.9863888888888889
+loss in epsiode 122 19.027297973632812
+wait time in epsiode 122 110.55972222222222
+wait time in wait time W 122 49.503055555555555
+wait time in wait time N 122 18.7325
+episode 123
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.88
+queue length in epsiode 123 1.2694444444444444
+loss in epsiode 123 36.79192352294922
+wait time in epsiode 123 164.3713888888889
+wait time in wait time W 123 36.47
+wait time in wait time N 123 25.724722222222223
+episode 124
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.88
+queue length in epsiode 124 0.7694444444444445
+loss in epsiode 124 17.274608612060547
+wait time in epsiode 124 82.67555555555556
+wait time in wait time W 124 19.884166666666665
+wait time in wait time N 124 21.070555555555554
+episode 125
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.88
+queue length in epsiode 125 1.0166666666666666
+loss in epsiode 125 14.88316822052002
+wait time in epsiode 125 110.54
+wait time in wait time W 125 28.341666666666665
+wait time in wait time N 125 19.55666666666667
+episode 126
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.87
+queue length in epsiode 126 0.9738888888888889
+loss in epsiode 126 20.891685485839844
+wait time in epsiode 126 110.06583333333333
+wait time in wait time W 126 31.63861111111111
+wait time in wait time N 126 23.77777777777778
+episode 127
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.87
+queue length in epsiode 127 1.0255555555555556
+loss in epsiode 127 29.05323028564453
+wait time in epsiode 127 124.29138888888889
+wait time in wait time W 127 40.26611111111111
+wait time in wait time N 127 23.299444444444443
+episode 128
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.87
+queue length in epsiode 128 0.9555555555555556
+loss in epsiode 128 31.61410140991211
+wait time in epsiode 128 113.53666666666666
+wait time in wait time W 128 34.835
+wait time in wait time N 128 18.136944444444445
+episode 129
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.87
+queue length in epsiode 129 0.8230555555555555
+loss in epsiode 129 34.072998046875
+wait time in epsiode 129 87.42916666666666
+wait time in wait time W 129 27.50638888888889
+wait time in wait time N 129 27.415
+episode 130
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.87
+queue length in epsiode 130 0.9391666666666667
+loss in epsiode 130 32.724246978759766
+wait time in epsiode 130 106.44833333333334
+wait time in wait time W 130 31.220277777777778
+wait time in wait time N 130 21.370277777777776
+episode 131
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.87
+queue length in epsiode 131 0.7638888888888888
+loss in epsiode 131 46.70756530761719
+wait time in epsiode 131 87.55527777777777
+wait time in wait time W 131 26.074166666666667
+wait time in wait time N 131 13.90638888888889
+episode 132
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.87
+queue length in epsiode 132 0.7680555555555556
+loss in epsiode 132 50.88561248779297
+wait time in epsiode 132 90.19805555555556
+wait time in wait time W 132 35.673611111111114
+wait time in wait time N 132 14.886111111111111
+episode 133
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.87
+queue length in epsiode 133 1.1725
+loss in epsiode 133 40.456398010253906
+wait time in epsiode 133 140.46416666666667
+wait time in wait time W 133 43.86361111111111
+wait time in wait time N 133 42.85111111111111
+episode 134
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.87
+queue length in epsiode 134 1.0419444444444443
+loss in epsiode 134 24.649702072143555
+wait time in epsiode 134 118.90333333333334
+wait time in wait time W 134 44.20194444444444
+wait time in wait time N 134 18.061944444444446
+episode 135
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.86
+queue length in epsiode 135 0.8202777777777778
+loss in epsiode 135 24.793148040771484
+wait time in epsiode 135 92.52694444444444
+wait time in wait time W 135 15.5775
+wait time in wait time N 135 16.649166666666666
+episode 136
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.86
+queue length in epsiode 136 1.0602777777777779
+loss in epsiode 136 33.79486083984375
+wait time in epsiode 136 140.1497222222222
+wait time in wait time W 136 49.088055555555556
+wait time in wait time N 136 18.39611111111111
+episode 137
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.86
+queue length in epsiode 137 0.9788888888888889
+loss in epsiode 137 44.45840835571289
+wait time in epsiode 137 104.69333333333333
+wait time in wait time W 137 36.14833333333333
+wait time in wait time N 137 15.935833333333333
+episode 138
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.86
+queue length in epsiode 138 0.8388888888888889
+loss in epsiode 138 43.72629165649414
+wait time in epsiode 138 107.91416666666667
+wait time in wait time W 138 15.942222222222222
+wait time in wait time N 138 19.685555555555556
+episode 139
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.86
+queue length in epsiode 139 1.5866666666666667
+loss in epsiode 139 32.04536437988281
+wait time in epsiode 139 256.9163888888889
+wait time in wait time W 139 140.7538888888889
+wait time in wait time N 139 14.962777777777777
+episode 140
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.86
+queue length in epsiode 140 0.9113888888888889
+loss in epsiode 140 16.9510440826416
+wait time in epsiode 140 96.05444444444444
+wait time in wait time W 140 33.784166666666664
+wait time in wait time N 140 18.476666666666667
+episode 141
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.86
+queue length in epsiode 141 0.8597222222222223
+loss in epsiode 141 31.80390167236328
+wait time in epsiode 141 86.30055555555556
+wait time in wait time W 141 29.897777777777776
+wait time in wait time N 141 21.9175
+episode 142
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.86
+queue length in epsiode 142 0.7647222222222222
+loss in epsiode 142 29.868362426757812
+wait time in epsiode 142 78.42472222222223
+wait time in wait time W 142 22.565
+wait time in wait time N 142 14.425277777777778
+episode 143
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.86
+queue length in epsiode 143 1.031388888888889
+loss in epsiode 143 36.44244384765625
+wait time in epsiode 143 126.23805555555556
+wait time in wait time W 143 25.433333333333334
+wait time in wait time N 143 54.295833333333334
+episode 144
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.86
+queue length in epsiode 144 0.7863888888888889
+loss in epsiode 144 24.6956729888916
+wait time in epsiode 144 84.18916666666667
+wait time in wait time W 144 22.733055555555556
+wait time in wait time N 144 15.805
+episode 145
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.85
+queue length in epsiode 145 1.0533333333333332
+loss in epsiode 145 19.626571655273438
+wait time in epsiode 145 144.77333333333334
+wait time in wait time W 145 68.8
+wait time in wait time N 145 24.305555555555557
+episode 146
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.85
+queue length in epsiode 146 0.765
+loss in epsiode 146 24.247690200805664
+wait time in epsiode 146 84.97972222222222
+wait time in wait time W 146 29.059166666666666
+wait time in wait time N 146 23.651666666666667
+episode 147
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.85
+queue length in epsiode 147 1.0638888888888889
+loss in epsiode 147 18.46990966796875
+wait time in epsiode 147 120.82027777777778
+wait time in wait time W 147 25.931944444444444
+wait time in wait time N 147 27.0825
+episode 148
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 0.85
+queue length in epsiode 148 1.1883333333333332
+loss in epsiode 148 21.979732513427734
+wait time in epsiode 148 219.37833333333333
+wait time in wait time W 148 131.93277777777777
+wait time in wait time N 148 33.27611111111111
+episode 149
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 84, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 199, in run
+    self._directional_waiting_times_E.append(self.total_directional_waiting_times_E / self._step)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 317, in optimize_model
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\Model.py", line 16, in forward
+    x = F.max_pool2d(x, kernel_size=2, stride=2)
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\_jit_internal.py", line 499, in fn
+    return if_false(*args, **kwargs)
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\nn\functional.py", line 796, in _max_pool2d
+    return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+KeyboardInterrupt

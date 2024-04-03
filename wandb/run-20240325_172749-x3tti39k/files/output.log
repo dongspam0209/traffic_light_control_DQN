@@ -1,0 +1,74 @@
+episode 0
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+W: [101.0]
+epsilon 1.0
+queue length in epsiode 0 1.0986111111111112
+loss in epsiode 0 23.784231185913086
+wait time in epsiode 0 133.03416666666666
+wait time in wait time W 0 101.0
+wait time in wait time N 0 0.0
+episode 1
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+W: [101.0, 108.0]
+epsilon 1.0
+queue length in epsiode 1 1.4822222222222223
+loss in epsiode 1 21.363704681396484
+wait time in epsiode 1 195.80333333333334
+wait time in wait time W 1 108.0
+wait time in wait time N 1 0.0
+episode 2
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+W: [101.0, 108.0, 0.0]
+epsilon 1.0
+queue length in epsiode 2 1.556111111111111
+loss in epsiode 2 16.436744689941406
+wait time in epsiode 2 241.44166666666666
+wait time in wait time W 2 0.0
+wait time in wait time N 2 0.0
+episode 3
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+W: [101.0, 108.0, 0.0, 0.0]
+epsilon 1.0
+queue length in epsiode 3 1.806111111111111
+loss in epsiode 3 15.209628105163574
+wait time in epsiode 3 258.4244444444444
+wait time in wait time W 3 0.0
+wait time in wait time N 3 0.0
+episode 4
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+W: [101.0, 108.0, 0.0, 0.0, 0.0]
+epsilon 1.0
+queue length in epsiode 4 1.3508333333333333
+loss in epsiode 4 12.669363021850586
+wait time in epsiode 4 230.32861111111112
+wait time in wait time W 4 0.0
+wait time in wait time N 4 0.0
+episode 5
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 84, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 180, in run
+    if self._step != 0 and old_action_number != action_to_do:
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 299, in optimize_model
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\Model.py", line 22, in forward
+    x = F.relu(self.fc1(x))
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\nn\modules\module.py", line 1675, in __getattr__
+    def __getattr__(self, name: str) -> Any:
+KeyboardInterrupt

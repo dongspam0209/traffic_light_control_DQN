@@ -1,0 +1,12 @@
+episode 0
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+epsilon 1.0
+queue length in epsiode 0 1.4747222222222223
+loss in epsiode 0 73.01033782958984
+wait time in epsiode 0 204.30166666666668
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 88, in <module>
+    directional_waiting_times = Simulation.get_directional_waiting_times()
+TypeError: 'dict' object is not callable
