@@ -60,6 +60,8 @@ class Simulation:
         self.reward_per_epsiode=[]
         self.loss_history=[]
 
+        self.max_q_value_per_episode = []
+
         
 
     def run(self,episode,epsilon):
@@ -84,12 +86,14 @@ class Simulation:
         old_state = -1
         old_action_number=-1
         old_total_wait=0
-        print("현재 에피소드의 큐 길이: ", self.plot_queue_length)
-        print("현재 에피소드의 waiting time: ",self.plot_wait_time)
+        self.max_q_per_step = -100
+        # previous state #
+        self.old_state_history = [0, 0, 0]
+        self.state_history = [[[[0 for _ in range(100)] for _ in range(16)] for _ in range(3)] for _ in range(3)]
+        # previous action #
+        self.action_history = [-1, -1]
 
         while self._step < self._max_steps:
-            # print("현재 step은 : ", self._step)
-            # print("\n###################\n")
             ############# get state ##################
             current_state=self._get_state()
             df1=pd.DataFrame(current_state[0],index=lane)
@@ -99,9 +103,15 @@ class Simulation:
             df3=pd.DataFrame(current_state[2],index=lane)
             df3.to_csv('./intersection/generate_waiting_time.csv')
 
+            if len(self.state_history) >= 3:
+                self.state_history.pop(0)
+            self.state_history.append(current_state)
+
+
             ########## waiting time calculate ###############
             df3=df3.transpose()
             wait_time_sum_per_lane_list=[]
+
             # 각 방향에 대해 집계
             for direction in ['W_in', 'N_in', 'E_in', 'S_in']:
                 # W_in_0
@@ -114,7 +124,11 @@ class Simulation:
             self.wait_times_per_lane=wait_time_sum_per_lane_list
             current_total_wait=sum(wait_time_sum_per_lane_list)
             self._reward_wait_time=current_total_wait-old_total_wait
+
+
             #################################################
+
+            
             ########## queue_length calculate ###############
             df1=df1.transpose()
             df2=df2.transpose()
@@ -137,6 +151,7 @@ class Simulation:
             self._reward_queue_length=sum(queue_length_sum_per_lane_list)
             self.plot_queue_length+=self._reward_queue_length
             #################################################
+
             ############## to plot waiting time in one episode (total sum of waiting time in whole one episode ###################
             for lane_group in range (16):
                 for lane_cell in range (100):
@@ -147,12 +162,27 @@ class Simulation:
             ############# reward & memory push #######
             reward=self._reward()
             self.plot_reward+=reward
+
             if self._step != 0:
-                self._ReplayMemory.push(old_state, old_action_number,current_state,reward)
+                self._ReplayMemory.push(self.old_state_history, old_action_number,state_cat,reward,self.action_history)
             ###########################################
 
             ############ action select ##############
-            action_to_do=self._choose_action(current_state,epsilon)
+            tensor_list = [torch.tensor(x, device=device, dtype=torch.float) for x in self.state_history]
+            state_cat = torch.cat(tensor_list, dim=1)
+
+
+            
+            prev_actions_tensor = torch.tensor(self.action_history, dtype=torch.long).unsqueeze(0).to(device)
+            
+
+
+            action_to_do=self._choose_action(state_cat,prev_actions_tensor,epsilon)
+            
+            if len(self.action_history) >= 2: # action index 저장
+                self.action_history.pop(0)
+            self.action_history.append(action_to_do)
+
             if self._step != 0 and old_action_number != action_to_do:
                 self._set_yellow_phase(old_action_number)
                 self._simulate(self._yellow_duration)
@@ -161,7 +191,7 @@ class Simulation:
             self._simulate(duration)
             ###########################################
 
-            old_state=current_state
+            self.old_state_history=state_cat
             old_action_number=action_to_do
             old_total_wait=current_total_wait
             self.optimize_model()        
@@ -170,10 +200,9 @@ class Simulation:
         self.reward_per_epsiode.append(self.plot_reward/self._step)
         self._waiting_time_per_episode.append(self.plot_wait_time / self._step)
         self._queue_length_per_episode.append(self.plot_queue_length / self._step)
+        self.max_q_value_per_episode.append(self.max_q_per_step)
 
         print("epsilon",round(epsilon,2))
-        # print("큐 길이: ", self._queue_length_per_episode)
-       
         
         traci.close()
     
@@ -181,8 +210,7 @@ class Simulation:
         state=np.zeros((3,16,100))
         vehicle_list=traci.vehicle.getIDList()
         lane_group=0
-        # print(len(vehicle_list))
-        # print('get state')
+        
         for veh_id in vehicle_list:
             lane_position = traci.vehicle.getLanePosition(veh_id) # car position in lane
             lane_id=traci.vehicle.getLaneID(veh_id) # -> lane
@@ -227,18 +255,27 @@ class Simulation:
             traci.trafficlight.setPhase("intersection", PHASE_EWL_GREEN)
             return self._green_turn_duration
 
-    def _choose_action(self, state, epsilon):
+    def _choose_action(self, state, prev_actions_tensor, epsilon):
         """
         Decide wheter to perform an explorative or exploitative action, according to an epsilon-greedy policy
         """
-        state_tensor=torch.tensor([state],device=device,dtype=torch.float)
+        state_tensor = state
         if random.random() < epsilon:
-            # print("탐험중임. 현재 값: ", random.random())
+            # print("explore")
             return random.randint(0, self._num_actions - 1) # random action
         else:
             with torch.no_grad():
-                # print("탐험 안 함 : ", random.random())
-                return self.policy_net(state_tensor).max(1)[1].item() # the best action given the current state    
+                # print("exploit")
+                out = self.policy_net(state_tensor.unsqueeze(0),prev_actions_tensor)
+                max_val_list, max_q_action_list = torch.max(out, dim=1)
+                
+                max_index = torch.argmax(max_val_list) # 가장 큰 값의 index 추출
+                real_action = max_q_action_list[max_index] # 그 index에 해당하는 action 번호 추출
+                # print("max_val_list :",max_val_list,"max_q_action_list:",max_q_action_list)
+                # print("max Q value selected",real_action) 
+                
+
+                return real_action.item()
 
     def _simulate(self, steps_todo):
         """
@@ -261,25 +298,26 @@ class Simulation:
 
         experience = self._ReplayMemory.sample(BATCH_SIZE)
         batch = Experience(*zip(*experience))
-
+        
         # 최종이 아닌 상태의 마스크를 계산하고 배치 요소를 연결합니다
         # (최종 상태는 시뮬레이션이 종료 된 이후의 상태)
         non_final_mask = torch.tensor(tuple(map(lambda s: s is not None,
                                             batch.next_state)), device=device, dtype=torch.bool)
-        non_final_next_states = torch.cat([s for s in batch.next_state if s is not None]).view(-1,3,16,100).to(device)
+        non_final_next_states = torch.cat([s for s in batch.next_state if s is not None]).view(-1,3,48,100).to(device)
         # non_final_next_states = torch.cat([torch.tensor(s, dtype=torch.float).unsqueeze(0) for s in batch.next_state if s is not None]).to(device)
 
-        state_batch = torch.cat(batch.state).view(BATCH_SIZE,3,16,100).to(device)
-        # state_batch = torch.cat([torch.tensor(s, dtype=torch.float).unsqueeze(0) for s in batch.state]).to(device)
+        state_batch = torch.cat(batch.state).view(BATCH_SIZE,3,48,100).to(device)
         action_batch = torch.cat(batch.action).view(-1,1).to(device)
         reward_batch = torch.cat(batch.reward).to(device)
-
-        q_eval = self.policy_net(state_batch).gather(1, action_batch)
+        prev_actions_batch = torch.cat(batch.prev_actions).view(BATCH_SIZE, -1).to(device)  # prev_actions 처리
+        
+        # q_eval = self.policy_net(state_batch).gather(1, action_batch)
+        q_eval = self.policy_net(state_batch, prev_actions_batch).gather(1, action_batch)
 
         next_state_values = torch.zeros(BATCH_SIZE, device=device)
 
         with torch.no_grad():
-            next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+            next_state_values[non_final_mask] = self.target_net(non_final_next_states,prev_actions_batch[non_final_mask]).max(1)[0].detach()
        
         # 기대 Q 값 계산
         q_target = (next_state_values * GAMMA) + reward_batch
@@ -307,15 +345,15 @@ class Simulation:
         waiting_time=self._reward_wait_time
         queue_length=self._reward_queue_length
 
-        avg_waiting_time=80
-        avg_queue_length=1
+        avg_waiting_time=100
+        avg_queue_length=1.5
 
         each_waiting_time_for_fairness=self.wait_times_per_lane
         each_queue_length_for_fairness=self.queue_len_per_lane
         waiting_time_fairness=self.calculate_fairness_index(each_waiting_time_for_fairness)
         queue_length_fairness=self.calculate_fairness_index(each_queue_length_for_fairness)
 
-        reward=-(w_1*waiting_time/avg_waiting_time + w_2*queue_length/avg_queue_length+w_3*(w_1/(w_1+w_2)*waiting_time_fairness+ w_2/(w_1+w_2)*queue_length_fairness))
+        reward= -(w_1*waiting_time/avg_waiting_time + w_2*queue_length/avg_queue_length) + w_3*(w_1/(w_1+w_2)*waiting_time_fairness+ w_2/(w_1+w_2)*queue_length_fairness)
         
         return reward
     
@@ -344,4 +382,8 @@ class Simulation:
     @property
     def reward_store(self):
         return self.reward_per_epsiode
+    
+    @property
+    def max_q_value(self):
+        return self.max_q_value_per_episode
     

@@ -2,7 +2,6 @@ from generator import CarGenerator
 from util import set_sumo , set_train_path
 from simulation import Simulation
 import matplotlib.pyplot as plt
-from environment.traffic_signal import TrafficSignal
 from Model import DQN
 import traci
 from replay import ReplayMemory
@@ -93,8 +92,8 @@ if __name__ == "__main__":
                 "queue length": Simulation.queue_length_store[episode],
                 "loss": Simulation.loss_store[episode],
                 "wait time": Simulation.wait_time_store[episode],
-                "reward": Simulation.reward_store[episode]
-
+                "reward": Simulation.reward_store[episode],
+                "max Q-value" : Simulation.max_q_value[episode]
         })
         episode += 1
 
