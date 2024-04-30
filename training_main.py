@@ -2,6 +2,7 @@ from generator import CarGenerator
 from util import set_sumo , set_train_path
 from simulation import Simulation
 import matplotlib.pyplot as plt
+from environment.traffic_signal import TrafficSignal
 from Model import DQN
 import traci
 from replay import ReplayMemory
@@ -9,7 +10,7 @@ import wandb
 
 from visualization import Visualization
 ################################################################
-total_episode=500
+total_episode=1000
 n_cars_generated=1000
 
 num_states=(3,16,100)
@@ -38,7 +39,7 @@ if __name__ == "__main__":
 
 #################################################################
     sumocfg_file_name = "cross.sumocfg"
-    gui = True  # Change to False if you don't want the GUI
+    gui = False  # Change to False if you don't want the GUI
     max_steps=3600
     sumo_cmd = set_sumo(gui, sumocfg_file_name, max_steps)
     path=set_train_path('plot')
@@ -80,8 +81,7 @@ if __name__ == "__main__":
 
     while episode < total_episode:
         print(f'episode {episode}')
-        epsilon = 1.0-(episode/total_episode)
-        #epsilon = 0
+        epsilon=1.0-(episode/total_episode)
         Simulation.run(episode,epsilon)
         print(f'queue length in epsiode {episode}',Simulation.queue_length_store[episode])
         print(f'loss in epsiode {episode}',Simulation.loss_store[episode])
@@ -93,8 +93,7 @@ if __name__ == "__main__":
                 "queue length": Simulation.queue_length_store[episode],
                 "loss": Simulation.loss_store[episode],
                 "wait time": Simulation.wait_time_store[episode],
-                "reward": Simulation.reward_store[episode],
-                "max Q-value" : Simulation.max_q_value[episode]
+                "reward": Simulation.reward_store[episode]
 
         })
         episode += 1
