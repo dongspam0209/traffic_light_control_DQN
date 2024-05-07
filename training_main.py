@@ -9,7 +9,7 @@ import wandb
 
 from visualization import Visualization
 ################################################################
-total_episode=1000
+total_episode=500
 n_cars_generated=1000
 
 num_states=(3,16,100)
@@ -23,7 +23,6 @@ memory_capacity=1000
 wandb.init(
     # set the wandb project where this run will be logged
     project="tlsc-project",
-    
     # track hyperparameters and run metadata
     config={
     "learning_rate": 0.0001,
