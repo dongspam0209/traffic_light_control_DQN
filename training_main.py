@@ -76,10 +76,12 @@ if __name__ == "__main__":
 
     episode=0
 
-
+    epsilon=1.0
+    min_epsilon=0.1
+    decay_rate=0.99
     while episode < total_episode:
         print(f'episode {episode}')
-        epsilon=1.0-(episode/total_episode)
+        epsilon=max(min_epsilon,epsilon*decay_rate)
         Simulation.run(episode,epsilon)
         print(f'queue length in epsiode {episode}',Simulation.queue_length_store[episode])
         print(f'loss in epsiode {episode}',Simulation.loss_store[episode])

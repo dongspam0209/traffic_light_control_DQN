@@ -202,7 +202,7 @@ class Simulation:
         self._queue_length_per_episode.append(self.plot_queue_length / self._step)
         self.max_q_value_per_episode.append(self.max_q_per_step)
 
-        print("epsilon",round(epsilon,2))
+        print(f"epsilon : {epsilon:.3f}")
         
         traci.close()
     
