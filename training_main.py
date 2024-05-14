@@ -1,5 +1,5 @@
 from generator import CarGenerator
-from util import set_sumo , set_train_path
+from util import set_sumo, set_train_path
 from simulation import Simulation
 import matplotlib.pyplot as plt
 from Model import DQN
@@ -8,51 +8,51 @@ from replay import ReplayMemory
 import wandb
 
 from visualization import Visualization
+
 ################################################################
-total_episode=500
-n_cars_generated=1000
+total_episode = 500
+n_cars_generated = 1000
 
-num_states=(3,16,100)
-num_actions=4
+num_states = (3, 16, 100)
+num_actions = 4
 
-yellow_duration=3
-green_duration=8
-green_turn_duration=4
-memory_capacity=1000
+yellow_duration = 3
+green_duration = 8
+green_turn_duration = 4
+memory_capacity = 1000
 
 wandb.init(
     # set the wandb project where this run will be logged
-    project="tlsc-project",
+    project="trafficsignal",
     # track hyperparameters and run metadata
     config={
-    "learning_rate": 0.0001,
-    "architecture": "DQN",
-    "dataset": "CIFAR-100",
-    "epochs": 10000,
+        "learning_rate": 0.0001,
+        "architecture": "DQN",
+        "dataset": "CIFAR-100",
+        "epochs": 10000,
     }
 )
 ################################################################
 
 if __name__ == "__main__":
 
-#################################################################
+    #################################################################
     sumocfg_file_name = "cross.sumocfg"
     gui = False  # Change to False if you don't want the GUI
-    max_steps=3600
+    max_steps = 3600
     sumo_cmd = set_sumo(gui, sumocfg_file_name, max_steps)
-    path=set_train_path('plot')
-##################################################################
+    path = set_train_path('plot')
+    ##################################################################
 
-
-    ReplayMemory=ReplayMemory(
+    ReplayMemory = ReplayMemory(
         memory_capacity
     )
-    CarGenerator=CarGenerator(
+    CarGenerator = CarGenerator(
         max_steps,
         n_cars_generated
     )
 
-    Simulation=Simulation(
+    Simulation = Simulation(
         DQN,
         ReplayMemory,
         CarGenerator,
@@ -63,46 +63,46 @@ if __name__ == "__main__":
         green_duration,
         yellow_duration,
         green_turn_duration,
-        
+
     )
-    DQN=DQN(
+    DQN = DQN(
         num_states,
         num_actions
     )
-    Visualization=Visualization(
+    Visualization = Visualization(
         path,
         dpi=96
     )
 
-    episode=0
+    episode = 0
 
-    epsilon=1.0
-    min_epsilon=0.1
-    decay_rate=0.99
+    epsilon = 1.0
+    min_epsilon = 0.1
+    decay_rate = 0.99
     while episode < total_episode:
         print(f'episode {episode}')
-        epsilon=max(min_epsilon,epsilon*decay_rate)
-        Simulation.run(episode,epsilon)
-        print(f'queue length in epsiode {episode}',Simulation.queue_length_store[episode])
-        print(f'loss in epsiode {episode}',Simulation.loss_store[episode])
-        print(f'wait time in epsiode {episode}',Simulation.wait_time_store[episode])
+        epsilon = max(min_epsilon, epsilon * decay_rate)
+        Simulation.run(episode, epsilon)
+        print(f'queue length in epsiode {episode}', Simulation.queue_length_store[episode])
+        print(f'loss in epsiode {episode}', Simulation.loss_store[episode])
+        print(f'wait time in epsiode {episode}', Simulation.wait_time_store[episode])
 
         # wandb
         wandb.log({
-                "episode": episode,
-                "queue length": Simulation.queue_length_store[episode],
-                "loss": Simulation.loss_store[episode],
-                "wait time": Simulation.wait_time_store[episode],
-                "reward": Simulation.reward_store[episode],
-                "max Q-value" : Simulation.max_q_value[episode]
+            "episode": episode,
+            "epsilon": epsilon,
+            "queue length": Simulation.queue_length_store[episode],
+            "loss": Simulation.loss_store[episode],
+            "wait time": Simulation.wait_time_store[episode],
+            "reward": Simulation.reward_store[episode],
+            "max Q-value": Simulation.max_q_value[episode]
         })
         episode += 1
 
+    Visualization.save_data_and_plot(data=Simulation.queue_length_store, filename='queue', xlabel='Episode',
+                                     ylabel='queue length')
+    Visualization.save_data_and_plot(data=Simulation.loss_store, filename='loss', xlabel='Episode', ylabel='loss')
+    Visualization.save_data_and_plot(data=Simulation.wait_time_store, filename='wait_time_episode', xlabel='Episode',
+                                     ylabel='wait_time')
 
 
-    Visualization.save_data_and_plot(data=Simulation.queue_length_store,filename='queue',xlabel='Episode',ylabel='queue length')
-    Visualization.save_data_and_plot(data=Simulation.loss_store,filename='loss',xlabel='Episode',ylabel='loss')
-    Visualization.save_data_and_plot(data=Simulation.wait_time_store,filename='wait_time_episode',xlabel='Episode',ylabel='wait_time')
-
-
- 

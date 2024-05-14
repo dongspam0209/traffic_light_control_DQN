@@ -6,7 +6,6 @@ def set_sumo(gui, sumocfg_file_name, max_steps):
     """
     Configure various parameters of SUMO
     """
-    
     # sumo things - we need to import python modules from the $SUMO_HOME/tools directory
     if 'SUMO_HOME' in os.environ:
         tools = os.path.join(os.environ['SUMO_HOME'], 'tools')
@@ -41,4 +40,4 @@ def set_train_path(models_path_name):
 
     data_path = os.path.join(models_path, 'model_'+new_version, '')
     os.makedirs(os.path.dirname(data_path), exist_ok=True)
-    return data_path 
+    return data_path

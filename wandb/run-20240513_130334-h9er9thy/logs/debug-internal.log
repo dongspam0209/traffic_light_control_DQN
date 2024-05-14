@@ -1,0 +1,197 @@
+2024-05-13 13:03:34,732 INFO    StreamThr :27420 [internal.py:wandb_internal():85] W&B internal server running at pid: 27420, started at: 2024-05-13 13:03:34.731551
+2024-05-13 13:03:34,733 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: status
+2024-05-13 13:03:34,743 INFO    WriterThread:27420 [datastore.py:open_for_write():87] open: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\run-h9er9thy.wandb
+2024-05-13 13:03:34,745 DEBUG   SenderThread:27420 [sender.py:send():378] send: header
+2024-05-13 13:03:34,793 DEBUG   SenderThread:27420 [sender.py:send():378] send: run
+2024-05-13 13:03:35,525 INFO    SenderThread:27420 [dir_watcher.py:__init__():211] watching files in: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files
+2024-05-13 13:03:35,525 INFO    SenderThread:27420 [sender.py:_start_run_threads():1123] run started: h9er9thy with start time 1715573014.732581
+2024-05-13 13:03:35,537 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: check_version
+2024-05-13 13:03:35,538 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: check_version
+2024-05-13 13:03:35,642 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: run_start
+2024-05-13 13:03:35,665 DEBUG   HandlerThread:27420 [system_info.py:__init__():26] System info init
+2024-05-13 13:03:35,665 DEBUG   HandlerThread:27420 [system_info.py:__init__():41] System info init done
+2024-05-13 13:03:35,665 INFO    HandlerThread:27420 [system_monitor.py:start():194] Starting system monitor
+2024-05-13 13:03:35,665 INFO    SystemMonitor:27420 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-05-13 13:03:35,665 INFO    HandlerThread:27420 [system_monitor.py:probe():214] Collecting system info
+2024-05-13 13:03:35,673 INFO    SystemMonitor:27420 [interfaces.py:start():188] Started cpu monitoring
+2024-05-13 13:03:35,673 INFO    SystemMonitor:27420 [interfaces.py:start():188] Started disk monitoring
+2024-05-13 13:03:35,680 DEBUG   HandlerThread:27420 [system_info.py:probe():150] Probing system
+2024-05-13 13:03:35,692 INFO    SystemMonitor:27420 [interfaces.py:start():188] Started memory monitoring
+2024-05-13 13:03:35,713 INFO    SystemMonitor:27420 [interfaces.py:start():188] Started network monitoring
+2024-05-13 13:03:35,714 DEBUG   HandlerThread:27420 [system_info.py:_probe_git():135] Probing git
+2024-05-13 13:03:35,799 DEBUG   HandlerThread:27420 [system_info.py:_probe_git():143] Probing git done
+2024-05-13 13:03:35,800 DEBUG   HandlerThread:27420 [system_info.py:probe():198] Probing system done
+2024-05-13 13:03:35,800 DEBUG   HandlerThread:27420 [system_monitor.py:probe():223] {'os': 'Windows-10-10.0.22631-SP0', 'python': '3.10.10', 'heartbeatAt': '2024-05-13T04:03:35.681235', 'startedAt': '2024-05-13T04:03:34.722327', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': 'C:\\Users\\nks23\\python310\\traffic_signal_control\\traffic_light_control\\traffic_light_control_DQN-master\\training_main.py', 'codePathLocal': 'training_main.py', 'codePath': 'training_main.py', 'git': {'remote': 'https://github.com/dongspam0209/traffic_light_control_DQN', 'commit': 'fa020fa208573823187d60d922beead016f325fd'}, 'email': '[Github', 'root': 'C:/Users/nks23/python310/traffic_signal_control/traffic_light_control/traffic_light_control_DQN-master', 'host': 'Áö±¸', 'username': 'nks23', 'executable': 'C:\\Users\\nks23\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'cpu_count': 12, 'cpu_count_logical': 16, 'cpu_freq': {'current': 2100.0, 'min': 0.0, 'max': 2100.0}, 'cpu_freq_per_core': [{'current': 2100.0, 'min': 0.0, 'max': 2100.0}], 'disk': {'/': {'total': 935.6816368103027, 'used': 196.60425186157227}}, 'memory': {'total': 15.70638656616211}}
+2024-05-13 13:03:35,800 INFO    HandlerThread:27420 [system_monitor.py:probe():224] Finished collecting system info
+2024-05-13 13:03:35,800 INFO    HandlerThread:27420 [system_monitor.py:probe():227] Publishing system info
+2024-05-13 13:03:35,801 INFO    HandlerThread:27420 [system_monitor.py:probe():229] Finished publishing system info
+2024-05-13 13:03:35,816 DEBUG   SenderThread:27420 [sender.py:send():378] send: files
+2024-05-13 13:03:35,816 INFO    SenderThread:27420 [sender.py:_save_file():1389] saving file wandb-metadata.json with policy now
+2024-05-13 13:03:35,929 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: python_packages
+2024-05-13 13:03:35,929 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: python_packages
+2024-05-13 13:03:35,929 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-13 13:03:35,930 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: stop_status
+2024-05-13 13:03:36,238 DEBUG   SenderThread:27420 [sender.py:send():378] send: telemetry
+2024-05-13 13:03:36,530 INFO    Thread-16 :27420 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\requirements.txt
+2024-05-13 13:03:36,530 INFO    Thread-16 :27420 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\wandb-metadata.json
+2024-05-13 13:03:36,743 INFO    wandb-upload_0:27420 [upload_job.py:push():130] Uploaded file C:\Users\nks23\AppData\Local\Temp\tmp49816dnlwandb\wt5lmg8z-wandb-metadata.json
+2024-05-13 13:03:37,537 INFO    Thread-16 :27420 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\output.log
+2024-05-13 13:03:39,563 INFO    Thread-16 :27420 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\output.log
+2024-05-13 13:03:39,763 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: status_report
+2024-05-13 13:03:41,596 INFO    Thread-16 :27420 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\output.log
+2024-05-13 13:03:43,120 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: partial_history
+2024-05-13 13:03:43,123 DEBUG   SenderThread:27420 [sender.py:send():378] send: history
+2024-05-13 13:03:43,124 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: summary_record
+2024-05-13 13:03:43,126 INFO    SenderThread:27420 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-05-13 13:03:43,624 INFO    Thread-16 :27420 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\output.log
+2024-05-13 13:03:43,624 INFO    Thread-16 :27420 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\wandb-summary.json
+2024-05-13 13:03:44,786 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: status_report
+2024-05-13 13:03:45,639 INFO    Thread-16 :27420 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\output.log
+2024-05-13 13:03:47,667 INFO    Thread-16 :27420 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\output.log
+2024-05-13 13:03:49,222 DEBUG   SenderThread:27420 [sender.py:send():378] send: exit
+2024-05-13 13:03:49,222 INFO    SenderThread:27420 [sender.py:send_exit():585] handling exit code: 1
+2024-05-13 13:03:49,222 INFO    SenderThread:27420 [sender.py:send_exit():587] handling runtime: 13
+2024-05-13 13:03:49,223 INFO    SenderThread:27420 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-05-13 13:03:49,225 INFO    SenderThread:27420 [sender.py:send_exit():593] send defer
+2024-05-13 13:03:49,226 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: defer
+2024-05-13 13:03:49,226 INFO    HandlerThread:27420 [handler.py:handle_request_defer():184] handle defer: 0
+2024-05-13 13:03:49,226 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: defer
+2024-05-13 13:03:49,226 INFO    SenderThread:27420 [sender.py:send_request_defer():609] handle sender defer: 0
+2024-05-13 13:03:49,227 INFO    SenderThread:27420 [sender.py:transition_state():613] send defer: 1
+2024-05-13 13:03:49,228 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: defer
+2024-05-13 13:03:49,228 INFO    HandlerThread:27420 [handler.py:handle_request_defer():184] handle defer: 1
+2024-05-13 13:03:49,228 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: defer
+2024-05-13 13:03:49,228 INFO    SenderThread:27420 [sender.py:send_request_defer():609] handle sender defer: 1
+2024-05-13 13:03:49,228 INFO    SenderThread:27420 [sender.py:transition_state():613] send defer: 2
+2024-05-13 13:03:49,229 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: defer
+2024-05-13 13:03:49,229 INFO    HandlerThread:27420 [handler.py:handle_request_defer():184] handle defer: 2
+2024-05-13 13:03:49,229 INFO    HandlerThread:27420 [system_monitor.py:finish():203] Stopping system monitor
+2024-05-13 13:03:49,229 DEBUG   SystemMonitor:27420 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-05-13 13:03:49,230 INFO    HandlerThread:27420 [interfaces.py:finish():200] Joined cpu monitor
+2024-05-13 13:03:49,230 DEBUG   SystemMonitor:27420 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-05-13 13:03:49,230 INFO    HandlerThread:27420 [interfaces.py:finish():200] Joined disk monitor
+2024-05-13 13:03:49,230 DEBUG   SystemMonitor:27420 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-05-13 13:03:49,230 INFO    HandlerThread:27420 [interfaces.py:finish():200] Joined memory monitor
+2024-05-13 13:03:49,231 INFO    HandlerThread:27420 [interfaces.py:finish():200] Joined network monitor
+2024-05-13 13:03:49,231 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: defer
+2024-05-13 13:03:49,231 INFO    SenderThread:27420 [sender.py:send_request_defer():609] handle sender defer: 2
+2024-05-13 13:03:49,231 INFO    SenderThread:27420 [sender.py:transition_state():613] send defer: 3
+2024-05-13 13:03:49,231 DEBUG   SenderThread:27420 [sender.py:send():378] send: stats
+2024-05-13 13:03:49,233 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: defer
+2024-05-13 13:03:49,233 INFO    HandlerThread:27420 [handler.py:handle_request_defer():184] handle defer: 3
+2024-05-13 13:03:49,233 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: defer
+2024-05-13 13:03:49,233 INFO    SenderThread:27420 [sender.py:send_request_defer():609] handle sender defer: 3
+2024-05-13 13:03:49,233 INFO    SenderThread:27420 [sender.py:transition_state():613] send defer: 4
+2024-05-13 13:03:49,233 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: defer
+2024-05-13 13:03:49,234 INFO    HandlerThread:27420 [handler.py:handle_request_defer():184] handle defer: 4
+2024-05-13 13:03:49,234 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: defer
+2024-05-13 13:03:49,234 INFO    SenderThread:27420 [sender.py:send_request_defer():609] handle sender defer: 4
+2024-05-13 13:03:49,234 INFO    SenderThread:27420 [sender.py:transition_state():613] send defer: 5
+2024-05-13 13:03:49,234 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: defer
+2024-05-13 13:03:49,234 INFO    HandlerThread:27420 [handler.py:handle_request_defer():184] handle defer: 5
+2024-05-13 13:03:49,235 DEBUG   SenderThread:27420 [sender.py:send():378] send: summary
+2024-05-13 13:03:49,235 INFO    SenderThread:27420 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-05-13 13:03:49,236 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: defer
+2024-05-13 13:03:49,236 INFO    SenderThread:27420 [sender.py:send_request_defer():609] handle sender defer: 5
+2024-05-13 13:03:49,236 INFO    SenderThread:27420 [sender.py:transition_state():613] send defer: 6
+2024-05-13 13:03:49,237 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: defer
+2024-05-13 13:03:49,237 INFO    HandlerThread:27420 [handler.py:handle_request_defer():184] handle defer: 6
+2024-05-13 13:03:49,237 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: defer
+2024-05-13 13:03:49,237 INFO    SenderThread:27420 [sender.py:send_request_defer():609] handle sender defer: 6
+2024-05-13 13:03:49,239 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: status_report
+2024-05-13 13:03:49,485 INFO    SenderThread:27420 [sender.py:transition_state():613] send defer: 7
+2024-05-13 13:03:49,485 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: defer
+2024-05-13 13:03:49,485 INFO    HandlerThread:27420 [handler.py:handle_request_defer():184] handle defer: 7
+2024-05-13 13:03:49,485 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: defer
+2024-05-13 13:03:49,485 INFO    SenderThread:27420 [sender.py:send_request_defer():609] handle sender defer: 7
+2024-05-13 13:03:49,685 INFO    Thread-16 :27420 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\wandb-summary.json
+2024-05-13 13:03:49,686 INFO    Thread-16 :27420 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\config.yaml
+2024-05-13 13:03:49,686 INFO    Thread-16 :27420 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\output.log
+2024-05-13 13:03:50,234 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-13 13:03:51,695 INFO    Thread-16 :27420 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\output.log
+2024-05-13 13:03:53,234 INFO    SenderThread:27420 [sender.py:transition_state():613] send defer: 8
+2024-05-13 13:03:53,235 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: poll_exit
+2024-05-13 13:03:53,236 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: defer
+2024-05-13 13:03:53,236 INFO    HandlerThread:27420 [handler.py:handle_request_defer():184] handle defer: 8
+2024-05-13 13:03:53,237 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: defer
+2024-05-13 13:03:53,237 INFO    SenderThread:27420 [sender.py:send_request_defer():609] handle sender defer: 8
+2024-05-13 13:03:53,237 INFO    SenderThread:27420 [job_builder.py:build():432] Attempting to build job artifact
+2024-05-13 13:03:53,238 INFO    SenderThread:27420 [job_builder.py:_get_source_type():565] is repo sourced job
+2024-05-13 13:03:53,265 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-13 13:03:53,323 INFO    SenderThread:27420 [job_builder.py:build():541] adding wandb-job metadata file
+2024-05-13 13:03:53,349 INFO    SenderThread:27420 [sender.py:transition_state():613] send defer: 9
+2024-05-13 13:03:53,349 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: poll_exit
+2024-05-13 13:03:53,350 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: defer
+2024-05-13 13:03:53,350 DEBUG   SenderThread:27420 [sender.py:send():378] send: artifact
+2024-05-13 13:03:53,350 INFO    HandlerThread:27420 [handler.py:handle_request_defer():184] handle defer: 9
+2024-05-13 13:03:53,770 INFO    Thread-16 :27420 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\output.log
+2024-05-13 13:03:54,290 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-13 13:03:54,832 INFO    wandb-upload_0:27420 [upload_job.py:push():85] Skipped uploading C:\Users\nks23\AppData\Local\wandb\wandb\artifacts\staging\tmp27sajmlp
+2024-05-13 13:03:55,187 INFO    wandb-upload_1:27420 [upload_job.py:push():88] Uploaded file C:\Users\nks23\AppData\Local\Temp\tmpy5gztuco\wandb-job.json
+2024-05-13 13:03:56,613 INFO    SenderThread:27420 [sender.py:send_artifact():1467] sent artifact job-https___github.com_dongspam0209_traffic_light_control_DQN_training_main.py - {'id': 'QXJ0aWZhY3Q6ODMzNzc0NTkw', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE1NTcwNTY2Ng==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6ODI4NzMzMjE3', 'versionIndex': 3}}}
+2024-05-13 13:03:56,613 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: defer
+2024-05-13 13:03:56,613 INFO    SenderThread:27420 [sender.py:send_request_defer():609] handle sender defer: 9
+2024-05-13 13:03:56,613 INFO    SenderThread:27420 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-05-13 13:03:56,789 INFO    SenderThread:27420 [dir_watcher.py:finish():388] scan: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files
+2024-05-13 13:03:56,790 INFO    SenderThread:27420 [dir_watcher.py:finish():402] scan save: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\config.yaml config.yaml
+2024-05-13 13:03:56,790 INFO    SenderThread:27420 [dir_watcher.py:finish():402] scan save: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\output.log output.log
+2024-05-13 13:03:56,790 INFO    SenderThread:27420 [dir_watcher.py:finish():402] scan save: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\requirements.txt requirements.txt
+2024-05-13 13:03:56,793 INFO    SenderThread:27420 [dir_watcher.py:finish():402] scan save: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\wandb-metadata.json wandb-metadata.json
+2024-05-13 13:03:56,793 INFO    SenderThread:27420 [dir_watcher.py:finish():402] scan save: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\wandb-summary.json wandb-summary.json
+2024-05-13 13:03:56,794 INFO    SenderThread:27420 [sender.py:transition_state():613] send defer: 10
+2024-05-13 13:03:56,794 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: poll_exit
+2024-05-13 13:03:56,796 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: defer
+2024-05-13 13:03:56,796 INFO    HandlerThread:27420 [handler.py:handle_request_defer():184] handle defer: 10
+2024-05-13 13:03:56,797 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: defer
+2024-05-13 13:03:56,797 INFO    SenderThread:27420 [sender.py:send_request_defer():609] handle sender defer: 10
+2024-05-13 13:03:56,797 INFO    SenderThread:27420 [file_pusher.py:finish():169] shutting down file pusher
+2024-05-13 13:03:57,330 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-13 13:03:57,330 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: poll_exit
+2024-05-13 13:03:57,428 INFO    wandb-upload_0:27420 [upload_job.py:push():130] Uploaded file C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\config.yaml
+2024-05-13 13:03:57,456 INFO    wandb-upload_2:27420 [upload_job.py:push():130] Uploaded file C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\requirements.txt
+2024-05-13 13:03:57,477 INFO    wandb-upload_3:27420 [upload_job.py:push():130] Uploaded file C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\wandb-summary.json
+2024-05-13 13:03:57,677 INFO    wandb-upload_1:27420 [upload_job.py:push():130] Uploaded file C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\files\output.log
+2024-05-13 13:03:57,887 INFO    Thread-15 (_thread_body):27420 [sender.py:transition_state():613] send defer: 11
+2024-05-13 13:03:57,888 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: defer
+2024-05-13 13:03:57,888 INFO    HandlerThread:27420 [handler.py:handle_request_defer():184] handle defer: 11
+2024-05-13 13:03:57,890 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: defer
+2024-05-13 13:03:57,891 INFO    SenderThread:27420 [sender.py:send_request_defer():609] handle sender defer: 11
+2024-05-13 13:03:57,891 INFO    SenderThread:27420 [file_pusher.py:join():175] waiting for file pusher
+2024-05-13 13:03:57,892 INFO    SenderThread:27420 [sender.py:transition_state():613] send defer: 12
+2024-05-13 13:03:57,893 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: defer
+2024-05-13 13:03:57,893 INFO    HandlerThread:27420 [handler.py:handle_request_defer():184] handle defer: 12
+2024-05-13 13:03:57,893 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: defer
+2024-05-13 13:03:57,893 INFO    SenderThread:27420 [sender.py:send_request_defer():609] handle sender defer: 12
+2024-05-13 13:03:57,893 INFO    SenderThread:27420 [file_stream.py:finish():601] file stream finish called
+2024-05-13 13:03:58,109 INFO    SenderThread:27420 [file_stream.py:finish():605] file stream finish is done
+2024-05-13 13:03:58,109 INFO    SenderThread:27420 [sender.py:transition_state():613] send defer: 13
+2024-05-13 13:03:58,109 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: defer
+2024-05-13 13:03:58,109 INFO    HandlerThread:27420 [handler.py:handle_request_defer():184] handle defer: 13
+2024-05-13 13:03:58,110 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: defer
+2024-05-13 13:03:58,110 INFO    SenderThread:27420 [sender.py:send_request_defer():609] handle sender defer: 13
+2024-05-13 13:03:58,110 INFO    SenderThread:27420 [sender.py:transition_state():613] send defer: 14
+2024-05-13 13:03:58,110 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: defer
+2024-05-13 13:03:58,111 INFO    HandlerThread:27420 [handler.py:handle_request_defer():184] handle defer: 14
+2024-05-13 13:03:58,111 DEBUG   SenderThread:27420 [sender.py:send():378] send: final
+2024-05-13 13:03:58,111 DEBUG   SenderThread:27420 [sender.py:send():378] send: footer
+2024-05-13 13:03:58,111 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: defer
+2024-05-13 13:03:58,112 INFO    SenderThread:27420 [sender.py:send_request_defer():609] handle sender defer: 14
+2024-05-13 13:03:58,112 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-13 13:03:58,113 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-13 13:03:58,113 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: server_info
+2024-05-13 13:03:58,113 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: get_summary
+2024-05-13 13:03:58,113 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: sampled_history
+2024-05-13 13:03:58,114 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: internal_messages
+2024-05-13 13:03:58,116 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: poll_exit
+2024-05-13 13:03:58,116 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: poll_exit
+2024-05-13 13:03:58,116 DEBUG   SenderThread:27420 [sender.py:send_request():405] send_request: server_info
+2024-05-13 13:03:58,311 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: status_report
+2024-05-13 13:03:58,312 INFO    MainThread:27420 [wandb_run.py:_footer_history_summary_info():3994] rendering history
+2024-05-13 13:03:58,312 INFO    MainThread:27420 [wandb_run.py:_footer_history_summary_info():4026] rendering summary
+2024-05-13 13:03:58,312 INFO    MainThread:27420 [wandb_run.py:_footer_sync_info():3953] logging synced files
+2024-05-13 13:03:58,315 DEBUG   HandlerThread:27420 [handler.py:handle_request():158] handle_request: shutdown
+2024-05-13 13:03:58,316 INFO    HandlerThread:27420 [handler.py:finish():882] shutting down handler
+2024-05-13 13:03:59,318 INFO    SenderThread:27420 [sender.py:finish():1545] shutting down sender
+2024-05-13 13:03:59,318 INFO    SenderThread:27420 [file_pusher.py:finish():169] shutting down file pusher
+2024-05-13 13:03:59,318 INFO    SenderThread:27420 [file_pusher.py:join():175] waiting for file pusher
+2024-05-13 13:03:59,318 INFO    WriterThread:27420 [datastore.py:close():296] close: C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\wandb\run-20240513_130334-h9er9thy\run-h9er9thy.wandb

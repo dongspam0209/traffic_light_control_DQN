@@ -1,0 +1,1 @@
+{"epsilon": 1.0, "episode": 0, "queue length": 0.6647222222222222, "loss": null, "wait time": 152.52, "reward": -0.14461976085129088, "max Q-value": null, "_timestamp": 1715573023.120043, "_runtime": 8.387462139129639, "_step": 0, "_wandb": {"runtime": 13}}

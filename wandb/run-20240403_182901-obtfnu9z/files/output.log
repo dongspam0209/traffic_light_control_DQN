@@ -1,0 +1,94 @@
+episode 0
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+Last step reward:  0.20000000298023224 / 3-step total rewards:  0.5419999957084656
+Last step reward:  0.20000000298023224 / 3-step total rewards:  0.5419999957084656
+Last step reward:  0.20000000298023224 / 3-step total rewards:  0.5419999957084656
+Last step reward:  -0.03099999949336052 / 3-step total rewards:  0.35488998889923096
+Last step reward:  -0.07847080379724503 / 3-step total rewards:  0.1085386574268341
+Last step reward:  -0.17663313448429108 / 3-step total rewards:  -0.24469655752182007
+Last step reward:  -0.07522516697645187 / 3-step total rewards:  -0.2983730137348175
+Last step reward:  0.03745667263865471 / 3-step total rewards:  -0.21399587392807007
+Last step reward:  -0.10326845943927765 / 3-step total rewards:  -0.12516161799430847
+Last step reward:  -0.037963878363370895 / 3-step total rewards:  -0.08623567968606949
+Last step reward:  -0.04061784967780113 / 3-step total rewards:  -0.17033639550209045
+Last step reward:  -0.1019308865070343 / 3-step total rewards:  -0.15708395838737488
+Last step reward:  -0.10862454026937485 / 3-step total rewards:  -0.2203415334224701
+Last step reward:  -0.05180204659700394 / 3-step total rewards:  -0.24165262281894684
+Last step reward:  -0.27550578117370605 / 3-step total rewards:  -0.3784060478210449
+Last step reward:  -0.4018001854419708 / 3-step total rewards:  -0.6252154111862183
+Last step reward:  -0.45733264088630676 / 3-step total rewards:  -1.0075653791427612
+Last step reward:  -0.446178138256073 / 3-step total rewards:  -1.1748038530349731
+Last step reward:  -0.3559698462486267 / 3-step total rewards:  -1.147228479385376
+Last step reward:  -0.7196893692016602 / 3-step total rewards:  -1.3494994640350342
+Last step reward:  -0.6278597116470337 / 3-step total rewards:  -1.5122566223144531
+Last step reward:  -0.4826016426086426 / 3-step total rewards:  -1.6756703853607178
+Last step reward:  -0.956245481967926 / 3-step total rewards:  -1.8367600440979004
+Last step reward:  0.040448714047670364 / 3-step total rewards:  -1.3104591369628906
+Last step reward:  -0.8404171466827393 / 3-step total rewards:  -1.6005795001983643
+Last step reward:  -0.8224208950996399 / 3-step total rewards:  -1.3820877075195312
+Last step reward:  -0.9300549030303955 / 3-step total rewards:  -2.3339405059814453
+Last step reward:  -0.5587735176086426 / 3-step total rewards:  -2.112076759338379
+Last step reward:  -1.0693269968032837 / 3-step total rewards:  -2.2991058826446533
+Last step reward:  0.7143226861953735 / 3-step total rewards:  -0.9425663948059082
+Last step reward:  -0.37479427456855774 / 3-step total rewards:  -0.7300199270248413
+Last step reward:  -0.853330671787262 / 3-step total rewards:  -0.3141900300979614
+Last step reward:  -0.048025887459516525 / 3-step total rewards:  -1.1816928386688232
+Last step reward:  -0.2766810357570648 / 3-step total rewards:  -1.1206656694412231
+Last step reward:  0.13545022904872894 / 3-step total rewards:  -0.1873241364955902
+Last step reward:  -0.26045501232147217 / 3-step total rewards:  -0.36574438214302063
+Last step reward:  0.1897634118795395 / 3-step total rewards:  0.05474908649921417
+Last step reward:  -0.03870541602373123 / 3-step total rewards:  -0.12101933360099792
+Last step reward:  3.317566394805908 / 3-step total rewards:  2.8421571254730225
+Last step reward:  -0.5070578455924988 / 3-step total rewards:  2.5363874435424805
+Last step reward:  -0.18245664238929749 / 3-step total rewards:  2.7134244441986084
+Last step reward:  -0.1345275491476059 / 3-step total rewards:  -0.7802361249923706
+Last step reward:  -0.05948346480727196 / 3-step total rewards:  -0.35171306133270264
+Last step reward:  -0.039271753281354904 / 3-step total rewards:  -0.21987278759479523
+Last step reward:  -0.20370489358901978 / 3-step total rewards:  -0.25982898473739624
+Last step reward:  0.2180139571428299 / 3-step total rewards:  -0.04601484537124634
+Last step reward:  0.4154215455055237 / 3-step total rewards:  0.3289991319179535
+Last step reward:  -0.21653492748737335 / 3-step total rewards:  0.4165000319480896
+Last step reward:  -0.34099051356315613 / 3-step total rewards:  -0.05566219985485077
+Last step reward:  -0.2836054265499115 / 3-step total rewards:  -0.753146767616272
+Last step reward:  -0.43160805106163025 / 3-step total rewards:  -0.9458379149436951
+Last step reward:  -0.04498933255672455 / 3-step total rewards:  -0.7084940075874329
+Last step reward:  -0.369858056306839 / 3-step total rewards:  -0.7716834545135498
+Last step reward:  -0.7730220556259155 / 3-step total rewards:  -1.004009485244751
+Last step reward:  -0.7538156509399414 / 3-step total rewards:  -1.6761685609817505
+Last step reward:  -1.058950662612915 / 3-step total rewards:  -2.309206008911133
+Last step reward:  -1.1360098123550415 / 3-step total rewards:  -2.6270391941070557
+Last step reward:  -1.726628065109253 / 3-step total rewards:  -3.4799280166625977
+Last step reward:  -0.0014073613565415144 / 3-step total rewards:  -2.691114902496338
+Last step reward:  0.37119534611701965 / 3-step total rewards:  -1.4272264242172241
+Last step reward:  -0.447773277759552 / 3-step total rewards:  -0.03002789616584778
+Last step reward:  -0.03393980860710144 / 3-step total rewards:  -0.05929184332489967
+Last step reward:  -0.48793813586235046 / 3-step total rewards:  -0.8735489845275879
+Last step reward:  -0.3531455099582672 / 3-step total rewards:  -0.7591320276260376
+Last step reward:  -0.7317190766334534 / 3-step total rewards:  -1.3984615802764893
+Last step reward:  -0.5589771866798401 / 3-step total rewards:  -1.4644641876220703
+Last step reward:  0.343761146068573 / 3-step total rewards:  -0.9563519954681396
+Last step reward:  0.07938548922538757 / 3-step total rewards:  -0.1852899193763733
+Last step reward:  -0.9826700091362 / 3-step total rewards:  -0.38075459003448486
+Last step reward:  -0.9266964793205261 / 3-step total rewards:  -1.5556416511535645
+Last step reward:  -0.9183394312858582 / 3-step total rewards:  -2.560551881790161
+Last step reward:  -1.7816795110702515 / 3-step total rewards:  -3.1963624954223633
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 84, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 109, in run
+    current_state=self._get_state()
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 229, in _get_state
+    state[2][lane_group][lane_cell]=traci.vehicle.getAccumulatedWaitingTime(veh_id) # waiting time
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\_vehicle.py", line 561, in getAccumulatedWaitingTime
+    return self._getUniversal(tc.VAR_ACCUMULATED_WAITING_TIME, vehID)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\domain.py", line 147, in _getUniversal
+    return _parse(self._retValFunc, varID, self._getCmd(varID, objectID, format, *values))
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\domain.py", line 152, in _getCmd
+    r = self._connection._sendCmd(self._cmdGetID, varID, objID, format, *values)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 231, in _sendCmd
+    return self._sendExact()
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 130, in _sendExact
+    self._socket.send(length + self._string)
+KeyboardInterrupt

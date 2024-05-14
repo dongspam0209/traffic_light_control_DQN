@@ -1,0 +1,1830 @@
+
+episode 0
+Simulating
+Selected Action: 15 with ratios (2, 2, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 2 with ratios (1, 1, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 1 with ratios (1, 1, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 10 with ratios (2, 1, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 14 with ratios (2, 2, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 8 with ratios (2, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 4 with ratios (1, 2, 1, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 2 with ratios (1, 1, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 2 with ratios (1, 1, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 14 with ratios (2, 2, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 1 with ratios (1, 1, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Selected Action: 15 with ratios (2, 2, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 8 with ratios (2, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 2 with ratios (1, 1, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 4 with ratios (1, 2, 1, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 2 with ratios (1, 1, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 2 with ratios (1, 1, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 8 with ratios (2, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 10 with ratios (2, 1, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 8 with ratios (2, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 14 with ratios (2, 2, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 10 with ratios (2, 1, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 8 with ratios (2, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 6 with ratios (1, 2, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 11 with ratios (2, 1, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 6 with ratios (1, 2, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 4 with ratios (1, 2, 1, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 14 with ratios (2, 2, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 8 with ratios (2, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 10 with ratios (2, 1, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 14 with ratios (2, 2, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 8 with ratios (2, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 6 with ratios (1, 2, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 1 with ratios (1, 1, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 11 with ratios (2, 1, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 14 with ratios (2, 2, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 10 with ratios (2, 1, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 8 with ratios (2, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 4 with ratios (1, 2, 1, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 8 with ratios (2, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 2 with ratios (1, 1, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 10 with ratios (2, 1, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 10 with ratios (2, 1, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 6 with ratios (1, 2, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 6 with ratios (1, 2, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 2 with ratios (1, 1, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 11 with ratios (2, 1, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 1 with ratios (1, 1, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 1 with ratios (1, 1, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 4 with ratios (1, 2, 1, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 6 with ratios (1, 2, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 14 with ratios (2, 2, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 11 with ratios (2, 1, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 11 with ratios (2, 1, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543]
+Selected Action: 15 with ratios (2, 2, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445]
+Selected Action: 3 with ratios (1, 1, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839]
+Selected Action: 6 with ratios (1, 2, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131]
+max_q_value_per_episode [-1.5263258218765259]
+Selected Action: 1 with ratios (1, 1, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824]
+Selected Action: 6 with ratios (1, 2, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047]
+Selected Action: 2 with ratios (1, 1, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647]
+Selected Action: 4 with ratios (1, 2, 1, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025]
+Selected Action: 10 with ratios (2, 1, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802]
+Selected Action: 15 with ratios (2, 2, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172]
+Selected Action: 7 with ratios (1, 2, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282]
+Selected Action: 15 with ratios (2, 2, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106]
+Selected Action: 3 with ratios (1, 1, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086]
+Selected Action: 6 with ratios (1, 2, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855]
+Selected Action: 4 with ratios (1, 2, 1, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897]
+Selected Action: 1 with ratios (1, 1, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913]
+Selected Action: 8 with ratios (2, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353]
+Selected Action: 1 with ratios (1, 1, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551]
+Selected Action: 8 with ratios (2, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362]
+Selected Action: 11 with ratios (2, 1, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483]
+Selected Action: 8 with ratios (2, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444]
+max_q_value_per_episode [-1.5263258218765259, -2.907400131225586]
+Selected Action: 4 with ratios (1, 2, 1, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443]
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932]
+Selected Action: 2 with ratios (1, 1, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594]
+Selected Action: 8 with ratios (2, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217]
+Selected Action: 7 with ratios (1, 2, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223]
+Selected Action: 2 with ratios (1, 1, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661]
+Selected Action: 12 with ratios (2, 2, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628]
+Selected Action: 15 with ratios (2, 2, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557]
+Selected Action: 1 with ratios (1, 1, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922]
+Selected Action: 11 with ratios (2, 1, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003]
+Selected Action: 14 with ratios (2, 2, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098]
+Selected Action: 6 with ratios (1, 2, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581]
+Selected Action: 0 with ratios (1, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117]
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175]
+Selected Action: 5 with ratios (1, 2, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894]
+Selected Action: 8 with ratios (2, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358]
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917]
+Selected Action: 9 with ratios (2, 1, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623]
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579]
+Selected Action: 12 with ratios (2, 2, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278]
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539]
+Selected Action: 14 with ratios (2, 2, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875]
+Selected Action: 10 with ratios (2, 1, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771]
+Selected Action: 6 with ratios (1, 2, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326]
+Selected Action: 15 with ratios (2, 2, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246]
+Selected Action: 3 with ratios (1, 1, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912]
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962]
+Selected Action: 12 with ratios (2, 2, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094]
+Selected Action: 9 with ratios (2, 1, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588]
+Selected Action: 3 with ratios (1, 1, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294]
+Selected Action: 5 with ratios (1, 2, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574]
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667]
+Selected Action: 15 with ratios (2, 2, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667, 1.2204787731170654]
+Selected Action: 14 with ratios (2, 2, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667, 1.2204787731170654, 0.8920342922210693]
+Selected Action: 11 with ratios (2, 1, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667, 1.2204787731170654, 0.8920342922210693, 2.02386474609375]
+Selected Action: 10 with ratios (2, 1, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667, 1.2204787731170654, 0.8920342922210693, 2.02386474609375, 1.466997504234314]
+Selected Action: 7 with ratios (1, 2, 2, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667, 1.2204787731170654, 0.8920342922210693, 2.02386474609375, 1.466997504234314, 2.486180305480957]
+Selected Action: 12 with ratios (2, 2, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667, 1.2204787731170654, 0.8920342922210693, 2.02386474609375, 1.466997504234314, 2.486180305480957, 2.0367136001586914]
+Selected Action: 10 with ratios (2, 1, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667, 1.2204787731170654, 0.8920342922210693, 2.02386474609375, 1.466997504234314, 2.486180305480957, 2.0367136001586914, 2.7915916442871094]
+Selected Action: 2 with ratios (1, 1, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667, 1.2204787731170654, 0.8920342922210693, 2.02386474609375, 1.466997504234314, 2.486180305480957, 2.0367136001586914, 2.7915916442871094, 1.4548519849777222]
+Selected Action: 12 with ratios (2, 2, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667, 1.2204787731170654, 0.8920342922210693, 2.02386474609375, 1.466997504234314, 2.486180305480957, 2.0367136001586914, 2.7915916442871094, 1.4548519849777222, 1.9692906141281128]
+Selected Action: 1 with ratios (1, 1, 1, 2)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667, 1.2204787731170654, 0.8920342922210693, 2.02386474609375, 1.466997504234314, 2.486180305480957, 2.0367136001586914, 2.7915916442871094, 1.4548519849777222, 1.9692906141281128, 2.56852650642395]
+Selected Action: 12 with ratios (2, 2, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667, 1.2204787731170654, 0.8920342922210693, 2.02386474609375, 1.466997504234314, 2.486180305480957, 2.0367136001586914, 2.7915916442871094, 1.4548519849777222, 1.9692906141281128, 2.56852650642395, 3.0459892749786377]
+Selected Action: 2 with ratios (1, 1, 2, 1)
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667, 1.2204787731170654, 0.8920342922210693, 2.02386474609375, 1.466997504234314, 2.486180305480957, 2.0367136001586914, 2.7915916442871094, 1.4548519849777222, 1.9692906141281128, 2.56852650642395, 3.0459892749786377, 1.62265944480896]
+Selected Action: 10 with ratios (2, 1, 2, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667, 1.2204787731170654, 0.8920342922210693, 2.02386474609375, 1.466997504234314, 2.486180305480957, 2.0367136001586914, 2.7915916442871094, 1.4548519849777222, 1.9692906141281128, 2.56852650642395, 3.0459892749786377, 1.62265944480896, 1.7816357612609863]
+Selected Action: 8 with ratios (2, 1, 1, 1)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667, 1.2204787731170654, 0.8920342922210693, 2.02386474609375, 1.466997504234314, 2.486180305480957, 2.0367136001586914, 2.7915916442871094, 1.4548519849777222, 1.9692906141281128, 2.56852650642395, 3.0459892749786377, 1.62265944480896, 1.7816357612609863, 1.9469499588012695]
+Selected Action: 11 with ratios (2, 1, 2, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 1 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667, 1.2204787731170654, 0.8920342922210693, 2.02386474609375, 1.466997504234314, 2.486180305480957, 2.0367136001586914, 2.7915916442871094, 1.4548519849777222, 1.9692906141281128, 2.56852650642395, 3.0459892749786377, 1.62265944480896, 1.7816357612609863, 1.9469499588012695, 1.9667189121246338]
+Selected Action: 13 with ratios (2, 2, 1, 2)
+Setting green phase 0 for 1 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 1 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 1 steps
+Setting yellow phase 7 for 1 step
+loss_history: [15.947047233581543, 8.559038162231445, 3.876948118209839, 2.227090358734131, 2.0008273124694824, 1.7562084197998047, 1.4545434713363647, 1.1222288608551025, 0.7192727327346802, 0.6312807202339172, 0.4929350018501282, 0.9555503129959106, 0.8196096420288086, 0.6800150871276855, 0.650272011756897, 0.5324531197547913, 0.5470434427261353, 0.3836769163608551, 0.6531647443771362, 1.3324722051620483, 1.5953649282455444, 1.7803094387054443, 1.1747534275054932, 1.6456565856933594, 1.8683440685272217, 1.5501809120178223, 0.9328252077102661, 0.9877842664718628, 1.0860235691070557, 1.2523479461669922, 1.2345951795578003, 1.3518624305725098, 1.157311201095581, 1.0768003463745117, 1.1960800886154175, 0.6803139448165894, 0.5445541143417358, 0.647413969039917, 1.2516181468963623, 0.9771972894668579, 1.3472110033035278, 2.729349136352539, 1.70037841796875, 1.24491286277771, 2.6942317485809326, 2.4766249656677246, 1.9798448085784912, 1.8256288766860962, 1.3924217224121094, 0.8015882968902588, 0.7384406328201294, 2.2684969902038574, 1.81679105758667, 1.2204787731170654, 0.8920342922210693, 2.02386474609375, 1.466997504234314, 2.486180305480957, 2.0367136001586914, 2.7915916442871094, 1.4548519849777222, 1.9692906141281128, 2.56852650642395, 3.0459892749786377, 1.62265944480896, 1.7816357612609863, 1.9469499588012695, 1.9667189121246338, 1.424822211265564]
+Selected Action: 12 with ratios (2, 2, 1, 1)
+Setting green phase 0 for 1 steps
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 85, in <module>
+    Simulation.run(episode, epsilon)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 172, in run
+    self._set_green_phase(action_to_do)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 236, in _set_green_phase
+    self._simulate(durations)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 288, in _simulate
+    traci.simulationStep()  # simulate 1 step in sumo
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\main.py", line 198, in simulationStep
+    connection.check().simulationStep(step)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 368, in simulationStep
+    result = self._sendCmd(tc.CMD_SIMSTEP, None, None, "D", step)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 231, in _sendCmd
+    return self._sendExact()
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 137, in _sendExact
+    raise FatalTraCIError("Connection closed by SUMO.")
+traci.exceptions.FatalTraCIError: Connection closed by SUMO.

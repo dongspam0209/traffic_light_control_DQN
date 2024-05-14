@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc5d455d-0da2-4d8b-b4b3-2ea20dc06ec4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intersection/car_generation.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/intersection/car_generation.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intersection/cross.rou.xml" beforeDir="false" afterPath="$PROJECT_DIR$/intersection/cross.rou.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intersection/generate_exist.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intersection/generate_exist.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intersection/generate_velocity.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intersection/generate_velocity.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intersection/generate_waiting_time.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intersection/generate_waiting_time.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/simulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/training_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/settings" beforeDir="false" afterPath="$PROJECT_DIR$/wandb/settings" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2eAREf5ySeEVZ7gHPbevS9RfOrH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "cycletsc",
+    "last_opened_file_path": "C:/Users/nks23/python310/traffic_signal_control/traffic_light_control/traffic_light_control_DQN-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc5d455d-0da2-4d8b-b4b3-2ea20dc06ec4" name="Changes" comment="" />
+      <created>1711345285948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711345285948</updated>
+      <workItem from="1711345287007" duration="24486000" />
+      <workItem from="1711590574882" duration="546000" />
+      <workItem from="1711944975749" duration="630000" />
+      <workItem from="1712546779898" duration="2095000" />
+      <workItem from="1712798509108" duration="372000" />
+      <workItem from="1715220405632" duration="8091000" />
+      <workItem from="1715233066431" duration="14676000" />
+      <workItem from="1715423849537" duration="2901000" />
+      <workItem from="1715431014763" duration="1126000" />
+      <workItem from="1715567315043" duration="22783000" />
+      <workItem from="1715652050975" duration="2389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

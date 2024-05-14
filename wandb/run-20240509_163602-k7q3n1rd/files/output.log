@@ -1,0 +1,237 @@
+episode 0
+Simulating
+Action Durations at step 0: tensor([54.6904, 56.7582, 22.8310, 58.1697])
+Traffic light set to phase 0 for 54.69043731689453 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 56.75818634033203 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 22.83095359802246 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 58.16973876953125 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 1
+Action Durations at step 234: tensor([19.8523, 14.1484, 33.0260, 42.3732])
+Traffic light set to phase 0 for 19.852317810058594 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 14.148407936096191 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 33.02600860595703 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 42.37315368652344 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 2
+Action Durations at step 386: tensor([17.8325, 33.8063, 59.8096, 20.2150])
+Traffic light set to phase 0 for 17.832454681396484 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 33.80628967285156 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 59.809627532958984 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 20.215049743652344 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 3
+Action Durations at step 559: tensor([ 5.1970, 36.4096, 58.4613, 11.4848])
+Traffic light set to phase 0 for 5.196977138519287 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 36.40959167480469 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 58.46127700805664 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 11.484760284423828 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 4
+Action Durations at step 713: tensor([26.6952,  5.3358, 53.2938, 52.9062])
+Traffic light set to phase 0 for 26.69523811340332 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 5.3357720375061035 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 53.29383850097656 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 52.90623474121094 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 5
+Action Durations at step 893: tensor([51.9637, 15.6622, 49.1346, 17.7304])
+Traffic light set to phase 0 for 51.96371078491211 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 15.662155151367188 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 49.13456726074219 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 17.730436325073242 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 6
+Action Durations at step 1069: tensor([20.1708,  6.8117, 22.5510, 37.4916])
+Traffic light set to phase 0 for 20.170841217041016 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 6.8117146492004395 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 22.551002502441406 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 37.49159622192383 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 7
+Action Durations at step 1198: tensor([59.7450, 22.6126, 30.8152, 43.2773])
+Traffic light set to phase 0 for 59.74497604370117 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 22.612590789794922 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 30.815185546875 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 43.27728271484375 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 8
+Action Durations at step 1396: tensor([35.8833, 14.7091, 27.7821, 33.7328])
+Traffic light set to phase 0 for 35.883304595947266 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 14.709052085876465 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 27.782068252563477 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 33.73280715942383 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 9
+Action Durations at step 1549: tensor([14.1882, 54.3139, 32.4268, 55.1171])
+Traffic light set to phase 0 for 14.188232421875 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 54.3138542175293 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 32.426849365234375 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 55.11711883544922 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 10
+Action Durations at step 1748: tensor([54.2166, 45.4451, 18.6079,  7.4122])
+Traffic light set to phase 0 for 54.21664810180664 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 45.445133209228516 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 18.607887268066406 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 7.412212371826172 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 11
+Action Durations at step 1916: tensor([54.5434, 23.6633, 56.7546, 30.0250])
+Traffic light set to phase 0 for 54.54336166381836 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 23.663265228271484 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 56.754638671875 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 30.025012969970703 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 12
+Action Durations at step 2123: tensor([15.8564, 16.9661, 15.0249, 46.1697])
+Traffic light set to phase 0 for 15.856389045715332 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 16.966102600097656 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 15.024948120117188 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 46.169715881347656 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 13
+Action Durations at step 2259: tensor([33.5366, 49.0518, 52.5577, 52.5287])
+Traffic light set to phase 0 for 33.53660583496094 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 49.05175018310547 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 52.55766296386719 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 52.52866744995117 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 14
+Action Durations at step 2489: tensor([25.2570, 18.2023, 17.6474, 21.2640])
+Traffic light set to phase 0 for 25.257028579711914 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 18.202255249023438 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 17.647361755371094 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 21.26395606994629 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 15
+Action Durations at step 2614: tensor([25.4835, 58.0879, 13.1043, 18.6763])
+Traffic light set to phase 0 for 25.483484268188477 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 58.087947845458984 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 13.104339599609375 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 18.676280975341797 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 16
+Action Durations at step 2772: tensor([47.2443, 58.7288, 48.1786, 16.7978])
+Traffic light set to phase 0 for 47.24425506591797 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 58.728797912597656 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 48.17861557006836 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 16.797828674316406 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 17
+Action Durations at step 2985: tensor([11.1569, 34.4411,  9.7680, 37.3910])
+Traffic light set to phase 0 for 11.156875610351562 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 34.441078186035156 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 9.768009185791016 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 37.39100646972656 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 18
+Action Durations at step 3120: tensor([56.7855, 30.1199, 34.4101, 22.5234])
+Traffic light set to phase 0 for 56.78550338745117 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 30.119869232177734 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 34.410057067871094 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 22.5234317779541 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 19
+Action Durations at step 3306: tensor([ 5.5587, 11.7815, 59.1549, 51.3199])
+Traffic light set to phase 0 for 5.558703422546387 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 11.781475067138672 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 59.15487289428711 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 51.319942474365234 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Pushed to memory: state_shape=torch.Size([1, 3, 16, 100]), action_shape=torch.Size([4]), next_state_shape=torch.Size([1, 3, 16, 100]), reward_shape=torch.Size([1])
+Total experiences in memory: 20
+Action Durations at step 3476: tensor([45.1325, 20.4381, 54.1035, 42.9756])
+Traffic light set to phase 0 for 45.13245391845703 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 20.438127517700195 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 54.10350036621094 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 42.97564697265625 seconds.
+Traffic light set to phase 7 for 10 seconds.
+epsilon : 1.000
+queue length in epsiode 0 0.05623471882640587
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 89, in <module>
+    print(f'loss in epsiode {episode}',Simulation.loss_store[episode])
+IndexError: list index out of range

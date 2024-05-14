@@ -1,0 +1,1413 @@
+episode 0
+Simulating
+Selected Action: 0 with ratios (1, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 10 with ratios (2, 1, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 11 with ratios (2, 1, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 2 with ratios (1, 1, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 4 with ratios (1, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 8 with ratios (2, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 10 with ratios (2, 1, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 10 with ratios (2, 1, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 8 with ratios (2, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 11 with ratios (2, 1, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 2 with ratios (1, 1, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 11 with ratios (2, 1, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 8 with ratios (2, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 14 with ratios (2, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 6 with ratios (1, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 6 with ratios (1, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 8 with ratios (2, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 11 with ratios (2, 1, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 10 with ratios (2, 1, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 11 with ratios (2, 1, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 2 with ratios (1, 1, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 1 with ratios (1, 1, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 14 with ratios (2, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 13 with ratios (2, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 4 with ratios (1, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 2 with ratios (1, 1, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 14 with ratios (2, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 11 with ratios (2, 1, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 4 with ratios (1, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 6 with ratios (1, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 7 with ratios (1, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 4 with ratios (1, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 2 with ratios (1, 1, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 6 with ratios (1, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 8 with ratios (2, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 14 with ratios (2, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 4 with ratios (1, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 6 with ratios (1, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 6 with ratios (1, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 2 with ratios (1, 1, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 11 with ratios (2, 1, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 1 with ratios (1, 1, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 8 with ratios (2, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 4 with ratios (1, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 14 with ratios (2, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 14 with ratios (2, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 9 with ratios (2, 1, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 1 with ratios (1, 1, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 15 with ratios (2, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 10 with ratios (2, 1, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 14 with ratios (2, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 5 with ratios (1, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 0 with ratios (1, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 4 with ratios (1, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 8 with ratios (2, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 12 with ratios (2, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 3 with ratios (1, 1, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Selected Action: 6 with ratios (1, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [102.17608642578125]
+Selected Action: 14 with ratios (2, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [102.17608642578125, 88.84525299072266]
+Selected Action: 14 with ratios (2, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [102.17608642578125, 88.84525299072266, 63.229122161865234]
+Selected Action: 14 with ratios (2, 2, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [102.17608642578125, 88.84525299072266, 63.229122161865234, 39.78363800048828]
+Selected Action: 8 with ratios (2, 1, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [102.17608642578125, 88.84525299072266, 63.229122161865234, 39.78363800048828, 22.82533073425293]
+Selected Action: 5 with ratios (1, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [102.17608642578125, 88.84525299072266, 63.229122161865234, 39.78363800048828, 22.82533073425293, 13.026787757873535]
+Selected Action: 2 with ratios (1, 1, 2, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [102.17608642578125, 88.84525299072266, 63.229122161865234, 39.78363800048828, 22.82533073425293, 13.026787757873535, 11.220575332641602]
+Selected Action: 4 with ratios (1, 2, 1, 1)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+loss_history: [102.17608642578125, 88.84525299072266, 63.229122161865234, 39.78363800048828, 22.82533073425293, 13.026787757873535, 11.220575332641602, 10.396620750427246]
+Selected Action: 13 with ratios (2, 2, 1, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 85, in <module>
+    Simulation.run(episode, epsilon)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 172, in run
+    self._set_green_phase(action_to_do)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 247, in _set_green_phase
+    self._optimize_model()
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 320, in _optimize_model
+    next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\Model.py", line 32, in forward
+    x = F.relu(self.fc1(x))
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\nks23\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\nn\modules\linear.py", line 116, in forward
+    return F.linear(input, self.weight, self.bias)
+KeyboardInterrupt
+loss_history: [102.17608642578125, 88.84525299072266, 63.229122161865234, 39.78363800048828, 22.82533073425293, 13.026787757873535, 11.220575332641602, 10.396620750427246, 9.995502471923828]
+Selected Action: 15 with ratios (2, 2, 2, 2)
+durations: [0, 0, 0, 0]
+Setting green phase 0 for 0 steps
+Setting yellow phase 1 for 1 step
+Setting green phase 2 for 0 steps
+Setting yellow phase 3 for 1 step
+Setting green phase 4 for 0 steps
+Setting yellow phase 5 for 1 step
+Setting green phase 6 for 0 steps
+Setting yellow phase 7 for 1 step

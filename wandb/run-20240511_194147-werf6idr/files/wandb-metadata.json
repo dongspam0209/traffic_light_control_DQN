@@ -1,0 +1,45 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.10.10",
+    "heartbeatAt": "2024-05-11T10:41:48.250993",
+    "startedAt": "2024-05-11T10:41:47.227614",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\nks23\\python310\\traffic_signal_control\\traffic_light_control\\traffic_light_control_DQN-master\\training_main.py",
+    "codePathLocal": "training_main.py",
+    "codePath": "training_main.py",
+    "git": {
+        "remote": "https://github.com/dongspam0209/traffic_light_control_DQN",
+        "commit": "fa020fa208573823187d60d922beead016f325fd"
+    },
+    "email": "[Github",
+    "root": "C:/Users/nks23/python310/traffic_signal_control/traffic_light_control/traffic_light_control_DQN-master",
+    "host": "\uc9c0\uad6c",
+    "username": "nks23",
+    "executable": "C:\\Users\\nks23\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "cpu_count": 12,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2100.0,
+        "min": 0.0,
+        "max": 2100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2100.0,
+            "min": 0.0,
+            "max": 2100.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 935.6816368103027,
+            "used": 193.50336456298828
+        }
+    },
+    "memory": {
+        "total": 15.70638656616211
+    }
+}

@@ -1,0 +1,213 @@
+episode 0
+Simulating
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 0: [14.0, 13.0, 58.0, 58.0]
+Traffic light set to phase 0 for 14.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 13.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 58.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 58.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 1
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 183: [48.0, 30.0, 37.0, 13.0]
+Traffic light set to phase 0 for 48.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 30.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 37.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 13.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 2
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 351: [33.0, 15.0, 19.0, 9.0]
+Traffic light set to phase 0 for 33.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 15.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 19.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 9.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 3
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 467: [32.0, 57.0, 39.0, 7.0]
+Traffic light set to phase 0 for 32.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 57.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 39.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 7.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 4
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 642: [7.0, 55.0, 26.0, 30.0]
+Traffic light set to phase 0 for 7.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 55.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 26.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 30.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 5
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 800: [20.0, 18.0, 49.0, 32.0]
+Traffic light set to phase 0 for 20.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 18.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 49.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 32.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 6
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 959: [13.0, 7.0, 56.0, 38.0]
+Traffic light set to phase 0 for 13.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 7.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 56.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 38.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 7
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 1113: [27.0, 14.0, 56.0, 24.0]
+Traffic light set to phase 0 for 27.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 14.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 56.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 24.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 8
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 1274: [36.0, 18.0, 32.0, 31.0]
+Traffic light set to phase 0 for 36.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 18.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 32.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 31.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 9
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 1431: [20.0, 56.0, 18.0, 29.0]
+Traffic light set to phase 0 for 20.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 56.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 18.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 29.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 10
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 1594: [41.0, 35.0, 33.0, 17.0]
+Traffic light set to phase 0 for 41.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 35.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 33.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 17.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 11
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 1760: [20.0, 26.0, 6.0, 30.0]
+Traffic light set to phase 0 for 20.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 26.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 6.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 30.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 12
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 1882: [40.0, 53.0, 15.0, 45.0]
+Traffic light set to phase 0 for 40.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 53.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 15.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 45.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 13
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 2075: [18.0, 27.0, 37.0, 30.0]
+Traffic light set to phase 0 for 18.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 27.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 37.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 30.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 14
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 2227: [31.0, 21.0, 37.0, 50.0]
+Traffic light set to phase 0 for 31.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 21.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 37.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 50.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 15
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 2406: [50.0, 30.0, 20.0, 24.0]
+Traffic light set to phase 0 for 50.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 30.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 20.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 24.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 16
+최종 output size:  torch.Size([1, 4])
+Action Durations at step 2570: [40.0, 35.0, 55.0, 53.0]
+Traffic light set to phase 0 for 40.0 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 35.0 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 55.0 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 53.0 seconds.
+Traffic light set to phase 7 for 10 seconds.
+최종 output size:  torch.Size([16, 4])
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 87, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 199, in run
+    self.optimize_model()
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 303, in optimize_model
+    state_action_values = self.policy_net(state_batch).gather(1, action_batch)
+RuntimeError: gather(): Expected dtype int64 for index

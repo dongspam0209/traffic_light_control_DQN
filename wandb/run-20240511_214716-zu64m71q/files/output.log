@@ -1,0 +1,198 @@
+
+episode 0
+Simulating
+Action Durations at step 0: [50.408973693847656, 49.85917282104492, 8.85267448425293, 23.270124435424805]
+Traffic light set to phase 0 for 50.408973693847656 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 49.85917282104492 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 8.85267448425293 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 23.270124435424805 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 1
+Action Durations at step 174: [55.86930465698242, 15.009858131408691, 11.99221420288086, 57.32992935180664]
+Traffic light set to phase 0 for 55.86930465698242 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 15.009858131408691 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 11.99221420288086 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 57.32992935180664 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 2
+Action Durations at step 356: [27.81776237487793, 52.78762435913086, 19.569751739501953, 10.061210632324219]
+Traffic light set to phase 0 for 27.81776237487793 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 52.78762435913086 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 19.569751739501953 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 10.061210632324219 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 3
+Action Durations at step 508: [5.058562755584717, 28.25164031982422, 28.85594367980957, 51.6954345703125]
+Traffic light set to phase 0 for 5.058562755584717 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 28.25164031982422 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 28.85594367980957 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 51.6954345703125 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 4
+Action Durations at step 664: [22.37360954284668, 6.498067855834961, 21.57533836364746, 10.108417510986328]
+Traffic light set to phase 0 for 22.37360954284668 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 6.498067855834961 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 21.57533836364746 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 10.108417510986328 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 5
+Action Durations at step 767: [29.06638526916504, 24.653308868408203, 56.84527587890625, 23.416481018066406]
+Traffic light set to phase 0 for 29.06638526916504 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 24.653308868408203 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 56.84527587890625 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 23.416481018066406 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 6
+Action Durations at step 943: [21.279163360595703, 56.65584182739258, 47.79616165161133, 44.18024826049805]
+Traffic light set to phase 0 for 21.279163360595703 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 56.65584182739258 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 47.79616165161133 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 44.18024826049805 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 7
+Action Durations at step 1155: [34.50376892089844, 6.044229507446289, 56.60622024536133, 25.156002044677734]
+Traffic light set to phase 0 for 34.50376892089844 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 6.044229507446289 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 56.60622024536133 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 25.156002044677734 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 8
+Action Durations at step 1320: [55.61191177368164, 21.88420295715332, 39.95564651489258, 26.35399627685547]
+Traffic light set to phase 0 for 55.61191177368164 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 21.88420295715332 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 39.95564651489258 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 26.35399627685547 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 9
+Action Durations at step 1505: [33.25519561767578, 30.7791748046875, 50.5767936706543, 34.40611267089844]
+Traffic light set to phase 0 for 33.25519561767578 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 30.7791748046875 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 50.5767936706543 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 34.40611267089844 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 10
+Action Durations at step 1696: [10.09779167175293, 7.9608941078186035, 29.244544982910156, 53.58113479614258]
+Traffic light set to phase 0 for 10.09779167175293 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 7.9608941078186035 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 29.244544982910156 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 53.58113479614258 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 11
+Action Durations at step 1839: [9.595192909240723, 27.98947525024414, 25.72146987915039, 41.35716247558594]
+Traffic light set to phase 0 for 9.595192909240723 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 27.98947525024414 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 25.72146987915039 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 41.35716247558594 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 12
+Action Durations at step 1985: [59.81421661376953, 57.80359649658203, 19.738887786865234, 15.259933471679688]
+Traffic light set to phase 0 for 59.81421661376953 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 57.80359649658203 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 19.738887786865234 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 15.259933471679688 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 13
+Action Durations at step 2179: [8.27103328704834, 25.783647537231445, 59.20647430419922, 56.25260925292969]
+Traffic light set to phase 0 for 8.27103328704834 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 25.783647537231445 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 59.20647430419922 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 56.25260925292969 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 14
+Action Durations at step 2371: [17.727371215820312, 34.12370300292969, 50.87596130371094, 25.215129852294922]
+Traffic light set to phase 0 for 17.727371215820312 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 34.12370300292969 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 50.87596130371094 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 25.215129852294922 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 15
+Action Durations at step 2541: [59.54834747314453, 37.84499740600586, 36.384117126464844, 44.15462112426758]
+Traffic light set to phase 0 for 59.54834747314453 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 37.84499740600586 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 36.384117126464844 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 44.15462112426758 seconds.
+Traffic light set to phase 7 for 10 seconds.
+optimize model
+Total experiences in memory: 16
+Action Durations at step 2761: [15.150915145874023, 37.77887725830078, 6.797077178955078, 36.545677185058594]
+Traffic light set to phase 0 for 15.150915145874023 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 37.77887725830078 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 6.797077178955078 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 36.545677185058594 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 87, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 199, in run
+    self.optimize_model()
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 305, in optimize_model
+    state_action_values = self.policy_net(state_batch).gather(1, action_batch)
+TypeError: gather() received an invalid combination of arguments - got (int, builtin_function_or_method), but expected one of:
+ * (int dim, Tensor index, *, bool sparse_grad)
+ * (name dim, Tensor index, *, bool sparse_grad)

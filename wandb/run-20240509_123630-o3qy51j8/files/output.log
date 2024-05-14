@@ -1,0 +1,124 @@
+
+episode 0
+Simulating
+Action Durations at step 0: tensor([49, 47, 57, 56])
+Traffic light set to phase 0 for 49 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 47 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 57 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 56 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 249: tensor([47, 11, 13,  6])
+Traffic light set to phase 0 for 47 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 11 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 13 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 6 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 366: tensor([ 7, 22, 13, 51])
+Traffic light set to phase 0 for 7 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 22 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 13 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 51 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 499: tensor([ 9, 28,  6, 50])
+Traffic light set to phase 0 for 9 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 28 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 6 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 50 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 632: tensor([24, 11, 11, 31])
+Traffic light set to phase 0 for 24 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 11 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 11 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 31 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 749: tensor([60, 59, 48, 45])
+Traffic light set to phase 0 for 60 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 59 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 48 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 45 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 1001: tensor([24, 33, 53, 54])
+Traffic light set to phase 0 for 24 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 33 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 53 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 54 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 1205: tensor([16, 22, 55, 14])
+Traffic light set to phase 0 for 16 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 22 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 55 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 14 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 1352: tensor([55, 55, 28, 43])
+Traffic light set to phase 0 for 55 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 55 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 28 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 43 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 1573: tensor([32, 10, 34, 48])
+Traffic light set to phase 0 for 32 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 10 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 34 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 48 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 1737: tensor([51, 25, 29, 12])
+Traffic light set to phase 0 for 51 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 25 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 29 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 12 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 1894: tensor([16, 60, 40, 53])
+Traffic light set to phase 0 for 16 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 60 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 40 seconds.
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 87, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 191, in run
+    self.simulate_duration(green_duration)
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 276, in simulate_duration
+    traci.simulationStep()
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\main.py", line 198, in simulationStep
+    connection.check().simulationStep(step)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 368, in simulationStep
+    result = self._sendCmd(tc.CMD_SIMSTEP, None, None, "D", step)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 231, in _sendCmd
+    return self._sendExact()
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 130, in _sendExact
+    self._socket.send(length + self._string)
+KeyboardInterrupt

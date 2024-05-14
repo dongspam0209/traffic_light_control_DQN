@@ -1,0 +1,218 @@
+episode 0
+Simulating
+Action Durations at step 0: tensor([41.7282, 29.5907,  6.1976, 58.6491])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 41.728153228759766 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 29.59070587158203 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 6.197602272033691 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 58.64910888671875 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 178: tensor([16.0813, 24.3945, 32.1362, 19.9640])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 16.081253051757812 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 24.394519805908203 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 32.13624572753906 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 19.96399688720703 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 313: tensor([40.0951,  5.3011,  6.1493, 37.6900])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 40.09507751464844 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 5.301091194152832 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 6.149320602416992 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 37.68996810913086 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 445: tensor([17.1392, 41.4908, 12.5274, 15.9794])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 17.139225006103516 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 41.490821838378906 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 12.527382850646973 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 15.97943115234375 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 574: tensor([ 9.1575, 43.8583, 49.5974, 46.2755])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 9.157493591308594 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 43.85834503173828 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 49.597354888916016 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 46.27553176879883 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 765: tensor([48.1875,  9.2158, 23.4937, 46.2189])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 48.18749237060547 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 9.215829849243164 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 23.49371337890625 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 46.218875885009766 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 935: tensor([44.3904,  6.7310, 52.7558, 27.9189])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 44.39044952392578 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 6.7310075759887695 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 52.75582504272461 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 27.918851852416992 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 1108: tensor([10.3893, 57.2078, 39.5024, 51.7594])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 10.389328002929688 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 57.20784378051758 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 39.50236129760742 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 51.75942611694336 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 1309: tensor([58.7839,  5.0650, 46.9092, 51.7102])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 58.783939361572266 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 5.064971923828125 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 46.909217834472656 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 51.710227966308594 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 1513: tensor([52.3021, 34.4289, 46.3499, 37.5612])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 52.30210494995117 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 34.42891311645508 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 46.34987258911133 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 37.561241149902344 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 1726: tensor([57.2888, 12.0930, 43.0655, 19.5907])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 57.28878402709961 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 12.093043327331543 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 43.06545639038086 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 19.590709686279297 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 1901: tensor([57.2278, 12.8073, 48.3985, 22.3471])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 57.227806091308594 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 12.807312965393066 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 48.39845657348633 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 22.34714698791504 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 2084: tensor([47.3442, 34.9247, 40.7052, 37.5399])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 47.344181060791016 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 34.924713134765625 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 40.70519256591797 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 37.5399169921875 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 2286: tensor([22.4638,  7.7664, 23.6116, 48.4425])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 22.463777542114258 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 7.766427993774414 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 23.61159324645996 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 48.44253921508789 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 2430: tensor([47.8266, 48.7099, 10.0124, 52.0589])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 47.82658004760742 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 48.709877014160156 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 10.012413024902344 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 52.05894470214844 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 2631: tensor([29.5167, 57.2209, 34.6374, 42.5302])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 29.51673126220703 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 57.22091293334961 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 34.63737487792969 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 42.530216217041016 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 2837: tensor([33.8854, 32.5400, 28.6010, 18.1446])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 33.885440826416016 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 32.53996276855469 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 28.60098648071289 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 18.144630432128906 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 2992: tensor([49.2748, 59.3839, 44.0285, 58.9192])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 49.27479553222656 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 59.38385009765625 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 44.02850341796875 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 58.9191780090332 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 3246: tensor([23.1775, 15.4803, 55.8030, 11.4738])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 23.177499771118164 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 15.480300903320312 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 55.802978515625 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 11.473814010620117 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 3394: tensor([43.4251, 58.8813, 39.0529, 10.2251])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 43.42511749267578 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 58.88125228881836 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 39.05286407470703 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 10.22514533996582 seconds.
+Traffic light set to phase 7 for 10 seconds.
+Action Durations at step 3588: tensor([25.4060, 48.9847, 46.0300, 20.5429])
+No loss recorded for episode 0
+Traffic light set to phase 0 for 25.406024932861328 seconds.
+Traffic light set to phase 1 for 10 seconds.
+Traffic light set to phase 2 for 48.98468017578125 seconds.
+Traffic light set to phase 3 for 10 seconds.
+Traffic light set to phase 4 for 46.03001403808594 seconds.
+Traffic light set to phase 5 for 10 seconds.
+Traffic light set to phase 6 for 20.54287338256836 seconds.
+Traffic light set to phase 7 for 10 seconds.
+epsilon : 1.000
+queue length in epsiode 0 0.0
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 89, in <module>
+    print(f'loss in epsiode {episode}',Simulation.loss_store[episode])
+IndexError: list index out of range

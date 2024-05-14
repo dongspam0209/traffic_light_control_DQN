@@ -1,5 +1,5 @@
 [default]
-entity = tlsc
-project = tlsc-project
+entity = inhanks
+project = trafficsignal
 base_url = https://api.wandb.ai
 
