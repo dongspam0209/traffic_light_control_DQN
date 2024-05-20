@@ -79,6 +79,7 @@ if __name__ == "__main__":
     epsilon = 1.0
     min_epsilon = 0.1
     decay_rate = 0.99
+
     while episode < total_episode:
         print(f'episode {episode}')
         epsilon = max(min_epsilon, epsilon * decay_rate)
@@ -95,8 +96,8 @@ if __name__ == "__main__":
             "loss": Simulation.loss_store[episode],
             "wait time": Simulation.wait_time_store[episode],
             "reward": Simulation.reward_store[episode],
-            "max Q-value": Simulation.max_q_value[episode]
         })
+
         episode += 1
 
     Visualization.save_data_and_plot(data=Simulation.queue_length_store, filename='queue', xlabel='Episode',

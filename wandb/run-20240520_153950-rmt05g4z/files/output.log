@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\training_main.py", line 55, in <module>
+    Simulation = Simulation(
+  File "C:\Users\nks23\python310\traffic_signal_control\traffic_light_control\traffic_light_control_DQN-master\simulation.py", line 54, in __init__
+    self._num_actions = len(set(self._action_ratios))
+TypeError: unhashable type: 'list'
