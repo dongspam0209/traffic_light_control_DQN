@@ -23,7 +23,7 @@ memory_capacity = 1000
 
 wandb.init(
     # set the wandb project where this run will be logged
-    project="trafficsignal",
+    project="tlsc-project",
     # track hyperparameters and run metadata
     config={
         "learning_rate": 0.0001,

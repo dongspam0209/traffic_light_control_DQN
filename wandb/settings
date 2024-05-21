@@ -1,5 +1,0 @@
-[default]
-entity = inhanks
-project = trafficsignal
-base_url = https://api.wandb.ai
-

@@ -1,0 +1,11 @@
+episode 0
+Simulating
+Selected Action: 9 with ratios [9, 5, 5, 9]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x0000018EA86843D0>>
+plot_reward:  0.0
+Traceback (most recent call last):
+  File "C:\Users\admin\cycletsc\traffic_light_control_DQN\training_main.py", line 86, in <module>
+    Simulation.run(episode, epsilon)
+  File "C:\Users\admin\cycletsc\traffic_light_control_DQN\simulation.py", line 187, in run
+    if old_state is not None:
+UnboundLocalError: local variable 'old_state' referenced before assignment

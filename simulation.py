@@ -51,7 +51,7 @@ class Simulation:
     [8, 8, 4, 8],      # 2:2:1:2
     [8, 8, 8, 4],      # 2:2:2:1
 ]
-        self._num_actions = len(self._action_ratios)
+        self._num_actions = len(self._action_ratios) # 15개의 액션
 
         self.policy_net = DQN(num_states, self._num_actions).to(device)
         self.target_net = DQN(num_states, self._num_actions).to(device)
@@ -66,9 +66,6 @@ class Simulation:
         self._num_states = num_states
 
         # Traffic signal duration
-        self._green_duration = green_duration
-        self._green_turn_duration = green_turn_duration
-
         self.phases = [PHASE_NS_GREEN, PHASE_NS_YELLOW, PHASE_NSL_GREEN, PHASE_NSL_YELLOW,
                        PHASE_EW_GREEN, PHASE_EW_YELLOW, PHASE_EWL_GREEN, PHASE_EWL_YELLOW]
         self.current_phase_index = 0
@@ -91,7 +88,7 @@ class Simulation:
         self.plot_queue_length = 0
         self.plot_wait_time = 0
         self.plot_reward = 0
-        cycle_count = 0
+        cycle_count = 0 
 
         # Reward variables
         self.queue_len_per_lane = []  # Lane별 queue 길이
@@ -102,7 +99,8 @@ class Simulation:
 
         # Inits
         self._step = 0
-
+        old_state = -1
+        old_action_number = -1
         previous_cycle_queue_length = 0  # 이전 사이클의 큐 길이
         previous_cycle_wait_time = 0  # 이전 사이클의 대기 시간
 
@@ -131,7 +129,7 @@ class Simulation:
 
             self.wait_times_per_lane = wait_time_sum_per_lane_list
             current_total_wait = sum(wait_time_sum_per_lane_list)
-            self._reward_wait_time = previous_cycle_wait_time - current_total_wait  # 이전 사이클과 현재 사이클의 대기 시간 차이
+            self._reward_wait_time = current_total_wait - previous_cycle_wait_time # 이전 사이클과 현재 사이클의 대기 시간 차이 -> 차이 
 
             ########## Queue length calculate ###############
             df1 = df1.transpose()
@@ -154,7 +152,7 @@ class Simulation:
 
             self.queue_len_per_lane = queue_length_sum_per_lane_list
             current_total_queue_length = sum(queue_length_sum_per_lane_list)
-            self._reward_queue_length = previous_cycle_queue_length - current_total_queue_length  # 이전 사이클과 현재 사이클의 큐 길이 차이
+            self._reward_queue_length = current_total_queue_length - previous_cycle_queue_length # 이전 사이클과 현재 사이클의 큐 길이 차이
             self.plot_queue_length += current_total_queue_length
 
             ############## To plot waiting time in one episode (total sum of waiting time in whole one episode ###################
@@ -166,43 +164,43 @@ class Simulation:
             action_to_do = self._choose_action(current_state, epsilon)
             print(f"Selected Action: {action_to_do} with ratios {self._action_ratios[action_to_do]}")  # 액션 출력
 
-            old_state = current_state
-            old_action_number = action_to_do
 
             ratios = self._action_ratios[action_to_do]
 
             for i, duration in enumerate(ratios):
                 green_phase_code = self.phases[i * 2]
                 yellow_phase_code = self.phases[i * 2 + 1]
-
                 traci.trafficlight.setPhase("intersection", green_phase_code)
                 self._simulate(duration)
-
                 traci.trafficlight.setPhase("intersection", yellow_phase_code)
                 self._simulate(3)
+            # 40 step이 지나고 1 cycle 종료
 
             cycle_count += 1
+            
 
-            new_state = self._get_state()
+            # new_state = self._get_state()
             reward = self._reward()
+            print("cycle 끝난 후 reward: ", self._reward)
             self.plot_reward += reward
+            print("plot_reward: ", self.plot_reward)
 
-            if old_state is not None:
-                self._ReplayMemory.push(old_state, old_action_number, new_state, reward)
-                self.optimize_model()
+            if old_state is not None and old_state != -1 and old_action_number != -1:
+                self._ReplayMemory.push(old_state, old_action_number, current_state, reward)
+            self.optimize_model()
 
+            old_state = current_state
+            old_action_number = action_to_do
             previous_cycle_queue_length = current_total_queue_length  # 이전 사이클의 큐 길이 업데이트
             previous_cycle_wait_time = current_total_wait  # 이전 사이클의 대기 시간 업데이트
 
-        if cycle_count > 0:
-            self.reward_per_episode.append(self.plot_reward / cycle_count)
-            self._waiting_time_per_episode.append(self.plot_wait_time / self._step)
-            self._queue_length_per_episode.append(self.plot_queue_length / self._step)
-        else:
-            self.reward_per_episode.append(0)
-            self._waiting_time_per_episode.append(0)
-            self._queue_length_per_episode.append(0)
 
+        print("현재 step: ", self._step)
+        
+        self.reward_per_episode.append(self.plot_reward / self._step)
+        print("계산된 reward (per episode): ", self.reward_per_episode)
+        self._waiting_time_per_episode.append(self.plot_wait_time / self._step)
+        self._queue_length_per_episode.append(self.plot_queue_length / self._step)
         print(f"epsilon : {epsilon:.3f}")
 
         traci.close()
@@ -319,7 +317,7 @@ class Simulation:
         waiting_time_fairness = self.calculate_fairness_index(each_waiting_time_for_fairness)
         queue_length_fairness = self.calculate_fairness_index(each_queue_length_for_fairness)
 
-        reward = -(w_1 * waiting_time)
+        reward = -waiting_time
         # reward = -(w_1 * waiting_time / avg_waiting_time + w_2 * queue_length / avg_queue_length) + w_3 * (
         #      w_1 / (w_1 + w_2) * waiting_time_fairness + w_2 / (w_1 + w_2) * queue_length_fairness)
 

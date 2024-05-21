@@ -1,0 +1,106 @@
+episode 0
+Simulating
+Selected Action: 5 with ratios [5, 9, 5, 9]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  0.0
+Selected Action: 13 with ratios [8, 8, 4, 8]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  0.0
+Selected Action: 8 with ratios [10, 6, 6, 6]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -9.0
+Selected Action: 1 with ratios [6, 6, 6, 10]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -29.0
+Selected Action: 9 with ratios [9, 5, 5, 9]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -104.0
+Selected Action: 11 with ratios [8, 4, 8, 8]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -50.0
+Selected Action: 9 with ratios [9, 5, 5, 9]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -73.0
+Selected Action: 12 with ratios [9, 9, 5, 5]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -50.0
+Selected Action: 12 with ratios [9, 9, 5, 5]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -37.0
+Selected Action: 1 with ratios [6, 6, 6, 10]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -71.0
+Selected Action: 7 with ratios [4, 8, 8, 8]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -27.0
+Selected Action: 6 with ratios [5, 9, 9, 5]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -151.0
+Selected Action: 9 with ratios [9, 5, 5, 9]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -194.0
+Selected Action: 12 with ratios [9, 9, 5, 5]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -221.0
+Selected Action: 4 with ratios [6, 10, 6, 6]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -656.0
+Selected Action: 9 with ratios [9, 5, 5, 9]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -1084.0
+Selected Action: 10 with ratios [9, 5, 9, 5]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -2039.0
+Selected Action: 14 with ratios [8, 8, 8, 4]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -2589.0
+Selected Action: 7 with ratios [4, 8, 8, 8]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -3229.0
+Selected Action: 12 with ratios [9, 9, 5, 5]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -3645.0
+Selected Action: 9 with ratios [9, 5, 5, 9]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -4770.0
+Selected Action: 1 with ratios [6, 6, 6, 10]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -5627.0
+Selected Action: 12 with ratios [9, 9, 5, 5]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -5848.0
+Selected Action: 4 with ratios [6, 10, 6, 6]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -6871.0
+Selected Action: 3 with ratios [5, 5, 9, 9]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -6911.0
+Selected Action: 5 with ratios [5, 9, 5, 9]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -6047.0
+Selected Action: 13 with ratios [8, 8, 4, 8]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -6533.0
+Selected Action: 12 with ratios [9, 9, 5, 5]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -6996.0
+Selected Action: 4 with ratios [6, 10, 6, 6]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -7483.0
+Selected Action: 13 with ratios [8, 8, 4, 8]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -6580.0
+Selected Action: 3 with ratios [5, 5, 9, 9]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -6823.0
+Selected Action: 3 with ratios [5, 5, 9, 9]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000001B7855BB040>>
+plot_reward:  -4011.0
+Traceback (most recent call last):
+  File "C:\Users\admin\cycletsc\traffic_light_control_DQN\training_main.py", line 86, in <module>
+    Simulation.run(episode, epsilon)
+  File "C:\Users\admin\cycletsc\traffic_light_control_DQN\simulation.py", line 190, in run
+    self.optimize_model()
+  File "C:\Users\admin\cycletsc\traffic_light_control_DQN\simulation.py", line 270, in optimize_model
+    state_batch = torch.cat(batch.state).view(BATCH_SIZE, 3, 16, 100).to(device)
+RuntimeError: Tensors must have same number of dimensions: got 4 and 1
