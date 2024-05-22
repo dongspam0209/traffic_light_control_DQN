@@ -1,3 +1,4 @@
+#### signal selection ####
 import traci
 import numpy as np
 import pandas as pd
@@ -80,6 +81,8 @@ class Simulation:
         # inits
         self._step = 0
         old_action_number=-1
+        self._action_count=0
+        #action을 수행한 횟수 → queue length plot할때 분모로 사용
         # old_total_wait=0
 
         #### vehicle duration calculate ####
@@ -181,7 +184,7 @@ class Simulation:
 
             # action_to_do=self._choose_action(state_cat,prev_actions_tensor,epsilon) # action_to_do : a_t
             action_to_do=self._choose_action(current_state,epsilon) # action_to_do : a_t
-            
+            self._action_count+=1
             # if len(self.action_history) >= 2: # action index 저장
             #     self.action_history.pop(0)
             # self.action_history.append(action_to_do)
@@ -213,9 +216,9 @@ class Simulation:
                     file.write(f"{key}: {value}\n")
 
         print("한 episode에서의 마지막 step",self._step)
-        self.reward_per_epsiode.append(self.plot_reward/self._step)
+        self.reward_per_epsiode.append(self.plot_reward/self._action_count)
         self._waiting_time_per_episode.append(average_wait_time)
-        self._queue_length_per_episode.append(self.plot_queue_length / self._step)
+        self._queue_length_per_episode.append(self.plot_queue_length / self._action_count)
 
         print(f"epsilon : {epsilon:.3f}")
         
