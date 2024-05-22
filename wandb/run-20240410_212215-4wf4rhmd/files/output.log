@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_DQN\training_main.py", line 56, in <module>
+    Simulation=Simulation(
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 37, in __init__
+    self.policy_net=DQN(num_states,num_actions).to(device)
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\nn\modules\module.py", line 673, in to
+    return self._apply(convert)
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\nn\modules\module.py", line 387, in _apply
+    module._apply(fn)
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\nn\modules\module.py", line 409, in _apply
+    param_applied = fn(param)
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\nn\modules\module.py", line 671, in convert
+    return t.to(device, dtype if t.is_floating_point() or t.is_complex() else None, non_blocking)
+KeyboardInterrupt

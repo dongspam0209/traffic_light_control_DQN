@@ -1,0 +1,5 @@
+[default]
+entity = tlsc
+project = tlsc-project
+base_url = https://api.wandb.ai
+

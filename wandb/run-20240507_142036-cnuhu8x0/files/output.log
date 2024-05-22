@@ -1,0 +1,122 @@
+episode 0
+Simulating
+epsilon 1.0
+queue length in epsiode 0 1.0744444444444445
+loss in epsiode 0 17.61235809326172
+wait time in epsiode 0 131.77
+episode 1
+Simulating
+epsilon 1.0
+queue length in epsiode 1 1.6858333333333333
+loss in epsiode 1 15.722275733947754
+wait time in epsiode 1 244.5222222222222
+episode 2
+Simulating
+epsilon 1.0
+queue length in epsiode 2 1.2725
+loss in epsiode 2 13.733579635620117
+wait time in epsiode 2 134.94722222222222
+episode 3
+Simulating
+epsilon 0.99
+queue length in epsiode 3 1.1675
+loss in epsiode 3 11.898564338684082
+wait time in epsiode 3 141.76472222222222
+episode 4
+Simulating
+epsilon 0.99
+queue length in epsiode 4 1.0811111111111111
+loss in epsiode 4 10.046886444091797
+wait time in epsiode 4 170.0613888888889
+episode 5
+Simulating
+epsilon 0.99
+queue length in epsiode 5 1.1727777777777777
+loss in epsiode 5 8.291511535644531
+wait time in epsiode 5 156.74388888888888
+episode 6
+Simulating
+epsilon 0.99
+queue length in epsiode 6 1.1613888888888888
+loss in epsiode 6 8.036405563354492
+wait time in epsiode 6 133.1988888888889
+episode 7
+Simulating
+epsilon 0.99
+queue length in epsiode 7 1.3663888888888889
+loss in epsiode 7 6.809146881103516
+wait time in epsiode 7 227.29472222222222
+episode 8
+Simulating
+epsilon 0.98
+queue length in epsiode 8 1.2683333333333333
+loss in epsiode 8 5.861120700836182
+wait time in epsiode 8 168.56305555555556
+episode 9
+Simulating
+epsilon 0.98
+queue length in epsiode 9 1.081388888888889
+loss in epsiode 9 5.226281642913818
+wait time in epsiode 9 140.90055555555554
+episode 10
+Simulating
+epsilon 0.98
+queue length in epsiode 10 0.9919444444444444
+loss in epsiode 10 4.227525234222412
+wait time in epsiode 10 110.57638888888889
+episode 11
+Simulating
+epsilon 0.98
+queue length in epsiode 11 1.156388888888889
+loss in epsiode 11 6.485411167144775
+wait time in epsiode 11 137.04638888888888
+episode 12
+Simulating
+epsilon 0.98
+queue length in epsiode 12 1.323611111111111
+loss in epsiode 12 5.738520622253418
+wait time in epsiode 12 157.09166666666667
+episode 13
+Simulating
+epsilon 0.97
+queue length in epsiode 13 1.5827777777777778
+loss in epsiode 13 5.190532207489014
+wait time in epsiode 13 202.3672222222222
+episode 14
+Simulating
+epsilon 0.97
+queue length in epsiode 14 0.9063888888888889
+loss in epsiode 14 4.270847320556641
+wait time in epsiode 14 86.56333333333333
+episode 15
+Simulating
+epsilon 0.97
+queue length in epsiode 15 0.8902777777777777
+loss in epsiode 15 3.962355136871338
+wait time in epsiode 15 106.47777777777777
+episode 16
+Simulating
+epsilon 0.97
+queue length in epsiode 16 0.9622222222222222
+loss in epsiode 16 3.3754515647888184
+wait time in epsiode 16 107.20222222222222
+episode 17
+Simulating
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_DQN\training_main.py", line 83, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 95, in run
+    current_state=self._get_state()
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 215, in _get_state
+    lane_position = traci.vehicle.getLanePosition(veh_id) # car position in lane
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\_vehicle.py", line 420, in getLanePosition
+    return self._getUniversal(tc.VAR_LANEPOSITION, vehID)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\domain.py", line 147, in _getUniversal
+    return _parse(self._retValFunc, varID, self._getCmd(varID, objectID, format, *values))
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\domain.py", line 152, in _getCmd
+    r = self._connection._sendCmd(self._cmdGetID, varID, objID, format, *values)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 231, in _sendCmd
+    return self._sendExact()
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 130, in _sendExact
+    self._socket.send(length + self._string)
+KeyboardInterrupt

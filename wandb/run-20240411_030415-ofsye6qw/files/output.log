@@ -1,0 +1,1006 @@
+episode 0
+Simulating
+exploit
+max_val_list : tensor([-0.0130], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0089], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0061], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0094], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0123], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0110], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0250], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0343], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0213], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0321], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0831], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([0.0276], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0864], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0832], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0129], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([0.0137], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0237], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0162], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0036], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0156], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([0.0375], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0175], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0211], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0730], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0188], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([0.0073], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0613], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0119], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([0.0210], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0986], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0141], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0375], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0023], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0817], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([0.1685], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0328], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([0.0121], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0537], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0602], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([0.0168], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0619], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([0.0780], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.1041], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0139], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0834], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0304], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-0.1010], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.1475], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([0.2901], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0448], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([0.1368], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-0.1753], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0326], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([0.1209], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0626], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([0.0020], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([0.2348], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0222], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([0.0078], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([0.0516], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([0.0318], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0789], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0163], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-0.0692], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([0.0064], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([0.0606], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-0.6459], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.8464], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.9327], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.1299], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.9306], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.9900], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.1311], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.3039], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.9616], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.3956], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.9553], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.9273], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.0343], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-2.0465], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-1.6050], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.9429], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.4365], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.6204], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.4553], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.7328], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-3.0663], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-3.5961], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-4.0557], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-4.5555], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-4.8282], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-4.6461], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-5.3272], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-5.6300], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-4.9343], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-4.5646], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-4.4461], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-4.3601], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-6.2328], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-5.9412], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-5.7540], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-5.1133], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-4.9546], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-5.2413], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-3.5429], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-3.4033], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-3.6807], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-2.9092], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.8520], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-3.0510], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.8358], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-3.1752], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-4.0606], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-2.3686], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-2.2087], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.1236], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.3904], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.5673], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.6995], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.8599], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-3.3237], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-3.8270], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-5.0201], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-5.1313], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-4.7639], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-4.3033], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-4.3859], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-4.2344], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-4.5437], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-4.2984], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-3.9755], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-4.6782], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-4.2728], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-5.5167], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-4.7612], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-5.9275], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-6.3930], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-6.2875], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-7.1995], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-7.6272], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-8.2060], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-8.5802], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-7.9987], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-8.7006], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-9.0783], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-8.3112], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-8.8173], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-7.9852], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-7.7724], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-8.4460], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-8.1607], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-8.1826], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-5.9367], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-5.6652], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-6.4788], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-6.0526], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-6.4452], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-4.7712], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-4.2114], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-4.1165], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-4.3812], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-4.4721], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-4.1163], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-3.8776], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-4.1805], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-4.5459], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-3.0287], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-3.8054], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-4.1629], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-2.1922], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.4495], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.1681], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-2.3987], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.6936], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-1.7875], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-1.8740], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.7194], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-1.0370], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.2200], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.6366], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.7159], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.1040], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-1.5452], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.0228], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.3720], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.8223], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-2.8415], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-1.7141], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.5114], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-2.0131], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.5866], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.2722], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-3.1320], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-2.4846], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.7298], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.7353], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.8801], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.5084], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.1105], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.3591], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.4656], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+epsilon 1.0
+queue length in epsiode 0 0.7872222222222223
+loss in epsiode 0 7.033873558044434
+wait time in epsiode 0 74.18111111111111
+episode 1
+Simulating
+exploit
+max_val_list : tensor([-0.3296], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.3532], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.5632], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.7364], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.6022], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.9768], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.9535], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.2689], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.9714], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-1.8532], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-2.0807], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-1.8174], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-0.9769], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-2.3495], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-2.9744], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-2.8074], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-3.6177], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-2.7338], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-2.0553], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.0260], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-1.9334], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-2.3453], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.9031], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-5.1255], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-5.2095], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-5.4921], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-6.4532], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-6.0346], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-8.7356], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-8.3576], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-9.6121], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-11.0140], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-11.3856], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-11.3514], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-12.0842], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-12.7636], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-12.3605], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-12.0428], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-12.9058], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-17.3708], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-16.9049], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-17.6152], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-12.8939], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-15.1476], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-15.7369], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-14.2015], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-12.7901], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-8.7643], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-8.0466], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-5.6074], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-6.0693], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-8.2904], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-7.9077], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-5.7491], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-3.8595], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-1.6126], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-2.6855], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.7834], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-3.5449], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-4.2685], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-4.7767], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-5.0931], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-6.6262], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-7.0313], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-5.8331], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-8.6644], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-8.3352], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-9.3842], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-8.9600], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-8.9585], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-8.7234], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-8.8977], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-10.7381], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-10.1996], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-10.3258], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-11.9210], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-13.4598], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-15.0178], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-12.6839], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-12.7785], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-13.3856], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-11.3495], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-11.8484], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-13.6142], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-16.7240], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-16.8078], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-11.9661], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-14.9335], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-12.6512], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-10.0364], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-8.1971], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-8.3961], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-11.2017], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-9.1614], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-7.9598], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-7.7275], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-6.2032], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.5422], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-3.5085], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-2.9358], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-0.3818], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.4875], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-3.0091], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.3808], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-2.2005], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-1.7665], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-1.9589], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-2.0576], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-0.7958], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.3068], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-1.9678], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-1.4030], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.4385], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-0.6390], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.2686], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-0.7664], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-1.2344], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-1.4112], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-2.0670], device='cuda:0') max_q_action_list: tensor([3], device='cuda:0')
+max Q value selected tensor(3, device='cuda:0')
+exploit
+max_val_list : tensor([-2.3548], device='cuda:0') max_q_action_list: tensor([1], device='cuda:0')
+max Q value selected tensor(1, device='cuda:0')
+exploit
+max_val_list : tensor([-2.5323], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-3.1859], device='cuda:0') max_q_action_list: tensor([2], device='cuda:0')
+max Q value selected tensor(2, device='cuda:0')
+exploit
+max_val_list : tensor([-3.7200], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-2.2145], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-3.1489], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-4.8489], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-4.0349], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-4.3692], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+exploit
+max_val_list : tensor([-5.6258], device='cuda:0') max_q_action_list: tensor([0], device='cuda:0')
+max Q value selected tensor(0, device='cuda:0')
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_DQN\training_main.py", line 84, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 198, in run
+    self.optimize_model()
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 321, in optimize_model
+    next_state_values[non_final_mask] = self.target_net(non_final_next_states,prev_actions_batch[non_final_mask]).max(1)[0].detach()
+KeyboardInterrupt

@@ -1,0 +1,6 @@
+intersection/generate_exist.csv
+intersection/generate_velocity.csv
+intersection/generate_waiting_time.csv
+intersection/cross.rou.xml
+# Wandb large files
+wandb/*.wandb

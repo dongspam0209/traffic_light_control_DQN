@@ -1,0 +1,3999 @@
+episode 0
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 1.000
+queue length in epsiode 0 1.1877777777777778
+loss in epsiode 0 22027716.0
+wait time in epsiode 0 83.59
+reward in epsiode 0 -158.83166666666668
+episode 1
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.998
+queue length in epsiode 1 1.1711111111111112
+loss in epsiode 1 21613896.0
+wait time in epsiode 1 86.2
+reward in epsiode 1 -141.1211111111111
+episode 2
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.996
+queue length in epsiode 2 2.153888888888889
+loss in epsiode 2 21965388.0
+wait time in epsiode 2 120.238
+reward in epsiode 2 -343.31305555555554
+episode 3
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.994
+queue length in epsiode 3 1.638611111111111
+loss in epsiode 3 21886452.0
+wait time in epsiode 3 102.517
+reward in epsiode 3 -232.05638888888888
+episode 4
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.992
+queue length in epsiode 4 1.5819444444444444
+loss in epsiode 4 21579844.0
+wait time in epsiode 4 100.841
+reward in epsiode 4 -225.4986111111111
+episode 5
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.990
+queue length in epsiode 5 1.1997222222222221
+loss in epsiode 5 21757422.0
+wait time in epsiode 5 88.464
+reward in epsiode 5 -169.81027777777777
+episode 6
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.988
+queue length in epsiode 6 1.435
+loss in epsiode 6 20982746.0
+wait time in epsiode 6 94.852
+reward in epsiode 6 -183.9611111111111
+episode 7
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.986
+queue length in epsiode 7 1.6475
+loss in epsiode 7 21520584.0
+wait time in epsiode 7 99.671
+reward in epsiode 7 -226.4572222222222
+episode 8
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.984
+queue length in epsiode 8 1.9252777777777779
+loss in epsiode 8 20261734.0
+wait time in epsiode 8 107.476
+reward in epsiode 8 -346.4588888888889
+episode 9
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.982
+queue length in epsiode 9 1.2575
+loss in epsiode 9 20245084.0
+wait time in epsiode 9 88.056
+reward in epsiode 9 -169.37333333333333
+episode 10
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.980
+queue length in epsiode 10 0.9394444444444444
+loss in epsiode 10 18914896.0
+wait time in epsiode 10 75.019
+reward in epsiode 10 -109.57861111111112
+episode 11
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.978
+queue length in epsiode 11 1.2725
+loss in epsiode 11 19629370.0
+wait time in epsiode 11 88.747
+reward in epsiode 11 -160.3838888888889
+episode 12
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.976
+queue length in epsiode 12 1.44
+loss in epsiode 12 19067924.0
+wait time in epsiode 12 91.981
+reward in epsiode 12 -170.63333333333333
+episode 13
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.974
+queue length in epsiode 13 1.1852777777777779
+loss in epsiode 13 18028136.0
+wait time in epsiode 13 84.15
+reward in epsiode 13 -137.81333333333333
+episode 14
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.972
+queue length in epsiode 14 0.9380555555555555
+loss in epsiode 14 18436108.0
+wait time in epsiode 14 76.979
+reward in epsiode 14 -99.99527777777777
+episode 15
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.970
+queue length in epsiode 15 1.1244444444444444
+loss in epsiode 15 19283284.0
+wait time in epsiode 15 83.231
+reward in epsiode 15 -133.95138888888889
+episode 16
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.968
+queue length in epsiode 16 1.4580555555555557
+loss in epsiode 16 17890424.0
+wait time in epsiode 16 97.256
+reward in epsiode 16 -188.22277777777776
+episode 17
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.966
+queue length in epsiode 17 1.576111111111111
+loss in epsiode 17 19004384.0
+wait time in epsiode 17 100.522
+reward in epsiode 17 -200.73666666666668
+episode 18
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.964
+queue length in epsiode 18 0.9186111111111112
+loss in epsiode 18 17299204.0
+wait time in epsiode 18 73.494
+reward in epsiode 18 -96.41277777777778
+episode 19
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.962
+queue length in epsiode 19 1.1752777777777779
+loss in epsiode 19 18157306.0
+wait time in epsiode 19 84.118
+reward in epsiode 19 -136.4138888888889
+episode 20
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.960
+queue length in epsiode 20 1.4422222222222223
+loss in epsiode 20 18452412.0
+wait time in epsiode 20 93.36
+reward in epsiode 20 -238.7511111111111
+episode 21
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.958
+queue length in epsiode 21 1.5433333333333332
+loss in epsiode 21 17892052.0
+wait time in epsiode 21 99.215
+reward in epsiode 21 -194.035
+episode 22
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.956
+queue length in epsiode 22 1.441111111111111
+loss in epsiode 22 18879392.0
+wait time in epsiode 22 97.572
+reward in epsiode 22 -185.72916666666666
+episode 23
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.954
+queue length in epsiode 23 0.9511111111111111
+loss in epsiode 23 16967472.0
+wait time in epsiode 23 74.94
+reward in epsiode 23 -101.08444444444444
+episode 24
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.952
+queue length in epsiode 24 1.1691666666666667
+loss in epsiode 24 17954522.0
+wait time in epsiode 24 85.447
+reward in epsiode 24 -135.0913888888889
+episode 25
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.950
+queue length in epsiode 25 0.8425
+loss in epsiode 25 15067402.0
+wait time in epsiode 25 72.987
+reward in epsiode 25 -86.28583333333333
+episode 26
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.948
+queue length in epsiode 26 0.9366666666666666
+loss in epsiode 26 16400348.0
+wait time in epsiode 26 75.452
+reward in epsiode 26 -108.17333333333333
+episode 27
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.946
+queue length in epsiode 27 1.086111111111111
+loss in epsiode 27 16915268.0
+wait time in epsiode 27 80.154
+reward in epsiode 27 -117.47277777777778
+episode 28
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.944
+queue length in epsiode 28 0.9733333333333334
+loss in epsiode 28 17259442.0
+wait time in epsiode 28 77.62
+reward in epsiode 28 -126.11333333333333
+episode 29
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.942
+queue length in epsiode 29 1.093888888888889
+loss in epsiode 29 15955590.0
+wait time in epsiode 29 83.853
+reward in epsiode 29 -129.00833333333333
+episode 30
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.940
+queue length in epsiode 30 0.9983333333333333
+loss in epsiode 30 17204896.0
+wait time in epsiode 30 76.841
+reward in epsiode 30 -108.74888888888889
+episode 31
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.938
+queue length in epsiode 31 1.6575
+loss in epsiode 31 15347847.0
+wait time in epsiode 31 101.345
+reward in epsiode 31 -255.83694444444444
+episode 32
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.936
+queue length in epsiode 32 1.0572222222222223
+loss in epsiode 32 15193858.0
+wait time in epsiode 32 78.576
+reward in epsiode 32 -110.50472222222223
+episode 33
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.934
+queue length in epsiode 33 1.3675
+loss in epsiode 33 15551928.0
+wait time in epsiode 33 89.356
+reward in epsiode 33 -168.51666666666668
+episode 34
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.932
+queue length in epsiode 34 1.4022222222222223
+loss in epsiode 34 14935716.0
+wait time in epsiode 34 98.196
+reward in epsiode 34 -204.70805555555555
+episode 35
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.930
+queue length in epsiode 35 1.1383333333333334
+loss in epsiode 35 13548816.0
+wait time in epsiode 35 84.584
+reward in epsiode 35 -136.04333333333332
+episode 36
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.928
+queue length in epsiode 36 1.4519444444444445
+loss in epsiode 36 13746086.0
+wait time in epsiode 36 92.589
+reward in epsiode 36 -184.01305555555555
+episode 37
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.926
+queue length in epsiode 37 0.8625
+loss in epsiode 37 14842171.0
+wait time in epsiode 37 74.647
+reward in epsiode 37 -99.31055555555555
+episode 38
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.924
+queue length in epsiode 38 0.8505555555555555
+loss in epsiode 38 14680105.0
+wait time in epsiode 38 71.295
+reward in epsiode 38 -89.76583333333333
+episode 39
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.922
+queue length in epsiode 39 1.0161111111111112
+loss in epsiode 39 13347890.0
+wait time in epsiode 39 77.316
+reward in epsiode 39 -123.37277777777778
+episode 40
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.920
+queue length in epsiode 40 1.0208333333333333
+loss in epsiode 40 11577718.0
+wait time in epsiode 40 80.502
+reward in epsiode 40 -110.84777777777778
+episode 41
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.918
+queue length in epsiode 41 1.0086111111111111
+loss in epsiode 41 13891248.0
+wait time in epsiode 41 80.175
+reward in epsiode 41 -124.49305555555556
+episode 42
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.916
+queue length in epsiode 42 1.1152777777777778
+loss in epsiode 42 13083902.0
+wait time in epsiode 42 82.978
+reward in epsiode 42 -120.54444444444445
+episode 43
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.914
+queue length in epsiode 43 0.9302777777777778
+loss in epsiode 43 14382892.0
+wait time in epsiode 43 75.191
+reward in epsiode 43 -106.1825
+episode 44
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.912
+queue length in epsiode 44 0.9555555555555556
+loss in epsiode 44 15037877.0
+wait time in epsiode 44 76.524
+reward in epsiode 44 -109.56027777777778
+episode 45
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.910
+queue length in epsiode 45 0.8572222222222222
+loss in epsiode 45 13579356.0
+wait time in epsiode 45 71.155
+reward in epsiode 45 -87.61333333333333
+episode 46
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.908
+queue length in epsiode 46 1.12
+loss in epsiode 46 10669802.0
+wait time in epsiode 46 80.905
+reward in epsiode 46 -137.4813888888889
+episode 47
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.906
+queue length in epsiode 47 1.136111111111111
+loss in epsiode 47 9998007.0
+wait time in epsiode 47 85.092
+reward in epsiode 47 -138.63416666666666
+episode 48
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.904
+queue length in epsiode 48 1.3205555555555555
+loss in epsiode 48 14194488.0
+wait time in epsiode 48 91.161
+reward in epsiode 48 -169.43333333333334
+episode 49
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.902
+queue length in epsiode 49 0.8452777777777778
+loss in epsiode 49 12142118.0
+wait time in epsiode 49 73.682
+reward in epsiode 49 -87.24777777777778
+episode 50
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.900
+queue length in epsiode 50 0.9888888888888889
+loss in epsiode 50 12734280.0
+wait time in epsiode 50 77.267
+reward in epsiode 50 -106.36416666666666
+episode 51
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.898
+queue length in epsiode 51 1.0077777777777779
+loss in epsiode 51 12808084.0
+wait time in epsiode 51 77.006
+reward in epsiode 51 -109.72555555555556
+episode 52
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.896
+queue length in epsiode 52 1.1236111111111111
+loss in epsiode 52 11631913.0
+wait time in epsiode 52 85.154
+reward in epsiode 52 -143.60777777777778
+episode 53
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.894
+queue length in epsiode 53 1.2016666666666667
+loss in epsiode 53 14352562.0
+wait time in epsiode 53 86.325
+reward in epsiode 53 -147.24555555555557
+episode 54
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.892
+queue length in epsiode 54 1.1930555555555555
+loss in epsiode 54 12093909.0
+wait time in epsiode 54 85.614
+reward in epsiode 54 -141.11583333333334
+episode 55
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.890
+queue length in epsiode 55 0.8966666666666666
+loss in epsiode 55 12361333.0
+wait time in epsiode 55 74.941
+reward in epsiode 55 -101.91888888888889
+episode 56
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.888
+queue length in epsiode 56 1.28
+loss in epsiode 56 10094034.0
+wait time in epsiode 56 87.968
+reward in epsiode 56 -168.2675
+episode 57
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.886
+queue length in epsiode 57 1.2869444444444444
+loss in epsiode 57 9609422.0
+wait time in epsiode 57 91.659
+reward in epsiode 57 -164.05166666666668
+episode 58
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.884
+queue length in epsiode 58 1.1202777777777777
+loss in epsiode 58 9732875.0
+wait time in epsiode 58 80.005
+reward in epsiode 58 -124.12361111111112
+episode 59
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.882
+queue length in epsiode 59 0.9938888888888889
+loss in epsiode 59 10226301.0
+wait time in epsiode 59 75.084
+reward in epsiode 59 -106.23305555555555
+episode 60
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.880
+queue length in epsiode 60 0.8077777777777778
+loss in epsiode 60 9625372.0
+wait time in epsiode 60 71.499
+reward in epsiode 60 -82.34666666666666
+episode 61
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.878
+queue length in epsiode 61 0.9902777777777778
+loss in epsiode 61 12441246.0
+wait time in epsiode 61 78.222
+reward in epsiode 61 -116.80305555555556
+episode 62
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.876
+queue length in epsiode 62 1.3375
+loss in epsiode 62 9734670.0
+wait time in epsiode 62 92.38
+reward in epsiode 62 -179.57916666666668
+episode 63
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.874
+queue length in epsiode 63 0.8405555555555555
+loss in epsiode 63 9901848.0
+wait time in epsiode 63 71.444
+reward in epsiode 63 -84.72583333333333
+episode 64
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.872
+queue length in epsiode 64 0.8919444444444444
+loss in epsiode 64 10980990.0
+wait time in epsiode 64 72.338
+reward in epsiode 64 -94.56888888888889
+episode 65
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.870
+queue length in epsiode 65 1.1636111111111112
+loss in epsiode 65 8612896.0
+wait time in epsiode 65 88.252
+reward in epsiode 65 -148.0575
+episode 66
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.868
+queue length in epsiode 66 1.0877777777777777
+loss in epsiode 66 7204221.5
+wait time in epsiode 66 81.207
+reward in epsiode 66 -128.665
+episode 67
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.866
+queue length in epsiode 67 0.7894444444444444
+loss in epsiode 67 8641030.0
+wait time in epsiode 67 71.891
+reward in epsiode 67 -76.915
+episode 68
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.864
+queue length in epsiode 68 0.95
+loss in epsiode 68 7977189.0
+wait time in epsiode 68 75.745
+reward in epsiode 68 -114.19638888888889
+episode 69
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.862
+queue length in epsiode 69 0.8169444444444445
+loss in epsiode 69 5419555.5
+wait time in epsiode 69 71.141
+reward in epsiode 69 -82.98611111111111
+episode 70
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.860
+queue length in epsiode 70 0.7661111111111111
+loss in epsiode 70 6982851.0
+wait time in epsiode 70 69.308
+reward in epsiode 70 -78.175
+episode 71
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.858
+queue length in epsiode 71 0.7005555555555556
+loss in epsiode 71 9353179.0
+wait time in epsiode 71 67.803
+reward in epsiode 71 -69.83472222222223
+episode 72
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.856
+queue length in epsiode 72 1.0186111111111111
+loss in epsiode 72 7392628.5
+wait time in epsiode 72 78.061
+reward in epsiode 72 -112.62805555555556
+episode 73
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.854
+queue length in epsiode 73 0.7380555555555556
+loss in epsiode 73 7626452.0
+wait time in epsiode 73 69.04
+reward in epsiode 73 -88.2688888888889
+episode 74
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.852
+queue length in epsiode 74 0.8041666666666667
+loss in epsiode 74 7763216.0
+wait time in epsiode 74 69.544
+reward in epsiode 74 -76.45583333333333
+episode 75
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.850
+queue length in epsiode 75 1.2327777777777778
+loss in epsiode 75 6945632.0
+wait time in epsiode 75 87.775
+reward in epsiode 75 -145.10111111111112
+episode 76
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.848
+queue length in epsiode 76 0.9205555555555556
+loss in epsiode 76 5595875.0
+wait time in epsiode 76 75.656
+reward in epsiode 76 -113.5975
+episode 77
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.846
+queue length in epsiode 77 0.9633333333333334
+loss in epsiode 77 6782644.0
+wait time in epsiode 77 77.601
+reward in epsiode 77 -115.0575
+episode 78
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.844
+queue length in epsiode 78 0.885
+loss in epsiode 78 6027553.0
+wait time in epsiode 78 72.067
+reward in epsiode 78 -90.77388888888889
+episode 79
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.842
+queue length in epsiode 79 0.63
+loss in epsiode 79 3661678.0
+wait time in epsiode 79 63.516
+reward in epsiode 79 -60.4475
+episode 80
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.840
+queue length in epsiode 80 0.8258333333333333
+loss in epsiode 80 4494776.0
+wait time in epsiode 80 71.132
+reward in epsiode 80 -87.78916666666667
+episode 81
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.838
+queue length in epsiode 81 0.9944444444444445
+loss in epsiode 81 9644206.0
+wait time in epsiode 81 79.704
+reward in epsiode 81 -112.25472222222223
+episode 82
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.836
+queue length in epsiode 82 0.8277777777777777
+loss in epsiode 82 6723850.5
+wait time in epsiode 82 72.59
+reward in epsiode 82 -92.1225
+episode 83
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.834
+queue length in epsiode 83 0.8066666666666666
+loss in epsiode 83 6064022.5
+wait time in epsiode 83 72.023
+reward in epsiode 83 -84.9713888888889
+episode 84
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.832
+queue length in epsiode 84 0.6952777777777778
+loss in epsiode 84 6339044.0
+wait time in epsiode 84 66.806
+reward in epsiode 84 -74.57444444444444
+episode 85
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.830
+queue length in epsiode 85 0.7833333333333333
+loss in epsiode 85 5826793.0
+wait time in epsiode 85 69.347
+reward in epsiode 85 -90.23611111111111
+episode 86
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.828
+queue length in epsiode 86 0.8402777777777778
+loss in epsiode 86 4171903.0
+wait time in epsiode 86 72.686
+reward in epsiode 86 -104.135
+episode 87
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.826
+queue length in epsiode 87 0.6138888888888889
+loss in epsiode 87 4524915.5
+wait time in epsiode 87 62.974
+reward in epsiode 87 -63.705555555555556
+episode 88
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.824
+queue length in epsiode 88 0.8480555555555556
+loss in epsiode 88 2699930.0
+wait time in epsiode 88 73.166
+reward in epsiode 88 -96.11333333333333
+episode 89
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.822
+queue length in epsiode 89 0.7947222222222222
+loss in epsiode 89 3290450.0
+wait time in epsiode 89 71.945
+reward in epsiode 89 -85.45777777777778
+episode 90
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.820
+queue length in epsiode 90 0.8433333333333334
+loss in epsiode 90 2888867.25
+wait time in epsiode 90 71.917
+reward in epsiode 90 -90.36194444444445
+episode 91
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.818
+queue length in epsiode 91 0.7869444444444444
+loss in epsiode 91 6474614.0
+wait time in epsiode 91 69.134
+reward in epsiode 91 -80.4336111111111
+episode 92
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.816
+queue length in epsiode 92 0.8188888888888889
+loss in epsiode 92 4683732.0
+wait time in epsiode 92 72.275
+reward in epsiode 92 -80.385
+episode 93
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.814
+queue length in epsiode 93 1.0469444444444445
+loss in epsiode 93 4658172.0
+wait time in epsiode 93 82.748
+reward in epsiode 93 -158.9936111111111
+episode 94
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.812
+queue length in epsiode 94 0.7825
+loss in epsiode 94 4049357.0
+wait time in epsiode 94 71.06
+reward in epsiode 94 -78.61805555555556
+episode 95
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.810
+queue length in epsiode 95 1.0933333333333333
+loss in epsiode 95 3235245.0
+wait time in epsiode 95 80.321
+reward in epsiode 95 -121.05166666666666
+episode 96
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.808
+queue length in epsiode 96 0.8744444444444445
+loss in epsiode 96 3836245.5
+wait time in epsiode 96 71.754
+reward in epsiode 96 -86.4961111111111
+episode 97
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.806
+queue length in epsiode 97 0.7677777777777778
+loss in epsiode 97 2262822.5
+wait time in epsiode 97 69.334
+reward in epsiode 97 -84.46916666666667
+episode 98
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.804
+queue length in epsiode 98 0.7544444444444445
+loss in epsiode 98 2465625.0
+wait time in epsiode 98 68.394
+reward in epsiode 98 -70.40916666666666
+episode 99
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.802
+queue length in epsiode 99 0.7138888888888889
+loss in epsiode 99 1769104.375
+wait time in epsiode 99 67.759
+reward in epsiode 99 -73.35166666666667
+episode 100
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.800
+queue length in epsiode 100 0.8113888888888889
+loss in epsiode 100 2381438.5
+wait time in epsiode 100 71.433
+reward in epsiode 100 -85.88777777777777
+episode 101
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.798
+queue length in epsiode 101 1.0958333333333334
+loss in epsiode 101 5214152.5
+wait time in epsiode 101 82.063
+reward in epsiode 101 -131.28833333333333
+episode 102
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.796
+queue length in epsiode 102 0.8186111111111111
+loss in epsiode 102 3811142.0
+wait time in epsiode 102 73.487
+reward in epsiode 102 -92.64138888888888
+episode 103
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.794
+queue length in epsiode 103 0.7441666666666666
+loss in epsiode 103 4013352.0
+wait time in epsiode 103 68.216
+reward in epsiode 103 -71.37333333333333
+episode 104
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.792
+queue length in epsiode 104 0.7413888888888889
+loss in epsiode 104 3799680.0
+wait time in epsiode 104 69.531
+reward in epsiode 104 -78.45416666666667
+episode 105
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.790
+queue length in epsiode 105 0.7911111111111111
+loss in epsiode 105 2757308.25
+wait time in epsiode 105 68.697
+reward in epsiode 105 -77.41166666666666
+episode 106
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.788
+queue length in epsiode 106 0.9838888888888889
+loss in epsiode 106 2407625.5
+wait time in epsiode 106 77.648
+reward in epsiode 106 -121.21166666666667
+episode 107
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.786
+queue length in epsiode 107 0.7027777777777777
+loss in epsiode 107 1714527.25
+wait time in epsiode 107 67.708
+reward in epsiode 107 -72.30055555555556
+episode 108
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.784
+queue length in epsiode 108 1.1344444444444444
+loss in epsiode 108 1480120.5
+wait time in epsiode 108 83.497
+reward in epsiode 108 -130.32694444444445
+episode 109
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.782
+queue length in epsiode 109 0.8458333333333333
+loss in epsiode 109 1609062.5
+wait time in epsiode 109 73.181
+reward in epsiode 109 -88.41805555555555
+episode 110
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.780
+queue length in epsiode 110 1.135
+loss in epsiode 110 1291415.0
+wait time in epsiode 110 84.326
+reward in epsiode 110 -148.94861111111112
+episode 111
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.778
+queue length in epsiode 111 0.6241666666666666
+loss in epsiode 111 4375553.0
+wait time in epsiode 111 64.881
+reward in epsiode 111 -58.772777777777776
+episode 112
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.776
+queue length in epsiode 112 0.7366666666666667
+loss in epsiode 112 2926338.0
+wait time in epsiode 112 69.359
+reward in epsiode 112 -78.95166666666667
+episode 113
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.774
+queue length in epsiode 113 0.7244444444444444
+loss in epsiode 113 3311670.5
+wait time in epsiode 113 66.983
+reward in epsiode 113 -69.78888888888889
+episode 114
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.772
+queue length in epsiode 114 0.8227777777777778
+loss in epsiode 114 1782578.125
+wait time in epsiode 114 73.698
+reward in epsiode 114 -88.64166666666667
+episode 115
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.770
+queue length in epsiode 115 0.9311111111111111
+loss in epsiode 115 2158538.75
+wait time in epsiode 115 77.727
+reward in epsiode 115 -109.82444444444444
+episode 116
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.768
+queue length in epsiode 116 0.7986111111111112
+loss in epsiode 116 1239086.0
+wait time in epsiode 116 72.214
+reward in epsiode 116 -88.68416666666667
+episode 117
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.766
+queue length in epsiode 117 0.7508333333333334
+loss in epsiode 117 1696392.0
+wait time in epsiode 117 68.051
+reward in epsiode 117 -75.98833333333333
+episode 118
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.764
+queue length in epsiode 118 0.9547222222222222
+loss in epsiode 118 1520664.25
+wait time in epsiode 118 77.603
+reward in epsiode 118 -106.10166666666667
+episode 119
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.762
+queue length in epsiode 119 0.7347222222222223
+loss in epsiode 119 749369.25
+wait time in epsiode 119 70.554
+reward in epsiode 119 -80.6686111111111
+episode 120
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.760
+queue length in epsiode 120 0.6244444444444445
+loss in epsiode 120 953896.125
+wait time in epsiode 120 64.671
+reward in epsiode 120 -63.37
+episode 121
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.758
+queue length in epsiode 121 0.6611111111111111
+loss in epsiode 121 3162153.75
+wait time in epsiode 121 64.391
+reward in epsiode 121 -60.27361111111111
+episode 122
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.756
+queue length in epsiode 122 0.7036111111111111
+loss in epsiode 122 2322359.25
+wait time in epsiode 122 66.467
+reward in epsiode 122 -67.68722222222222
+episode 123
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.754
+queue length in epsiode 123 0.7125
+loss in epsiode 123 1737336.625
+wait time in epsiode 123 67.422
+reward in epsiode 123 -69.27694444444444
+episode 124
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.752
+queue length in epsiode 124 0.7927777777777778
+loss in epsiode 124 2033049.5
+wait time in epsiode 124 72.789
+reward in epsiode 124 -84.58277777777778
+episode 125
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.750
+queue length in epsiode 125 0.7747222222222222
+loss in epsiode 125 1814489.25
+wait time in epsiode 125 68.667
+reward in epsiode 125 -84.84138888888889
+episode 126
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.748
+queue length in epsiode 126 0.8244444444444444
+loss in epsiode 126 1259513.875
+wait time in epsiode 126 73.387
+reward in epsiode 126 -83.0725
+episode 127
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.746
+queue length in epsiode 127 0.6280555555555556
+loss in epsiode 127 885031.3125
+wait time in epsiode 127 65.048
+reward in epsiode 127 -60.76138888888889
+episode 128
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.744
+queue length in epsiode 128 0.7997222222222222
+loss in epsiode 128 932044.75
+wait time in epsiode 128 72.905
+reward in epsiode 128 -89.15333333333334
+episode 129
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.742
+queue length in epsiode 129 0.6311111111111111
+loss in epsiode 129 1002179.25
+wait time in epsiode 129 63.786
+reward in epsiode 129 -61.403888888888886
+episode 130
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.740
+queue length in epsiode 130 0.6444444444444445
+loss in epsiode 130 1539578.375
+wait time in epsiode 130 66.021
+reward in epsiode 130 -61.388888888888886
+episode 131
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.738
+queue length in epsiode 131 0.7575
+loss in epsiode 131 2271548.25
+wait time in epsiode 131 71.431
+reward in epsiode 131 -77.0125
+episode 132
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.736
+queue length in epsiode 132 0.9005555555555556
+loss in epsiode 132 1986633.0
+wait time in epsiode 132 75.67
+reward in epsiode 132 -111.9738888888889
+episode 133
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.734
+queue length in epsiode 133 0.8141666666666667
+loss in epsiode 133 1877215.625
+wait time in epsiode 133 73.252
+reward in epsiode 133 -84.56611111111111
+episode 134
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.732
+queue length in epsiode 134 0.7311111111111112
+loss in epsiode 134 1679929.625
+wait time in epsiode 134 68.018
+reward in epsiode 134 -76.27833333333334
+episode 135
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.730
+queue length in epsiode 135 0.7488888888888889
+loss in epsiode 135 1291220.5
+wait time in epsiode 135 69.065
+reward in epsiode 135 -75.88916666666667
+episode 136
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.728
+queue length in epsiode 136 0.7088888888888889
+loss in epsiode 136 1696832.75
+wait time in epsiode 136 69.233
+reward in epsiode 136 -69.66805555555555
+episode 137
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.726
+queue length in epsiode 137 0.6366666666666667
+loss in epsiode 137 954438.5625
+wait time in epsiode 137 64.444
+reward in epsiode 137 -60.849444444444444
+episode 138
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.724
+queue length in epsiode 138 0.6041666666666666
+loss in epsiode 138 865028.875
+wait time in epsiode 138 63.535
+reward in epsiode 138 -58.083333333333336
+episode 139
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.722
+queue length in epsiode 139 0.7988888888888889
+loss in epsiode 139 416300.125
+wait time in epsiode 139 71.164
+reward in epsiode 139 -91.7225
+episode 140
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.720
+queue length in epsiode 140 0.6705555555555556
+loss in epsiode 140 551231.6875
+wait time in epsiode 140 67.761
+reward in epsiode 140 -68.72277777777778
+episode 141
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.718
+queue length in epsiode 141 0.7988888888888889
+loss in epsiode 141 1183044.25
+wait time in epsiode 141 71.18
+reward in epsiode 141 -86.12944444444445
+episode 142
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.716
+queue length in epsiode 142 0.6077777777777778
+loss in epsiode 142 1716380.5
+wait time in epsiode 142 63.667
+reward in epsiode 142 -57.75972222222222
+episode 143
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.714
+queue length in epsiode 143 0.7038888888888889
+loss in epsiode 143 1128014.75
+wait time in epsiode 143 67.515
+reward in epsiode 143 -66.78722222222223
+episode 144
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.712
+queue length in epsiode 144 0.6569444444444444
+loss in epsiode 144 1543518.375
+wait time in epsiode 144 65.382
+reward in epsiode 144 -62.091944444444444
+episode 145
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.710
+queue length in epsiode 145 0.6713888888888889
+loss in epsiode 145 1139791.625
+wait time in epsiode 145 68.028
+reward in epsiode 145 -71.39027777777778
+episode 146
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.708
+queue length in epsiode 146 0.7861111111111111
+loss in epsiode 146 935695.125
+wait time in epsiode 146 70.894
+reward in epsiode 146 -79.82916666666667
+episode 147
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.706
+queue length in epsiode 147 0.6688888888888889
+loss in epsiode 147 859572.625
+wait time in epsiode 147 66.087
+reward in epsiode 147 -66.7311111111111
+episode 148
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.704
+queue length in epsiode 148 0.8005555555555556
+loss in epsiode 148 781726.8125
+wait time in epsiode 148 70.152
+reward in epsiode 148 -92.75305555555556
+episode 149
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.702
+queue length in epsiode 149 0.7652777777777777
+loss in epsiode 149 520460.25
+wait time in epsiode 149 70.085
+reward in epsiode 149 -81.42333333333333
+episode 150
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.700
+queue length in epsiode 150 0.6675
+loss in epsiode 150 597828.5
+wait time in epsiode 150 65.041
+reward in epsiode 150 -62.505
+episode 151
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.698
+queue length in epsiode 151 0.6833333333333333
+loss in epsiode 151 1225260.25
+wait time in epsiode 151 66.33
+reward in epsiode 151 -74.1525
+episode 152
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.696
+queue length in epsiode 152 0.6994444444444444
+loss in epsiode 152 933769.5
+wait time in epsiode 152 65.722
+reward in epsiode 152 -66.60388888888889
+episode 153
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.694
+queue length in epsiode 153 0.7166666666666667
+loss in epsiode 153 1327255.375
+wait time in epsiode 153 67.547
+reward in epsiode 153 -80.32527777777777
+episode 154
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.692
+queue length in epsiode 154 0.6652777777777777
+loss in epsiode 154 950740.5625
+wait time in epsiode 154 66.594
+reward in epsiode 154 -72.08166666666666
+episode 155
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.690
+queue length in epsiode 155 0.7133333333333334
+loss in epsiode 155 820377.0625
+wait time in epsiode 155 69.146
+reward in epsiode 155 -74.99111111111111
+episode 156
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.688
+queue length in epsiode 156 0.7152777777777778
+loss in epsiode 156 572273.4375
+wait time in epsiode 156 68.487
+reward in epsiode 156 -78.7675
+episode 157
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.686
+queue length in epsiode 157 0.6652777777777777
+loss in epsiode 157 1007480.625
+wait time in epsiode 157 65.844
+reward in epsiode 157 -66.35666666666667
+episode 158
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.684
+queue length in epsiode 158 0.6863888888888889
+loss in epsiode 158 858727.375
+wait time in epsiode 158 69.3
+reward in epsiode 158 -67.51277777777777
+episode 159
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.682
+queue length in epsiode 159 0.7125
+loss in epsiode 159 301792.21875
+wait time in epsiode 159 68.986
+reward in epsiode 159 -69.05166666666666
+episode 160
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.680
+queue length in epsiode 160 0.6855555555555556
+loss in epsiode 160 742660.875
+wait time in epsiode 160 66.965
+reward in epsiode 160 -67.78583333333333
+episode 161
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.678
+queue length in epsiode 161 0.5886111111111111
+loss in epsiode 161 1058756.125
+wait time in epsiode 161 63.764
+reward in epsiode 161 -58.26583333333333
+episode 162
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.676
+queue length in epsiode 162 0.8819444444444444
+loss in epsiode 162 1195630.0
+wait time in epsiode 162 76.539
+reward in epsiode 162 -152.8761111111111
+episode 163
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.674
+queue length in epsiode 163 0.6222222222222222
+loss in epsiode 163 1032359.5
+wait time in epsiode 163 63.489
+reward in epsiode 163 -61.455555555555556
+episode 164
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.672
+queue length in epsiode 164 0.6797222222222222
+loss in epsiode 164 817154.625
+wait time in epsiode 164 67.012
+reward in epsiode 164 -66.4113888888889
+episode 165
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.670
+queue length in epsiode 165 0.5388888888888889
+loss in epsiode 165 741439.5
+wait time in epsiode 165 60.592
+reward in epsiode 165 -48.64361111111111
+episode 166
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.668
+queue length in epsiode 166 0.6913888888888889
+loss in epsiode 166 651274.375
+wait time in epsiode 166 69.733
+reward in epsiode 166 -91.24666666666667
+episode 167
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.666
+queue length in epsiode 167 0.7261111111111112
+loss in epsiode 167 690384.3125
+wait time in epsiode 167 68.861
+reward in epsiode 167 -68.22222222222223
+episode 168
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.664
+queue length in epsiode 168 0.8313888888888888
+loss in epsiode 168 574084.3125
+wait time in epsiode 168 73.193
+reward in epsiode 168 -103.28361111111111
+episode 169
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.662
+queue length in epsiode 169 0.8002777777777778
+loss in epsiode 169 590125.75
+wait time in epsiode 169 72.577
+reward in epsiode 169 -92.69555555555556
+episode 170
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.660
+queue length in epsiode 170 0.7108333333333333
+loss in epsiode 170 427334.78125
+wait time in epsiode 170 67.884
+reward in epsiode 170 -74.11916666666667
+episode 171
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.658
+queue length in epsiode 171 0.7308333333333333
+loss in epsiode 171 875836.125
+wait time in epsiode 171 68.8
+reward in epsiode 171 -78.17388888888888
+episode 172
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.656
+queue length in epsiode 172 0.6455555555555555
+loss in epsiode 172 809899.8125
+wait time in epsiode 172 65.097
+reward in epsiode 172 -61.999722222222225
+episode 173
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.654
+queue length in epsiode 173 0.5644444444444444
+loss in epsiode 173 703359.25
+wait time in epsiode 173 62.517
+reward in epsiode 173 -53.06916666666667
+episode 174
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.652
+queue length in epsiode 174 0.7588888888888888
+loss in epsiode 174 653860.625
+wait time in epsiode 174 69.972
+reward in epsiode 174 -80.62861111111111
+episode 175
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.650
+queue length in epsiode 175 0.6255555555555555
+loss in epsiode 175 668190.375
+wait time in epsiode 175 63.747
+reward in epsiode 175 -63.139722222222225
+episode 176
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.648
+queue length in epsiode 176 0.5683333333333334
+loss in epsiode 176 549129.0
+wait time in epsiode 176 63.526
+reward in epsiode 176 -59.131388888888885
+episode 177
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.646
+queue length in epsiode 177 0.5377777777777778
+loss in epsiode 177 461599.625
+wait time in epsiode 177 61.339
+reward in epsiode 177 -48.654444444444444
+episode 178
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.644
+queue length in epsiode 178 0.7161111111111111
+loss in epsiode 178 394827.125
+wait time in epsiode 178 68.595
+reward in epsiode 178 -74.65472222222222
+episode 179
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.642
+queue length in epsiode 179 0.5588888888888889
+loss in epsiode 179 518632.8125
+wait time in epsiode 179 61.126
+reward in epsiode 179 -51.82194444444445
+episode 180
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.640
+queue length in epsiode 180 0.6513888888888889
+loss in epsiode 180 514036.625
+wait time in epsiode 180 66.065
+reward in epsiode 180 -61.16555555555556
+episode 181
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.638
+queue length in epsiode 181 0.5780555555555555
+loss in epsiode 181 948957.875
+wait time in epsiode 181 61.582
+reward in epsiode 181 -53.791111111111114
+episode 182
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.636
+queue length in epsiode 182 0.6730555555555555
+loss in epsiode 182 813407.75
+wait time in epsiode 182 66.283
+reward in epsiode 182 -67.33972222222222
+episode 183
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.634
+queue length in epsiode 183 0.6444444444444445
+loss in epsiode 183 835168.375
+wait time in epsiode 183 65.143
+reward in epsiode 183 -61.12611111111111
+episode 184
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.632
+queue length in epsiode 184 0.5413888888888889
+loss in epsiode 184 535568.75
+wait time in epsiode 184 62.711
+reward in epsiode 184 -50.65833333333333
+episode 185
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.630
+queue length in epsiode 185 0.6188888888888889
+loss in epsiode 185 644236.875
+wait time in epsiode 185 65.458
+reward in epsiode 185 -56.390277777777776
+episode 186
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.628
+queue length in epsiode 186 0.6855555555555556
+loss in epsiode 186 470891.75
+wait time in epsiode 186 65.48
+reward in epsiode 186 -73.90666666666667
+episode 187
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.626
+queue length in epsiode 187 0.6947222222222222
+loss in epsiode 187 446391.28125
+wait time in epsiode 187 69.125
+reward in epsiode 187 -75.2675
+episode 188
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.624
+queue length in epsiode 188 0.4880555555555556
+loss in epsiode 188 501155.9375
+wait time in epsiode 188 59.14
+reward in epsiode 188 -44.371944444444445
+episode 189
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.622
+queue length in epsiode 189 0.4761111111111111
+loss in epsiode 189 399238.125
+wait time in epsiode 189 58.672
+reward in epsiode 189 -44.068888888888885
+episode 190
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.620
+queue length in epsiode 190 0.4777777777777778
+loss in epsiode 190 429421.5625
+wait time in epsiode 190 58.2
+reward in epsiode 190 -41.513888888888886
+episode 191
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.618
+queue length in epsiode 191 0.6152777777777778
+loss in epsiode 191 604800.25
+wait time in epsiode 191 63.576
+reward in epsiode 191 -71.85277777777777
+episode 192
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.616
+queue length in epsiode 192 0.5994444444444444
+loss in epsiode 192 644949.75
+wait time in epsiode 192 62.92
+reward in epsiode 192 -58.348055555555554
+episode 193
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.614
+queue length in epsiode 193 0.5625
+loss in epsiode 193 553207.5
+wait time in epsiode 193 62.448
+reward in epsiode 193 -50.55583333333333
+episode 194
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.612
+queue length in epsiode 194 0.5577777777777778
+loss in epsiode 194 537835.1875
+wait time in epsiode 194 61.053
+reward in epsiode 194 -49.870555555555555
+episode 195
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.610
+queue length in epsiode 195 0.6
+loss in epsiode 195 351699.6875
+wait time in epsiode 195 63.018
+reward in epsiode 195 -56.81527777777778
+episode 196
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.608
+queue length in epsiode 196 0.6769444444444445
+loss in epsiode 196 442854.5
+wait time in epsiode 196 65.941
+reward in epsiode 196 -75.77111111111111
+episode 197
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.606
+queue length in epsiode 197 0.5333333333333333
+loss in epsiode 197 539093.0
+wait time in epsiode 197 60.661
+reward in epsiode 197 -48.61472222222222
+episode 198
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.604
+queue length in epsiode 198 0.6933333333333334
+loss in epsiode 198 443438.40625
+wait time in epsiode 198 67.858
+reward in epsiode 198 -70.12138888888889
+episode 199
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.602
+queue length in epsiode 199 0.5486111111111112
+loss in epsiode 199 507305.65625
+wait time in epsiode 199 61.211
+reward in epsiode 199 -57.12972222222222
+episode 200
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.600
+queue length in epsiode 200 0.5125
+loss in epsiode 200 484428.625
+wait time in epsiode 200 59.854
+reward in epsiode 200 -49.13027777777778
+episode 201
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.598
+queue length in epsiode 201 0.6516666666666666
+loss in epsiode 201 500394.25
+wait time in epsiode 201 66.185
+reward in epsiode 201 -67.38444444444444
+episode 202
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.596
+queue length in epsiode 202 0.7194444444444444
+loss in epsiode 202 509568.40625
+wait time in epsiode 202 67.629
+reward in epsiode 202 -72.30361111111111
+episode 203
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.594
+queue length in epsiode 203 0.5280555555555555
+loss in epsiode 203 539064.125
+wait time in epsiode 203 59.608
+reward in epsiode 203 -48.8375
+episode 204
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.592
+queue length in epsiode 204 0.5666666666666667
+loss in epsiode 204 587140.125
+wait time in epsiode 204 62.606
+reward in epsiode 204 -52.05
+episode 205
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.590
+queue length in epsiode 205 0.5141666666666667
+loss in epsiode 205 494153.5
+wait time in epsiode 205 60.123
+reward in epsiode 205 -46.2525
+episode 206
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.588
+queue length in epsiode 206 0.5958333333333333
+loss in epsiode 206 537951.875
+wait time in epsiode 206 63.291
+reward in epsiode 206 -57.458888888888886
+episode 207
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.586
+queue length in epsiode 207 0.5536111111111112
+loss in epsiode 207 570674.1875
+wait time in epsiode 207 62.447
+reward in epsiode 207 -51.047777777777775
+episode 208
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.584
+queue length in epsiode 208 0.6955555555555556
+loss in epsiode 208 340788.9375
+wait time in epsiode 208 67.353
+reward in epsiode 208 -82.13777777777777
+episode 209
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.582
+queue length in epsiode 209 0.48333333333333334
+loss in epsiode 209 392984.21875
+wait time in epsiode 209 58.345
+reward in epsiode 209 -42.55027777777778
+episode 210
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.580
+queue length in epsiode 210 0.6227777777777778
+loss in epsiode 210 449573.3125
+wait time in epsiode 210 63.296
+reward in epsiode 210 -55.721666666666664
+episode 211
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.578
+queue length in epsiode 211 0.47444444444444445
+loss in epsiode 211 674410.125
+wait time in epsiode 211 58.173
+reward in epsiode 211 -41.41305555555556
+episode 212
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.576
+queue length in epsiode 212 0.6080555555555556
+loss in epsiode 212 590065.8125
+wait time in epsiode 212 64.873
+reward in epsiode 212 -67.10722222222222
+episode 213
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.574
+queue length in epsiode 213 0.48583333333333334
+loss in epsiode 213 444198.8125
+wait time in epsiode 213 59.073
+reward in epsiode 213 -44.01138888888889
+episode 214
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.572
+queue length in epsiode 214 0.5577777777777778
+loss in epsiode 214 543052.0
+wait time in epsiode 214 62.376
+reward in epsiode 214 -52.63333333333333
+episode 215
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.570
+queue length in epsiode 215 0.47638888888888886
+loss in epsiode 215 424475.3125
+wait time in epsiode 215 58.152
+reward in epsiode 215 -44.32555555555555
+episode 216
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.568
+queue length in epsiode 216 0.5133333333333333
+loss in epsiode 216 504527.0625
+wait time in epsiode 216 60.538
+reward in epsiode 216 -49.172777777777775
+episode 217
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.566
+queue length in epsiode 217 0.6536111111111111
+loss in epsiode 217 480074.5625
+wait time in epsiode 217 66.593
+reward in epsiode 217 -72.43611111111112
+episode 218
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.564
+queue length in epsiode 218 0.5502777777777778
+loss in epsiode 218 533484.5625
+wait time in epsiode 218 61.924
+reward in epsiode 218 -55.551944444444445
+episode 219
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.562
+queue length in epsiode 219 0.5116666666666667
+loss in epsiode 219 527408.4375
+wait time in epsiode 219 59.686
+reward in epsiode 219 -49.12
+episode 220
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.560
+queue length in epsiode 220 0.5161111111111111
+loss in epsiode 220 452760.4375
+wait time in epsiode 220 60.917
+reward in epsiode 220 -45.325
+episode 221
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.558
+queue length in epsiode 221 0.5844444444444444
+loss in epsiode 221 572806.625
+wait time in epsiode 221 62.883
+reward in epsiode 221 -59.975833333333334
+episode 222
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.556
+queue length in epsiode 222 0.6586111111111111
+loss in epsiode 222 422153.90625
+wait time in epsiode 222 65.101
+reward in epsiode 222 -63.84111111111111
+episode 223
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.554
+queue length in epsiode 223 0.4411111111111111
+loss in epsiode 223 588923.75
+wait time in epsiode 223 56.949
+reward in epsiode 223 -38.45166666666667
+episode 224
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.552
+queue length in epsiode 224 0.6061111111111112
+loss in epsiode 224 395679.875
+wait time in epsiode 224 64.524
+reward in epsiode 224 -59.49333333333333
+episode 225
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.550
+queue length in epsiode 225 0.5930555555555556
+loss in epsiode 225 445892.9375
+wait time in epsiode 225 64.369
+reward in epsiode 225 -57.99472222222222
+episode 226
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.548
+queue length in epsiode 226 0.4683333333333333
+loss in epsiode 226 371634.96875
+wait time in epsiode 226 58.121
+reward in epsiode 226 -42.205
+episode 227
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.546
+queue length in epsiode 227 0.5208333333333334
+loss in epsiode 227 413141.0625
+wait time in epsiode 227 59.99
+reward in epsiode 227 -47.58583333333333
+episode 228
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.544
+queue length in epsiode 228 0.5658333333333333
+loss in epsiode 228 385447.9375
+wait time in epsiode 228 62.054
+reward in epsiode 228 -57.01166666666666
+episode 229
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.542
+queue length in epsiode 229 0.5761111111111111
+loss in epsiode 229 292859.3125
+wait time in epsiode 229 62.347
+reward in epsiode 229 -53.367777777777775
+episode 230
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.540
+queue length in epsiode 230 0.73
+loss in epsiode 230 377450.25
+wait time in epsiode 230 68.697
+reward in epsiode 230 -89.05555555555556
+episode 231
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.538
+queue length in epsiode 231 0.49277777777777776
+loss in epsiode 231 519585.9375
+wait time in epsiode 231 59.253
+reward in epsiode 231 -44.61277777777778
+episode 232
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.536
+queue length in epsiode 232 0.45055555555555554
+loss in epsiode 232 425257.25
+wait time in epsiode 232 58.462
+reward in epsiode 232 -39.96277777777778
+episode 233
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.534
+queue length in epsiode 233 0.5202777777777777
+loss in epsiode 233 400424.5
+wait time in epsiode 233 61.433
+reward in epsiode 233 -48.43638888888889
+episode 234
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.532
+queue length in epsiode 234 0.5461111111111111
+loss in epsiode 234 509861.9375
+wait time in epsiode 234 60.985
+reward in epsiode 234 -54.38944444444444
+episode 235
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.530
+queue length in epsiode 235 0.5897222222222223
+loss in epsiode 235 445438.0625
+wait time in epsiode 235 64.414
+reward in epsiode 235 -55.49194444444444
+episode 236
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.528
+queue length in epsiode 236 0.4597222222222222
+loss in epsiode 236 374912.6875
+wait time in epsiode 236 58.572
+reward in epsiode 236 -42.221111111111114
+episode 237
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.526
+queue length in epsiode 237 0.6269444444444444
+loss in epsiode 237 321796.9375
+wait time in epsiode 237 63.556
+reward in epsiode 237 -69.61055555555555
+episode 238
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.524
+queue length in epsiode 238 0.6272222222222222
+loss in epsiode 238 321124.0
+wait time in epsiode 238 64.682
+reward in epsiode 238 -60.71944444444444
+episode 239
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.522
+queue length in epsiode 239 0.5238888888888888
+loss in epsiode 239 409400.15625
+wait time in epsiode 239 61.337
+reward in epsiode 239 -48.19972222222222
+episode 240
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.520
+queue length in epsiode 240 0.5405555555555556
+loss in epsiode 240 312796.1875
+wait time in epsiode 240 60.477
+reward in epsiode 240 -50.16777777777778
+episode 241
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.518
+queue length in epsiode 241 0.6572222222222223
+loss in epsiode 241 404545.6875
+wait time in epsiode 241 66.744
+reward in epsiode 241 -64.71916666666667
+episode 242
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.516
+queue length in epsiode 242 0.42027777777777775
+loss in epsiode 242 393232.5625
+wait time in epsiode 242 56.108
+reward in epsiode 242 -34.61083333333333
+episode 243
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.514
+queue length in epsiode 243 0.5580555555555555
+loss in epsiode 243 480663.5625
+wait time in epsiode 243 61.018
+reward in epsiode 243 -54.03277777777778
+episode 244
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.512
+queue length in epsiode 244 0.5030555555555556
+loss in epsiode 244 388453.0625
+wait time in epsiode 244 58.991
+reward in epsiode 244 -44.92472222222222
+episode 245
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.510
+queue length in epsiode 245 0.5558333333333333
+loss in epsiode 245 503592.34375
+wait time in epsiode 245 61.331
+reward in epsiode 245 -56.35194444444444
+episode 246
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.508
+queue length in epsiode 246 0.4938888888888889
+loss in epsiode 246 341578.75
+wait time in epsiode 246 60.163
+reward in epsiode 246 -45.00138888888889
+episode 247
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.506
+queue length in epsiode 247 0.49833333333333335
+loss in epsiode 247 447140.90625
+wait time in epsiode 247 59.33
+reward in epsiode 247 -45.26722222222222
+episode 248
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.504
+queue length in epsiode 248 0.5216666666666666
+loss in epsiode 248 264192.09375
+wait time in epsiode 248 60.814
+reward in epsiode 248 -47.166666666666664
+episode 249
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.502
+queue length in epsiode 249 0.4963888888888889
+loss in epsiode 249 515368.5
+wait time in epsiode 249 59.532
+reward in epsiode 249 -42.69861111111111
+episode 250
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.500
+queue length in epsiode 250 0.5325
+loss in epsiode 250 413270.34375
+wait time in epsiode 250 60.948
+reward in epsiode 250 -47.943333333333335
+episode 251
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.498
+queue length in epsiode 251 0.4386111111111111
+loss in epsiode 251 384763.1875
+wait time in epsiode 251 57.16
+reward in epsiode 251 -40.062222222222225
+episode 252
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.496
+queue length in epsiode 252 0.5038888888888889
+loss in epsiode 252 377954.125
+wait time in epsiode 252 59.831
+reward in epsiode 252 -48.86694444444444
+episode 253
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.494
+queue length in epsiode 253 0.5616666666666666
+loss in epsiode 253 426048.71875
+wait time in epsiode 253 62.773
+reward in epsiode 253 -52.21805555555556
+episode 254
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.492
+queue length in epsiode 254 0.4661111111111111
+loss in epsiode 254 357522.84375
+wait time in epsiode 254 59.028
+reward in epsiode 254 -42.60333333333333
+episode 255
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.490
+queue length in epsiode 255 0.5125
+loss in epsiode 255 339959.21875
+wait time in epsiode 255 60.224
+reward in epsiode 255 -44.94638888888889
+episode 256
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.488
+queue length in epsiode 256 0.4886111111111111
+loss in epsiode 256 332879.4375
+wait time in epsiode 256 60.817
+reward in epsiode 256 -47.10388888888889
+episode 257
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.486
+queue length in epsiode 257 0.40444444444444444
+loss in epsiode 257 342418.71875
+wait time in epsiode 257 55.446
+reward in epsiode 257 -34.05833333333333
+episode 258
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.484
+queue length in epsiode 258 0.48777777777777775
+loss in epsiode 258 341442.40625
+wait time in epsiode 258 59.256
+reward in epsiode 258 -44.68861111111111
+episode 259
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.482
+queue length in epsiode 259 0.47944444444444445
+loss in epsiode 259 380592.3125
+wait time in epsiode 259 58.879
+reward in epsiode 259 -50.27194444444444
+episode 260
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.480
+queue length in epsiode 260 0.4772222222222222
+loss in epsiode 260 337423.5625
+wait time in epsiode 260 58.66
+reward in epsiode 260 -43.68888888888889
+episode 261
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.478
+queue length in epsiode 261 0.4897222222222222
+loss in epsiode 261 302920.5625
+wait time in epsiode 261 58.988
+reward in epsiode 261 -43.36888888888889
+episode 262
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.476
+queue length in epsiode 262 0.4761111111111111
+loss in epsiode 262 310314.875
+wait time in epsiode 262 58.936
+reward in epsiode 262 -43.9325
+episode 263
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.474
+queue length in epsiode 263 0.5097222222222222
+loss in epsiode 263 333598.6875
+wait time in epsiode 263 59.731
+reward in epsiode 263 -45.98555555555556
+episode 264
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.472
+queue length in epsiode 264 0.5027777777777778
+loss in epsiode 264 377865.6875
+wait time in epsiode 264 60.421
+reward in epsiode 264 -46.221944444444446
+episode 265
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.470
+queue length in epsiode 265 0.44166666666666665
+loss in epsiode 265 309469.625
+wait time in epsiode 265 57.941
+reward in epsiode 265 -39.67861111111111
+episode 266
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.468
+queue length in epsiode 266 0.49194444444444446
+loss in epsiode 266 384162.1875
+wait time in epsiode 266 59.862
+reward in epsiode 266 -46.88333333333333
+episode 267
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.466
+queue length in epsiode 267 0.5211111111111111
+loss in epsiode 267 279572.6875
+wait time in epsiode 267 61.171
+reward in epsiode 267 -51.227222222222224
+episode 268
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.464
+queue length in epsiode 268 0.4411111111111111
+loss in epsiode 268 332781.0625
+wait time in epsiode 268 58.296
+reward in epsiode 268 -39.21861111111111
+episode 269
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.462
+queue length in epsiode 269 0.46111111111111114
+loss in epsiode 269 311003.3125
+wait time in epsiode 269 58.746
+reward in epsiode 269 -41.13027777777778
+episode 270
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.460
+queue length in epsiode 270 0.4861111111111111
+loss in epsiode 270 208226.78125
+wait time in epsiode 270 58.678
+reward in epsiode 270 -42.67777777777778
+episode 271
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.458
+queue length in epsiode 271 0.5266666666666666
+loss in epsiode 271 232889.890625
+wait time in epsiode 271 61.303
+reward in epsiode 271 -49.219722222222224
+episode 272
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.456
+queue length in epsiode 272 0.4552777777777778
+loss in epsiode 272 331468.53125
+wait time in epsiode 272 58.13
+reward in epsiode 272 -41.65694444444444
+episode 273
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.454
+queue length in epsiode 273 0.5425
+loss in epsiode 273 341480.4375
+wait time in epsiode 273 61.54
+reward in epsiode 273 -50.42777777777778
+episode 274
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.452
+queue length in epsiode 274 0.6013888888888889
+loss in epsiode 274 337833.5
+wait time in epsiode 274 63.933
+reward in epsiode 274 -61.920833333333334
+episode 275
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.450
+queue length in epsiode 275 0.37555555555555553
+loss in epsiode 275 287152.8125
+wait time in epsiode 275 54.387
+reward in epsiode 275 -31.00722222222222
+episode 276
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.448
+queue length in epsiode 276 0.6005555555555555
+loss in epsiode 276 302617.5
+wait time in epsiode 276 63.391
+reward in epsiode 276 -62.57388888888889
+episode 277
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.446
+queue length in epsiode 277 0.5327777777777778
+loss in epsiode 277 265367.40625
+wait time in epsiode 277 61.457
+reward in epsiode 277 -51.55583333333333
+episode 278
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.444
+queue length in epsiode 278 0.46305555555555555
+loss in epsiode 278 192242.15625
+wait time in epsiode 278 59.45
+reward in epsiode 278 -42.74111111111111
+episode 279
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.442
+queue length in epsiode 279 0.43722222222222223
+loss in epsiode 279 269124.3125
+wait time in epsiode 279 57.369
+reward in epsiode 279 -39.84527777777778
+episode 280
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.440
+queue length in epsiode 280 0.5391666666666667
+loss in epsiode 280 368786.8125
+wait time in epsiode 280 60.913
+reward in epsiode 280 -49.21805555555556
+episode 281
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.438
+queue length in epsiode 281 0.45555555555555555
+loss in epsiode 281 362400.125
+wait time in epsiode 281 58.604
+reward in epsiode 281 -39.90222222222222
+episode 282
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.436
+queue length in epsiode 282 0.4886111111111111
+loss in epsiode 282 266564.0
+wait time in epsiode 282 59.849
+reward in epsiode 282 -45.520833333333336
+episode 283
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.434
+queue length in epsiode 283 0.5561111111111111
+loss in epsiode 283 313468.125
+wait time in epsiode 283 63.051
+reward in epsiode 283 -57.786944444444444
+episode 284
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.432
+queue length in epsiode 284 0.515
+loss in epsiode 284 318060.8125
+wait time in epsiode 284 60.348
+reward in epsiode 284 -45.70444444444445
+episode 285
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.430
+queue length in epsiode 285 0.4508333333333333
+loss in epsiode 285 249054.5
+wait time in epsiode 285 58.038
+reward in epsiode 285 -40.35388888888889
+episode 286
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.428
+queue length in epsiode 286 0.44722222222222224
+loss in epsiode 286 340614.6875
+wait time in epsiode 286 58.786
+reward in epsiode 286 -41.99527777777778
+episode 287
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.426
+queue length in epsiode 287 0.45916666666666667
+loss in epsiode 287 400302.3125
+wait time in epsiode 287 58.25
+reward in epsiode 287 -40.99805555555555
+episode 288
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.424
+queue length in epsiode 288 0.45444444444444443
+loss in epsiode 288 259230.515625
+wait time in epsiode 288 58.041
+reward in epsiode 288 -41.83555555555556
+episode 289
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.422
+queue length in epsiode 289 0.6113888888888889
+loss in epsiode 289 304982.65625
+wait time in epsiode 289 64.009
+reward in epsiode 289 -64.8536111111111
+episode 290
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.420
+queue length in epsiode 290 0.4736111111111111
+loss in epsiode 290 265372.9375
+wait time in epsiode 290 59.022
+reward in epsiode 290 -42.172222222222224
+episode 291
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.418
+queue length in epsiode 291 0.37527777777777777
+loss in epsiode 291 273401.75
+wait time in epsiode 291 55.261
+reward in epsiode 291 -32.0475
+episode 292
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.416
+queue length in epsiode 292 0.4622222222222222
+loss in epsiode 292 274231.75
+wait time in epsiode 292 58.581
+reward in epsiode 292 -40.735277777777775
+episode 293
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.414
+queue length in epsiode 293 0.43416666666666665
+loss in epsiode 293 323500.4375
+wait time in epsiode 293 56.855
+reward in epsiode 293 -37.52
+episode 294
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.412
+queue length in epsiode 294 0.40444444444444444
+loss in epsiode 294 270750.3125
+wait time in epsiode 294 55.802
+reward in epsiode 294 -34.03722222222222
+episode 295
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.410
+queue length in epsiode 295 0.4508333333333333
+loss in epsiode 295 216006.78125
+wait time in epsiode 295 56.867
+reward in epsiode 295 -38.14
+episode 296
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.408
+queue length in epsiode 296 0.38166666666666665
+loss in epsiode 296 258453.84375
+wait time in epsiode 296 54.826
+reward in epsiode 296 -33.77333333333333
+episode 297
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.406
+queue length in epsiode 297 0.5455555555555556
+loss in epsiode 297 284555.125
+wait time in epsiode 297 61.228
+reward in epsiode 297 -49.48694444444445
+episode 298
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.404
+queue length in epsiode 298 0.4866666666666667
+loss in epsiode 298 290796.96875
+wait time in epsiode 298 59.007
+reward in epsiode 298 -43.437777777777775
+episode 299
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.402
+queue length in epsiode 299 0.44277777777777777
+loss in epsiode 299 284854.375
+wait time in epsiode 299 57.454
+reward in epsiode 299 -38.06166666666667
+episode 300
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.400
+queue length in epsiode 300 0.4625
+loss in epsiode 300 297104.5
+wait time in epsiode 300 58.572
+reward in epsiode 300 -39.84527777777778
+episode 301
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.398
+queue length in epsiode 301 0.40305555555555556
+loss in epsiode 301 258550.609375
+wait time in epsiode 301 56.711
+reward in epsiode 301 -34.28777777777778
+episode 302
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.396
+queue length in epsiode 302 0.4313888888888889
+loss in epsiode 302 311984.375
+wait time in epsiode 302 57.728
+reward in epsiode 302 -38.7325
+episode 303
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.394
+queue length in epsiode 303 0.47305555555555556
+loss in epsiode 303 315770.96875
+wait time in epsiode 303 58.285
+reward in epsiode 303 -41.9425
+episode 304
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.392
+queue length in epsiode 304 0.5527777777777778
+loss in epsiode 304 230419.34375
+wait time in epsiode 304 62.167
+reward in epsiode 304 -57.57972222222222
+episode 305
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.390
+queue length in epsiode 305 0.3913888888888889
+loss in epsiode 305 262446.59375
+wait time in epsiode 305 55.188
+reward in epsiode 305 -30.758055555555554
+episode 306
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.388
+queue length in epsiode 306 0.49194444444444446
+loss in epsiode 306 231618.171875
+wait time in epsiode 306 59.458
+reward in epsiode 306 -44.08027777777778
+episode 307
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.386
+queue length in epsiode 307 0.4486111111111111
+loss in epsiode 307 208923.84375
+wait time in epsiode 307 58.271
+reward in epsiode 307 -40.09861111111111
+episode 308
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.384
+queue length in epsiode 308 0.6530555555555555
+loss in epsiode 308 319117.09375
+wait time in epsiode 308 66.106
+reward in epsiode 308 -73.01694444444445
+episode 309
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.382
+queue length in epsiode 309 0.4058333333333333
+loss in epsiode 309 234548.703125
+wait time in epsiode 309 55.831
+reward in epsiode 309 -33.15833333333333
+episode 310
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.380
+queue length in epsiode 310 0.3913888888888889
+loss in epsiode 310 339552.375
+wait time in epsiode 310 54.957
+reward in epsiode 310 -32.39694444444444
+episode 311
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.378
+queue length in epsiode 311 0.4836111111111111
+loss in epsiode 311 298301.90625
+wait time in epsiode 311 59.72
+reward in epsiode 311 -44.10666666666667
+episode 312
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.376
+queue length in epsiode 312 0.445
+loss in epsiode 312 249781.25
+wait time in epsiode 312 58.115
+reward in epsiode 312 -39.5575
+episode 313
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.374
+queue length in epsiode 313 0.40944444444444444
+loss in epsiode 313 207066.96875
+wait time in epsiode 313 56.504
+reward in epsiode 313 -36.93361111111111
+episode 314
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.372
+queue length in epsiode 314 0.5133333333333333
+loss in epsiode 314 281933.5
+wait time in epsiode 314 59.199
+reward in epsiode 314 -47.02055555555555
+episode 315
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.370
+queue length in epsiode 315 0.4311111111111111
+loss in epsiode 315 240788.234375
+wait time in epsiode 315 56.866
+reward in epsiode 315 -38.778333333333336
+episode 316
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.368
+queue length in epsiode 316 0.4608333333333333
+loss in epsiode 316 196592.71875
+wait time in epsiode 316 57.925
+reward in epsiode 316 -41.52
+episode 317
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.366
+queue length in epsiode 317 0.3416666666666667
+loss in epsiode 317 253798.71875
+wait time in epsiode 317 53.83
+reward in epsiode 317 -27.673055555555557
+episode 318
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.364
+queue length in epsiode 318 0.43027777777777776
+loss in epsiode 318 278459.40625
+wait time in epsiode 318 56.756
+reward in epsiode 318 -38.54083333333333
+episode 319
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.362
+queue length in epsiode 319 0.49027777777777776
+loss in epsiode 319 289087.5625
+wait time in epsiode 319 59.492
+reward in epsiode 319 -46.723333333333336
+episode 320
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.360
+queue length in epsiode 320 0.3775
+loss in epsiode 320 197244.46875
+wait time in epsiode 320 54.653
+reward in epsiode 320 -31.976944444444445
+episode 321
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.358
+queue length in epsiode 321 0.33666666666666667
+loss in epsiode 321 204731.03125
+wait time in epsiode 321 53.298
+reward in epsiode 321 -26.92527777777778
+episode 322
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.356
+queue length in epsiode 322 0.41444444444444445
+loss in epsiode 322 236861.265625
+wait time in epsiode 322 56.237
+reward in epsiode 322 -37.660555555555554
+episode 323
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.354
+queue length in epsiode 323 0.3625
+loss in epsiode 323 208673.90625
+wait time in epsiode 323 54.194
+reward in epsiode 323 -29.948333333333334
+episode 324
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.352
+queue length in epsiode 324 0.45555555555555555
+loss in epsiode 324 215657.53125
+wait time in epsiode 324 58.503
+reward in epsiode 324 -45.10027777777778
+episode 325
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.350
+queue length in epsiode 325 0.4216666666666667
+loss in epsiode 325 189458.6875
+wait time in epsiode 325 56.381
+reward in epsiode 325 -35.868611111111115
+episode 326
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.348
+queue length in epsiode 326 0.43277777777777776
+loss in epsiode 326 189721.140625
+wait time in epsiode 326 57.235
+reward in epsiode 326 -37.846944444444446
+episode 327
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.346
+queue length in epsiode 327 0.5994444444444444
+loss in epsiode 327 242787.65625
+wait time in epsiode 327 64.381
+reward in epsiode 327 -65.75638888888889
+episode 328
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.344
+queue length in epsiode 328 0.3925
+loss in epsiode 328 259140.765625
+wait time in epsiode 328 56.307
+reward in epsiode 328 -36.37916666666667
+episode 329
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.342
+queue length in epsiode 329 0.48388888888888887
+loss in epsiode 329 236300.75
+wait time in epsiode 329 58.544
+reward in epsiode 329 -46.00694444444444
+episode 330
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.340
+queue length in epsiode 330 0.33
+loss in epsiode 330 225093.40625
+wait time in epsiode 330 53.491
+reward in epsiode 330 -26.961944444444445
+episode 331
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.338
+queue length in epsiode 331 0.3975
+loss in epsiode 331 217697.0
+wait time in epsiode 331 55.408
+reward in epsiode 331 -36.77777777777778
+episode 332
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.336
+queue length in epsiode 332 0.41833333333333333
+loss in epsiode 332 279130.03125
+wait time in epsiode 332 56.72
+reward in epsiode 332 -36.49527777777778
+episode 333
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.334
+queue length in epsiode 333 0.42277777777777775
+loss in epsiode 333 247922.1875
+wait time in epsiode 333 57.157
+reward in epsiode 333 -37.66111111111111
+episode 334
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.332
+queue length in epsiode 334 0.37916666666666665
+loss in epsiode 334 213079.625
+wait time in epsiode 334 55.848
+reward in epsiode 334 -33.0875
+episode 335
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.330
+queue length in epsiode 335 0.3958333333333333
+loss in epsiode 335 190417.59375
+wait time in epsiode 335 55.886
+reward in epsiode 335 -36.62972222222222
+episode 336
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.328
+queue length in epsiode 336 0.52
+loss in epsiode 336 230371.484375
+wait time in epsiode 336 61.536
+reward in epsiode 336 -50.100833333333334
+episode 337
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.326
+queue length in epsiode 337 0.47055555555555556
+loss in epsiode 337 231544.734375
+wait time in epsiode 337 58.529
+reward in epsiode 337 -43.16888888888889
+episode 338
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.324
+queue length in epsiode 338 0.4061111111111111
+loss in epsiode 338 190222.46875
+wait time in epsiode 338 56.006
+reward in epsiode 338 -34.61472222222222
+episode 339
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.322
+queue length in epsiode 339 0.4388888888888889
+loss in epsiode 339 233606.28125
+wait time in epsiode 339 57.573
+reward in epsiode 339 -37.89527777777778
+episode 340
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.320
+queue length in epsiode 340 0.435
+loss in epsiode 340 201784.9375
+wait time in epsiode 340 57.032
+reward in epsiode 340 -37.3975
+episode 341
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.318
+queue length in epsiode 341 0.5088888888888888
+loss in epsiode 341 218066.71875
+wait time in epsiode 341 59.394
+reward in epsiode 341 -47.244166666666665
+episode 342
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.316
+queue length in epsiode 342 0.48055555555555557
+loss in epsiode 342 210724.71875
+wait time in epsiode 342 59.059
+reward in epsiode 342 -45.28777777777778
+episode 343
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.314
+queue length in epsiode 343 0.40944444444444444
+loss in epsiode 343 157330.96875
+wait time in epsiode 343 56.079
+reward in epsiode 343 -35.54944444444445
+episode 344
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.312
+queue length in epsiode 344 0.3819444444444444
+loss in epsiode 344 189706.71875
+wait time in epsiode 344 55.389
+reward in epsiode 344 -32.61833333333333
+episode 345
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.310
+queue length in epsiode 345 0.41944444444444445
+loss in epsiode 345 228729.921875
+wait time in epsiode 345 56.319
+reward in epsiode 345 -35.46222222222222
+episode 346
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.308
+queue length in epsiode 346 0.3547222222222222
+loss in epsiode 346 166188.96875
+wait time in epsiode 346 54.294
+reward in epsiode 346 -30.12388888888889
+episode 347
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.306
+queue length in epsiode 347 0.485
+loss in epsiode 347 194064.328125
+wait time in epsiode 347 60.0
+reward in epsiode 347 -46.31861111111111
+episode 348
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.304
+queue length in epsiode 348 0.40944444444444444
+loss in epsiode 348 159122.5
+wait time in epsiode 348 56.575
+reward in epsiode 348 -36.59388888888889
+episode 349
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.302
+queue length in epsiode 349 0.4538888888888889
+loss in epsiode 349 218322.765625
+wait time in epsiode 349 58.245
+reward in epsiode 349 -41.07472222222222
+episode 350
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.300
+queue length in epsiode 350 0.49166666666666664
+loss in epsiode 350 198756.0
+wait time in epsiode 350 60.415
+reward in epsiode 350 -46.50805555555556
+episode 351
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.298
+queue length in epsiode 351 0.385
+loss in epsiode 351 204789.84375
+wait time in epsiode 351 56.327
+reward in epsiode 351 -33.846666666666664
+episode 352
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.296
+queue length in epsiode 352 0.4211111111111111
+loss in epsiode 352 205365.375
+wait time in epsiode 352 56.731
+reward in epsiode 352 -36.138888888888886
+episode 353
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.294
+queue length in epsiode 353 0.4527777777777778
+loss in epsiode 353 199365.0
+wait time in epsiode 353 57.669
+reward in epsiode 353 -39.929722222222225
+episode 354
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.292
+queue length in epsiode 354 0.37222222222222223
+loss in epsiode 354 187968.75
+wait time in epsiode 354 54.47
+reward in epsiode 354 -31.68888888888889
+episode 355
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.290
+queue length in epsiode 355 0.3561111111111111
+loss in epsiode 355 230757.71875
+wait time in epsiode 355 54.158
+reward in epsiode 355 -30.50611111111111
+episode 356
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.288
+queue length in epsiode 356 0.4613888888888889
+loss in epsiode 356 217872.78125
+wait time in epsiode 356 58.451
+reward in epsiode 356 -43.55916666666667
+episode 357
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.286
+queue length in epsiode 357 0.3836111111111111
+loss in epsiode 357 216498.765625
+wait time in epsiode 357 55.368
+reward in epsiode 357 -32.34166666666667
+episode 358
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.284
+queue length in epsiode 358 0.3686111111111111
+loss in epsiode 358 157707.953125
+wait time in epsiode 358 54.588
+reward in epsiode 358 -30.74861111111111
+episode 359
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.282
+queue length in epsiode 359 0.40444444444444444
+loss in epsiode 359 200866.4375
+wait time in epsiode 359 56.388
+reward in epsiode 359 -34.7475
+episode 360
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.280
+queue length in epsiode 360 0.40944444444444444
+loss in epsiode 360 179099.0625
+wait time in epsiode 360 56.543
+reward in epsiode 360 -35.24
+episode 361
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.278
+queue length in epsiode 361 0.32916666666666666
+loss in epsiode 361 204183.0
+wait time in epsiode 361 52.899
+reward in epsiode 361 -27.150277777777777
+episode 362
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.276
+queue length in epsiode 362 0.3636111111111111
+loss in epsiode 362 191053.03125
+wait time in epsiode 362 54.516
+reward in epsiode 362 -29.92972222222222
+episode 363
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.274
+queue length in epsiode 363 0.3202777777777778
+loss in epsiode 363 150388.65625
+wait time in epsiode 363 52.891
+reward in epsiode 363 -25.9125
+episode 364
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.272
+queue length in epsiode 364 0.34944444444444445
+loss in epsiode 364 231704.59375
+wait time in epsiode 364 54.048
+reward in epsiode 364 -29.641944444444444
+episode 365
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.270
+queue length in epsiode 365 0.44222222222222224
+loss in epsiode 365 207904.25
+wait time in epsiode 365 57.424
+reward in epsiode 365 -39.30861111111111
+episode 366
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.268
+queue length in epsiode 366 0.3572222222222222
+loss in epsiode 366 217875.65625
+wait time in epsiode 366 54.371
+reward in epsiode 366 -29.99222222222222
+episode 367
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.266
+queue length in epsiode 367 0.3738888888888889
+loss in epsiode 367 248171.359375
+wait time in epsiode 367 54.435
+reward in epsiode 367 -30.101388888888888
+episode 368
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.264
+queue length in epsiode 368 0.4041666666666667
+loss in epsiode 368 268593.09375
+wait time in epsiode 368 55.774
+reward in epsiode 368 -34.763333333333335
+episode 369
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.262
+queue length in epsiode 369 0.37027777777777776
+loss in epsiode 369 229135.5
+wait time in epsiode 369 55.165
+reward in epsiode 369 -30.591944444444444
+episode 370
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.260
+queue length in epsiode 370 0.4583333333333333
+loss in epsiode 370 222600.96875
+wait time in epsiode 370 58.092
+reward in epsiode 370 -43.70444444444445
+episode 371
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.258
+queue length in epsiode 371 0.4452777777777778
+loss in epsiode 371 164145.390625
+wait time in epsiode 371 57.982
+reward in epsiode 371 -39.20194444444444
+episode 372
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.256
+queue length in epsiode 372 0.41638888888888886
+loss in epsiode 372 235304.46875
+wait time in epsiode 372 56.792
+reward in epsiode 372 -37.25555555555555
+episode 373
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.254
+queue length in epsiode 373 0.3616666666666667
+loss in epsiode 373 207260.25
+wait time in epsiode 373 54.904
+reward in epsiode 373 -32.038333333333334
+episode 374
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.252
+queue length in epsiode 374 0.4088888888888889
+loss in epsiode 374 172751.109375
+wait time in epsiode 374 56.496
+reward in epsiode 374 -37.01444444444444
+episode 375
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.250
+queue length in epsiode 375 0.40305555555555556
+loss in epsiode 375 217797.796875
+wait time in epsiode 375 57.023
+reward in epsiode 375 -35.32416666666666
+episode 376
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.248
+queue length in epsiode 376 0.34
+loss in epsiode 376 244791.25
+wait time in epsiode 376 53.838
+reward in epsiode 376 -27.95888888888889
+episode 377
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.246
+queue length in epsiode 377 0.3958333333333333
+loss in epsiode 377 263257.625
+wait time in epsiode 377 56.085
+reward in epsiode 377 -37.25138888888889
+episode 378
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.244
+queue length in epsiode 378 0.3566666666666667
+loss in epsiode 378 311338.1875
+wait time in epsiode 378 54.489
+reward in epsiode 378 -30.718333333333334
+episode 379
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.242
+queue length in epsiode 379 0.35083333333333333
+loss in epsiode 379 194298.375
+wait time in epsiode 379 53.947
+reward in epsiode 379 -30.485
+episode 380
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.240
+queue length in epsiode 380 0.3738888888888889
+loss in epsiode 380 225474.328125
+wait time in epsiode 380 54.898
+reward in epsiode 380 -32.85527777777778
+episode 381
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.238
+queue length in epsiode 381 0.36083333333333334
+loss in epsiode 381 322623.5
+wait time in epsiode 381 54.807
+reward in epsiode 381 -31.099166666666665
+episode 382
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.236
+queue length in epsiode 382 0.3352777777777778
+loss in epsiode 382 240892.453125
+wait time in epsiode 382 53.304
+reward in epsiode 382 -27.99138888888889
+episode 383
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.234
+queue length in epsiode 383 0.4513888888888889
+loss in epsiode 383 262652.09375
+wait time in epsiode 383 57.794
+reward in epsiode 383 -44.40083333333333
+episode 384
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.232
+queue length in epsiode 384 0.3386111111111111
+loss in epsiode 384 255651.859375
+wait time in epsiode 384 53.465
+reward in epsiode 384 -28.616666666666667
+episode 385
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.230
+queue length in epsiode 385 0.4305555555555556
+loss in epsiode 385 263898.0625
+wait time in epsiode 385 57.522
+reward in epsiode 385 -39.5025
+episode 386
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.228
+queue length in epsiode 386 0.35833333333333334
+loss in epsiode 386 315506.15625
+wait time in epsiode 386 53.969
+reward in epsiode 386 -30.3775
+episode 387
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.226
+queue length in epsiode 387 0.31527777777777777
+loss in epsiode 387 256095.09375
+wait time in epsiode 387 53.063
+reward in epsiode 387 -26.885555555555555
+episode 388
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.224
+queue length in epsiode 388 0.3786111111111111
+loss in epsiode 388 346186.40625
+wait time in epsiode 388 54.896
+reward in epsiode 388 -31.2475
+episode 389
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.222
+queue length in epsiode 389 0.4061111111111111
+loss in epsiode 389 319547.3125
+wait time in epsiode 389 56.473
+reward in epsiode 389 -36.75277777777778
+episode 390
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.220
+queue length in epsiode 390 0.36333333333333334
+loss in epsiode 390 230592.171875
+wait time in epsiode 390 54.187
+reward in epsiode 390 -30.869444444444444
+episode 391
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.218
+queue length in epsiode 391 0.35805555555555557
+loss in epsiode 391 205564.625
+wait time in epsiode 391 54.306
+reward in epsiode 391 -29.3825
+episode 392
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.216
+queue length in epsiode 392 0.5022222222222222
+loss in epsiode 392 531883.75
+wait time in epsiode 392 60.681
+reward in epsiode 392 -52.25388888888889
+episode 393
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.214
+queue length in epsiode 393 0.37583333333333335
+loss in epsiode 393 206865.109375
+wait time in epsiode 393 54.981
+reward in epsiode 393 -31.87
+episode 394
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.212
+queue length in epsiode 394 0.3827777777777778
+loss in epsiode 394 316981.625
+wait time in epsiode 394 55.628
+reward in epsiode 394 -31.52722222222222
+episode 395
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.210
+queue length in epsiode 395 0.3763888888888889
+loss in epsiode 395 272815.625
+wait time in epsiode 395 55.162
+reward in epsiode 395 -32.323055555555555
+episode 396
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.208
+queue length in epsiode 396 0.33555555555555555
+loss in epsiode 396 396435.21875
+wait time in epsiode 396 52.946
+reward in epsiode 396 -29.419722222222223
+episode 397
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.206
+queue length in epsiode 397 0.3713888888888889
+loss in epsiode 397 238762.640625
+wait time in epsiode 397 54.807
+reward in epsiode 397 -30.95611111111111
+episode 398
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.204
+queue length in epsiode 398 0.32944444444444443
+loss in epsiode 398 258286.859375
+wait time in epsiode 398 53.189
+reward in epsiode 398 -27.172777777777778
+episode 399
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.202
+queue length in epsiode 399 0.44472222222222224
+loss in epsiode 399 258657.859375
+wait time in epsiode 399 58.338
+reward in epsiode 399 -38.66
+episode 400
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.200
+queue length in epsiode 400 0.3927777777777778
+loss in epsiode 400 285552.4375
+wait time in epsiode 400 55.173
+reward in epsiode 400 -32.768055555555556
+episode 401
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.198
+queue length in epsiode 401 0.3252777777777778
+loss in epsiode 401 438343.59375
+wait time in epsiode 401 53.114
+reward in epsiode 401 -26.858055555555556
+episode 402
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.196
+queue length in epsiode 402 0.4091666666666667
+loss in epsiode 402 383356.375
+wait time in epsiode 402 56.483
+reward in epsiode 402 -35.190555555555555
+episode 403
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.194
+queue length in epsiode 403 0.35833333333333334
+loss in epsiode 403 395138.28125
+wait time in epsiode 403 54.711
+reward in epsiode 403 -30.25138888888889
+episode 404
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.192
+queue length in epsiode 404 0.36083333333333334
+loss in epsiode 404 318476.90625
+wait time in epsiode 404 54.972
+reward in epsiode 404 -30.058333333333334
+episode 405
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.190
+queue length in epsiode 405 0.5213888888888889
+loss in epsiode 405 357328.875
+wait time in epsiode 405 60.019
+reward in epsiode 405 -50.93638888888889
+episode 406
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.188
+queue length in epsiode 406 0.34694444444444444
+loss in epsiode 406 342830.25
+wait time in epsiode 406 53.768
+reward in epsiode 406 -28.731944444444444
+episode 407
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.186
+queue length in epsiode 407 0.3036111111111111
+loss in epsiode 407 263749.5
+wait time in epsiode 407 52.562
+reward in epsiode 407 -24.400555555555556
+episode 408
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.184
+queue length in epsiode 408 0.35138888888888886
+loss in epsiode 408 262747.125
+wait time in epsiode 408 54.02
+reward in epsiode 408 -29.79861111111111
+episode 409
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.182
+queue length in epsiode 409 0.45305555555555554
+loss in epsiode 409 389395.25
+wait time in epsiode 409 58.711
+reward in epsiode 409 -41.6625
+episode 410
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.180
+queue length in epsiode 410 0.3736111111111111
+loss in epsiode 410 231065.109375
+wait time in epsiode 410 54.678
+reward in epsiode 410 -31.676388888888887
+episode 411
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.178
+queue length in epsiode 411 0.3269444444444444
+loss in epsiode 411 462711.09375
+wait time in epsiode 411 52.634
+reward in epsiode 411 -26.610555555555557
+episode 412
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.176
+queue length in epsiode 412 0.3983333333333333
+loss in epsiode 412 547136.5
+wait time in epsiode 412 55.817
+reward in epsiode 412 -35.09222222222222
+episode 413
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.174
+queue length in epsiode 413 0.39861111111111114
+loss in epsiode 413 409021.25
+wait time in epsiode 413 56.326
+reward in epsiode 413 -36.08166666666666
+episode 414
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.172
+queue length in epsiode 414 0.3605555555555556
+loss in epsiode 414 253783.734375
+wait time in epsiode 414 53.841
+reward in epsiode 414 -30.499444444444446
+episode 415
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.170
+queue length in epsiode 415 0.3819444444444444
+loss in epsiode 415 321524.4375
+wait time in epsiode 415 56.055
+reward in epsiode 415 -33.61222222222222
+episode 416
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.168
+queue length in epsiode 416 0.37777777777777777
+loss in epsiode 416 491029.125
+wait time in epsiode 416 55.245
+reward in epsiode 416 -33.331944444444446
+episode 417
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.166
+queue length in epsiode 417 0.42194444444444446
+loss in epsiode 417 326073.71875
+wait time in epsiode 417 57.082
+reward in epsiode 417 -42.32083333333333
+episode 418
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.164
+queue length in epsiode 418 0.30972222222222223
+loss in epsiode 418 271656.40625
+wait time in epsiode 418 52.484
+reward in epsiode 418 -24.982777777777777
+episode 419
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.162
+queue length in epsiode 419 0.45222222222222225
+loss in epsiode 419 386137.46875
+wait time in epsiode 419 58.36
+reward in epsiode 419 -42.20916666666667
+episode 420
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.160
+queue length in epsiode 420 0.3497222222222222
+loss in epsiode 420 407280.9375
+wait time in epsiode 420 54.185
+reward in epsiode 420 -29.19972222222222
+episode 421
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.158
+queue length in epsiode 421 0.5116666666666667
+loss in epsiode 421 595249.75
+wait time in epsiode 421 61.416
+reward in epsiode 421 -52.838055555555556
+episode 422
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.156
+queue length in epsiode 422 0.4197222222222222
+loss in epsiode 422 499325.65625
+wait time in epsiode 422 56.467
+reward in epsiode 422 -35.72555555555556
+episode 423
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.154
+queue length in epsiode 423 0.3408333333333333
+loss in epsiode 423 382160.78125
+wait time in epsiode 423 53.048
+reward in epsiode 423 -27.768055555555556
+episode 424
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.152
+queue length in epsiode 424 0.32916666666666666
+loss in epsiode 424 430320.625
+wait time in epsiode 424 52.837
+reward in epsiode 424 -26.842222222222222
+episode 425
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.150
+queue length in epsiode 425 0.31222222222222223
+loss in epsiode 425 337789.9375
+wait time in epsiode 425 51.972
+reward in epsiode 425 -25.811666666666667
+episode 426
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.148
+queue length in epsiode 426 0.32722222222222225
+loss in epsiode 426 499340.96875
+wait time in epsiode 426 53.095
+reward in epsiode 426 -28.16138888888889
+episode 427
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.146
+queue length in epsiode 427 0.3488888888888889
+loss in epsiode 427 300212.4375
+wait time in epsiode 427 53.996
+reward in epsiode 427 -28.941944444444445
+episode 428
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.144
+queue length in epsiode 428 0.34805555555555556
+loss in epsiode 428 487806.34375
+wait time in epsiode 428 53.987
+reward in epsiode 428 -29.14
+episode 429
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.142
+queue length in epsiode 429 0.2961111111111111
+loss in epsiode 429 735209.75
+wait time in epsiode 429 52.173
+reward in epsiode 429 -23.990555555555556
+episode 430
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.140
+queue length in epsiode 430 0.32805555555555554
+loss in epsiode 430 354510.15625
+wait time in epsiode 430 53.403
+reward in epsiode 430 -26.931944444444444
+episode 431
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.138
+queue length in epsiode 431 0.33666666666666667
+loss in epsiode 431 380610.75
+wait time in epsiode 431 53.345
+reward in epsiode 431 -27.768333333333334
+episode 432
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.136
+queue length in epsiode 432 0.34305555555555556
+loss in epsiode 432 450445.46875
+wait time in epsiode 432 53.711
+reward in epsiode 432 -27.82027777777778
+episode 433
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.134
+queue length in epsiode 433 0.3269444444444444
+loss in epsiode 433 410780.625
+wait time in epsiode 433 53.924
+reward in epsiode 433 -27.133055555555554
+episode 434
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.132
+queue length in epsiode 434 0.33694444444444444
+loss in epsiode 434 517845.0625
+wait time in epsiode 434 53.58
+reward in epsiode 434 -27.293055555555554
+episode 435
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.130
+queue length in epsiode 435 0.32805555555555554
+loss in epsiode 435 639573.3125
+wait time in epsiode 435 53.507
+reward in epsiode 435 -27.077222222222222
+episode 436
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.128
+queue length in epsiode 436 0.2947222222222222
+loss in epsiode 436 334951.25
+wait time in epsiode 436 52.077
+reward in epsiode 436 -24.108888888888888
+episode 437
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.126
+queue length in epsiode 437 0.3163888888888889
+loss in epsiode 437 361452.875
+wait time in epsiode 437 53.313
+reward in epsiode 437 -26.39361111111111
+episode 438
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.124
+queue length in epsiode 438 0.29694444444444446
+loss in epsiode 438 321244.875
+wait time in epsiode 438 51.932
+reward in epsiode 438 -24.025277777777777
+episode 439
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.122
+queue length in epsiode 439 0.3411111111111111
+loss in epsiode 439 520710.25
+wait time in epsiode 439 54.429
+reward in epsiode 439 -28.91861111111111
+episode 440
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.120
+queue length in epsiode 440 0.3416666666666667
+loss in epsiode 440 407805.0625
+wait time in epsiode 440 53.731
+reward in epsiode 440 -30.069444444444443
+episode 441
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.118
+queue length in epsiode 441 0.3611111111111111
+loss in epsiode 441 675009.625
+wait time in epsiode 441 54.971
+reward in epsiode 441 -30.25861111111111
+episode 442
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.116
+queue length in epsiode 442 0.3194444444444444
+loss in epsiode 442 411383.71875
+wait time in epsiode 442 52.893
+reward in epsiode 442 -26.224722222222223
+episode 443
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.114
+queue length in epsiode 443 0.4502777777777778
+loss in epsiode 443 427405.03125
+wait time in epsiode 443 58.543
+reward in epsiode 443 -48.44027777777778
+episode 444
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.112
+queue length in epsiode 444 0.3416666666666667
+loss in epsiode 444 490366.5
+wait time in epsiode 444 53.169
+reward in epsiode 444 -27.59722222222222
+episode 445
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.110
+queue length in epsiode 445 0.26555555555555554
+loss in epsiode 445 386964.84375
+wait time in epsiode 445 50.706
+reward in epsiode 445 -20.56361111111111
+episode 446
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.108
+queue length in epsiode 446 0.3013888888888889
+loss in epsiode 446 437081.0625
+wait time in epsiode 446 51.793
+reward in epsiode 446 -24.356666666666666
+episode 447
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.106
+queue length in epsiode 447 0.3375
+loss in epsiode 447 713496.125
+wait time in epsiode 447 53.546
+reward in epsiode 447 -28.028055555555557
+episode 448
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.104
+queue length in epsiode 448 0.3086111111111111
+loss in epsiode 448 432251.28125
+wait time in epsiode 448 52.409
+reward in epsiode 448 -24.85972222222222
+episode 449
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.102
+queue length in epsiode 449 0.3211111111111111
+loss in epsiode 449 486132.3125
+wait time in epsiode 449 53.572
+reward in epsiode 449 -27.183611111111112
+episode 450
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.100
+queue length in epsiode 450 0.2875
+loss in epsiode 450 492938.8125
+wait time in epsiode 450 51.544
+reward in epsiode 450 -22.897222222222222
+episode 451
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.098
+queue length in epsiode 451 0.34833333333333333
+loss in epsiode 451 364718.8125
+wait time in epsiode 451 53.541
+reward in epsiode 451 -27.621388888888887
+episode 452
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.096
+queue length in epsiode 452 0.32166666666666666
+loss in epsiode 452 307491.9375
+wait time in epsiode 452 52.702
+reward in epsiode 452 -26.822777777777777
+episode 453
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.094
+queue length in epsiode 453 0.3
+loss in epsiode 453 278044.3125
+wait time in epsiode 453 51.859
+reward in epsiode 453 -23.56861111111111
+episode 454
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.092
+queue length in epsiode 454 0.3125
+loss in epsiode 454 438426.25
+wait time in epsiode 454 52.293
+reward in epsiode 454 -24.55472222222222
+episode 455
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.090
+queue length in epsiode 455 0.3011111111111111
+loss in epsiode 455 328516.34375
+wait time in epsiode 455 52.141
+reward in epsiode 455 -24.663333333333334
+episode 456
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.088
+queue length in epsiode 456 0.29944444444444446
+loss in epsiode 456 280406.3125
+wait time in epsiode 456 52.533
+reward in epsiode 456 -25.654166666666665
+episode 457
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.086
+queue length in epsiode 457 0.3586111111111111
+loss in epsiode 457 439776.4375
+wait time in epsiode 457 54.424
+reward in epsiode 457 -30.0
+episode 458
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.084
+queue length in epsiode 458 0.4725
+loss in epsiode 458 559868.0625
+wait time in epsiode 458 59.066
+reward in epsiode 458 -52.36944444444445
+episode 459
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.082
+queue length in epsiode 459 0.31583333333333335
+loss in epsiode 459 344703.65625
+wait time in epsiode 459 52.571
+reward in epsiode 459 -25.90361111111111
+episode 460
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.080
+queue length in epsiode 460 0.4286111111111111
+loss in epsiode 460 392906.46875
+wait time in epsiode 460 57.621
+reward in epsiode 460 -41.04361111111111
+episode 461
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.078
+queue length in epsiode 461 0.4038888888888889
+loss in epsiode 461 449888.46875
+wait time in epsiode 461 57.561
+reward in epsiode 461 -39.720555555555556
+episode 462
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.076
+queue length in epsiode 462 0.3047222222222222
+loss in epsiode 462 366428.9375
+wait time in epsiode 462 52.032
+reward in epsiode 462 -24.32777777777778
+episode 463
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.074
+queue length in epsiode 463 0.38027777777777777
+loss in epsiode 463 383155.90625
+wait time in epsiode 463 55.781
+reward in epsiode 463 -34.251666666666665
+episode 464
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.072
+queue length in epsiode 464 0.30333333333333334
+loss in epsiode 464 395779.625
+wait time in epsiode 464 52.363
+reward in epsiode 464 -23.568055555555556
+episode 465
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.070
+queue length in epsiode 465 0.32916666666666666
+loss in epsiode 465 429061.375
+wait time in epsiode 465 53.019
+reward in epsiode 465 -27.713055555555556
+episode 466
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.068
+queue length in epsiode 466 0.29638888888888887
+loss in epsiode 466 229922.3125
+wait time in epsiode 466 52.067
+reward in epsiode 466 -23.80666666666667
+episode 467
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.066
+queue length in epsiode 467 0.4011111111111111
+loss in epsiode 467 446127.40625
+wait time in epsiode 467 57.414
+reward in epsiode 467 -36.33
+episode 468
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.064
+queue length in epsiode 468 0.3605555555555556
+loss in epsiode 468 347550.0
+wait time in epsiode 468 54.06
+reward in epsiode 468 -29.774722222222223
+episode 469
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.062
+queue length in epsiode 469 0.31666666666666665
+loss in epsiode 469 364049.625
+wait time in epsiode 469 52.571
+reward in epsiode 469 -25.482777777777777
+episode 470
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.060
+queue length in epsiode 470 0.3502777777777778
+loss in epsiode 470 378137.5
+wait time in epsiode 470 53.942
+reward in epsiode 470 -29.02777777777778
+episode 471
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.058
+queue length in epsiode 471 0.305
+loss in epsiode 471 398091.5
+wait time in epsiode 471 52.476
+reward in epsiode 471 -25.169166666666666
+episode 472
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.056
+queue length in epsiode 472 0.32722222222222225
+loss in epsiode 472 275486.84375
+wait time in epsiode 472 53.444
+reward in epsiode 472 -28.219444444444445
+episode 473
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.054
+queue length in epsiode 473 0.29694444444444446
+loss in epsiode 473 339003.75
+wait time in epsiode 473 52.208
+reward in epsiode 473 -24.048055555555557
+episode 474
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.052
+queue length in epsiode 474 0.2927777777777778
+loss in epsiode 474 302795.84375
+wait time in epsiode 474 51.948
+reward in epsiode 474 -23.66027777777778
+episode 475
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.050
+queue length in epsiode 475 0.29638888888888887
+loss in epsiode 475 359041.0625
+wait time in epsiode 475 52.558
+reward in epsiode 475 -24.820555555555554
+episode 476
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.048
+queue length in epsiode 476 0.2947222222222222
+loss in epsiode 476 412807.90625
+wait time in epsiode 476 52.743
+reward in epsiode 476 -24.886111111111113
+episode 477
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.046
+queue length in epsiode 477 0.30722222222222223
+loss in epsiode 477 487171.46875
+wait time in epsiode 477 52.782
+reward in epsiode 477 -25.46472222222222
+episode 478
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.044
+queue length in epsiode 478 0.3347222222222222
+loss in epsiode 478 397730.34375
+wait time in epsiode 478 53.553
+reward in epsiode 478 -27.4725
+episode 479
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.042
+queue length in epsiode 479 0.28194444444444444
+loss in epsiode 479 304694.75
+wait time in epsiode 479 51.498
+reward in epsiode 479 -22.943055555555556
+episode 480
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.040
+queue length in epsiode 480 0.28305555555555556
+loss in epsiode 480 340547.90625
+wait time in epsiode 480 51.511
+reward in epsiode 480 -23.898888888888887
+episode 481
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.038
+queue length in epsiode 481 0.3055555555555556
+loss in epsiode 481 299599.53125
+wait time in epsiode 481 52.421
+reward in epsiode 481 -25.558333333333334
+episode 482
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.036
+queue length in epsiode 482 0.325
+loss in epsiode 482 396257.5625
+wait time in epsiode 482 53.154
+reward in epsiode 482 -26.904722222222222
+episode 483
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.034
+queue length in epsiode 483 0.24222222222222223
+loss in epsiode 483 379118.75
+wait time in epsiode 483 49.97
+reward in epsiode 483 -18.79138888888889
+episode 484
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.032
+queue length in epsiode 484 0.3408333333333333
+loss in epsiode 484 371462.65625
+wait time in epsiode 484 53.781
+reward in epsiode 484 -31.087222222222223
+episode 485
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.030
+queue length in epsiode 485 0.31777777777777777
+loss in epsiode 485 311150.75
+wait time in epsiode 485 52.984
+reward in epsiode 485 -26.83388888888889
+episode 486
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.028
+queue length in epsiode 486 0.2513888888888889
+loss in epsiode 486 451227.3125
+wait time in epsiode 486 50.281
+reward in epsiode 486 -20.035
+episode 487
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.026
+queue length in epsiode 487 0.2727777777777778
+loss in epsiode 487 319603.625
+wait time in epsiode 487 51.113
+reward in epsiode 487 -22.441666666666666
+episode 488
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.024
+queue length in epsiode 488 0.22527777777777777
+loss in epsiode 488 407746.09375
+wait time in epsiode 488 49.307
+reward in epsiode 488 -17.575277777777778
+episode 489
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.022
+queue length in epsiode 489 0.3597222222222222
+loss in epsiode 489 327017.875
+wait time in epsiode 489 54.681
+reward in epsiode 489 -32.90972222222222
+episode 490
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.020
+queue length in epsiode 490 0.27444444444444444
+loss in epsiode 490 424508.71875
+wait time in epsiode 490 51.105
+reward in epsiode 490 -22.06388888888889
+episode 491
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.018
+queue length in epsiode 491 0.44166666666666665
+loss in epsiode 491 422957.625
+wait time in epsiode 491 57.078
+reward in epsiode 491 -43.31361111111111
+episode 492
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.016
+queue length in epsiode 492 0.3013888888888889
+loss in epsiode 492 403153.5
+wait time in epsiode 492 52.173
+reward in epsiode 492 -24.3025
+episode 493
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.014
+queue length in epsiode 493 0.2927777777777778
+loss in epsiode 493 495822.28125
+wait time in epsiode 493 51.728
+reward in epsiode 493 -23.850555555555555
+episode 494
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.012
+queue length in epsiode 494 0.31222222222222223
+loss in epsiode 494 419822.5625
+wait time in epsiode 494 52.355
+reward in epsiode 494 -27.975277777777777
+episode 495
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.010
+queue length in epsiode 495 0.33555555555555555
+loss in epsiode 495 414209.9375
+wait time in epsiode 495 53.269
+reward in epsiode 495 -27.825277777777778
+episode 496
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.008
+queue length in epsiode 496 0.2825
+loss in epsiode 496 436655.5
+wait time in epsiode 496 51.653
+reward in epsiode 496 -23.120555555555555
+episode 497
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.006
+queue length in epsiode 497 0.3252777777777778
+loss in epsiode 497 329564.6875
+wait time in epsiode 497 53.967
+reward in epsiode 497 -28.941944444444445
+episode 498
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.004
+queue length in epsiode 498 0.3236111111111111
+loss in epsiode 498 322382.8125
+wait time in epsiode 498 53.902
+reward in epsiode 498 -28.718888888888888
+episode 499
+Simulating
+한 episode에서의 마지막 step 3600
+epsilon : 0.002
+queue length in epsiode 499 0.2997222222222222
+loss in epsiode 499 368691.3125
+wait time in epsiode 499 51.782

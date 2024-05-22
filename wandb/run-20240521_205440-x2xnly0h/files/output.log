@@ -1,0 +1,99 @@
+episode 0
+Simulating
+epsilon : 1.000
+queue length in epsiode 0 0.8266666666666667
+loss in epsiode 0 147.59014892578125
+wait time in epsiode 0 70.146
+reward in epsiode 0 -0.8795166666666671
+episode 1
+Simulating
+epsilon : 0.998
+queue length in epsiode 1 1.2877777777777777
+loss in epsiode 1 114.21037292480469
+wait time in epsiode 1 88.367
+reward in epsiode 1 -1.656383333333334
+episode 2
+Simulating
+epsilon : 0.996
+queue length in epsiode 2 1.5058333333333334
+loss in epsiode 2 72.01012420654297
+wait time in epsiode 2 100.168
+reward in epsiode 2 -2.056094444444444
+episode 3
+Simulating
+epsilon : 0.994
+queue length in epsiode 3 0.9352777777777778
+loss in epsiode 3 40.376365661621094
+wait time in epsiode 3 76.11
+reward in epsiode 3 -1.1257388888888895
+episode 4
+Simulating
+epsilon : 0.992
+queue length in epsiode 4 1.448611111111111
+loss in epsiode 4 20.047916412353516
+wait time in epsiode 4 95.311
+reward in epsiode 4 -1.8850972222222218
+episode 5
+Simulating
+epsilon : 0.990
+queue length in epsiode 5 1.2652777777777777
+loss in epsiode 5 11.517642974853516
+wait time in epsiode 5 89.824
+reward in epsiode 5 -2.034936111111113
+episode 6
+Simulating
+epsilon : 0.988
+queue length in epsiode 6 1.1697222222222223
+loss in epsiode 6 11.978285789489746
+wait time in epsiode 6 84.947
+reward in epsiode 6 -1.2898805555555561
+episode 7
+Simulating
+epsilon : 0.986
+queue length in epsiode 7 1.2522222222222221
+loss in epsiode 7 17.953968048095703
+wait time in epsiode 7 88.019
+reward in epsiode 7 -1.611925000000001
+episode 8
+Simulating
+epsilon : 0.984
+queue length in epsiode 8 1.3483333333333334
+loss in epsiode 8 19.9482421875
+wait time in epsiode 8 93.779
+reward in epsiode 8 -1.7487333333333335
+episode 9
+Simulating
+epsilon : 0.982
+queue length in epsiode 9 1.7075
+loss in epsiode 9 21.981733322143555
+wait time in epsiode 9 107.046
+reward in epsiode 9 -2.782966666666666
+episode 10
+Simulating
+epsilon : 0.980
+queue length in epsiode 10 1.4977777777777779
+loss in epsiode 10 18.925514221191406
+wait time in epsiode 10 96.519
+reward in epsiode 10 -1.908208333333333
+episode 11
+Simulating
+epsilon : 0.978
+queue length in epsiode 11 1.0091666666666668
+loss in epsiode 11 27.465774536132812
+wait time in epsiode 11 81.774
+reward in epsiode 11 -1.1652388888888874
+episode 12
+Simulating
+epsilon : 0.976
+queue length in epsiode 12 0.9458333333333333
+loss in epsiode 12 28.185283660888672
+wait time in epsiode 12 76.337
+reward in epsiode 12 -1.0165166666666674
+episode 13
+Simulating
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_signal_DQN\training_main.py", line 86, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_signal_DQN\simulation.py", line 213, in run
+    self._waiting_time_per_episode.append(average_wait_time)
+UnboundLocalError: local variable 'average_wait_time' referenced before assignment

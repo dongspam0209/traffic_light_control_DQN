@@ -1,0 +1,68 @@
+episode 0
+Simulating
+epsilon 1.0
+queue length in epsiode 0 1.306111111111111
+loss in epsiode 0 3.1063923835754395
+wait time in epsiode 0 176.8675
+episode 1
+Simulating
+epsilon 1.0
+queue length in epsiode 1 1.0722222222222222
+loss in epsiode 1 1.000802755355835
+wait time in epsiode 1 127.00361111111111
+episode 2
+Simulating
+epsilon 1.0
+queue length in epsiode 2 1.2833333333333334
+loss in epsiode 2 0.7543269395828247
+wait time in epsiode 2 144.54305555555555
+episode 3
+Simulating
+epsilon 1.0
+queue length in epsiode 3 1.3836111111111111
+loss in epsiode 3 0.8763179183006287
+wait time in epsiode 3 174.66444444444446
+episode 4
+Simulating
+epsilon 1.0
+queue length in epsiode 4 2.171111111111111
+loss in epsiode 4 0.4114372730255127
+wait time in epsiode 4 360.49111111111114
+episode 5
+Simulating
+epsilon 0.99
+queue length in epsiode 5 1.4144444444444444
+loss in epsiode 5 0.12490719556808472
+wait time in epsiode 5 200.75027777777777
+episode 6
+Simulating
+epsilon 0.99
+queue length in epsiode 6 1.238888888888889
+loss in epsiode 6 0.16240766644477844
+wait time in epsiode 6 138.04916666666668
+episode 7
+Simulating
+epsilon 0.99
+queue length in epsiode 7 1.8683333333333334
+loss in epsiode 7 0.27005237340927124
+wait time in epsiode 7 278.5158333333333
+episode 8
+Simulating
+epsilon 0.99
+queue length in epsiode 8 1.0786111111111112
+loss in epsiode 8 0.2749941647052765
+wait time in epsiode 8 127.05888888888889
+episode 9
+Simulating
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_DQN\training_main.py", line 85, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 197, in run
+    self.optimize_model()
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 351, in optimize_model
+    loss.backward()
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\_tensor.py", line 522, in backward
+    torch.autograd.backward(
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\autograd\__init__.py", line 266, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

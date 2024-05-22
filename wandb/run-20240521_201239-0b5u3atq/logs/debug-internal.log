@@ -1,0 +1,209 @@
+2024-05-21 20:12:39,685 INFO    StreamThr :2396 [internal.py:wandb_internal():86] W&B internal server running at pid: 2396, started at: 2024-05-21 20:12:39.685942
+2024-05-21 20:12:39,685 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: status
+2024-05-21 20:12:39,701 INFO    WriterThread:2396 [datastore.py:open_for_write():87] open: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\run-0b5u3atq.wandb
+2024-05-21 20:12:39,701 DEBUG   SenderThread:2396 [sender.py:send():379] send: header
+2024-05-21 20:12:39,784 DEBUG   SenderThread:2396 [sender.py:send():379] send: run
+2024-05-21 20:12:40,613 INFO    SenderThread:2396 [dir_watcher.py:__init__():211] watching files in: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files
+2024-05-21 20:12:40,613 INFO    SenderThread:2396 [sender.py:_start_run_threads():1124] run started: 0b5u3atq with start time 1716289959.685942
+2024-05-21 20:12:40,660 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: check_version
+2024-05-21 20:12:40,660 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: check_version
+2024-05-21 20:12:41,146 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: run_start
+2024-05-21 20:12:41,178 DEBUG   HandlerThread:2396 [system_info.py:__init__():26] System info init
+2024-05-21 20:12:41,178 DEBUG   HandlerThread:2396 [system_info.py:__init__():41] System info init done
+2024-05-21 20:12:41,178 INFO    HandlerThread:2396 [system_monitor.py:start():194] Starting system monitor
+2024-05-21 20:12:41,178 INFO    SystemMonitor:2396 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-05-21 20:12:41,178 INFO    HandlerThread:2396 [system_monitor.py:probe():214] Collecting system info
+2024-05-21 20:12:41,178 INFO    SystemMonitor:2396 [interfaces.py:start():190] Started cpu monitoring
+2024-05-21 20:12:41,178 INFO    SystemMonitor:2396 [interfaces.py:start():190] Started disk monitoring
+2024-05-21 20:12:41,193 INFO    SystemMonitor:2396 [interfaces.py:start():190] Started gpu monitoring
+2024-05-21 20:12:41,193 INFO    SystemMonitor:2396 [interfaces.py:start():190] Started memory monitoring
+2024-05-21 20:12:41,209 INFO    SystemMonitor:2396 [interfaces.py:start():190] Started network monitoring
+2024-05-21 20:12:41,209 DEBUG   HandlerThread:2396 [system_info.py:probe():150] Probing system
+2024-05-21 20:12:41,215 DEBUG   HandlerThread:2396 [system_info.py:_probe_git():135] Probing git
+2024-05-21 20:12:41,349 DEBUG   HandlerThread:2396 [system_info.py:_probe_git():143] Probing git done
+2024-05-21 20:12:41,349 DEBUG   HandlerThread:2396 [system_info.py:probe():198] Probing system done
+2024-05-21 20:12:41,349 DEBUG   HandlerThread:2396 [system_monitor.py:probe():223] {'os': 'Windows-10-10.0.22631-SP0', 'python': '3.9.18', 'heartbeatAt': '2024-05-21T11:12:41.215934', 'startedAt': '2024-05-21T11:12:39.636130', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': 'C:\\Users\\MNL431\\Desktop\\traffic_signal_DQN\\training_main.py', 'codePathLocal': 'training_main.py', 'codePath': 'training_main.py', 'git': {'remote': 'https://github.com/dongspam0209/traffic_light_control_DQN.git', 'commit': 'fa020fa208573823187d60d922beead016f325fd'}, 'email': 'iankim010209@gmail.com', 'root': 'C:/Users/MNL431/Desktop/traffic_signal_DQN', 'host': 'DESKTOP-NS4N5QL', 'username': 'MNL431', 'executable': 'C:\\Users\\MNL431\\Anaconda3\\envs\\yolov8\\python.exe', 'cpu_count': 6, 'cpu_count_logical': 12, 'cpu_freq': {'current': 3100.0, 'min': 0.0, 'max': 3701.0}, 'cpu_freq_per_core': [{'current': 3100.0, 'min': 0.0, 'max': 3701.0}], 'disk': {'/': {'total': 475.70605087280273, 'used': 262.2780456542969}}, 'gpu': 'NVIDIA GeForce GTX 1070 Ti', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA GeForce GTX 1070 Ti', 'memory_total': 8589934592}], 'memory': {'total': 31.92648696899414}}
+2024-05-21 20:12:41,349 INFO    HandlerThread:2396 [system_monitor.py:probe():224] Finished collecting system info
+2024-05-21 20:12:41,349 INFO    HandlerThread:2396 [system_monitor.py:probe():227] Publishing system info
+2024-05-21 20:12:41,349 DEBUG   HandlerThread:2396 [system_info.py:_save_conda():207] Saving list of conda packages installed into the current environment
+2024-05-21 20:12:41,632 INFO    Thread-16 :2396 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\conda-environment.yaml
+2024-05-21 20:12:45,466 DEBUG   HandlerThread:2396 [system_info.py:_save_conda():222] Saving conda packages done
+2024-05-21 20:12:45,468 INFO    HandlerThread:2396 [system_monitor.py:probe():229] Finished publishing system info
+2024-05-21 20:12:45,473 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:12:45,473 DEBUG   SenderThread:2396 [sender.py:send():379] send: files
+2024-05-21 20:12:45,473 INFO    SenderThread:2396 [sender.py:_save_file():1390] saving file wandb-metadata.json with policy now
+2024-05-21 20:12:45,649 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: python_packages
+2024-05-21 20:12:45,649 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-21 20:12:45,650 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: python_packages
+2024-05-21 20:12:45,650 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-21 20:12:45,651 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: stop_status
+2024-05-21 20:12:45,660 INFO    Thread-16 :2396 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\conda-environment.yaml
+2024-05-21 20:12:45,661 INFO    Thread-16 :2396 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\wandb-metadata.json
+2024-05-21 20:12:45,661 INFO    Thread-16 :2396 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\requirements.txt
+2024-05-21 20:12:46,302 DEBUG   SenderThread:2396 [sender.py:send():379] send: telemetry
+2024-05-21 20:12:46,667 INFO    wandb-upload_0:2396 [upload_job.py:push():131] Uploaded file C:\Users\MNL431\AppData\Local\Temp\tmpfkk2f8gdwandb\bgmz4ioj-wandb-metadata.json
+2024-05-21 20:12:47,681 INFO    Thread-16 :2396 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\output.log
+2024-05-21 20:12:49,695 INFO    Thread-16 :2396 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\output.log
+2024-05-21 20:12:50,210 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:12:51,715 INFO    Thread-16 :2396 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\output.log
+2024-05-21 20:12:55,279 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:13:00,331 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:13:00,651 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-21 20:13:00,651 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: stop_status
+2024-05-21 20:13:00,666 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-21 20:13:05,939 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:13:11,001 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:13:11,908 INFO    Thread-16 :2396 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\config.yaml
+2024-05-21 20:13:15,659 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-21 20:13:15,659 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: stop_status
+2024-05-21 20:13:15,674 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-21 20:13:16,878 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:13:20,048 INFO    Thread-16 :2396 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\output.log
+2024-05-21 20:13:22,063 INFO    Thread-16 :2396 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\output.log
+2024-05-21 20:13:22,845 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:13:23,209 DEBUG   SenderThread:2396 [sender.py:send():379] send: exit
+2024-05-21 20:13:23,209 INFO    SenderThread:2396 [sender.py:send_exit():586] handling exit code: 1
+2024-05-21 20:13:23,209 INFO    SenderThread:2396 [sender.py:send_exit():588] handling runtime: 42
+2024-05-21 20:13:23,210 INFO    SenderThread:2396 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-21 20:13:23,211 INFO    SenderThread:2396 [sender.py:send_exit():594] send defer
+2024-05-21 20:13:23,211 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:13:23,211 INFO    HandlerThread:2396 [handler.py:handle_request_defer():172] handle defer: 0
+2024-05-21 20:13:23,211 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:13:23,212 INFO    SenderThread:2396 [sender.py:send_request_defer():610] handle sender defer: 0
+2024-05-21 20:13:23,212 INFO    SenderThread:2396 [sender.py:transition_state():614] send defer: 1
+2024-05-21 20:13:23,212 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:13:23,212 INFO    HandlerThread:2396 [handler.py:handle_request_defer():172] handle defer: 1
+2024-05-21 20:13:23,212 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:13:23,212 INFO    SenderThread:2396 [sender.py:send_request_defer():610] handle sender defer: 1
+2024-05-21 20:13:23,212 INFO    SenderThread:2396 [sender.py:transition_state():614] send defer: 2
+2024-05-21 20:13:23,213 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:13:23,213 INFO    HandlerThread:2396 [handler.py:handle_request_defer():172] handle defer: 2
+2024-05-21 20:13:23,213 INFO    HandlerThread:2396 [system_monitor.py:finish():203] Stopping system monitor
+2024-05-21 20:13:23,213 DEBUG   SystemMonitor:2396 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-05-21 20:13:23,213 INFO    HandlerThread:2396 [interfaces.py:finish():202] Joined cpu monitor
+2024-05-21 20:13:23,242 DEBUG   SystemMonitor:2396 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-05-21 20:13:23,242 INFO    HandlerThread:2396 [interfaces.py:finish():202] Joined disk monitor
+2024-05-21 20:13:23,242 DEBUG   SystemMonitor:2396 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-05-21 20:13:23,327 INFO    HandlerThread:2396 [interfaces.py:finish():202] Joined gpu monitor
+2024-05-21 20:13:23,327 INFO    HandlerThread:2396 [interfaces.py:finish():202] Joined memory monitor
+2024-05-21 20:13:23,327 INFO    HandlerThread:2396 [interfaces.py:finish():202] Joined network monitor
+2024-05-21 20:13:23,328 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:13:23,328 INFO    SenderThread:2396 [sender.py:send_request_defer():610] handle sender defer: 2
+2024-05-21 20:13:23,328 INFO    SenderThread:2396 [sender.py:transition_state():614] send defer: 3
+2024-05-21 20:13:23,328 DEBUG   SenderThread:2396 [sender.py:send():379] send: stats
+2024-05-21 20:13:23,329 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:13:23,329 INFO    HandlerThread:2396 [handler.py:handle_request_defer():172] handle defer: 3
+2024-05-21 20:13:23,329 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:13:23,329 INFO    SenderThread:2396 [sender.py:send_request_defer():610] handle sender defer: 3
+2024-05-21 20:13:23,329 INFO    SenderThread:2396 [sender.py:transition_state():614] send defer: 4
+2024-05-21 20:13:23,329 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:13:23,329 INFO    HandlerThread:2396 [handler.py:handle_request_defer():172] handle defer: 4
+2024-05-21 20:13:23,330 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:13:23,330 INFO    SenderThread:2396 [sender.py:send_request_defer():610] handle sender defer: 4
+2024-05-21 20:13:23,330 INFO    SenderThread:2396 [sender.py:transition_state():614] send defer: 5
+2024-05-21 20:13:23,330 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:13:23,330 INFO    HandlerThread:2396 [handler.py:handle_request_defer():172] handle defer: 5
+2024-05-21 20:13:23,330 DEBUG   SenderThread:2396 [sender.py:send():379] send: summary
+2024-05-21 20:13:23,331 INFO    SenderThread:2396 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-21 20:13:23,331 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:13:23,331 INFO    SenderThread:2396 [sender.py:send_request_defer():610] handle sender defer: 5
+2024-05-21 20:13:23,331 INFO    SenderThread:2396 [sender.py:transition_state():614] send defer: 6
+2024-05-21 20:13:23,331 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:13:23,331 INFO    HandlerThread:2396 [handler.py:handle_request_defer():172] handle defer: 6
+2024-05-21 20:13:23,332 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:13:23,332 INFO    SenderThread:2396 [sender.py:send_request_defer():610] handle sender defer: 6
+2024-05-21 20:13:23,332 INFO    SenderThread:2396 [sender.py:transition_state():614] send defer: 7
+2024-05-21 20:13:23,332 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:13:23,332 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:13:23,332 INFO    HandlerThread:2396 [handler.py:handle_request_defer():172] handle defer: 7
+2024-05-21 20:13:23,332 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:13:23,332 INFO    SenderThread:2396 [sender.py:send_request_defer():610] handle sender defer: 7
+2024-05-21 20:13:24,068 INFO    Thread-16 :2396 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\wandb-summary.json
+2024-05-21 20:13:24,209 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-21 20:13:25,240 INFO    SenderThread:2396 [sender.py:transition_state():614] send defer: 8
+2024-05-21 20:13:25,240 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: poll_exit
+2024-05-21 20:13:25,240 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:13:25,240 INFO    HandlerThread:2396 [handler.py:handle_request_defer():172] handle defer: 8
+2024-05-21 20:13:25,240 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:13:25,240 INFO    SenderThread:2396 [sender.py:send_request_defer():610] handle sender defer: 8
+2024-05-21 20:13:25,240 INFO    SenderThread:2396 [job_builder.py:build():318] Attempting to build job artifact
+2024-05-21 20:13:25,240 INFO    SenderThread:2396 [job_builder.py:_get_source_type():455] is repo sourced job
+2024-05-21 20:13:25,351 INFO    SenderThread:2396 [job_builder.py:build():431] adding wandb-job metadata file
+2024-05-21 20:13:25,366 INFO    SenderThread:2396 [sender.py:transition_state():614] send defer: 9
+2024-05-21 20:13:25,366 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:13:25,366 INFO    HandlerThread:2396 [handler.py:handle_request_defer():172] handle defer: 9
+2024-05-21 20:13:25,366 DEBUG   SenderThread:2396 [sender.py:send():379] send: artifact
+2024-05-21 20:13:26,089 INFO    Thread-16 :2396 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\output.log
+2024-05-21 20:13:26,251 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-21 20:13:26,481 INFO    SenderThread:2396 [sender.py:send_artifact():1468] sent artifact job-https___github.com_dongspam0209_traffic_light_control_DQN.git_training_main.py - {'id': 'QXJ0aWZhY3Q6ODQ0NDI2MDQ1', 'state': 'COMMITTED', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE1MDI0ODM0OQ==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6ODQ0NDI2MDQ1', 'versionIndex': 26}}}
+2024-05-21 20:13:26,481 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:13:26,481 INFO    SenderThread:2396 [sender.py:send_request_defer():610] handle sender defer: 9
+2024-05-21 20:13:26,481 INFO    SenderThread:2396 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-05-21 20:13:27,091 INFO    SenderThread:2396 [dir_watcher.py:finish():388] scan: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files
+2024-05-21 20:13:27,091 INFO    SenderThread:2396 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\conda-environment.yaml conda-environment.yaml
+2024-05-21 20:13:27,091 INFO    SenderThread:2396 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\config.yaml config.yaml
+2024-05-21 20:13:27,107 INFO    SenderThread:2396 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\output.log output.log
+2024-05-21 20:13:27,107 INFO    SenderThread:2396 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\requirements.txt requirements.txt
+2024-05-21 20:13:27,107 INFO    SenderThread:2396 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\wandb-metadata.json wandb-metadata.json
+2024-05-21 20:13:27,107 INFO    SenderThread:2396 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\wandb-summary.json wandb-summary.json
+2024-05-21 20:13:27,123 INFO    SenderThread:2396 [sender.py:transition_state():614] send defer: 10
+2024-05-21 20:13:27,123 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: poll_exit
+2024-05-21 20:13:27,123 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:13:27,123 INFO    HandlerThread:2396 [handler.py:handle_request_defer():172] handle defer: 10
+2024-05-21 20:13:27,138 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:13:27,138 INFO    SenderThread:2396 [sender.py:send_request_defer():610] handle sender defer: 10
+2024-05-21 20:13:27,138 INFO    SenderThread:2396 [file_pusher.py:finish():172] shutting down file pusher
+2024-05-21 20:13:27,263 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-21 20:13:27,263 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: poll_exit
+2024-05-21 20:13:27,670 INFO    wandb-upload_0:2396 [upload_job.py:push():131] Uploaded file C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\conda-environment.yaml
+2024-05-21 20:13:28,140 INFO    wandb-upload_3:2396 [upload_job.py:push():131] Uploaded file C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\requirements.txt
+2024-05-21 20:13:28,156 INFO    wandb-upload_1:2396 [upload_job.py:push():131] Uploaded file C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\config.yaml
+2024-05-21 20:13:28,266 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-21 20:13:28,266 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: poll_exit
+2024-05-21 20:13:28,650 INFO    wandb-upload_4:2396 [upload_job.py:push():131] Uploaded file C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\wandb-summary.json
+2024-05-21 20:13:29,130 INFO    wandb-upload_2:2396 [upload_job.py:push():131] Uploaded file C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\files\output.log
+2024-05-21 20:13:29,269 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-21 20:13:29,269 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: poll_exit
+2024-05-21 20:13:29,336 INFO    Thread-15 :2396 [sender.py:transition_state():614] send defer: 11
+2024-05-21 20:13:29,336 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:13:29,337 INFO    HandlerThread:2396 [handler.py:handle_request_defer():172] handle defer: 11
+2024-05-21 20:13:29,338 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:13:29,338 INFO    SenderThread:2396 [sender.py:send_request_defer():610] handle sender defer: 11
+2024-05-21 20:13:29,338 INFO    SenderThread:2396 [file_pusher.py:join():178] waiting for file pusher
+2024-05-21 20:13:29,339 INFO    SenderThread:2396 [sender.py:transition_state():614] send defer: 12
+2024-05-21 20:13:29,340 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:13:29,340 INFO    HandlerThread:2396 [handler.py:handle_request_defer():172] handle defer: 12
+2024-05-21 20:13:29,340 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:13:29,341 INFO    SenderThread:2396 [sender.py:send_request_defer():610] handle sender defer: 12
+2024-05-21 20:13:29,341 INFO    SenderThread:2396 [file_stream.py:finish():614] file stream finish called
+2024-05-21 20:13:29,532 INFO    SenderThread:2396 [file_stream.py:finish():618] file stream finish is done
+2024-05-21 20:13:29,532 INFO    SenderThread:2396 [sender.py:transition_state():614] send defer: 13
+2024-05-21 20:13:29,532 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:13:29,532 INFO    HandlerThread:2396 [handler.py:handle_request_defer():172] handle defer: 13
+2024-05-21 20:13:29,547 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:13:29,547 INFO    SenderThread:2396 [sender.py:send_request_defer():610] handle sender defer: 13
+2024-05-21 20:13:29,547 INFO    SenderThread:2396 [sender.py:transition_state():614] send defer: 14
+2024-05-21 20:13:29,547 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:13:29,547 INFO    HandlerThread:2396 [handler.py:handle_request_defer():172] handle defer: 14
+2024-05-21 20:13:29,547 DEBUG   SenderThread:2396 [sender.py:send():379] send: final
+2024-05-21 20:13:29,547 DEBUG   SenderThread:2396 [sender.py:send():379] send: footer
+2024-05-21 20:13:29,547 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:13:29,547 INFO    SenderThread:2396 [sender.py:send_request_defer():610] handle sender defer: 14
+2024-05-21 20:13:29,547 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-21 20:13:29,547 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: poll_exit
+2024-05-21 20:13:29,547 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-21 20:13:29,547 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: server_info
+2024-05-21 20:13:29,547 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: get_summary
+2024-05-21 20:13:29,547 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: sampled_history
+2024-05-21 20:13:29,547 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-21 20:13:29,547 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: poll_exit
+2024-05-21 20:13:29,547 DEBUG   SenderThread:2396 [sender.py:send_request():406] send_request: server_info
+2024-05-21 20:13:29,745 INFO    MainThread:2396 [wandb_run.py:_footer_history_summary_info():3920] rendering history
+2024-05-21 20:13:29,745 INFO    MainThread:2396 [wandb_run.py:_footer_history_summary_info():3952] rendering summary
+2024-05-21 20:13:29,745 INFO    MainThread:2396 [wandb_run.py:_footer_sync_info():3879] logging synced files
+2024-05-21 20:13:29,761 DEBUG   HandlerThread:2396 [handler.py:handle_request():146] handle_request: shutdown
+2024-05-21 20:13:29,761 INFO    HandlerThread:2396 [handler.py:finish():866] shutting down handler
+2024-05-21 20:13:30,571 INFO    WriterThread:2396 [datastore.py:close():296] close: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_201239-0b5u3atq\run-0b5u3atq.wandb
+2024-05-21 20:13:30,760 INFO    SenderThread:2396 [sender.py:finish():1546] shutting down sender
+2024-05-21 20:13:30,760 INFO    SenderThread:2396 [file_pusher.py:finish():172] shutting down file pusher
+2024-05-21 20:13:30,760 INFO    SenderThread:2396 [file_pusher.py:join():178] waiting for file pusher

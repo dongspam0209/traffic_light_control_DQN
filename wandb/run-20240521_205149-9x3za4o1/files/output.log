@@ -1,0 +1,41 @@
+episode 0
+Simulating
+epsilon : 1.000
+queue length in epsiode 0 1.2480555555555555
+loss in epsiode 0 2.8321595191955566
+wait time in epsiode 0 89.126
+reward in epsiode 0 -6.306683570440125e-18
+episode 1
+Simulating
+epsilon : 0.998
+queue length in epsiode 1 1.655
+loss in epsiode 1 2.263239860534668
+wait time in epsiode 1 101.05
+reward in epsiode 1 -0.0003083333333333397
+episode 2
+Simulating
+epsilon : 0.996
+queue length in epsiode 2 0.9777777777777777
+loss in epsiode 2 1.7716050148010254
+wait time in epsiode 2 77.896
+reward in epsiode 2 -8.928043489693967e-18
+episode 3
+Simulating
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_signal_DQN\training_main.py", line 86, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_signal_DQN\simulation.py", line 190, in run
+    self._set_yellow_phase(old_action_number)
+  File "C:\Users\MNL431\Desktop\traffic_signal_DQN\simulation.py", line 318, in _simulate
+    for veh_id in vehicle_list:
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\_vehicle.py", line 377, in getLaneID
+    return self._getUniversal(tc.VAR_LANE_ID, vehID)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\domain.py", line 147, in _getUniversal
+    return _parse(self._retValFunc, varID, self._getCmd(varID, objectID, format, *values))
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\domain.py", line 152, in _getCmd
+    r = self._connection._sendCmd(self._cmdGetID, varID, objID, format, *values)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 231, in _sendCmd
+    return self._sendExact()
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 130, in _sendExact
+    self._socket.send(length + self._string)
+KeyboardInterrupt

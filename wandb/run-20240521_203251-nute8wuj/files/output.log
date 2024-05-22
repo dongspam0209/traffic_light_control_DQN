@@ -1,0 +1,313 @@
+
+episode 0
+Simulating
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1]}
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2]}
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4], 'vehicle_147_rand': [4]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5], 'vehicle_147_rand': [4, 5]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6], 'vehicle_147_rand': [4, 5, 6]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7], 'vehicle_147_rand': [4, 5, 6, 7]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8], 'vehicle_147_rand': [4, 5, 6, 7, 8]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_1
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_1
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_1
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_1
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_1
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_1
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_1
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_1
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17], 'vehicle_432_rand': [17]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18], 'vehicle_432_rand': [17, 18]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19], 'vehicle_432_rand': [17, 18, 19]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], 'vehicle_432_rand': [17, 18, 19, 20]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21], 'vehicle_432_rand': [17, 18, 19, 20, 21]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26], 'vehicle_54_rand': [26]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_3
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27], 'vehicle_54_rand': [26, 27], 'vehicle_149_rand': [27]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_3
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28], 'vehicle_54_rand': [26, 27, 28], 'vehicle_149_rand': [27, 28]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_3
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_2
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], 'vehicle_54_rand': [26, 27, 28, 29], 'vehicle_149_rand': [27, 28, 29], 'vehicle_469_rand': [29]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_3
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_2
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30], 'vehicle_54_rand': [26, 27, 28, 29, 30], 'vehicle_149_rand': [27, 28, 29, 30], 'vehicle_469_rand': [29, 30]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_3
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_2
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31], 'vehicle_149_rand': [27, 28, 29, 30, 31], 'vehicle_469_rand': [29, 30, 31]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_3
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_2
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32], 'vehicle_469_rand': [29, 30, 31, 32]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_3
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_2
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_3
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33], 'vehicle_469_rand': [29, 30, 31, 32, 33], 'vehicle_379_rand': [33]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_2
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_2
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34], 'vehicle_379_rand': [33, 34]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_2
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35], 'vehicle_379_rand': [33, 34, 35]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_2
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36], 'vehicle_379_rand': [33, 34, 35, 36]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_2
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37], 'vehicle_379_rand': [33, 34, 35, 36, 37]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_2
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37, 38], 'vehicle_379_rand': [33, 34, 35, 36, 37, 38]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_2
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39], 'vehicle_379_rand': [33, 34, 35, 36, 37, 38, 39]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_2
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40], 'vehicle_379_rand': [33, 34, 35, 36, 37, 38, 39, 40]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_2
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41], 'vehicle_379_rand': [33, 34, 35, 36, 37, 38, 39, 40, 41]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_2
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42], 'vehicle_379_rand': [33, 34, 35, 36, 37, 38, 39, 40, 41, 42]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_2
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43], 'vehicle_379_rand': [33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_1
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44], 'vehicle_379_rand': [33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_1
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45], 'vehicle_379_rand': [33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_1
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46], 'vehicle_379_rand': [33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_1
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47], 'vehicle_379_rand': [33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_1
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48], 'vehicle_379_rand': [33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_1
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49], 'vehicle_379_rand': [33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_1
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50], 'vehicle_379_rand': [33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_1
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51], 'vehicle_379_rand': [33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51]}
+Vehicle ID: vehicle_147_rand, Lane ID: E_in_1
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_1
+Vehicle ID: vehicle_235_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52], 'vehicle_379_rand': [33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52]}
+Vehicle ID: vehicle_147_rand, Lane ID: :intersection_6_1
+Vehicle ID: vehicle_149_rand, Lane ID: W_in_1
+Vehicle ID: vehicle_235_rand, Lane ID: :intersection_6_0
+Vehicle ID: vehicle_379_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_432_rand, Lane ID: E_in_3
+Vehicle ID: vehicle_469_rand, Lane ID: E_in_0
+Vehicle ID: vehicle_54_rand, Lane ID: E_in_2
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52], 'vehicle_432_rand': [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53], 'vehicle_54_rand': [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53], 'vehicle_149_rand': [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53], 'vehicle_469_rand': [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53], 'vehicle_379_rand': [33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53]}
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_signal_DQN\training_main.py", line 86, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_signal_DQN\simulation.py", line 193, in run
+    self._simulate(duration)
+  File "C:\Users\MNL431\Desktop\traffic_signal_DQN\simulation.py", line 304, in _simulate
+    traci.simulationStep()  # simulate 1 step in sumo
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\main.py", line 198, in simulationStep
+    connection.check().simulationStep(step)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 368, in simulationStep
+    result = self._sendCmd(tc.CMD_SIMSTEP, None, None, "D", step)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 231, in _sendCmd
+    return self._sendExact()
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 137, in _sendExact
+    raise FatalTraCIError("Connection closed by SUMO.")
+traci.exceptions.FatalTraCIError: Connection closed by SUMO.

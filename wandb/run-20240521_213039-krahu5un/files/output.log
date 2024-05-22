@@ -1,0 +1,7 @@
+episode 13
+Simulating
+epsilon : 0.974
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_signal_DQN\training_main.py", line 87, in <module>
+    print(f'queue length in epsiode {episode}',Simulation.queue_length_store[episode])
+IndexError: list index out of range

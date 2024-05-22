@@ -1,0 +1,53 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.9.18",
+    "heartbeatAt": "2024-04-10T13:16:35.120984",
+    "startedAt": "2024-04-10T13:16:34.367757",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\MNL431\\Desktop\\traffic_DQN\\training_main.py",
+    "codePathLocal": "training_main.py",
+    "codePath": "training_main.py",
+    "git": {
+        "remote": "https://github.com/dongspam0209/traffic_light_control_DQN.git",
+        "commit": "07384df5fe32c7b9ba1e19dc5c23392725e85bf1"
+    },
+    "email": "iankim010209@gmail.com",
+    "root": "C:/Users/MNL431/Desktop/traffic_DQN",
+    "host": "DESKTOP-NS4N5QL",
+    "username": "MNL431",
+    "executable": "C:\\Users\\MNL431\\Anaconda3\\envs\\cartpoletest\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3701.0,
+        "min": 0.0,
+        "max": 3701.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3701.0,
+            "min": 0.0,
+            "max": 3701.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 475.70605087280273,
+            "used": 239.59270858764648
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1070 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1070 Ti",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 31.92648696899414
+    }
+}

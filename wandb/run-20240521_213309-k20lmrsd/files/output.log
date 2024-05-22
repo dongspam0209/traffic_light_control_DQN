@@ -1,0 +1,92 @@
+episode 0
+Simulating
+epsilon : 1.000
+queue length in epsiode 0 1.2663888888888888
+loss in epsiode 0 889.1534423828125
+wait time in epsiode 0 89.379
+reward in epsiode 0 -1.7213777777777757
+episode 1
+Simulating
+epsilon : 0.998
+queue length in epsiode 1 1.4730555555555556
+loss in epsiode 1 801.3109130859375
+wait time in epsiode 1 93.212
+reward in epsiode 1 -1.9651722222222217
+episode 2
+Simulating
+epsilon : 0.996
+queue length in epsiode 2 2.6644444444444444
+loss in epsiode 2 614.3260498046875
+wait time in epsiode 2 142.752
+reward in epsiode 2 -4.97571111111111
+episode 3
+Simulating
+epsilon : 0.994
+queue length in epsiode 3 0.9361111111111111
+loss in epsiode 3 448.62396240234375
+wait time in epsiode 3 76.024
+reward in epsiode 3 -0.9714472222222222
+episode 4
+Simulating
+epsilon : 0.992
+queue length in epsiode 4 1.8286111111111112
+loss in epsiode 4 324.2439880371094
+wait time in epsiode 4 111.841
+reward in epsiode 4 -3.0217472222222175
+episode 5
+Simulating
+epsilon : 0.990
+queue length in epsiode 5 1.6069444444444445
+loss in epsiode 5 208.26686096191406
+wait time in epsiode 5 99.044
+reward in epsiode 5 -2.1990583333333333
+episode 6
+Simulating
+epsilon : 0.988
+queue length in epsiode 6 1.0775
+loss in epsiode 6 137.3330078125
+wait time in epsiode 6 81.868
+reward in epsiode 6 -1.2752638888888885
+episode 7
+Simulating
+epsilon : 0.986
+queue length in epsiode 7 1.5427777777777778
+loss in epsiode 7 89.98609924316406
+wait time in epsiode 7 99.936
+reward in epsiode 7 -2.2369749999999975
+episode 8
+Simulating
+epsilon : 0.984
+queue length in epsiode 8 2.0652777777777778
+loss in epsiode 8 71.89306640625
+wait time in epsiode 8 112.234
+reward in epsiode 8 -3.3001805555555546
+episode 9
+Simulating
+epsilon : 0.982
+queue length in epsiode 9 1.5702777777777779
+loss in epsiode 9 74.55029296875
+wait time in epsiode 9 102.588
+reward in epsiode 9 -2.120966666666669
+episode 10
+Simulating
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_signal_DQN\training_main.py", line 86, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_signal_DQN\simulation.py", line 194, in run
+    self._simulate(duration)
+  File "C:\Users\MNL431\Desktop\traffic_signal_DQN\simulation.py", line 319, in _simulate
+    lane_id = traci.vehicle.getLaneID(veh_id)  # 차선 ID
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\_vehicle.py", line 377, in getLaneID
+    return self._getUniversal(tc.VAR_LANE_ID, vehID)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\domain.py", line 147, in _getUniversal
+    return _parse(self._retValFunc, varID, self._getCmd(varID, objectID, format, *values))
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\domain.py", line 152, in _getCmd
+    r = self._connection._sendCmd(self._cmdGetID, varID, objID, format, *values)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 231, in _sendCmd
+    return self._sendExact()
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 131, in _sendExact
+    result = self._recvExact()
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 109, in _recvExact
+    t = self._socket.recv(4 - len(result))
+KeyboardInterrupt

@@ -1,0 +1,8 @@
+episode 0
+Simulating
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_DQN\training_main.py", line 83, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 165, in run
+    self._ReplayMemory.push(old_state, old_action_number,current_state,reward)
+TypeError: push() missing 1 required positional argument: 'prev_actions'

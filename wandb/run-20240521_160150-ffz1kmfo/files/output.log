@@ -1,0 +1,10 @@
+episode 0
+Simulating
+epsilon : 1.000
+queue length in epsiode 0 1.205
+loss in epsiode 0 5.723997116088867
+wait time in epsiode 0 155.73194444444445
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_signal_DQN\training_main.py", line 98, in <module>
+    "max Q-value" : Simulation.max_q_value[episode]
+AttributeError: 'Simulation' object has no attribute 'max_q_value'

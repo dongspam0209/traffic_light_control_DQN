@@ -1,0 +1,88 @@
+episode 0
+Simulating
+epsilon 1.0
+queue length in epsiode 0 1.34
+loss in epsiode 0 14.096109390258789
+wait time in epsiode 0 187.32527777777779
+episode 1
+Simulating
+epsilon 1.0
+queue length in epsiode 1 1.3183333333333334
+loss in epsiode 1 14.482824325561523
+wait time in epsiode 1 187.1775
+episode 2
+Simulating
+epsilon 1.0
+queue length in epsiode 2 1.4166666666666667
+loss in epsiode 2 12.684213638305664
+wait time in epsiode 2 174.0288888888889
+episode 3
+Simulating
+epsilon 0.99
+queue length in epsiode 3 1.5880555555555556
+loss in epsiode 3 10.442821502685547
+wait time in epsiode 3 220.885
+episode 4
+Simulating
+epsilon 0.99
+queue length in epsiode 4 1.256388888888889
+loss in epsiode 4 9.03494644165039
+wait time in epsiode 4 150.15944444444443
+episode 5
+Simulating
+epsilon 0.99
+queue length in epsiode 5 1.6455555555555557
+loss in epsiode 5 8.674625396728516
+wait time in epsiode 5 230.21722222222223
+episode 6
+Simulating
+epsilon 0.99
+queue length in epsiode 6 1.0519444444444443
+loss in epsiode 6 6.7555131912231445
+wait time in epsiode 6 115.02333333333333
+episode 7
+Simulating
+epsilon 0.99
+queue length in epsiode 7 1.543611111111111
+loss in epsiode 7 6.836273670196533
+wait time in epsiode 7 233.90166666666667
+episode 8
+Simulating
+epsilon 0.98
+queue length in epsiode 8 1.3844444444444444
+loss in epsiode 8 6.09624719619751
+wait time in epsiode 8 169.42361111111111
+episode 9
+Simulating
+epsilon 0.98
+queue length in epsiode 9 1.5013888888888889
+loss in epsiode 9 5.346548080444336
+wait time in epsiode 9 225.9338888888889
+episode 10
+Simulating
+epsilon 0.98
+queue length in epsiode 10 0.8575
+loss in epsiode 10 4.7982401847839355
+wait time in epsiode 10 85.1138888888889
+episode 11
+Simulating
+epsilon 0.98
+queue length in epsiode 11 1.9955555555555555
+loss in epsiode 11 5.367764472961426
+wait time in epsiode 11 307.1711111111111
+episode 12
+Simulating
+epsilon 0.98
+queue length in epsiode 12 1.3525
+loss in epsiode 12 4.8200201988220215
+wait time in epsiode 12 177.70472222222222
+episode 13
+Simulating
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_DQN\training_main.py", line 83, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 197, in run
+    self.optimize_model()
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 343, in optimize_model
+    q_target = (next_state_values * GAMMA) + reward_batch
+KeyboardInterrupt

@@ -1,0 +1,148 @@
+episode 0
+Simulating
+epsilon : 1.000
+queue length in epsiode 0 1.5980555555555556
+loss in epsiode 0 29.538551330566406
+wait time in epsiode 0 199.91166666666666
+episode 1
+Simulating
+epsilon : 0.998
+queue length in epsiode 1 0.9780555555555556
+loss in epsiode 1 17.50841522216797
+wait time in epsiode 1 102.63805555555555
+episode 2
+Simulating
+epsilon : 0.996
+queue length in epsiode 2 1.1127777777777779
+loss in epsiode 2 7.546453475952148
+wait time in epsiode 2 115.26222222222222
+episode 3
+Simulating
+epsilon : 0.994
+queue length in epsiode 3 1.2369444444444444
+loss in epsiode 3 5.068769454956055
+wait time in epsiode 3 137.14027777777778
+episode 4
+Simulating
+epsilon : 0.992
+queue length in epsiode 4 1.1066666666666667
+loss in epsiode 4 4.95876407623291
+wait time in epsiode 4 139.35916666666665
+episode 5
+Simulating
+epsilon : 0.990
+queue length in epsiode 5 1.1516666666666666
+loss in epsiode 5 4.155731678009033
+wait time in epsiode 5 136.63666666666666
+episode 6
+Simulating
+epsilon : 0.988
+queue length in epsiode 6 1.3347222222222221
+loss in epsiode 6 2.6595230102539062
+wait time in epsiode 6 172.88
+episode 7
+Simulating
+epsilon : 0.986
+queue length in epsiode 7 1.3044444444444445
+loss in epsiode 7 1.8363280296325684
+wait time in epsiode 7 160.925
+episode 8
+Simulating
+epsilon : 0.984
+queue length in epsiode 8 1.1116666666666666
+loss in epsiode 8 1.5537022352218628
+wait time in epsiode 8 140.84583333333333
+episode 9
+Simulating
+epsilon : 0.982
+queue length in epsiode 9 2.6580555555555554
+loss in epsiode 9 1.494738221168518
+wait time in epsiode 9 457.5441666666667
+episode 10
+Simulating
+epsilon : 0.980
+queue length in epsiode 10 1.8041666666666667
+loss in epsiode 10 1.3973040580749512
+wait time in epsiode 10 304.3913888888889
+episode 11
+Simulating
+epsilon : 0.978
+queue length in epsiode 11 1.5080555555555555
+loss in epsiode 11 3.094618320465088
+wait time in epsiode 11 250.58944444444444
+episode 12
+Simulating
+epsilon : 0.976
+queue length in epsiode 12 1.1652777777777779
+loss in epsiode 12 3.0491387844085693
+wait time in epsiode 12 150.21555555555557
+episode 13
+Simulating
+epsilon : 0.974
+queue length in epsiode 13 1.3994444444444445
+loss in epsiode 13 2.255566358566284
+wait time in epsiode 13 181.33944444444444
+episode 14
+Simulating
+epsilon : 0.972
+queue length in epsiode 14 1.2272222222222222
+loss in epsiode 14 1.5991030931472778
+wait time in epsiode 14 133.42055555555555
+episode 15
+Simulating
+epsilon : 0.970
+queue length in epsiode 15 1.5347222222222223
+loss in epsiode 15 1.214785099029541
+wait time in epsiode 15 203.58583333333334
+episode 16
+Simulating
+epsilon : 0.968
+queue length in epsiode 16 1.4155555555555555
+loss in epsiode 16 1.1633135080337524
+wait time in epsiode 16 173.51305555555555
+episode 17
+Simulating
+epsilon : 0.966
+queue length in epsiode 17 1.7175
+loss in epsiode 17 0.9171756505966187
+wait time in epsiode 17 263.18916666666667
+episode 18
+Simulating
+epsilon : 0.964
+queue length in epsiode 18 1.03
+loss in epsiode 18 1.0754804611206055
+wait time in epsiode 18 151.06194444444444
+episode 19
+Simulating
+epsilon : 0.962
+queue length in epsiode 19 1.3
+loss in epsiode 19 0.7776694297790527
+wait time in epsiode 19 174.91833333333332
+episode 20
+Simulating
+epsilon : 0.960
+queue length in epsiode 20 1.2886111111111112
+loss in epsiode 20 0.8183518648147583
+wait time in epsiode 20 180.38194444444446
+episode 21
+Simulating
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_DQN\training_main.py", line 86, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 141, in run
+    halted_count_else = sum(
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 142, in <genexpr>
+    ((df1[direction + '_' + str(i)] == 1) & (df2[direction + '_' + str(i)] <= 0.1)).sum()
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\pandas\core\ops\common.py", line 76, in new_method
+    return method(self, other)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\pandas\core\arraylike.py", line 40, in __eq__
+    return self._cmp_method(other, operator.eq)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\pandas\core\series.py", line 6112, in _cmp_method
+    return self._construct_result(res_values, name=res_name)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\pandas\core\series.py", line 6222, in _construct_result
+    out = self._constructor(result, index=self.index, dtype=dtype, copy=False)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\pandas\core\series.py", line 588, in __init__
+    data = SingleBlockManager.from_array(data, index, refs=refs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\pandas\core\internals\managers.py", line 1871, in from_array
+    return cls(block, index)
+KeyboardInterrupt

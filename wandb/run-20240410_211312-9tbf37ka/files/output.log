@@ -1,0 +1,26 @@
+episode 0
+Simulating
+현재 에피소드의 큐 길이:  0
+현재 에피소드의 waiting time:  0
+original size:  torch.Size([128, 3, 16, 100])
+conv1 후 size:  torch.Size([128, 16, 8, 50])
+conv2 후 size:  torch.Size([128, 32, 4, 25])
+2차원으로 변환:  torch.Size([128, 3200])
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_DQN\training_main.py", line 84, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 194, in run
+    self.optimize_model()
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 310, in optimize_model
+    q_eval = self.policy_net(state_batch).gather(1, action_batch)
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\nn\modules\module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "C:\Users\MNL431\Desktop\traffic_DQN\Model.py", line 23, in forward
+    x = F.relu(self.fc1(x))
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\nn\modules\module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\nn\modules\linear.py", line 94, in forward
+    return F.linear(input, self.weight, self.bias)
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\nn\functional.py", line 1753, in linear
+    return torch._C._nn.linear(input, weight, bias)
+RuntimeError: mat1 dim 1 must match mat2 dim 0

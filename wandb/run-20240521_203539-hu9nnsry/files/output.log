@@ -1,0 +1,30 @@
+
+episode 0
+Simulating
+vehicle in lane time list {'vehicle_235_rand': [1]}
+vehicle in lane time list {'vehicle_235_rand': [1, 2]}
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3]}
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4], 'vehicle_147_rand': [4]}
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5], 'vehicle_147_rand': [4, 5]}
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6], 'vehicle_147_rand': [4, 5, 6]}
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7], 'vehicle_147_rand': [4, 5, 6, 7]}
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8], 'vehicle_147_rand': [4, 5, 6, 7, 8]}
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9]}
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10]}
+vehicle in lane time list {'vehicle_235_rand': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], 'vehicle_147_rand': [4, 5, 6, 7, 8, 9, 10, 11]}
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_signal_DQN\training_main.py", line 86, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_signal_DQN\simulation.py", line 193, in run
+    self._simulate(duration)
+  File "C:\Users\MNL431\Desktop\traffic_signal_DQN\simulation.py", line 304, in _simulate
+    traci.simulationStep()  # simulate 1 step in sumo
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\main.py", line 198, in simulationStep
+    connection.check().simulationStep(step)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 368, in simulationStep
+    result = self._sendCmd(tc.CMD_SIMSTEP, None, None, "D", step)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 231, in _sendCmd
+    return self._sendExact()
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 137, in _sendExact
+    raise FatalTraCIError("Connection closed by SUMO.")
+traci.exceptions.FatalTraCIError: Connection closed by SUMO.

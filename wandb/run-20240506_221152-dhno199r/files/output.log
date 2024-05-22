@@ -1,0 +1,30 @@
+
+episode 0
+Simulating
+action history : [-1, 0]
+ReplayMemory에 push된 값들 0
+action history : [0, 1]
+ReplayMemory에 push된 값들 1
+action history : [1, 3]
+ReplayMemory에 push된 값들 3
+action history : [3, 3]
+ReplayMemory에 push된 값들 3
+action history : [3, 1]
+ReplayMemory에 push된 값들 1
+action history : [1, 2]
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_DQN\training_main.py", line 83, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 187, in run
+    duration=self._set_green_phase(action_to_do)
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 287, in _simulate
+    steps_todo -= 1
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\main.py", line 198, in simulationStep
+    connection.check().simulationStep(step)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 368, in simulationStep
+    result = self._sendCmd(tc.CMD_SIMSTEP, None, None, "D", step)
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 231, in _sendCmd
+    return self._sendExact()
+  File "C:\Program Files (x86)\Eclipse\Sumo\tools\traci\connection.py", line 137, in _sendExact
+    raise FatalTraCIError("Connection closed by SUMO.")
+traci.exceptions.FatalTraCIError: Connection closed by SUMO.

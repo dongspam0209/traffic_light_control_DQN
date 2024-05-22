@@ -1,0 +1,594 @@
+2024-05-15 16:10:32,305 INFO    StreamThr :31476 [internal.py:wandb_internal():86] W&B internal server running at pid: 31476, started at: 2024-05-15 16:10:32.304200
+2024-05-15 16:10:32,306 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status
+2024-05-15 16:10:32,315 INFO    WriterThread:31476 [datastore.py:open_for_write():87] open: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\run-e09up562.wandb
+2024-05-15 16:10:32,316 DEBUG   SenderThread:31476 [sender.py:send():379] send: header
+2024-05-15 16:10:32,365 DEBUG   SenderThread:31476 [sender.py:send():379] send: run
+2024-05-15 16:10:33,257 INFO    SenderThread:31476 [dir_watcher.py:__init__():211] watching files in: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files
+2024-05-15 16:10:33,257 INFO    SenderThread:31476 [sender.py:_start_run_threads():1124] run started: e09up562 with start time 1715757032.3042
+2024-05-15 16:10:33,271 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: check_version
+2024-05-15 16:10:33,271 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: check_version
+2024-05-15 16:10:33,855 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: run_start
+2024-05-15 16:10:33,879 DEBUG   HandlerThread:31476 [system_info.py:__init__():26] System info init
+2024-05-15 16:10:33,880 DEBUG   HandlerThread:31476 [system_info.py:__init__():41] System info init done
+2024-05-15 16:10:33,880 INFO    HandlerThread:31476 [system_monitor.py:start():194] Starting system monitor
+2024-05-15 16:10:33,880 INFO    SystemMonitor:31476 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-05-15 16:10:33,880 INFO    HandlerThread:31476 [system_monitor.py:probe():214] Collecting system info
+2024-05-15 16:10:33,886 INFO    SystemMonitor:31476 [interfaces.py:start():190] Started cpu monitoring
+2024-05-15 16:10:33,887 INFO    SystemMonitor:31476 [interfaces.py:start():190] Started disk monitoring
+2024-05-15 16:10:33,888 INFO    SystemMonitor:31476 [interfaces.py:start():190] Started gpu monitoring
+2024-05-15 16:10:33,888 INFO    SystemMonitor:31476 [interfaces.py:start():190] Started memory monitoring
+2024-05-15 16:10:33,900 INFO    SystemMonitor:31476 [interfaces.py:start():190] Started network monitoring
+2024-05-15 16:10:33,907 DEBUG   HandlerThread:31476 [system_info.py:probe():150] Probing system
+2024-05-15 16:10:33,908 DEBUG   HandlerThread:31476 [system_info.py:_probe_git():135] Probing git
+2024-05-15 16:10:33,982 DEBUG   HandlerThread:31476 [system_info.py:_probe_git():143] Probing git done
+2024-05-15 16:10:33,982 DEBUG   HandlerThread:31476 [system_info.py:probe():198] Probing system done
+2024-05-15 16:10:33,982 DEBUG   HandlerThread:31476 [system_monitor.py:probe():223] {'os': 'Windows-10-10.0.22631-SP0', 'python': '3.9.18', 'heartbeatAt': '2024-05-15T07:10:33.907945', 'startedAt': '2024-05-15T07:10:32.286248', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': 'C:\\Users\\MNL431\\Desktop\\traffic_DQN\\training_main.py', 'codePathLocal': 'training_main.py', 'codePath': 'training_main.py', 'git': {'remote': 'https://github.com/dongspam0209/traffic_light_control_DQN.git', 'commit': 'fa020fa208573823187d60d922beead016f325fd'}, 'email': 'iankim010209@gmail.com', 'root': 'C:/Users/MNL431/Desktop/traffic_DQN', 'host': 'DESKTOP-NS4N5QL', 'username': 'MNL431', 'executable': 'C:\\Users\\MNL431\\Anaconda3\\envs\\yolov8\\python.exe', 'cpu_count': 6, 'cpu_count_logical': 12, 'cpu_freq': {'current': 3701.0, 'min': 0.0, 'max': 3701.0}, 'cpu_freq_per_core': [{'current': 3701.0, 'min': 0.0, 'max': 3701.0}], 'disk': {'/': {'total': 475.70605087280273, 'used': 313.78576278686523}}, 'gpu': 'NVIDIA GeForce GTX 1070 Ti', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA GeForce GTX 1070 Ti', 'memory_total': 8589934592}], 'memory': {'total': 31.92648696899414}}
+2024-05-15 16:10:33,982 INFO    HandlerThread:31476 [system_monitor.py:probe():224] Finished collecting system info
+2024-05-15 16:10:33,982 INFO    HandlerThread:31476 [system_monitor.py:probe():227] Publishing system info
+2024-05-15 16:10:33,983 DEBUG   HandlerThread:31476 [system_info.py:_save_conda():207] Saving list of conda packages installed into the current environment
+2024-05-15 16:10:34,266 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\conda-environment.yaml
+2024-05-15 16:10:38,752 DEBUG   HandlerThread:31476 [system_info.py:_save_conda():222] Saving conda packages done
+2024-05-15 16:10:38,753 INFO    HandlerThread:31476 [system_monitor.py:probe():229] Finished publishing system info
+2024-05-15 16:10:38,757 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:10:38,758 DEBUG   SenderThread:31476 [sender.py:send():379] send: files
+2024-05-15 16:10:38,758 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-metadata.json with policy now
+2024-05-15 16:10:39,056 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: python_packages
+2024-05-15 16:10:39,057 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:10:39,057 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: python_packages
+2024-05-15 16:10:39,057 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:10:39,059 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:10:39,288 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\conda-environment.yaml
+2024-05-15 16:10:39,289 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\requirements.txt
+2024-05-15 16:10:39,289 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-metadata.json
+2024-05-15 16:10:39,776 DEBUG   SenderThread:31476 [sender.py:send():379] send: telemetry
+2024-05-15 16:10:40,092 INFO    wandb-upload_0:31476 [upload_job.py:push():131] Uploaded file C:\Users\MNL431\AppData\Local\Temp\tmp2nxgwce9wandb\t9hystxe-wandb-metadata.json
+2024-05-15 16:10:42,306 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:10:43,379 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:10:44,332 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:10:48,428 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:10:53,450 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:10:54,061 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:10:54,062 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:10:54,063 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:10:59,422 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:11:04,454 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:11:05,465 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\config.yaml
+2024-05-15 16:11:09,065 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:11:09,065 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:11:09,066 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:11:10,334 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:11:14,235 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:11:14,237 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:11:14,237 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:11:14,239 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:11:14,537 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:11:15,551 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:11:15,984 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:11:21,007 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:11:24,077 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:11:24,077 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:11:24,078 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:11:26,323 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:11:31,371 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:11:33,911 DEBUG   SystemMonitor:31476 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-05-15 16:11:33,913 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:11:36,946 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:11:39,078 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:11:39,079 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:11:39,101 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:11:42,421 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:11:45,290 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:11:45,292 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:11:45,292 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:11:45,293 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:11:45,775 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:11:45,775 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:11:47,792 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:11:48,049 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:11:53,097 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:11:54,085 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:11:54,086 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:11:54,118 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:11:58,344 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:12:03,372 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:12:03,916 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:12:08,961 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:12:09,102 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:12:09,103 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:12:09,139 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:12:14,450 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:12:16,968 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:12:16,971 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:12:16,971 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:12:16,972 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:12:16,986 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:12:17,995 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:12:19,658 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:12:20,014 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:12:24,099 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:12:24,100 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:12:24,146 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:12:25,382 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:12:30,429 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:12:33,925 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:12:35,965 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:12:39,115 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:12:39,115 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:12:39,160 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:12:41,379 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:12:46,420 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:12:50,364 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:12:50,366 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:12:50,367 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:12:50,367 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:12:51,302 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:12:52,010 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:12:52,305 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:12:54,130 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:12:54,131 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:12:54,162 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:12:57,468 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:13:02,515 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:13:03,927 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:13:07,960 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:13:09,146 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:13:09,147 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:13:09,177 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:13:13,424 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:13:18,455 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:13:20,770 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:13:20,771 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:13:20,771 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:13:20,772 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:13:21,584 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:13:22,588 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:13:24,136 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:13:24,174 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:13:24,175 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:13:24,182 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:13:29,456 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:13:33,929 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:13:34,937 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:13:39,192 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:13:39,192 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:13:39,192 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:13:40,465 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:13:45,499 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:13:50,545 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:13:50,668 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:13:50,672 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:13:50,672 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:13:50,673 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:13:50,824 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:13:52,856 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:13:54,200 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:13:54,201 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:13:54,201 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:13:56,456 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:14:01,490 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:14:03,934 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:14:06,978 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:14:09,213 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:14:09,213 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:14:09,214 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:14:12,446 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:14:17,497 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:14:20,097 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:14:20,097 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:14:20,097 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:14:20,097 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:14:21,111 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:14:22,775 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:14:23,119 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:14:24,229 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:14:24,229 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:14:24,229 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:14:28,528 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:14:33,560 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:14:33,935 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:14:38,982 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:14:39,232 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:14:39,232 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:14:39,232 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:14:44,563 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:14:49,337 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:14:49,339 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:14:49,339 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:14:49,339 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:14:49,982 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:14:50,328 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:14:51,329 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:14:54,246 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:14:54,246 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:14:54,246 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:14:55,481 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:15:00,482 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:15:03,950 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:15:05,967 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:15:09,248 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:15:09,264 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:15:09,264 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:15:11,578 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:15:16,594 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:15:17,022 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:15:17,030 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:15:17,031 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:15:17,033 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:15:17,538 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:15:18,548 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:15:21,710 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:15:24,255 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:15:24,272 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:15:24,272 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:15:27,553 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:15:32,569 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:15:33,960 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:15:38,007 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:15:39,257 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:15:39,273 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:15:39,273 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:15:43,628 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:15:48,646 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:15:48,846 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:15:48,854 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:15:48,854 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:15:48,856 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:15:49,814 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:15:50,830 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:15:54,220 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:15:54,267 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:15:54,283 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:15:54,283 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:15:59,590 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:16:03,962 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:16:04,964 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:16:09,278 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:16:09,293 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:16:09,293 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:16:10,564 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:16:15,597 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:16:17,171 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:16:17,173 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:16:17,173 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:16:17,174 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:16:18,062 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:16:19,063 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:16:20,850 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:16:24,293 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:16:24,309 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:16:24,309 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:16:26,546 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:16:31,578 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:16:33,969 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:16:36,986 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:16:39,299 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:16:39,330 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:16:39,330 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:16:42,674 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:16:45,549 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:16:45,549 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:16:45,549 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:16:45,549 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:16:46,300 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:16:47,312 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:16:48,210 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:16:53,231 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:16:54,313 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:16:54,347 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:16:54,348 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:16:58,635 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:17:03,676 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:17:03,973 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:17:09,013 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:17:09,329 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:17:09,364 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:17:09,364 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:17:13,917 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:17:13,917 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:17:13,917 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:17:13,917 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:17:14,549 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:17:14,556 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:17:15,563 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:17:19,592 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:17:24,344 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:17:24,375 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:17:24,375 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:17:24,675 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:17:29,697 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:17:33,985 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:17:35,001 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:17:39,348 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:17:39,392 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:17:39,392 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:17:40,664 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:17:44,049 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:17:44,049 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:17:44,049 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:17:44,049 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:17:44,814 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:17:45,693 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:17:45,830 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:17:47,858 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:17:50,742 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:17:54,352 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:17:54,383 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:17:54,383 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:17:56,680 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:18:01,698 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:18:03,993 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:18:07,018 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:18:09,363 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:18:09,394 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:18:09,394 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:18:12,654 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:18:14,030 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:18:14,034 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:18:14,034 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:18:14,035 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:18:14,068 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:18:16,083 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:18:17,755 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:18:18,114 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:18:22,787 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:18:24,380 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:18:24,412 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:18:24,412 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:18:28,647 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:18:33,709 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:18:34,006 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:18:39,065 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:18:39,386 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:18:39,433 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:18:39,433 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:18:43,933 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:18:43,933 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:18:43,933 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:18:43,933 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:18:44,348 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:18:44,567 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:18:45,358 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:18:49,597 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:18:54,388 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:18:54,450 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:18:54,450 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:18:54,684 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:18:59,717 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:19:04,015 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:19:05,030 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:19:09,390 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:19:09,469 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:19:09,469 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:19:10,703 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:19:11,600 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:19:11,600 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:19:11,600 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:19:11,600 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:19:12,585 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:19:13,601 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:19:16,273 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:19:21,305 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:19:24,399 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:19:24,492 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:19:24,492 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:19:26,760 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:19:31,810 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:19:34,029 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:19:37,045 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:19:39,405 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:19:39,515 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:19:39,515 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:19:41,717 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:19:41,717 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:19:41,717 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:19:41,717 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:19:41,816 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:19:42,358 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:19:43,829 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:19:47,383 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:19:52,430 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:19:54,415 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:19:54,524 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:19:54,524 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:19:57,853 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:20:02,881 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:20:04,033 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:20:08,051 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:20:09,426 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:20:09,535 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:20:09,535 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:20:09,851 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:20:09,851 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:20:09,851 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:20:09,851 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:20:10,049 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:20:12,066 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:20:13,564 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:20:18,598 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:20:23,615 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:20:24,434 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:20:24,544 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:20:24,544 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:20:28,818 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:20:33,849 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:20:34,050 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:20:39,093 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:20:39,437 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:20:39,546 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:20:39,546 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:20:40,267 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:20:40,268 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:20:40,269 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:20:40,269 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:20:40,302 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:20:42,316 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:20:44,917 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:20:49,935 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:20:54,450 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:20:54,551 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:20:54,551 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:20:55,782 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:21:00,796 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:21:04,055 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:21:06,071 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:21:09,036 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-15 16:21:09,036 DEBUG   SenderThread:31476 [sender.py:send():379] send: history
+2024-05-15 16:21:09,036 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: summary_record
+2024-05-15 16:21:09,036 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:21:09,466 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:21:09,551 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:21:09,568 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-15 16:21:09,568 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: stop_status
+2024-05-15 16:21:10,567 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:21:11,817 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:21:12,580 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:21:12,661 DEBUG   SenderThread:31476 [sender.py:send():379] send: exit
+2024-05-15 16:21:12,661 INFO    SenderThread:31476 [sender.py:send_exit():586] handling exit code: 255
+2024-05-15 16:21:12,661 INFO    SenderThread:31476 [sender.py:send_exit():588] handling runtime: 638
+2024-05-15 16:21:12,661 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:21:12,661 INFO    SenderThread:31476 [sender.py:send_exit():594] send defer
+2024-05-15 16:21:12,662 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: defer
+2024-05-15 16:21:12,662 INFO    HandlerThread:31476 [handler.py:handle_request_defer():172] handle defer: 0
+2024-05-15 16:21:12,662 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: defer
+2024-05-15 16:21:12,662 INFO    SenderThread:31476 [sender.py:send_request_defer():610] handle sender defer: 0
+2024-05-15 16:21:12,662 INFO    SenderThread:31476 [sender.py:transition_state():614] send defer: 1
+2024-05-15 16:21:12,662 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: defer
+2024-05-15 16:21:12,662 INFO    HandlerThread:31476 [handler.py:handle_request_defer():172] handle defer: 1
+2024-05-15 16:21:12,662 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: defer
+2024-05-15 16:21:12,662 INFO    SenderThread:31476 [sender.py:send_request_defer():610] handle sender defer: 1
+2024-05-15 16:21:12,662 INFO    SenderThread:31476 [sender.py:transition_state():614] send defer: 2
+2024-05-15 16:21:12,663 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: defer
+2024-05-15 16:21:12,663 INFO    HandlerThread:31476 [handler.py:handle_request_defer():172] handle defer: 2
+2024-05-15 16:21:12,663 INFO    HandlerThread:31476 [system_monitor.py:finish():203] Stopping system monitor
+2024-05-15 16:21:12,663 DEBUG   SystemMonitor:31476 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-05-15 16:21:12,671 DEBUG   SystemMonitor:31476 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-05-15 16:21:12,672 INFO    HandlerThread:31476 [interfaces.py:finish():202] Joined cpu monitor
+2024-05-15 16:21:12,672 INFO    HandlerThread:31476 [interfaces.py:finish():202] Joined disk monitor
+2024-05-15 16:21:12,735 INFO    HandlerThread:31476 [interfaces.py:finish():202] Joined gpu monitor
+2024-05-15 16:21:12,735 INFO    HandlerThread:31476 [interfaces.py:finish():202] Joined memory monitor
+2024-05-15 16:21:12,735 INFO    HandlerThread:31476 [interfaces.py:finish():202] Joined network monitor
+2024-05-15 16:21:12,735 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: defer
+2024-05-15 16:21:12,735 INFO    SenderThread:31476 [sender.py:send_request_defer():610] handle sender defer: 2
+2024-05-15 16:21:12,735 INFO    SenderThread:31476 [sender.py:transition_state():614] send defer: 3
+2024-05-15 16:21:12,735 DEBUG   SenderThread:31476 [sender.py:send():379] send: stats
+2024-05-15 16:21:12,735 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: defer
+2024-05-15 16:21:12,735 INFO    HandlerThread:31476 [handler.py:handle_request_defer():172] handle defer: 3
+2024-05-15 16:21:12,735 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: defer
+2024-05-15 16:21:12,735 INFO    SenderThread:31476 [sender.py:send_request_defer():610] handle sender defer: 3
+2024-05-15 16:21:12,735 INFO    SenderThread:31476 [sender.py:transition_state():614] send defer: 4
+2024-05-15 16:21:12,735 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: defer
+2024-05-15 16:21:12,735 INFO    HandlerThread:31476 [handler.py:handle_request_defer():172] handle defer: 4
+2024-05-15 16:21:12,735 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: defer
+2024-05-15 16:21:12,735 INFO    SenderThread:31476 [sender.py:send_request_defer():610] handle sender defer: 4
+2024-05-15 16:21:12,735 INFO    SenderThread:31476 [sender.py:transition_state():614] send defer: 5
+2024-05-15 16:21:12,735 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: defer
+2024-05-15 16:21:12,735 INFO    HandlerThread:31476 [handler.py:handle_request_defer():172] handle defer: 5
+2024-05-15 16:21:12,735 DEBUG   SenderThread:31476 [sender.py:send():379] send: summary
+2024-05-15 16:21:12,735 INFO    SenderThread:31476 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-15 16:21:12,735 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: defer
+2024-05-15 16:21:12,735 INFO    SenderThread:31476 [sender.py:send_request_defer():610] handle sender defer: 5
+2024-05-15 16:21:12,735 INFO    SenderThread:31476 [sender.py:transition_state():614] send defer: 6
+2024-05-15 16:21:12,735 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: defer
+2024-05-15 16:21:12,735 INFO    HandlerThread:31476 [handler.py:handle_request_defer():172] handle defer: 6
+2024-05-15 16:21:12,735 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: defer
+2024-05-15 16:21:12,735 INFO    SenderThread:31476 [sender.py:send_request_defer():610] handle sender defer: 6
+2024-05-15 16:21:12,735 INFO    SenderThread:31476 [sender.py:transition_state():614] send defer: 7
+2024-05-15 16:21:12,735 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:21:12,735 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: defer
+2024-05-15 16:21:12,735 INFO    HandlerThread:31476 [handler.py:handle_request_defer():172] handle defer: 7
+2024-05-15 16:21:12,735 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: defer
+2024-05-15 16:21:12,735 INFO    SenderThread:31476 [sender.py:send_request_defer():610] handle sender defer: 7
+2024-05-15 16:21:13,583 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:21:13,661 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-15 16:21:14,664 INFO    SenderThread:31476 [sender.py:transition_state():614] send defer: 8
+2024-05-15 16:21:14,664 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: poll_exit
+2024-05-15 16:21:14,664 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: defer
+2024-05-15 16:21:14,664 INFO    HandlerThread:31476 [handler.py:handle_request_defer():172] handle defer: 8
+2024-05-15 16:21:14,664 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: defer
+2024-05-15 16:21:14,664 INFO    SenderThread:31476 [sender.py:send_request_defer():610] handle sender defer: 8
+2024-05-15 16:21:14,664 INFO    SenderThread:31476 [job_builder.py:build():318] Attempting to build job artifact
+2024-05-15 16:21:14,665 INFO    SenderThread:31476 [job_builder.py:_get_source_type():455] is repo sourced job
+2024-05-15 16:21:14,669 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-15 16:21:14,736 INFO    SenderThread:31476 [job_builder.py:build():431] adding wandb-job metadata file
+2024-05-15 16:21:14,754 INFO    SenderThread:31476 [sender.py:transition_state():614] send defer: 9
+2024-05-15 16:21:14,755 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: poll_exit
+2024-05-15 16:21:14,755 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: defer
+2024-05-15 16:21:14,755 INFO    HandlerThread:31476 [handler.py:handle_request_defer():172] handle defer: 9
+2024-05-15 16:21:14,755 DEBUG   SenderThread:31476 [sender.py:send():379] send: artifact
+2024-05-15 16:21:15,600 INFO    Thread-16 :31476 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:21:15,680 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-15 16:21:17,078 INFO    wandb-upload_0:31476 [upload_job.py:push():89] Uploaded file C:\Users\MNL431\AppData\Local\wandb\wandb\artifacts\staging\tmpjk8q130q
+2024-05-15 16:21:17,093 INFO    wandb-upload_1:31476 [upload_job.py:push():89] Uploaded file C:\Users\MNL431\AppData\Local\Temp\tmpn0r360gr\wandb-job.json
+2024-05-15 16:21:18,534 INFO    SenderThread:31476 [sender.py:send_artifact():1468] sent artifact job-https___github.com_dongspam0209_traffic_light_control_DQN.git_training_main.py - {'id': 'QXJ0aWZhY3Q6ODM3MDU4NzE1', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE1MDI0ODM0OQ==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6ODM3MDQ4NDc1', 'versionIndex': 20}}}
+2024-05-15 16:21:18,534 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: defer
+2024-05-15 16:21:18,534 INFO    SenderThread:31476 [sender.py:send_request_defer():610] handle sender defer: 9
+2024-05-15 16:21:18,534 INFO    SenderThread:31476 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-05-15 16:21:18,534 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: status_report
+2024-05-15 16:21:18,617 INFO    SenderThread:31476 [dir_watcher.py:finish():388] scan: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files
+2024-05-15 16:21:18,618 INFO    SenderThread:31476 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\conda-environment.yaml conda-environment.yaml
+2024-05-15 16:21:18,618 INFO    SenderThread:31476 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\config.yaml config.yaml
+2024-05-15 16:21:18,620 INFO    SenderThread:31476 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log output.log
+2024-05-15 16:21:18,621 INFO    SenderThread:31476 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\requirements.txt requirements.txt
+2024-05-15 16:21:18,623 INFO    SenderThread:31476 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-metadata.json wandb-metadata.json
+2024-05-15 16:21:18,623 INFO    SenderThread:31476 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json wandb-summary.json
+2024-05-15 16:21:18,628 INFO    SenderThread:31476 [sender.py:transition_state():614] send defer: 10
+2024-05-15 16:21:18,629 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: poll_exit
+2024-05-15 16:21:18,629 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: defer
+2024-05-15 16:21:18,629 INFO    HandlerThread:31476 [handler.py:handle_request_defer():172] handle defer: 10
+2024-05-15 16:21:18,629 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: defer
+2024-05-15 16:21:18,630 INFO    SenderThread:31476 [sender.py:send_request_defer():610] handle sender defer: 10
+2024-05-15 16:21:18,631 INFO    SenderThread:31476 [file_pusher.py:finish():172] shutting down file pusher
+2024-05-15 16:21:18,686 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-15 16:21:18,686 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: poll_exit
+2024-05-15 16:21:19,169 INFO    wandb-upload_0:31476 [upload_job.py:push():131] Uploaded file C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\conda-environment.yaml
+2024-05-15 16:21:19,700 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-15 16:21:19,700 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: poll_exit
+2024-05-15 16:21:19,729 INFO    wandb-upload_3:31476 [upload_job.py:push():131] Uploaded file C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\requirements.txt
+2024-05-15 16:21:19,748 INFO    wandb-upload_2:31476 [upload_job.py:push():131] Uploaded file C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\output.log
+2024-05-15 16:21:20,251 INFO    wandb-upload_1:31476 [upload_job.py:push():131] Uploaded file C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\config.yaml
+2024-05-15 16:21:20,277 INFO    wandb-upload_4:31476 [upload_job.py:push():131] Uploaded file C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\files\wandb-summary.json
+2024-05-15 16:21:20,483 INFO    Thread-15 :31476 [sender.py:transition_state():614] send defer: 11
+2024-05-15 16:21:20,484 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: defer
+2024-05-15 16:21:20,484 INFO    HandlerThread:31476 [handler.py:handle_request_defer():172] handle defer: 11
+2024-05-15 16:21:20,484 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: defer
+2024-05-15 16:21:20,484 INFO    SenderThread:31476 [sender.py:send_request_defer():610] handle sender defer: 11
+2024-05-15 16:21:20,484 INFO    SenderThread:31476 [file_pusher.py:join():178] waiting for file pusher
+2024-05-15 16:21:20,484 INFO    SenderThread:31476 [sender.py:transition_state():614] send defer: 12
+2024-05-15 16:21:20,484 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: defer
+2024-05-15 16:21:20,484 INFO    HandlerThread:31476 [handler.py:handle_request_defer():172] handle defer: 12
+2024-05-15 16:21:20,484 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: defer
+2024-05-15 16:21:20,484 INFO    SenderThread:31476 [sender.py:send_request_defer():610] handle sender defer: 12
+2024-05-15 16:21:20,484 INFO    SenderThread:31476 [file_stream.py:finish():614] file stream finish called
+2024-05-15 16:21:20,715 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-15 16:21:21,195 INFO    SenderThread:31476 [file_stream.py:finish():618] file stream finish is done
+2024-05-15 16:21:21,195 INFO    SenderThread:31476 [sender.py:transition_state():614] send defer: 13
+2024-05-15 16:21:21,195 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: poll_exit
+2024-05-15 16:21:21,196 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: defer
+2024-05-15 16:21:21,196 INFO    HandlerThread:31476 [handler.py:handle_request_defer():172] handle defer: 13
+2024-05-15 16:21:21,196 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: defer
+2024-05-15 16:21:21,196 INFO    SenderThread:31476 [sender.py:send_request_defer():610] handle sender defer: 13
+2024-05-15 16:21:21,196 INFO    SenderThread:31476 [sender.py:transition_state():614] send defer: 14
+2024-05-15 16:21:21,196 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: defer
+2024-05-15 16:21:21,197 INFO    HandlerThread:31476 [handler.py:handle_request_defer():172] handle defer: 14
+2024-05-15 16:21:21,197 DEBUG   SenderThread:31476 [sender.py:send():379] send: final
+2024-05-15 16:21:21,197 DEBUG   SenderThread:31476 [sender.py:send():379] send: footer
+2024-05-15 16:21:21,197 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: defer
+2024-05-15 16:21:21,197 INFO    SenderThread:31476 [sender.py:send_request_defer():610] handle sender defer: 14
+2024-05-15 16:21:21,198 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-15 16:21:21,198 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-15 16:21:21,198 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: server_info
+2024-05-15 16:21:21,198 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: get_summary
+2024-05-15 16:21:21,199 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: sampled_history
+2024-05-15 16:21:21,200 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-15 16:21:21,200 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: poll_exit
+2024-05-15 16:21:21,201 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: poll_exit
+2024-05-15 16:21:21,201 DEBUG   SenderThread:31476 [sender.py:send_request():406] send_request: server_info
+2024-05-15 16:21:21,404 INFO    MainThread:31476 [wandb_run.py:_footer_history_summary_info():3920] rendering history
+2024-05-15 16:21:21,405 INFO    MainThread:31476 [wandb_run.py:_footer_history_summary_info():3952] rendering summary
+2024-05-15 16:21:21,406 INFO    MainThread:31476 [wandb_run.py:_footer_sync_info():3879] logging synced files
+2024-05-15 16:21:21,407 DEBUG   HandlerThread:31476 [handler.py:handle_request():146] handle_request: shutdown
+2024-05-15 16:21:21,407 INFO    HandlerThread:31476 [handler.py:finish():866] shutting down handler
+2024-05-15 16:21:22,215 INFO    WriterThread:31476 [datastore.py:close():296] close: C:\Users\MNL431\Desktop\traffic_DQN\wandb\run-20240515_161032-e09up562\run-e09up562.wandb
+2024-05-15 16:21:22,414 INFO    SenderThread:31476 [sender.py:finish():1546] shutting down sender
+2024-05-15 16:21:22,414 INFO    SenderThread:31476 [file_pusher.py:finish():172] shutting down file pusher
+2024-05-15 16:21:22,414 INFO    SenderThread:31476 [file_pusher.py:join():178] waiting for file pusher

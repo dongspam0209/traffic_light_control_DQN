@@ -1,0 +1,11 @@
+
+episode 0
+Simulating
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_DQN\training_main.py", line 84, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 192, in run
+    self.optimize_model()
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 303, in optimize_model
+    state_batch = torch.cat(batch.state).view(BATCH_SIZE,3,16,100).to(device)
+RuntimeError: shape '[128, 3, 16, 100]' is invalid for input of size 1843200

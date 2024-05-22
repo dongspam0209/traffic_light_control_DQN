@@ -1,0 +1,22 @@
+episode 0
+Simulating
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_DQN\training_main.py", line 83, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 197, in run
+    self.optimize_model()
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 333, in optimize_model
+    q_eval = self.policy_net(state_batch).gather(1, action_batch)
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\MNL431\Desktop\traffic_DQN\Model.py", line 32, in forward
+    x = F.relu(self.fc1(x))
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\nn\modules\linear.py", line 116, in forward
+    return F.linear(input, self.weight, self.bias)
+RuntimeError: mat1 and mat2 shapes cannot be multiplied (128x51200 and 3200x512)

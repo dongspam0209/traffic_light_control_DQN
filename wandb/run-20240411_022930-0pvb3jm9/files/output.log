@@ -1,0 +1,9 @@
+
+episode 0
+Simulating
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_DQN\training_main.py", line 84, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 177, in run
+    self.action_history.append(action_to_do)
+UnboundLocalError: local variable 'action_to_do' referenced before assignment

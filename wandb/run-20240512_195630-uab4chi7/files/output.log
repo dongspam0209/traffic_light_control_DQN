@@ -1,0 +1,2186 @@
+episode 0
+Simulating
+epsilon : 1.000
+queue length in epsiode 0 0.9030555555555555
+loss in epsiode 0 5.946013450622559
+wait time in epsiode 0 112.38083333333333
+episode 1
+Simulating
+epsilon : 0.998
+queue length in epsiode 1 1.0875
+loss in epsiode 1 1.7464892864227295
+wait time in epsiode 1 115.75805555555556
+episode 2
+Simulating
+epsilon : 0.996
+queue length in epsiode 2 2.0430555555555556
+loss in epsiode 2 2.3743979930877686
+wait time in epsiode 2 317.8597222222222
+episode 3
+Simulating
+epsilon : 0.994
+queue length in epsiode 3 1.208888888888889
+loss in epsiode 3 1.9169987440109253
+wait time in epsiode 3 154.70833333333334
+episode 4
+Simulating
+epsilon : 0.992
+queue length in epsiode 4 1.1983333333333333
+loss in epsiode 4 0.777742862701416
+wait time in epsiode 4 143.55416666666667
+episode 5
+Simulating
+epsilon : 0.990
+queue length in epsiode 5 1.8680555555555556
+loss in epsiode 5 0.5302053689956665
+wait time in epsiode 5 292.76194444444445
+episode 6
+Simulating
+epsilon : 0.988
+queue length in epsiode 6 1.5875
+loss in epsiode 6 0.637030839920044
+wait time in epsiode 6 227.88444444444445
+episode 7
+Simulating
+epsilon : 0.986
+queue length in epsiode 7 1.2630555555555556
+loss in epsiode 7 0.5555440783500671
+wait time in epsiode 7 154.62555555555556
+episode 8
+Simulating
+epsilon : 0.984
+queue length in epsiode 8 1.5430555555555556
+loss in epsiode 8 0.4139804542064667
+wait time in epsiode 8 202.68305555555557
+episode 9
+Simulating
+epsilon : 0.982
+queue length in epsiode 9 1.7680555555555555
+loss in epsiode 9 0.30469682812690735
+wait time in epsiode 9 271.19388888888886
+episode 10
+Simulating
+epsilon : 0.980
+queue length in epsiode 10 0.9116666666666666
+loss in epsiode 10 0.308764785528183
+wait time in epsiode 10 106.51416666666667
+episode 11
+Simulating
+epsilon : 0.978
+queue length in epsiode 11 1.2113888888888888
+loss in epsiode 11 1.751476526260376
+wait time in epsiode 11 143.3372222222222
+episode 12
+Simulating
+epsilon : 0.976
+queue length in epsiode 12 1.0116666666666667
+loss in epsiode 12 0.8616465330123901
+wait time in epsiode 12 113.33111111111111
+episode 13
+Simulating
+epsilon : 0.974
+queue length in epsiode 13 1.0047222222222223
+loss in epsiode 13 0.4336712956428528
+wait time in epsiode 13 109.62583333333333
+episode 14
+Simulating
+epsilon : 0.972
+queue length in epsiode 14 1.4869444444444444
+loss in epsiode 14 0.714631974697113
+wait time in epsiode 14 228.6263888888889
+episode 15
+Simulating
+epsilon : 0.970
+queue length in epsiode 15 1.3797222222222223
+loss in epsiode 15 1.171828269958496
+wait time in epsiode 15 174.20388888888888
+episode 16
+Simulating
+epsilon : 0.968
+queue length in epsiode 16 1.4572222222222222
+loss in epsiode 16 0.7669570446014404
+wait time in epsiode 16 176.78805555555556
+episode 17
+Simulating
+epsilon : 0.966
+queue length in epsiode 17 1.2427777777777778
+loss in epsiode 17 0.41792160272598267
+wait time in epsiode 17 163.81916666666666
+episode 18
+Simulating
+epsilon : 0.964
+queue length in epsiode 18 1.0058333333333334
+loss in epsiode 18 0.40445101261138916
+wait time in epsiode 18 105.70138888888889
+episode 19
+Simulating
+epsilon : 0.962
+queue length in epsiode 19 1.4483333333333333
+loss in epsiode 19 0.5241906642913818
+wait time in epsiode 19 191.39944444444444
+episode 20
+Simulating
+epsilon : 0.960
+queue length in epsiode 20 1.1086111111111112
+loss in epsiode 20 1.2768785953521729
+wait time in epsiode 20 148.5963888888889
+episode 21
+Simulating
+epsilon : 0.958
+queue length in epsiode 21 1.0677777777777777
+loss in epsiode 21 2.793259382247925
+wait time in epsiode 21 139.34055555555557
+episode 22
+Simulating
+epsilon : 0.956
+queue length in epsiode 22 0.9197222222222222
+loss in epsiode 22 1.5669822692871094
+wait time in epsiode 22 94.49416666666667
+episode 23
+Simulating
+epsilon : 0.954
+queue length in epsiode 23 1.023611111111111
+loss in epsiode 23 1.0001168251037598
+wait time in epsiode 23 111.96416666666667
+episode 24
+Simulating
+epsilon : 0.952
+queue length in epsiode 24 1.0775
+loss in epsiode 24 1.0025924444198608
+wait time in epsiode 24 117.875
+episode 25
+Simulating
+epsilon : 0.950
+queue length in epsiode 25 1.2425
+loss in epsiode 25 1.0435922145843506
+wait time in epsiode 25 159.6975
+episode 26
+Simulating
+epsilon : 0.948
+queue length in epsiode 26 1.4580555555555557
+loss in epsiode 26 1.0864979028701782
+wait time in epsiode 26 205.25472222222223
+episode 27
+Simulating
+epsilon : 0.946
+queue length in epsiode 27 0.8675
+loss in epsiode 27 0.6823601126670837
+wait time in epsiode 27 94.00194444444445
+episode 28
+Simulating
+epsilon : 0.944
+queue length in epsiode 28 1.2141666666666666
+loss in epsiode 28 0.8334547281265259
+wait time in epsiode 28 148.985
+episode 29
+Simulating
+epsilon : 0.942
+queue length in epsiode 29 0.8552777777777778
+loss in epsiode 29 0.677348256111145
+wait time in epsiode 29 87.46027777777778
+episode 30
+Simulating
+epsilon : 0.940
+queue length in epsiode 30 1.4708333333333334
+loss in epsiode 30 0.66926509141922
+wait time in epsiode 30 207.9561111111111
+episode 31
+Simulating
+epsilon : 0.938
+queue length in epsiode 31 1.0741666666666667
+loss in epsiode 31 1.5351862907409668
+wait time in epsiode 31 137.4711111111111
+episode 32
+Simulating
+epsilon : 0.936
+queue length in epsiode 32 1.0438888888888889
+loss in epsiode 32 0.9296824932098389
+wait time in epsiode 32 127.82583333333334
+episode 33
+Simulating
+epsilon : 0.934
+queue length in epsiode 33 1.0633333333333332
+loss in epsiode 33 0.8460354804992676
+wait time in epsiode 33 125.13861111111112
+episode 34
+Simulating
+epsilon : 0.932
+queue length in epsiode 34 1.031388888888889
+loss in epsiode 34 0.6551464796066284
+wait time in epsiode 34 152.93944444444443
+episode 35
+Simulating
+epsilon : 0.930
+queue length in epsiode 35 1.32
+loss in epsiode 35 0.6141080856323242
+wait time in epsiode 35 182.61777777777777
+episode 36
+Simulating
+epsilon : 0.928
+queue length in epsiode 36 1.111388888888889
+loss in epsiode 36 0.564264178276062
+wait time in epsiode 36 130.09777777777776
+episode 37
+Simulating
+epsilon : 0.926
+queue length in epsiode 37 0.8858333333333334
+loss in epsiode 37 0.6873959898948669
+wait time in epsiode 37 100.57805555555555
+episode 38
+Simulating
+epsilon : 0.924
+queue length in epsiode 38 1.22
+loss in epsiode 38 0.5626500248908997
+wait time in epsiode 38 153.28666666666666
+episode 39
+Simulating
+epsilon : 0.922
+queue length in epsiode 39 1.66
+loss in epsiode 39 0.41733109951019287
+wait time in epsiode 39 253.6975
+episode 40
+Simulating
+epsilon : 0.920
+queue length in epsiode 40 0.9586111111111111
+loss in epsiode 40 0.4219399392604828
+wait time in epsiode 40 97.7425
+episode 41
+Simulating
+epsilon : 0.918
+queue length in epsiode 41 0.8805555555555555
+loss in epsiode 41 0.9854828119277954
+wait time in epsiode 41 96.9036111111111
+episode 42
+Simulating
+epsilon : 0.916
+queue length in epsiode 42 1.4327777777777777
+loss in epsiode 42 0.6436055302619934
+wait time in epsiode 42 188.42
+episode 43
+Simulating
+epsilon : 0.914
+queue length in epsiode 43 0.9286111111111112
+loss in epsiode 43 0.3126847445964813
+wait time in epsiode 43 100.02388888888889
+episode 44
+Simulating
+epsilon : 0.912
+queue length in epsiode 44 0.9297222222222222
+loss in epsiode 44 0.3294457197189331
+wait time in epsiode 44 93.95694444444445
+episode 45
+Simulating
+epsilon : 0.910
+queue length in epsiode 45 1.4908333333333332
+loss in epsiode 45 0.33823949098587036
+wait time in epsiode 45 266.90472222222223
+episode 46
+Simulating
+epsilon : 0.908
+queue length in epsiode 46 1.0327777777777778
+loss in epsiode 46 0.4358556270599365
+wait time in epsiode 46 112.84027777777777
+episode 47
+Simulating
+epsilon : 0.906
+queue length in epsiode 47 0.8227777777777778
+loss in epsiode 47 0.3538852632045746
+wait time in epsiode 47 83.92388888888888
+episode 48
+Simulating
+epsilon : 0.904
+queue length in epsiode 48 1.1788888888888889
+loss in epsiode 48 0.29737916588783264
+wait time in epsiode 48 147.86166666666668
+episode 49
+Simulating
+epsilon : 0.902
+queue length in epsiode 49 0.8816666666666667
+loss in epsiode 49 0.21391333639621735
+wait time in epsiode 49 92.13583333333334
+episode 50
+Simulating
+epsilon : 0.900
+queue length in epsiode 50 0.9866666666666667
+loss in epsiode 50 0.2070639282464981
+wait time in epsiode 50 114.62388888888889
+episode 51
+Simulating
+epsilon : 0.898
+queue length in epsiode 51 0.8275
+loss in epsiode 51 0.6379539966583252
+wait time in epsiode 51 85.03416666666666
+episode 52
+Simulating
+epsilon : 0.896
+queue length in epsiode 52 0.8025
+loss in epsiode 52 0.6072547435760498
+wait time in epsiode 52 86.2625
+episode 53
+Simulating
+epsilon : 0.894
+queue length in epsiode 53 0.8355555555555556
+loss in epsiode 53 0.48917388916015625
+wait time in epsiode 53 95.61083333333333
+episode 54
+Simulating
+epsilon : 0.892
+queue length in epsiode 54 0.8930555555555556
+loss in epsiode 54 0.4290183186531067
+wait time in epsiode 54 103.45666666666666
+episode 55
+Simulating
+epsilon : 0.890
+queue length in epsiode 55 0.8783333333333333
+loss in epsiode 55 0.2366054505109787
+wait time in epsiode 55 94.37638888888888
+episode 56
+Simulating
+epsilon : 0.888
+queue length in epsiode 56 1.14
+loss in epsiode 56 0.4072291851043701
+wait time in epsiode 56 138.8513888888889
+episode 57
+Simulating
+epsilon : 0.886
+queue length in epsiode 57 0.9622222222222222
+loss in epsiode 57 0.2633487284183502
+wait time in epsiode 57 116.1588888888889
+episode 58
+Simulating
+epsilon : 0.884
+queue length in epsiode 58 0.8563888888888889
+loss in epsiode 58 0.23455843329429626
+wait time in epsiode 58 97.27666666666667
+episode 59
+Simulating
+epsilon : 0.882
+queue length in epsiode 59 0.8525
+loss in epsiode 59 0.20541003346443176
+wait time in epsiode 59 87.60583333333334
+episode 60
+Simulating
+epsilon : 0.880
+queue length in epsiode 60 0.9772222222222222
+loss in epsiode 60 0.207393079996109
+wait time in epsiode 60 119.08166666666666
+episode 61
+Simulating
+epsilon : 0.878
+queue length in epsiode 61 0.9358333333333333
+loss in epsiode 61 0.5759181976318359
+wait time in epsiode 61 98.07416666666667
+episode 62
+Simulating
+epsilon : 0.876
+queue length in epsiode 62 0.5627777777777778
+loss in epsiode 62 1.000623345375061
+wait time in epsiode 62 51.134166666666665
+episode 63
+Simulating
+epsilon : 0.874
+queue length in epsiode 63 0.9052777777777777
+loss in epsiode 63 0.7731083631515503
+wait time in epsiode 63 97.54805555555555
+episode 64
+Simulating
+epsilon : 0.872
+queue length in epsiode 64 1.2105555555555556
+loss in epsiode 64 0.6341100335121155
+wait time in epsiode 64 148.86277777777778
+episode 65
+Simulating
+epsilon : 0.870
+queue length in epsiode 65 0.7066666666666667
+loss in epsiode 65 0.5301351547241211
+wait time in epsiode 65 68.80083333333333
+episode 66
+Simulating
+epsilon : 0.868
+queue length in epsiode 66 1.0327777777777778
+loss in epsiode 66 0.3964228928089142
+wait time in epsiode 66 136.55166666666668
+episode 67
+Simulating
+epsilon : 0.866
+queue length in epsiode 67 0.7888888888888889
+loss in epsiode 67 0.3306407034397125
+wait time in epsiode 67 78.1875
+episode 68
+Simulating
+epsilon : 0.864
+queue length in epsiode 68 0.9825
+loss in epsiode 68 0.24087469279766083
+wait time in epsiode 68 124.52694444444444
+episode 69
+Simulating
+epsilon : 0.862
+queue length in epsiode 69 0.8238888888888889
+loss in epsiode 69 0.23166486620903015
+wait time in epsiode 69 91.8963888888889
+episode 70
+Simulating
+epsilon : 0.860
+queue length in epsiode 70 0.72
+loss in epsiode 70 0.16415825486183167
+wait time in epsiode 70 68.26666666666667
+episode 71
+Simulating
+epsilon : 0.858
+queue length in epsiode 71 0.8072222222222222
+loss in epsiode 71 1.3330632448196411
+wait time in epsiode 71 86.07222222222222
+episode 72
+Simulating
+epsilon : 0.856
+queue length in epsiode 72 0.6511111111111111
+loss in epsiode 72 1.1955054998397827
+wait time in epsiode 72 65.92194444444445
+episode 73
+Simulating
+epsilon : 0.854
+queue length in epsiode 73 0.7727777777777778
+loss in epsiode 73 0.9772005081176758
+wait time in epsiode 73 82.37861111111111
+episode 74
+Simulating
+epsilon : 0.852
+queue length in epsiode 74 0.9908333333333333
+loss in epsiode 74 0.562700092792511
+wait time in epsiode 74 109.03777777777778
+episode 75
+Simulating
+epsilon : 0.850
+queue length in epsiode 75 0.7497222222222222
+loss in epsiode 75 0.515633761882782
+wait time in epsiode 75 88.82472222222222
+episode 76
+Simulating
+epsilon : 0.848
+queue length in epsiode 76 0.7494444444444445
+loss in epsiode 76 0.4507612884044647
+wait time in epsiode 76 80.69
+episode 77
+Simulating
+epsilon : 0.846
+queue length in epsiode 77 0.8061111111111111
+loss in epsiode 77 0.42846807837486267
+wait time in epsiode 77 98.93083333333334
+episode 78
+Simulating
+epsilon : 0.844
+queue length in epsiode 78 0.9072222222222223
+loss in epsiode 78 0.28487253189086914
+wait time in epsiode 78 92.70611111111111
+episode 79
+Simulating
+epsilon : 0.842
+queue length in epsiode 79 0.7213888888888889
+loss in epsiode 79 0.3113784193992615
+wait time in epsiode 79 75.38777777777777
+episode 80
+Simulating
+epsilon : 0.840
+queue length in epsiode 80 0.8683333333333333
+loss in epsiode 80 0.26450949907302856
+wait time in epsiode 80 90.89027777777778
+episode 81
+Simulating
+epsilon : 0.838
+queue length in epsiode 81 0.6441666666666667
+loss in epsiode 81 1.0602067708969116
+wait time in epsiode 81 63.841944444444444
+episode 82
+Simulating
+epsilon : 0.836
+queue length in epsiode 82 0.9627777777777777
+loss in epsiode 82 1.423532485961914
+wait time in epsiode 82 103.96138888888889
+episode 83
+Simulating
+epsilon : 0.834
+queue length in epsiode 83 0.7472222222222222
+loss in epsiode 83 0.5040860176086426
+wait time in epsiode 83 75.1438888888889
+episode 84
+Simulating
+epsilon : 0.832
+queue length in epsiode 84 0.8847222222222222
+loss in epsiode 84 0.9853100776672363
+wait time in epsiode 84 105.29583333333333
+episode 85
+Simulating
+epsilon : 0.830
+queue length in epsiode 85 0.6419444444444444
+loss in epsiode 85 1.0281074047088623
+wait time in epsiode 85 60.47805555555556
+episode 86
+Simulating
+epsilon : 0.828
+queue length in epsiode 86 0.7319444444444444
+loss in epsiode 86 0.7111520767211914
+wait time in epsiode 86 73.90138888888889
+episode 87
+Simulating
+epsilon : 0.826
+queue length in epsiode 87 0.6508333333333334
+loss in epsiode 87 1.082000494003296
+wait time in epsiode 87 63.704166666666666
+episode 88
+Simulating
+epsilon : 0.824
+queue length in epsiode 88 0.7430555555555556
+loss in epsiode 88 0.7859288454055786
+wait time in epsiode 88 74.72638888888889
+episode 89
+Simulating
+epsilon : 0.822
+queue length in epsiode 89 0.8002777777777778
+loss in epsiode 89 0.5315698981285095
+wait time in epsiode 89 94.47083333333333
+episode 90
+Simulating
+epsilon : 0.820
+queue length in epsiode 90 0.9566666666666667
+loss in epsiode 90 0.47516074776649475
+wait time in epsiode 90 142.12472222222223
+episode 91
+Simulating
+epsilon : 0.818
+queue length in epsiode 91 0.8394444444444444
+loss in epsiode 91 1.6560003757476807
+wait time in epsiode 91 94.00055555555555
+episode 92
+Simulating
+epsilon : 0.816
+queue length in epsiode 92 0.6708333333333333
+loss in epsiode 92 1.5347301959991455
+wait time in epsiode 92 66.38722222222222
+episode 93
+Simulating
+epsilon : 0.814
+queue length in epsiode 93 0.6880555555555555
+loss in epsiode 93 1.7242069244384766
+wait time in epsiode 93 70.99222222222222
+episode 94
+Simulating
+epsilon : 0.812
+queue length in epsiode 94 0.9402777777777778
+loss in epsiode 94 1.0685207843780518
+wait time in epsiode 94 105.25694444444444
+episode 95
+Simulating
+epsilon : 0.810
+queue length in epsiode 95 0.7569444444444444
+loss in epsiode 95 0.7881114482879639
+wait time in epsiode 95 79.55666666666667
+episode 96
+Simulating
+epsilon : 0.808
+queue length in epsiode 96 0.7533333333333333
+loss in epsiode 96 0.5423334240913391
+wait time in epsiode 96 75.55055555555556
+episode 97
+Simulating
+epsilon : 0.806
+queue length in epsiode 97 0.8211111111111111
+loss in epsiode 97 0.3577726185321808
+wait time in epsiode 97 91.13027777777778
+episode 98
+Simulating
+epsilon : 0.804
+queue length in epsiode 98 0.6947222222222222
+loss in epsiode 98 0.2882212996482849
+wait time in epsiode 98 67.24527777777777
+episode 99
+Simulating
+epsilon : 0.802
+queue length in epsiode 99 0.6313888888888889
+loss in epsiode 99 0.3308468461036682
+wait time in epsiode 99 55.526944444444446
+episode 100
+Simulating
+epsilon : 0.800
+queue length in epsiode 100 0.7147222222222223
+loss in epsiode 100 0.3412780463695526
+wait time in epsiode 100 73.57083333333334
+episode 101
+Simulating
+epsilon : 0.798
+queue length in epsiode 101 0.7863888888888889
+loss in epsiode 101 0.7448687553405762
+wait time in epsiode 101 79.80611111111111
+episode 102
+Simulating
+epsilon : 0.796
+queue length in epsiode 102 0.8786111111111111
+loss in epsiode 102 4.506741523742676
+wait time in epsiode 102 105.2825
+episode 103
+Simulating
+epsilon : 0.794
+queue length in epsiode 103 0.8816666666666667
+loss in epsiode 103 3.536830186843872
+wait time in epsiode 103 103.9088888888889
+episode 104
+Simulating
+epsilon : 0.792
+queue length in epsiode 104 0.7041666666666667
+loss in epsiode 104 1.1931235790252686
+wait time in epsiode 104 78.36527777777778
+episode 105
+Simulating
+epsilon : 0.790
+queue length in epsiode 105 0.6533333333333333
+loss in epsiode 105 1.8329622745513916
+wait time in epsiode 105 63.743611111111115
+episode 106
+Simulating
+epsilon : 0.788
+queue length in epsiode 106 0.6858333333333333
+loss in epsiode 106 0.6719083189964294
+wait time in epsiode 106 76.45694444444445
+episode 107
+Simulating
+epsilon : 0.786
+queue length in epsiode 107 0.76
+loss in epsiode 107 1.336068868637085
+wait time in epsiode 107 78.40527777777778
+episode 108
+Simulating
+epsilon : 0.784
+queue length in epsiode 108 0.815
+loss in epsiode 108 1.0174946784973145
+wait time in epsiode 108 86.42888888888889
+episode 109
+Simulating
+epsilon : 0.782
+queue length in epsiode 109 0.6794444444444444
+loss in epsiode 109 0.2329627126455307
+wait time in epsiode 109 68.32444444444444
+episode 110
+Simulating
+epsilon : 0.780
+queue length in epsiode 110 0.7211111111111111
+loss in epsiode 110 0.3032573461532593
+wait time in epsiode 110 79.1025
+episode 111
+Simulating
+epsilon : 0.778
+queue length in epsiode 111 0.6377777777777778
+loss in epsiode 111 1.427529215812683
+wait time in epsiode 111 66.50111111111111
+episode 112
+Simulating
+epsilon : 0.776
+queue length in epsiode 112 0.8522222222222222
+loss in epsiode 112 2.0250966548919678
+wait time in epsiode 112 101.6361111111111
+episode 113
+Simulating
+epsilon : 0.774
+queue length in epsiode 113 0.5952777777777778
+loss in epsiode 113 2.515563726425171
+wait time in epsiode 113 57.719166666666666
+episode 114
+Simulating
+epsilon : 0.772
+queue length in epsiode 114 0.5602777777777778
+loss in epsiode 114 0.8572226762771606
+wait time in epsiode 114 51.361111111111114
+episode 115
+Simulating
+epsilon : 0.770
+queue length in epsiode 115 0.9197222222222222
+loss in epsiode 115 2.0208380222320557
+wait time in epsiode 115 125.25305555555556
+episode 116
+Simulating
+epsilon : 0.768
+queue length in epsiode 116 0.545
+loss in epsiode 116 1.268474817276001
+wait time in epsiode 116 52.73888888888889
+episode 117
+Simulating
+epsilon : 0.766
+queue length in epsiode 117 0.6525
+loss in epsiode 117 0.6698189377784729
+wait time in epsiode 117 81.98527777777778
+episode 118
+Simulating
+epsilon : 0.764
+queue length in epsiode 118 0.6125
+loss in epsiode 118 1.1447619199752808
+wait time in epsiode 118 64.38472222222222
+episode 119
+Simulating
+epsilon : 0.762
+queue length in epsiode 119 0.6311111111111111
+loss in epsiode 119 0.3712109327316284
+wait time in epsiode 119 70.70083333333334
+episode 120
+Simulating
+epsilon : 0.760
+queue length in epsiode 120 0.7313888888888889
+loss in epsiode 120 0.31838810443878174
+wait time in epsiode 120 73.56555555555556
+episode 121
+Simulating
+epsilon : 0.758
+queue length in epsiode 121 0.5438888888888889
+loss in epsiode 121 2.3895647525787354
+wait time in epsiode 121 52.50805555555556
+episode 122
+Simulating
+epsilon : 0.756
+queue length in epsiode 122 0.7541666666666667
+loss in epsiode 122 1.6184760332107544
+wait time in epsiode 122 82.15194444444444
+episode 123
+Simulating
+epsilon : 0.754
+queue length in epsiode 123 0.6230555555555556
+loss in epsiode 123 1.6898177862167358
+wait time in epsiode 123 65.87
+episode 124
+Simulating
+epsilon : 0.752
+queue length in epsiode 124 0.9788888888888889
+loss in epsiode 124 0.7690341472625732
+wait time in epsiode 124 121.2388888888889
+episode 125
+Simulating
+epsilon : 0.750
+queue length in epsiode 125 0.5808333333333333
+loss in epsiode 125 0.6075152158737183
+wait time in epsiode 125 55.033611111111114
+episode 126
+Simulating
+epsilon : 0.748
+queue length in epsiode 126 0.6811111111111111
+loss in epsiode 126 0.7045131921768188
+wait time in epsiode 126 67.86833333333334
+episode 127
+Simulating
+epsilon : 0.746
+queue length in epsiode 127 0.6205555555555555
+loss in epsiode 127 0.28579843044281006
+wait time in epsiode 127 63.151944444444446
+episode 128
+Simulating
+epsilon : 0.744
+queue length in epsiode 128 0.6561111111111111
+loss in epsiode 128 0.4090297520160675
+wait time in epsiode 128 66.89027777777778
+episode 129
+Simulating
+epsilon : 0.742
+queue length in epsiode 129 0.5186111111111111
+loss in epsiode 129 0.2035961151123047
+wait time in epsiode 129 47.055277777777775
+episode 130
+Simulating
+epsilon : 0.740
+queue length in epsiode 130 0.7794444444444445
+loss in epsiode 130 0.4811020791530609
+wait time in epsiode 130 87.70777777777778
+episode 131
+Simulating
+epsilon : 0.738
+queue length in epsiode 131 0.5175
+loss in epsiode 131 1.4423307180404663
+wait time in epsiode 131 51.419444444444444
+episode 132
+Simulating
+epsilon : 0.736
+queue length in epsiode 132 0.5255555555555556
+loss in epsiode 132 0.9422972202301025
+wait time in epsiode 132 47.61277777777778
+episode 133
+Simulating
+epsilon : 0.734
+queue length in epsiode 133 0.6058333333333333
+loss in epsiode 133 0.6191084384918213
+wait time in epsiode 133 58.74527777777778
+episode 134
+Simulating
+epsilon : 0.732
+queue length in epsiode 134 0.5558333333333333
+loss in epsiode 134 0.4530271291732788
+wait time in epsiode 134 54.45527777777778
+episode 135
+Simulating
+epsilon : 0.730
+queue length in epsiode 135 0.6438888888888888
+loss in epsiode 135 0.6222612857818604
+wait time in epsiode 135 67.39222222222222
+episode 136
+Simulating
+epsilon : 0.728
+queue length in epsiode 136 0.6475
+loss in epsiode 136 0.40760642290115356
+wait time in epsiode 136 68.15527777777778
+episode 137
+Simulating
+epsilon : 0.726
+queue length in epsiode 137 0.5788888888888889
+loss in epsiode 137 1.1672652959823608
+wait time in epsiode 137 56.10805555555555
+episode 138
+Simulating
+epsilon : 0.724
+queue length in epsiode 138 0.6427777777777778
+loss in epsiode 138 0.2869994342327118
+wait time in epsiode 138 65.0886111111111
+episode 139
+Simulating
+epsilon : 0.722
+queue length in epsiode 139 0.6580555555555555
+loss in epsiode 139 1.1104607582092285
+wait time in epsiode 139 71.4775
+episode 140
+Simulating
+epsilon : 0.720
+queue length in epsiode 140 0.5933333333333334
+loss in epsiode 140 0.17788684368133545
+wait time in epsiode 140 60.80111111111111
+episode 141
+Simulating
+epsilon : 0.718
+queue length in epsiode 141 0.7827777777777778
+loss in epsiode 141 1.448543906211853
+wait time in epsiode 141 100.42083333333333
+episode 142
+Simulating
+epsilon : 0.716
+queue length in epsiode 142 0.55
+loss in epsiode 142 1.1007804870605469
+wait time in epsiode 142 50.75277777777778
+episode 143
+Simulating
+epsilon : 0.714
+queue length in epsiode 143 0.54
+loss in epsiode 143 1.3632234334945679
+wait time in epsiode 143 51.87583333333333
+episode 144
+Simulating
+epsilon : 0.712
+queue length in epsiode 144 0.5736111111111111
+loss in epsiode 144 0.5848037600517273
+wait time in epsiode 144 55.32333333333333
+episode 145
+Simulating
+epsilon : 0.710
+queue length in epsiode 145 0.7163888888888889
+loss in epsiode 145 1.2218776941299438
+wait time in epsiode 145 74.09083333333334
+episode 146
+Simulating
+epsilon : 0.708
+queue length in epsiode 146 0.6111111111111112
+loss in epsiode 146 0.5430195927619934
+wait time in epsiode 146 63.80694444444445
+episode 147
+Simulating
+epsilon : 0.706
+queue length in epsiode 147 0.6555555555555556
+loss in epsiode 147 0.4374414384365082
+wait time in epsiode 147 70.2725
+episode 148
+Simulating
+epsilon : 0.704
+queue length in epsiode 148 0.7286111111111111
+loss in epsiode 148 0.6138318181037903
+wait time in epsiode 148 75.6361111111111
+episode 149
+Simulating
+epsilon : 0.702
+queue length in epsiode 149 0.5127777777777778
+loss in epsiode 149 0.5510832071304321
+wait time in epsiode 149 45.981944444444444
+episode 150
+Simulating
+epsilon : 0.700
+queue length in epsiode 150 0.5641666666666667
+loss in epsiode 150 0.33543136715888977
+wait time in epsiode 150 52.31055555555555
+episode 151
+Simulating
+epsilon : 0.698
+queue length in epsiode 151 0.8238888888888889
+loss in epsiode 151 0.5220474004745483
+wait time in epsiode 151 99.6475
+episode 152
+Simulating
+epsilon : 0.696
+queue length in epsiode 152 0.7069444444444445
+loss in epsiode 152 0.5665181279182434
+wait time in epsiode 152 70.5375
+episode 153
+Simulating
+epsilon : 0.694
+queue length in epsiode 153 0.6119444444444444
+loss in epsiode 153 0.7020272016525269
+wait time in epsiode 153 62.54611111111111
+episode 154
+Simulating
+epsilon : 0.692
+queue length in epsiode 154 0.5869444444444445
+loss in epsiode 154 0.5893316268920898
+wait time in epsiode 154 53.411944444444444
+episode 155
+Simulating
+epsilon : 0.690
+queue length in epsiode 155 0.6238888888888889
+loss in epsiode 155 0.35943448543548584
+wait time in epsiode 155 61.66972222222222
+episode 156
+Simulating
+epsilon : 0.688
+queue length in epsiode 156 0.6880555555555555
+loss in epsiode 156 0.45685136318206787
+wait time in epsiode 156 81.03472222222223
+episode 157
+Simulating
+epsilon : 0.686
+queue length in epsiode 157 0.6838888888888889
+loss in epsiode 157 0.20945991575717926
+wait time in epsiode 157 79.33777777777777
+episode 158
+Simulating
+epsilon : 0.684
+queue length in epsiode 158 0.6505555555555556
+loss in epsiode 158 0.08575983345508575
+wait time in epsiode 158 69.58166666666666
+episode 159
+Simulating
+epsilon : 0.682
+queue length in epsiode 159 0.5836111111111111
+loss in epsiode 159 0.07104324549436569
+wait time in epsiode 159 66.77972222222222
+episode 160
+Simulating
+epsilon : 0.680
+queue length in epsiode 160 0.4597222222222222
+loss in epsiode 160 0.11032984405755997
+wait time in epsiode 160 40.18555555555555
+episode 161
+Simulating
+epsilon : 0.678
+queue length in epsiode 161 0.6838888888888889
+loss in epsiode 161 0.3099384307861328
+wait time in epsiode 161 78.47333333333333
+episode 162
+Simulating
+epsilon : 0.676
+queue length in epsiode 162 0.6055555555555555
+loss in epsiode 162 0.3561391532421112
+wait time in epsiode 162 64.75138888888888
+episode 163
+Simulating
+epsilon : 0.674
+queue length in epsiode 163 0.5052777777777778
+loss in epsiode 163 0.18666422367095947
+wait time in epsiode 163 47.37361111111111
+episode 164
+Simulating
+epsilon : 0.672
+queue length in epsiode 164 0.6125
+loss in epsiode 164 0.23475542664527893
+wait time in epsiode 164 60.899166666666666
+episode 165
+Simulating
+epsilon : 0.670
+queue length in epsiode 165 0.5536111111111112
+loss in epsiode 165 0.205668106675148
+wait time in epsiode 165 56.46277777777778
+episode 166
+Simulating
+epsilon : 0.668
+queue length in epsiode 166 0.5108333333333334
+loss in epsiode 166 0.21031595766544342
+wait time in epsiode 166 48.093333333333334
+episode 167
+Simulating
+epsilon : 0.666
+queue length in epsiode 167 0.47888888888888886
+loss in epsiode 167 0.25912365317344666
+wait time in epsiode 167 42.966944444444444
+episode 168
+Simulating
+epsilon : 0.664
+queue length in epsiode 168 0.5902777777777778
+loss in epsiode 168 0.20474651455879211
+wait time in epsiode 168 76.13694444444444
+episode 169
+Simulating
+epsilon : 0.662
+queue length in epsiode 169 0.5208333333333334
+loss in epsiode 169 0.18194147944450378
+wait time in epsiode 169 54.210277777777776
+episode 170
+Simulating
+epsilon : 0.660
+queue length in epsiode 170 0.7952777777777778
+loss in epsiode 170 0.17898330092430115
+wait time in epsiode 170 107.19583333333334
+episode 171
+Simulating
+epsilon : 0.658
+queue length in epsiode 171 0.5494444444444444
+loss in epsiode 171 0.376692533493042
+wait time in epsiode 171 55.92472222222222
+episode 172
+Simulating
+epsilon : 0.656
+queue length in epsiode 172 0.5569444444444445
+loss in epsiode 172 0.23758718371391296
+wait time in epsiode 172 55.856944444444444
+episode 173
+Simulating
+epsilon : 0.654
+queue length in epsiode 173 0.5483333333333333
+loss in epsiode 173 0.3804228901863098
+wait time in epsiode 173 54.16166666666667
+episode 174
+Simulating
+epsilon : 0.652
+queue length in epsiode 174 0.6211111111111111
+loss in epsiode 174 0.3127209544181824
+wait time in epsiode 174 68.18111111111111
+episode 175
+Simulating
+epsilon : 0.650
+queue length in epsiode 175 0.5105555555555555
+loss in epsiode 175 0.21945856511592865
+wait time in epsiode 175 48.61833333333333
+episode 176
+Simulating
+epsilon : 0.648
+queue length in epsiode 176 0.5308333333333334
+loss in epsiode 176 0.19470641016960144
+wait time in epsiode 176 55.63583333333333
+episode 177
+Simulating
+epsilon : 0.646
+queue length in epsiode 177 0.49722222222222223
+loss in epsiode 177 0.2008424699306488
+wait time in epsiode 177 45.37916666666667
+episode 178
+Simulating
+epsilon : 0.644
+queue length in epsiode 178 0.5319444444444444
+loss in epsiode 178 0.18825797736644745
+wait time in epsiode 178 51.02055555555555
+episode 179
+Simulating
+epsilon : 0.642
+queue length in epsiode 179 0.52
+loss in epsiode 179 0.12632620334625244
+wait time in epsiode 179 47.71944444444444
+episode 180
+Simulating
+epsilon : 0.640
+queue length in epsiode 180 0.4613888888888889
+loss in epsiode 180 0.09647060185670853
+wait time in epsiode 180 41.603611111111114
+episode 181
+Simulating
+epsilon : 0.638
+queue length in epsiode 181 0.56
+loss in epsiode 181 0.2524425983428955
+wait time in epsiode 181 56.50805555555556
+episode 182
+Simulating
+epsilon : 0.636
+queue length in epsiode 182 0.5577777777777778
+loss in epsiode 182 0.19456133246421814
+wait time in epsiode 182 54.765277777777776
+episode 183
+Simulating
+epsilon : 0.634
+queue length in epsiode 183 0.46
+loss in epsiode 183 0.18471047282218933
+wait time in epsiode 183 42.29527777777778
+episode 184
+Simulating
+epsilon : 0.632
+queue length in epsiode 184 0.4625
+loss in epsiode 184 0.16471265256404877
+wait time in epsiode 184 41.50861111111111
+episode 185
+Simulating
+epsilon : 0.630
+queue length in epsiode 185 0.5305555555555556
+loss in epsiode 185 0.14756333827972412
+wait time in epsiode 185 50.82416666666666
+episode 186
+Simulating
+epsilon : 0.628
+queue length in epsiode 186 0.4413888888888889
+loss in epsiode 186 0.1667981743812561
+wait time in epsiode 186 42.88611111111111
+episode 187
+Simulating
+epsilon : 0.626
+queue length in epsiode 187 0.5744444444444444
+loss in epsiode 187 0.09763903170824051
+wait time in epsiode 187 62.562222222222225
+episode 188
+Simulating
+epsilon : 0.624
+queue length in epsiode 188 0.5908333333333333
+loss in epsiode 188 0.11593977361917496
+wait time in epsiode 188 65.235
+episode 189
+Simulating
+epsilon : 0.622
+queue length in epsiode 189 0.3461111111111111
+loss in epsiode 189 0.08726094663143158
+wait time in epsiode 189 30.444444444444443
+episode 190
+Simulating
+epsilon : 0.620
+queue length in epsiode 190 0.44666666666666666
+loss in epsiode 190 0.09396921843290329
+wait time in epsiode 190 41.49805555555555
+episode 191
+Simulating
+epsilon : 0.618
+queue length in epsiode 191 0.5566666666666666
+loss in epsiode 191 0.14306902885437012
+wait time in epsiode 191 57.98722222222222
+episode 192
+Simulating
+epsilon : 0.616
+queue length in epsiode 192 0.5261111111111111
+loss in epsiode 192 0.20911802351474762
+wait time in epsiode 192 54.309444444444445
+episode 193
+Simulating
+epsilon : 0.614
+queue length in epsiode 193 0.45
+loss in epsiode 193 0.11997330188751221
+wait time in epsiode 193 40.30888888888889
+episode 194
+Simulating
+epsilon : 0.612
+queue length in epsiode 194 0.5355555555555556
+loss in epsiode 194 0.10058270394802094
+wait time in epsiode 194 56.62277777777778
+episode 195
+Simulating
+epsilon : 0.610
+queue length in epsiode 195 0.5636111111111111
+loss in epsiode 195 0.1687595397233963
+wait time in epsiode 195 61.96333333333333
+episode 196
+Simulating
+epsilon : 0.608
+queue length in epsiode 196 0.6066666666666667
+loss in epsiode 196 0.12898686528205872
+wait time in epsiode 196 63.24194444444444
+episode 197
+Simulating
+epsilon : 0.606
+queue length in epsiode 197 0.5291666666666667
+loss in epsiode 197 0.14271824061870575
+wait time in epsiode 197 49.53638888888889
+episode 198
+Simulating
+epsilon : 0.604
+queue length in epsiode 198 0.5427777777777778
+loss in epsiode 198 0.10771156847476959
+wait time in epsiode 198 51.81638888888889
+episode 199
+Simulating
+epsilon : 0.602
+queue length in epsiode 199 0.535
+loss in epsiode 199 0.09009869396686554
+wait time in epsiode 199 55.233333333333334
+episode 200
+Simulating
+epsilon : 0.600
+queue length in epsiode 200 0.4638888888888889
+loss in epsiode 200 0.05662013590335846
+wait time in epsiode 200 43.117777777777775
+episode 201
+Simulating
+epsilon : 0.598
+queue length in epsiode 201 0.6416666666666667
+loss in epsiode 201 0.19136802852153778
+wait time in epsiode 201 79.1325
+episode 202
+Simulating
+epsilon : 0.596
+queue length in epsiode 202 0.5202777777777777
+loss in epsiode 202 0.0805639773607254
+wait time in epsiode 202 52.32861111111111
+episode 203
+Simulating
+epsilon : 0.594
+queue length in epsiode 203 0.5877777777777777
+loss in epsiode 203 0.16812920570373535
+wait time in epsiode 203 59.7925
+episode 204
+Simulating
+epsilon : 0.592
+queue length in epsiode 204 0.45305555555555554
+loss in epsiode 204 0.15149399638175964
+wait time in epsiode 204 40.81472222222222
+episode 205
+Simulating
+epsilon : 0.590
+queue length in epsiode 205 0.5825
+loss in epsiode 205 0.14176414906978607
+wait time in epsiode 205 57.717777777777776
+episode 206
+Simulating
+epsilon : 0.588
+queue length in epsiode 206 0.6727777777777778
+loss in epsiode 206 0.08216962218284607
+wait time in epsiode 206 77.6825
+episode 207
+Simulating
+epsilon : 0.586
+queue length in epsiode 207 0.5030555555555556
+loss in epsiode 207 0.05049966275691986
+wait time in epsiode 207 48.57888888888889
+episode 208
+Simulating
+epsilon : 0.584
+queue length in epsiode 208 0.6102777777777778
+loss in epsiode 208 0.05882881209254265
+wait time in epsiode 208 78.36444444444444
+episode 209
+Simulating
+epsilon : 0.582
+queue length in epsiode 209 0.46305555555555555
+loss in epsiode 209 0.045580070465803146
+wait time in epsiode 209 42.29222222222222
+episode 210
+Simulating
+epsilon : 0.580
+queue length in epsiode 210 0.5197222222222222
+loss in epsiode 210 0.15246684849262238
+wait time in epsiode 210 51.609722222222224
+episode 211
+Simulating
+epsilon : 0.578
+queue length in epsiode 211 0.4388888888888889
+loss in epsiode 211 0.1615864634513855
+wait time in epsiode 211 40.52194444444444
+episode 212
+Simulating
+epsilon : 0.576
+queue length in epsiode 212 0.5775
+loss in epsiode 212 0.19292153418064117
+wait time in epsiode 212 62.090555555555554
+episode 213
+Simulating
+epsilon : 0.574
+queue length in epsiode 213 0.47583333333333333
+loss in epsiode 213 0.0628313347697258
+wait time in epsiode 213 48.2675
+episode 214
+Simulating
+epsilon : 0.572
+queue length in epsiode 214 0.5580555555555555
+loss in epsiode 214 0.11840305477380753
+wait time in epsiode 214 64.63388888888889
+episode 215
+Simulating
+epsilon : 0.570
+queue length in epsiode 215 0.4961111111111111
+loss in epsiode 215 0.19859904050827026
+wait time in epsiode 215 52.27027777777778
+episode 216
+Simulating
+epsilon : 0.568
+queue length in epsiode 216 0.3963888888888889
+loss in epsiode 216 0.06107094883918762
+wait time in epsiode 216 36.3875
+episode 217
+Simulating
+epsilon : 0.566
+queue length in epsiode 217 0.5188888888888888
+loss in epsiode 217 0.10936404764652252
+wait time in epsiode 217 54.631388888888885
+episode 218
+Simulating
+epsilon : 0.564
+queue length in epsiode 218 0.4861111111111111
+loss in epsiode 218 0.1409032642841339
+wait time in epsiode 218 50.920833333333334
+episode 219
+Simulating
+epsilon : 0.562
+queue length in epsiode 219 0.44083333333333335
+loss in epsiode 219 0.06313736736774445
+wait time in epsiode 219 41.44722222222222
+episode 220
+Simulating
+epsilon : 0.560
+queue length in epsiode 220 0.3972222222222222
+loss in epsiode 220 0.09227257966995239
+wait time in epsiode 220 36.84888888888889
+episode 221
+Simulating
+epsilon : 0.558
+queue length in epsiode 221 0.5875
+loss in epsiode 221 0.09860213845968246
+wait time in epsiode 221 63.018055555555556
+episode 222
+Simulating
+epsilon : 0.556
+queue length in epsiode 222 0.4527777777777778
+loss in epsiode 222 0.1200966089963913
+wait time in epsiode 222 40.132777777777775
+episode 223
+Simulating
+epsilon : 0.554
+queue length in epsiode 223 0.4647222222222222
+loss in epsiode 223 0.10491066426038742
+wait time in epsiode 223 40.74111111111111
+episode 224
+Simulating
+epsilon : 0.552
+queue length in epsiode 224 0.5486111111111112
+loss in epsiode 224 0.09084522724151611
+wait time in epsiode 224 57.39888888888889
+episode 225
+Simulating
+epsilon : 0.550
+queue length in epsiode 225 0.485
+loss in epsiode 225 0.09786190837621689
+wait time in epsiode 225 45.53055555555556
+episode 226
+Simulating
+epsilon : 0.548
+queue length in epsiode 226 0.41833333333333333
+loss in epsiode 226 0.09292587637901306
+wait time in epsiode 226 37.291666666666664
+episode 227
+Simulating
+epsilon : 0.546
+queue length in epsiode 227 0.5144444444444445
+loss in epsiode 227 0.1468561291694641
+wait time in epsiode 227 48.34027777777778
+episode 228
+Simulating
+epsilon : 0.544
+queue length in epsiode 228 0.5741666666666667
+loss in epsiode 228 0.17486324906349182
+wait time in epsiode 228 64.24722222222222
+episode 229
+Simulating
+epsilon : 0.542
+queue length in epsiode 229 0.45416666666666666
+loss in epsiode 229 0.14834745228290558
+wait time in epsiode 229 40.71888888888889
+episode 230
+Simulating
+epsilon : 0.540
+queue length in epsiode 230 0.5133333333333333
+loss in epsiode 230 0.07705812901258469
+wait time in epsiode 230 54.3425
+episode 231
+Simulating
+epsilon : 0.538
+queue length in epsiode 231 0.4088888888888889
+loss in epsiode 231 0.11168712377548218
+wait time in epsiode 231 36.975
+episode 232
+Simulating
+epsilon : 0.536
+queue length in epsiode 232 0.40055555555555555
+loss in epsiode 232 0.16546441614627838
+wait time in epsiode 232 35.06527777777778
+episode 233
+Simulating
+epsilon : 0.534
+queue length in epsiode 233 0.47333333333333333
+loss in epsiode 233 0.12099891901016235
+wait time in epsiode 233 45.028055555555554
+episode 234
+Simulating
+epsilon : 0.532
+queue length in epsiode 234 0.4558333333333333
+loss in epsiode 234 0.08855582773685455
+wait time in epsiode 234 39.65138888888889
+episode 235
+Simulating
+epsilon : 0.530
+queue length in epsiode 235 0.4875
+loss in epsiode 235 0.08450352400541306
+wait time in epsiode 235 49.04138888888889
+episode 236
+Simulating
+epsilon : 0.528
+queue length in epsiode 236 0.4802777777777778
+loss in epsiode 236 0.07578719407320023
+wait time in epsiode 236 46.485
+episode 237
+Simulating
+epsilon : 0.526
+queue length in epsiode 237 0.4722222222222222
+loss in epsiode 237 0.09047668427228928
+wait time in epsiode 237 47.3575
+episode 238
+Simulating
+epsilon : 0.524
+queue length in epsiode 238 0.41194444444444445
+loss in epsiode 238 0.041239190846681595
+wait time in epsiode 238 35.49194444444444
+episode 239
+Simulating
+epsilon : 0.522
+queue length in epsiode 239 0.3938888888888889
+loss in epsiode 239 0.10596107691526413
+wait time in epsiode 239 36.87111111111111
+episode 240
+Simulating
+epsilon : 0.520
+queue length in epsiode 240 0.4713888888888889
+loss in epsiode 240 0.08118551224470139
+wait time in epsiode 240 44.87138888888889
+episode 241
+Simulating
+epsilon : 0.518
+queue length in epsiode 241 0.5236111111111111
+loss in epsiode 241 0.08634541928768158
+wait time in epsiode 241 51.464444444444446
+episode 242
+Simulating
+epsilon : 0.516
+queue length in epsiode 242 0.39861111111111114
+loss in epsiode 242 0.1083989068865776
+wait time in epsiode 242 35.530833333333334
+episode 243
+Simulating
+epsilon : 0.514
+queue length in epsiode 243 0.4608333333333333
+loss in epsiode 243 0.08541138470172882
+wait time in epsiode 243 45.0875
+episode 244
+Simulating
+epsilon : 0.512
+queue length in epsiode 244 0.4461111111111111
+loss in epsiode 244 0.06319856643676758
+wait time in epsiode 244 40.75361111111111
+episode 245
+Simulating
+epsilon : 0.510
+queue length in epsiode 245 0.3902777777777778
+loss in epsiode 245 0.055020883679389954
+wait time in epsiode 245 35.198055555555555
+episode 246
+Simulating
+epsilon : 0.508
+queue length in epsiode 246 0.455
+loss in epsiode 246 0.08071967959403992
+wait time in epsiode 246 43.92472222222222
+episode 247
+Simulating
+epsilon : 0.506
+queue length in epsiode 247 0.45222222222222225
+loss in epsiode 247 0.05265020579099655
+wait time in epsiode 247 47.980555555555554
+episode 248
+Simulating
+epsilon : 0.504
+queue length in epsiode 248 0.4502777777777778
+loss in epsiode 248 0.035297758877277374
+wait time in epsiode 248 41.76166666666666
+episode 249
+Simulating
+epsilon : 0.502
+queue length in epsiode 249 0.41444444444444445
+loss in epsiode 249 0.03425498306751251
+wait time in epsiode 249 38.03666666666667
+episode 250
+Simulating
+epsilon : 0.500
+queue length in epsiode 250 0.37722222222222224
+loss in epsiode 250 0.03556399419903755
+wait time in epsiode 250 32.229166666666664
+episode 251
+Simulating
+epsilon : 0.498
+queue length in epsiode 251 0.4338888888888889
+loss in epsiode 251 0.05893463268876076
+wait time in epsiode 251 39.664722222222224
+episode 252
+Simulating
+epsilon : 0.496
+queue length in epsiode 252 0.47194444444444444
+loss in epsiode 252 0.055123768746852875
+wait time in epsiode 252 47.370555555555555
+episode 253
+Simulating
+epsilon : 0.494
+queue length in epsiode 253 0.4166666666666667
+loss in epsiode 253 0.039986565709114075
+wait time in epsiode 253 39.76777777777778
+episode 254
+Simulating
+epsilon : 0.492
+queue length in epsiode 254 0.41388888888888886
+loss in epsiode 254 0.06038442999124527
+wait time in epsiode 254 38.215833333333336
+episode 255
+Simulating
+epsilon : 0.490
+queue length in epsiode 255 0.4363888888888889
+loss in epsiode 255 0.04012104868888855
+wait time in epsiode 255 39.23638888888889
+episode 256
+Simulating
+epsilon : 0.488
+queue length in epsiode 256 0.3988888888888889
+loss in epsiode 256 0.053839560598134995
+wait time in epsiode 256 35.84777777777778
+episode 257
+Simulating
+epsilon : 0.486
+queue length in epsiode 257 0.38333333333333336
+loss in epsiode 257 0.06598538905382156
+wait time in epsiode 257 34.32833333333333
+episode 258
+Simulating
+epsilon : 0.484
+queue length in epsiode 258 0.46111111111111114
+loss in epsiode 258 0.06712301820516586
+wait time in epsiode 258 45.244166666666665
+episode 259
+Simulating
+epsilon : 0.482
+queue length in epsiode 259 0.44666666666666666
+loss in epsiode 259 0.0688006803393364
+wait time in epsiode 259 41.560833333333335
+episode 260
+Simulating
+epsilon : 0.480
+queue length in epsiode 260 0.4647222222222222
+loss in epsiode 260 0.09356686472892761
+wait time in epsiode 260 49.80277777777778
+episode 261
+Simulating
+epsilon : 0.478
+queue length in epsiode 261 0.3347222222222222
+loss in epsiode 261 0.06615743041038513
+wait time in epsiode 261 27.976111111111113
+episode 262
+Simulating
+epsilon : 0.476
+queue length in epsiode 262 0.4691666666666667
+loss in epsiode 262 0.06524500250816345
+wait time in epsiode 262 48.051944444444445
+episode 263
+Simulating
+epsilon : 0.474
+queue length in epsiode 263 0.4241666666666667
+loss in epsiode 263 0.03591190278530121
+wait time in epsiode 263 42.61055555555556
+episode 264
+Simulating
+epsilon : 0.472
+queue length in epsiode 264 0.44083333333333335
+loss in epsiode 264 0.0375504232943058
+wait time in epsiode 264 41.305277777777775
+episode 265
+Simulating
+epsilon : 0.470
+queue length in epsiode 265 0.3761111111111111
+loss in epsiode 265 0.02722841314971447
+wait time in epsiode 265 33.70583333333333
+episode 266
+Simulating
+epsilon : 0.468
+queue length in epsiode 266 0.4486111111111111
+loss in epsiode 266 0.0366176962852478
+wait time in epsiode 266 41.57694444444444
+episode 267
+Simulating
+epsilon : 0.466
+queue length in epsiode 267 0.4172222222222222
+loss in epsiode 267 0.034427374601364136
+wait time in epsiode 267 39.664722222222224
+episode 268
+Simulating
+epsilon : 0.464
+queue length in epsiode 268 0.40944444444444444
+loss in epsiode 268 0.025512102991342545
+wait time in epsiode 268 39.70916666666667
+episode 269
+Simulating
+epsilon : 0.462
+queue length in epsiode 269 0.41944444444444445
+loss in epsiode 269 0.032409898936748505
+wait time in epsiode 269 38.55277777777778
+episode 270
+Simulating
+epsilon : 0.460
+queue length in epsiode 270 0.43222222222222223
+loss in epsiode 270 0.055093809962272644
+wait time in epsiode 270 40.628055555555555
+episode 271
+Simulating
+epsilon : 0.458
+queue length in epsiode 271 0.4311111111111111
+loss in epsiode 271 0.09678424894809723
+wait time in epsiode 271 40.33972222222222
+episode 272
+Simulating
+epsilon : 0.456
+queue length in epsiode 272 0.39111111111111113
+loss in epsiode 272 0.04715260863304138
+wait time in epsiode 272 35.937222222222225
+episode 273
+Simulating
+epsilon : 0.454
+queue length in epsiode 273 0.36777777777777776
+loss in epsiode 273 0.04631570354104042
+wait time in epsiode 273 33.64333333333333
+episode 274
+Simulating
+epsilon : 0.452
+queue length in epsiode 274 0.5622222222222222
+loss in epsiode 274 0.04894821718335152
+wait time in epsiode 274 60.60722222222222
+episode 275
+Simulating
+epsilon : 0.450
+queue length in epsiode 275 0.3352777777777778
+loss in epsiode 275 0.04648400843143463
+wait time in epsiode 275 27.24388888888889
+episode 276
+Simulating
+epsilon : 0.448
+queue length in epsiode 276 0.5658333333333333
+loss in epsiode 276 0.02991705946624279
+wait time in epsiode 276 60.234722222222224
+episode 277
+Simulating
+epsilon : 0.446
+queue length in epsiode 277 0.4186111111111111
+loss in epsiode 277 0.017761852592229843
+wait time in epsiode 277 38.77444444444444
+episode 278
+Simulating
+epsilon : 0.444
+queue length in epsiode 278 0.3188888888888889
+loss in epsiode 278 0.030501067638397217
+wait time in epsiode 278 26.85972222222222
+episode 279
+Simulating
+epsilon : 0.442
+queue length in epsiode 279 0.44166666666666665
+loss in epsiode 279 0.037193767726421356
+wait time in epsiode 279 39.11666666666667
+episode 280
+Simulating
+epsilon : 0.440
+queue length in epsiode 280 0.44222222222222224
+loss in epsiode 280 0.022319592535495758
+wait time in epsiode 280 46.659444444444446
+episode 281
+Simulating
+epsilon : 0.438
+queue length in epsiode 281 0.35055555555555556
+loss in epsiode 281 0.04346182569861412
+wait time in epsiode 281 30.52111111111111
+episode 282
+Simulating
+epsilon : 0.436
+queue length in epsiode 282 0.38972222222222225
+loss in epsiode 282 0.07442153245210648
+wait time in epsiode 282 36.388888888888886
+episode 283
+Simulating
+epsilon : 0.434
+queue length in epsiode 283 0.4375
+loss in epsiode 283 0.043018095195293427
+wait time in epsiode 283 42.253055555555555
+episode 284
+Simulating
+epsilon : 0.432
+queue length in epsiode 284 0.4077777777777778
+loss in epsiode 284 0.038980960845947266
+wait time in epsiode 284 37.066944444444445
+episode 285
+Simulating
+epsilon : 0.430
+queue length in epsiode 285 0.3452777777777778
+loss in epsiode 285 0.03536226600408554
+wait time in epsiode 285 29.710277777777776
+episode 286
+Simulating
+epsilon : 0.428
+queue length in epsiode 286 0.4677777777777778
+loss in epsiode 286 0.03252464532852173
+wait time in epsiode 286 49.4075
+episode 287
+Simulating
+epsilon : 0.426
+queue length in epsiode 287 0.3597222222222222
+loss in epsiode 287 0.040159936994314194
+wait time in epsiode 287 32.69833333333333
+episode 288
+Simulating
+epsilon : 0.424
+queue length in epsiode 288 0.3572222222222222
+loss in epsiode 288 0.038205478340387344
+wait time in epsiode 288 32.57888888888889
+episode 289
+Simulating
+epsilon : 0.422
+queue length in epsiode 289 0.4786111111111111
+loss in epsiode 289 0.028258930891752243
+wait time in epsiode 289 48.20583333333333
+episode 290
+Simulating
+epsilon : 0.420
+queue length in epsiode 290 0.33444444444444443
+loss in epsiode 290 0.024506814777851105
+wait time in epsiode 290 28.518333333333334
+episode 291
+Simulating
+epsilon : 0.418
+queue length in epsiode 291 0.3838888888888889
+loss in epsiode 291 0.043053511530160904
+wait time in epsiode 291 33.028333333333336
+episode 292
+Simulating
+epsilon : 0.416
+queue length in epsiode 292 0.3525
+loss in epsiode 292 0.03326362371444702
+wait time in epsiode 292 30.68861111111111
+episode 293
+Simulating
+epsilon : 0.414
+queue length in epsiode 293 0.3488888888888889
+loss in epsiode 293 0.04502791911363602
+wait time in epsiode 293 31.868055555555557
+episode 294
+Simulating
+epsilon : 0.412
+queue length in epsiode 294 0.30777777777777776
+loss in epsiode 294 0.02578934095799923
+wait time in epsiode 294 26.384722222222223
+episode 295
+Simulating
+epsilon : 0.410
+queue length in epsiode 295 0.35777777777777775
+loss in epsiode 295 0.02557089366018772
+wait time in epsiode 295 31.326944444444443
+episode 296
+Simulating
+epsilon : 0.408
+queue length in epsiode 296 0.4125
+loss in epsiode 296 0.030117494985461235
+wait time in epsiode 296 37.65555555555556
+episode 297
+Simulating
+epsilon : 0.406
+queue length in epsiode 297 0.3661111111111111
+loss in epsiode 297 0.04612576216459274
+wait time in epsiode 297 34.5575
+episode 298
+Simulating
+epsilon : 0.404
+queue length in epsiode 298 0.3819444444444444
+loss in epsiode 298 0.061890389770269394
+wait time in epsiode 298 33.3
+episode 299
+Simulating
+epsilon : 0.402
+queue length in epsiode 299 0.4075
+loss in epsiode 299 0.026493646204471588
+wait time in epsiode 299 41.68555555555555
+episode 300
+Simulating
+epsilon : 0.400
+queue length in epsiode 300 0.3869444444444444
+loss in epsiode 300 0.03406220301985741
+wait time in epsiode 300 33.95194444444444
+episode 301
+Simulating
+epsilon : 0.398
+queue length in epsiode 301 0.3552777777777778
+loss in epsiode 301 0.0545700304210186
+wait time in epsiode 301 31.03638888888889
+episode 302
+Simulating
+epsilon : 0.396
+queue length in epsiode 302 0.3358333333333333
+loss in epsiode 302 0.03683658316731453
+wait time in epsiode 302 29.8675
+episode 303
+Simulating
+epsilon : 0.394
+queue length in epsiode 303 0.3661111111111111
+loss in epsiode 303 0.02394796349108219
+wait time in epsiode 303 33.18694444444444
+episode 304
+Simulating
+epsilon : 0.392
+queue length in epsiode 304 0.44305555555555554
+loss in epsiode 304 0.037570782005786896
+wait time in epsiode 304 42.459722222222226
+episode 305
+Simulating
+epsilon : 0.390
+queue length in epsiode 305 0.31555555555555553
+loss in epsiode 305 0.02498883381485939
+wait time in epsiode 305 26.496388888888887
+episode 306
+Simulating
+epsilon : 0.388
+queue length in epsiode 306 0.5052777777777778
+loss in epsiode 306 0.03292516991496086
+wait time in epsiode 306 50.68333333333333
+episode 307
+Simulating
+epsilon : 0.386
+queue length in epsiode 307 0.37666666666666665
+loss in epsiode 307 0.03290149196982384
+wait time in epsiode 307 33.74777777777778
+episode 308
+Simulating
+epsilon : 0.384
+queue length in epsiode 308 0.5191666666666667
+loss in epsiode 308 0.02501603402197361
+wait time in epsiode 308 57.67888888888889
+episode 309
+Simulating
+epsilon : 0.382
+queue length in epsiode 309 0.33111111111111113
+loss in epsiode 309 0.037547651678323746
+wait time in epsiode 309 27.547777777777778
+episode 310
+Simulating
+epsilon : 0.380
+queue length in epsiode 310 0.35305555555555557
+loss in epsiode 310 0.023033928126096725
+wait time in epsiode 310 29.730555555555554
+episode 311
+Simulating
+epsilon : 0.378
+queue length in epsiode 311 0.3308333333333333
+loss in epsiode 311 0.0644455999135971
+wait time in epsiode 311 28.830833333333334
+episode 312
+Simulating
+epsilon : 0.376
+queue length in epsiode 312 0.3933333333333333
+loss in epsiode 312 0.0711963027715683
+wait time in epsiode 312 35.28194444444444
+episode 313
+Simulating
+epsilon : 0.374
+queue length in epsiode 313 0.31194444444444447
+loss in epsiode 313 0.020662210881710052
+wait time in epsiode 313 25.57777777777778
+episode 314
+Simulating
+epsilon : 0.372
+queue length in epsiode 314 0.4888888888888889
+loss in epsiode 314 0.03908449411392212
+wait time in epsiode 314 48.33833333333333
+episode 315
+Simulating
+epsilon : 0.370
+queue length in epsiode 315 0.40055555555555555
+loss in epsiode 315 0.03094957396388054
+wait time in epsiode 315 41.110277777777775
+episode 316
+Simulating
+epsilon : 0.368
+queue length in epsiode 316 0.40055555555555555
+loss in epsiode 316 0.03203025087714195
+wait time in epsiode 316 41.939166666666665
+episode 317
+Simulating
+epsilon : 0.366
+queue length in epsiode 317 0.3441666666666667
+loss in epsiode 317 0.024318426847457886
+wait time in epsiode 317 29.426944444444445
+episode 318
+Simulating
+epsilon : 0.364
+queue length in epsiode 318 0.43333333333333335
+loss in epsiode 318 0.02075083740055561
+wait time in epsiode 318 47.335
+episode 319
+Simulating
+epsilon : 0.362
+queue length in epsiode 319 0.46055555555555555
+loss in epsiode 319 0.022951029241085052
+wait time in epsiode 319 51.69138888888889
+episode 320
+Simulating
+epsilon : 0.360
+queue length in epsiode 320 0.3675
+loss in epsiode 320 0.024083487689495087
+wait time in epsiode 320 31.54138888888889
+episode 321
+Simulating
+epsilon : 0.358
+queue length in epsiode 321 0.32972222222222225
+loss in epsiode 321 0.06000480055809021
+wait time in epsiode 321 27.95722222222222
+episode 322
+Simulating
+epsilon : 0.356
+queue length in epsiode 322 0.37194444444444447
+loss in epsiode 322 0.050476089119911194
+wait time in epsiode 322 32.878055555555555
+episode 323
+Simulating
+epsilon : 0.354
+queue length in epsiode 323 0.3080555555555556
+loss in epsiode 323 0.04058106243610382
+wait time in epsiode 323 28.550555555555555
+episode 324
+Simulating
+epsilon : 0.352
+queue length in epsiode 324 0.4025
+loss in epsiode 324 0.05585794150829315
+wait time in epsiode 324 39.83638888888889
+episode 325
+Simulating
+epsilon : 0.350
+queue length in epsiode 325 0.3869444444444444
+loss in epsiode 325 0.03155093267560005
+wait time in epsiode 325 36.54416666666667
+episode 326
+Simulating
+epsilon : 0.348
+queue length in epsiode 326 0.45444444444444443
+loss in epsiode 326 0.04069216176867485
+wait time in epsiode 326 43.404444444444444
+episode 327
+Simulating
+epsilon : 0.346
+queue length in epsiode 327 0.3852777777777778
+loss in epsiode 327 0.03932839632034302
+wait time in epsiode 327 36.066944444444445
+episode 328
+Simulating
+epsilon : 0.344
+queue length in epsiode 328 0.3638888888888889
+loss in epsiode 328 0.026186415925621986
+wait time in epsiode 328 33.965833333333336
+episode 329
+Simulating
+epsilon : 0.342
+queue length in epsiode 329 0.4766666666666667
+loss in epsiode 329 0.018777336925268173
+wait time in epsiode 329 52.403055555555554
+episode 330
+Simulating
+epsilon : 0.340
+queue length in epsiode 330 0.29444444444444445
+loss in epsiode 330 0.029657671228051186
+wait time in epsiode 330 25.116666666666667
+episode 331
+Simulating
+epsilon : 0.338
+queue length in epsiode 331 0.3236111111111111
+loss in epsiode 331 0.0535677894949913
+wait time in epsiode 331 27.438333333333333
+episode 332
+Simulating
+epsilon : 0.336
+queue length in epsiode 332 0.3852777777777778
+loss in epsiode 332 0.029452811926603317
+wait time in epsiode 332 37.766666666666666
+episode 333
+Simulating
+epsilon : 0.334
+queue length in epsiode 333 0.3738888888888889
+loss in epsiode 333 0.05984898656606674
+wait time in epsiode 333 36.589166666666664
+episode 334
+Simulating
+epsilon : 0.332
+queue length in epsiode 334 0.2833333333333333
+loss in epsiode 334 0.06355423480272293
+wait time in epsiode 334 24.914166666666667
+episode 335
+Simulating
+epsilon : 0.330
+queue length in epsiode 335 0.2783333333333333
+loss in epsiode 335 0.0279808659106493
+wait time in epsiode 335 23.92
+episode 336
+Simulating
+epsilon : 0.328
+queue length in epsiode 336 0.3591666666666667
+loss in epsiode 336 0.03850042074918747
+wait time in epsiode 336 33.00333333333333
+episode 337
+Simulating
+epsilon : 0.326
+queue length in epsiode 337 0.37083333333333335
+loss in epsiode 337 0.05447772145271301
+wait time in epsiode 337 33.594166666666666
+episode 338
+Simulating
+epsilon : 0.324
+queue length in epsiode 338 0.2825
+loss in epsiode 338 0.03738423436880112
+wait time in epsiode 338 24.48361111111111
+episode 339
+Simulating
+epsilon : 0.322
+queue length in epsiode 339 0.3461111111111111
+loss in epsiode 339 0.0377315990626812
+wait time in epsiode 339 32.90972222222222
+episode 340
+Simulating
+epsilon : 0.320
+queue length in epsiode 340 0.3552777777777778
+loss in epsiode 340 0.0268927663564682
+wait time in epsiode 340 34.40027777777778
+episode 341
+Simulating
+epsilon : 0.318
+queue length in epsiode 341 0.4486111111111111
+loss in epsiode 341 0.06922909617424011
+wait time in epsiode 341 45.562222222222225
+episode 342
+Simulating
+epsilon : 0.316
+queue length in epsiode 342 0.4436111111111111
+loss in epsiode 342 0.06876469403505325
+wait time in epsiode 342 47.3875
+episode 343
+Simulating
+epsilon : 0.314
+queue length in epsiode 343 0.35805555555555557
+loss in epsiode 343 0.056754812598228455
+wait time in epsiode 343 31.460555555555555
+episode 344
+Simulating
+epsilon : 0.312
+queue length in epsiode 344 0.3402777777777778
+loss in epsiode 344 0.03584961220622063
+wait time in epsiode 344 30.196944444444444
+episode 345
+Simulating
+epsilon : 0.310
+queue length in epsiode 345 0.325
+loss in epsiode 345 0.06543795019388199
+wait time in epsiode 345 30.129444444444445
+episode 346
+Simulating
+epsilon : 0.308
+queue length in epsiode 346 0.26805555555555555
+loss in epsiode 346 0.025966761633753777
+wait time in epsiode 346 22.625833333333333
+episode 347
+Simulating
+epsilon : 0.306
+queue length in epsiode 347 0.3852777777777778
+loss in epsiode 347 0.10545140504837036
+wait time in epsiode 347 35.99333333333333
+episode 348
+Simulating
+epsilon : 0.304
+queue length in epsiode 348 0.4022222222222222
+loss in epsiode 348 0.03925210237503052
+wait time in epsiode 348 38.4175
+episode 349
+Simulating
+epsilon : 0.302
+queue length in epsiode 349 0.40944444444444444
+loss in epsiode 349 0.07739352434873581
+wait time in epsiode 349 38.295
+episode 350
+Simulating
+epsilon : 0.300
+queue length in epsiode 350 0.39944444444444444
+loss in epsiode 350 0.049256183207035065
+wait time in epsiode 350 38.56
+episode 351
+Simulating
+epsilon : 0.298
+queue length in epsiode 351 0.3463888888888889
+loss in epsiode 351 0.058403730392456055
+wait time in epsiode 351 31.746111111111112
+episode 352
+Simulating
+epsilon : 0.296
+queue length in epsiode 352 0.3277777777777778
+loss in epsiode 352 0.10745248198509216
+wait time in epsiode 352 28.70277777777778
+episode 353
+Simulating
+epsilon : 0.294
+queue length in epsiode 353 0.3877777777777778
+loss in epsiode 353 0.07872527837753296
+wait time in epsiode 353 34.291666666666664
+episode 354
+Simulating
+epsilon : 0.292
+queue length in epsiode 354 0.3486111111111111
+loss in epsiode 354 0.033132247626781464
+wait time in epsiode 354 33.204166666666666
+episode 355
+Simulating
+epsilon : 0.290
+queue length in epsiode 355 0.3047222222222222
+loss in epsiode 355 0.05875345319509506
+wait time in epsiode 355 26.61111111111111
+episode 356
+Simulating
+epsilon : 0.288
+queue length in epsiode 356 0.3238888888888889
+loss in epsiode 356 0.07165747135877609
+wait time in epsiode 356 30.815833333333334
+episode 357
+Simulating
+epsilon : 0.286
+queue length in epsiode 357 0.30083333333333334
+loss in epsiode 357 0.0459713451564312
+wait time in epsiode 357 25.9675
+episode 358
+Simulating
+epsilon : 0.284
+queue length in epsiode 358 0.3436111111111111
+loss in epsiode 358 0.03065802901983261
+wait time in epsiode 358 31.961666666666666
+episode 359
+Simulating
+epsilon : 0.282
+queue length in epsiode 359 0.3597222222222222
+loss in epsiode 359 0.15615636110305786
+wait time in epsiode 359 31.43888888888889
+episode 360
+Simulating
+epsilon : 0.280
+queue length in epsiode 360 0.3522222222222222
+loss in epsiode 360 0.05906638503074646
+wait time in epsiode 360 33.51083333333333
+episode 361
+Simulating
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Desktop\traffic_DQN\training_main.py", line 86, in <module>
+    Simulation.run(episode,epsilon)
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 197, in run
+    self.optimize_model()
+  File "C:\Users\MNL431\Desktop\traffic_DQN\simulation.py", line 352, in optimize_model
+    self.optimizer.step()
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\optim\optimizer.py", line 385, in wrapper
+    out = func(*args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\optim\optimizer.py", line 76, in _use_grad
+    ret = func(self, *args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\optim\adam.py", line 166, in step
+    adam(
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\optim\adam.py", line 316, in adam
+    func(params,
+  File "C:\Users\MNL431\Anaconda3\envs\cartpoletest\lib\site-packages\torch\optim\adam.py", line 441, in _single_tensor_adam
+    param.addcdiv_(exp_avg, denom, value=-step_size)
+KeyboardInterrupt

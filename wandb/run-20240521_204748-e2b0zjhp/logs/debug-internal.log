@@ -1,0 +1,539 @@
+2024-05-21 20:47:48,403 INFO    StreamThr :15048 [internal.py:wandb_internal():86] W&B internal server running at pid: 15048, started at: 2024-05-21 20:47:48.402547
+2024-05-21 20:47:48,403 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status
+2024-05-21 20:47:48,403 INFO    WriterThread:15048 [datastore.py:open_for_write():87] open: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\run-e2b0zjhp.wandb
+2024-05-21 20:47:48,403 DEBUG   SenderThread:15048 [sender.py:send():379] send: header
+2024-05-21 20:47:48,457 DEBUG   SenderThread:15048 [sender.py:send():379] send: run
+2024-05-21 20:47:49,264 INFO    SenderThread:15048 [dir_watcher.py:__init__():211] watching files in: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files
+2024-05-21 20:47:49,264 INFO    SenderThread:15048 [sender.py:_start_run_threads():1124] run started: e2b0zjhp with start time 1716292068.403377
+2024-05-21 20:47:49,304 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: check_version
+2024-05-21 20:47:49,305 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: check_version
+2024-05-21 20:47:49,778 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: run_start
+2024-05-21 20:47:49,809 DEBUG   HandlerThread:15048 [system_info.py:__init__():26] System info init
+2024-05-21 20:47:49,809 DEBUG   HandlerThread:15048 [system_info.py:__init__():41] System info init done
+2024-05-21 20:47:49,809 INFO    HandlerThread:15048 [system_monitor.py:start():194] Starting system monitor
+2024-05-21 20:47:49,809 INFO    SystemMonitor:15048 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-05-21 20:47:49,809 INFO    HandlerThread:15048 [system_monitor.py:probe():214] Collecting system info
+2024-05-21 20:47:49,809 INFO    SystemMonitor:15048 [interfaces.py:start():190] Started cpu monitoring
+2024-05-21 20:47:49,809 INFO    SystemMonitor:15048 [interfaces.py:start():190] Started disk monitoring
+2024-05-21 20:47:49,809 INFO    SystemMonitor:15048 [interfaces.py:start():190] Started gpu monitoring
+2024-05-21 20:47:49,809 INFO    SystemMonitor:15048 [interfaces.py:start():190] Started memory monitoring
+2024-05-21 20:47:49,825 INFO    SystemMonitor:15048 [interfaces.py:start():190] Started network monitoring
+2024-05-21 20:47:49,841 DEBUG   HandlerThread:15048 [system_info.py:probe():150] Probing system
+2024-05-21 20:47:49,841 DEBUG   HandlerThread:15048 [system_info.py:_probe_git():135] Probing git
+2024-05-21 20:47:49,898 DEBUG   HandlerThread:15048 [system_info.py:_probe_git():143] Probing git done
+2024-05-21 20:47:49,898 DEBUG   HandlerThread:15048 [system_info.py:probe():198] Probing system done
+2024-05-21 20:47:49,898 DEBUG   HandlerThread:15048 [system_monitor.py:probe():223] {'os': 'Windows-10-10.0.22631-SP0', 'python': '3.9.18', 'heartbeatAt': '2024-05-21T11:47:49.841174', 'startedAt': '2024-05-21T11:47:48.353745', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': 'C:\\Users\\MNL431\\Desktop\\traffic_signal_DQN\\training_main.py', 'codePathLocal': 'training_main.py', 'codePath': 'training_main.py', 'git': {'remote': 'https://github.com/dongspam0209/traffic_light_control_DQN.git', 'commit': 'fa020fa208573823187d60d922beead016f325fd'}, 'email': 'iankim010209@gmail.com', 'root': 'C:/Users/MNL431/Desktop/traffic_signal_DQN', 'host': 'DESKTOP-NS4N5QL', 'username': 'MNL431', 'executable': 'C:\\Users\\MNL431\\Anaconda3\\envs\\yolov8\\python.exe', 'cpu_count': 6, 'cpu_count_logical': 12, 'cpu_freq': {'current': 3701.0, 'min': 0.0, 'max': 3701.0}, 'cpu_freq_per_core': [{'current': 3701.0, 'min': 0.0, 'max': 3701.0}], 'disk': {'/': {'total': 475.70605087280273, 'used': 262.2837448120117}}, 'gpu': 'NVIDIA GeForce GTX 1070 Ti', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA GeForce GTX 1070 Ti', 'memory_total': 8589934592}], 'memory': {'total': 31.92648696899414}}
+2024-05-21 20:47:49,898 INFO    HandlerThread:15048 [system_monitor.py:probe():224] Finished collecting system info
+2024-05-21 20:47:49,898 INFO    HandlerThread:15048 [system_monitor.py:probe():227] Publishing system info
+2024-05-21 20:47:49,898 DEBUG   HandlerThread:15048 [system_info.py:_save_conda():207] Saving list of conda packages installed into the current environment
+2024-05-21 20:47:50,268 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\conda-environment.yaml
+2024-05-21 20:47:53,904 DEBUG   HandlerThread:15048 [system_info.py:_save_conda():222] Saving conda packages done
+2024-05-21 20:47:53,916 INFO    HandlerThread:15048 [system_monitor.py:probe():229] Finished publishing system info
+2024-05-21 20:47:53,919 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:47:53,919 DEBUG   SenderThread:15048 [sender.py:send():379] send: files
+2024-05-21 20:47:53,919 INFO    SenderThread:15048 [sender.py:_save_file():1390] saving file wandb-metadata.json with policy now
+2024-05-21 20:47:54,097 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: python_packages
+2024-05-21 20:47:54,097 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-21 20:47:54,097 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-21 20:47:54,097 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: python_packages
+2024-05-21 20:47:54,097 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: stop_status
+2024-05-21 20:47:54,295 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\conda-environment.yaml
+2024-05-21 20:47:54,295 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\requirements.txt
+2024-05-21 20:47:54,295 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\wandb-metadata.json
+2024-05-21 20:47:54,749 DEBUG   SenderThread:15048 [sender.py:send():379] send: telemetry
+2024-05-21 20:47:55,104 INFO    wandb-upload_0:15048 [upload_job.py:push():131] Uploaded file C:\Users\MNL431\AppData\Local\Temp\tmp51dq4255wandb\hthy6e3s-wandb-metadata.json
+2024-05-21 20:47:56,302 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:47:58,316 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:47:58,792 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:48:00,321 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:02,335 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:03,820 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:48:04,599 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:08,936 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:48:09,119 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-21 20:48:09,137 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-21 20:48:09,162 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: stop_status
+2024-05-21 20:48:09,440 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:14,009 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:48:14,544 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:19,068 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:48:21,051 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:21,068 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\config.yaml
+2024-05-21 20:48:23,235 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:24,166 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-21 20:48:24,174 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-21 20:48:25,128 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:48:25,790 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:26,940 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:29,207 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:48:29,336 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:30,120 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:48:31,819 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:32,971 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: stop_status
+2024-05-21 20:48:33,216 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:35,147 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:48:35,638 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:38,192 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:39,128 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-21 20:48:39,235 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-21 20:48:39,470 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:40,169 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:48:41,818 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:44,170 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:48:44,218 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:45,194 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:48:46,746 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:47,847 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:49,185 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:48:49,889 DEBUG   SystemMonitor:15048 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-05-21 20:48:50,294 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:48:50,333 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:52,708 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:54,142 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-21 20:48:55,038 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:55,337 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:48:58,739 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:48:59,220 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:49:00,336 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:49:02,370 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: partial_history
+2024-05-21 20:49:04,268 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:49:05,554 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:49:06,235 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:49:09,220 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-21 20:49:10,619 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:49:11,198 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:49:14,336 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:49:15,651 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:49:16,941 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: stop_status
+2024-05-21 20:49:19,571 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:49:20,648 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:49:20,771 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:49:24,101 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-21 20:49:25,667 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:49:29,418 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:49:30,719 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:49:33,004 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:49:34,410 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:49:35,784 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:49:39,151 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-21 20:49:40,833 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:49:41,668 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:49:44,552 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:49:45,902 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:49:49,518 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:49:51,057 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:49:54,199 DEBUG   SenderThread:15048 [sender.py:send():379] send: stats
+2024-05-21 20:49:54,274 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-21 20:49:56,030 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:49:56,467 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:49:59,580 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:50:01,110 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:50:04,598 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:50:06,303 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:50:06,485 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:50:09,456 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-21 20:50:11,462 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:50:14,653 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:50:16,470 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:50:18,236 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-21 20:50:21,686 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:50:23,568 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:50:26,768 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:50:29,285 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:50:31,809 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:50:34,475 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:50:36,903 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:50:39,551 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:50:41,969 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:50:44,751 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:50:46,982 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:50:50,080 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:50:52,037 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:50:52,953 DEBUG   SenderThread:15048 [sender.py:send():379] send: history
+2024-05-21 20:50:53,020 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: summary_record
+2024-05-21 20:50:53,250 INFO    SenderThread:15048 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-21 20:50:53,269 DEBUG   SenderThread:15048 [sender.py:send():379] send: stats
+2024-05-21 20:50:53,269 DEBUG   SenderThread:15048 [sender.py:send():379] send: stats
+2024-05-21 20:50:53,486 DEBUG   SenderThread:15048 [sender.py:send():379] send: exit
+2024-05-21 20:50:53,486 INFO    SenderThread:15048 [sender.py:send_exit():586] handling exit code: 255
+2024-05-21 20:50:53,486 INFO    SenderThread:15048 [sender.py:send_exit():588] handling runtime: 147
+2024-05-21 20:50:53,586 INFO    SenderThread:15048 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-21 20:50:53,686 INFO    SenderThread:15048 [sender.py:send_exit():594] send defer
+2024-05-21 20:50:53,688 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: poll_exit
+2024-05-21 20:50:53,689 DEBUG   SenderThread:15048 [sender.py:send():379] send: stats
+2024-05-21 20:50:53,689 DEBUG   SenderThread:15048 [sender.py:send():379] send: stats
+2024-05-21 20:50:53,689 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:50:53,689 INFO    HandlerThread:15048 [handler.py:handle_request_defer():172] handle defer: 0
+2024-05-21 20:50:53,719 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:50:53,719 INFO    SenderThread:15048 [sender.py:send_request_defer():610] handle sender defer: 0
+2024-05-21 20:50:53,719 INFO    SenderThread:15048 [sender.py:transition_state():614] send defer: 1
+2024-05-21 20:50:53,719 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:50:53,719 INFO    HandlerThread:15048 [handler.py:handle_request_defer():172] handle defer: 1
+2024-05-21 20:50:53,720 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:50:53,720 INFO    SenderThread:15048 [sender.py:send_request_defer():610] handle sender defer: 1
+2024-05-21 20:50:53,720 INFO    SenderThread:15048 [sender.py:transition_state():614] send defer: 2
+2024-05-21 20:50:53,720 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:50:53,720 INFO    HandlerThread:15048 [handler.py:handle_request_defer():172] handle defer: 2
+2024-05-21 20:50:53,720 INFO    HandlerThread:15048 [system_monitor.py:finish():203] Stopping system monitor
+2024-05-21 20:50:53,731 INFO    HandlerThread:15048 [interfaces.py:finish():202] Joined cpu monitor
+2024-05-21 20:50:53,750 INFO    HandlerThread:15048 [interfaces.py:finish():202] Joined disk monitor
+2024-05-21 20:50:53,751 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:50:53,751 DEBUG   SystemMonitor:15048 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-05-21 20:50:53,766 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\wandb-summary.json
+2024-05-21 20:50:53,766 DEBUG   SystemMonitor:15048 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-05-21 20:50:54,615 INFO    HandlerThread:15048 [interfaces.py:finish():202] Joined gpu monitor
+2024-05-21 20:50:54,615 INFO    HandlerThread:15048 [interfaces.py:finish():202] Joined memory monitor
+2024-05-21 20:50:54,615 INFO    HandlerThread:15048 [interfaces.py:finish():202] Joined network monitor
+2024-05-21 20:50:54,615 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-21 20:50:54,630 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:50:54,630 INFO    SenderThread:15048 [sender.py:send_request_defer():610] handle sender defer: 2
+2024-05-21 20:50:54,630 INFO    SenderThread:15048 [sender.py:transition_state():614] send defer: 3
+2024-05-21 20:50:54,630 DEBUG   SenderThread:15048 [sender.py:send():379] send: stats
+2024-05-21 20:50:54,630 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: poll_exit
+2024-05-21 20:50:54,638 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:50:54,638 INFO    HandlerThread:15048 [handler.py:handle_request_defer():172] handle defer: 3
+2024-05-21 20:50:54,646 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:50:54,646 INFO    SenderThread:15048 [sender.py:send_request_defer():610] handle sender defer: 3
+2024-05-21 20:50:54,646 INFO    SenderThread:15048 [sender.py:transition_state():614] send defer: 4
+2024-05-21 20:50:54,646 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:50:54,646 INFO    HandlerThread:15048 [handler.py:handle_request_defer():172] handle defer: 4
+2024-05-21 20:50:54,668 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:50:54,668 INFO    SenderThread:15048 [sender.py:send_request_defer():610] handle sender defer: 4
+2024-05-21 20:50:54,668 INFO    SenderThread:15048 [sender.py:transition_state():614] send defer: 5
+2024-05-21 20:50:54,668 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:50:54,668 INFO    HandlerThread:15048 [handler.py:handle_request_defer():172] handle defer: 5
+2024-05-21 20:50:54,684 DEBUG   SenderThread:15048 [sender.py:send():379] send: summary
+2024-05-21 20:50:54,708 INFO    SenderThread:15048 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-05-21 20:50:54,708 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:50:54,708 INFO    SenderThread:15048 [sender.py:send_request_defer():610] handle sender defer: 5
+2024-05-21 20:50:54,708 INFO    SenderThread:15048 [sender.py:transition_state():614] send defer: 6
+2024-05-21 20:50:54,708 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:50:54,708 INFO    HandlerThread:15048 [handler.py:handle_request_defer():172] handle defer: 6
+2024-05-21 20:50:54,769 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:50:54,769 INFO    SenderThread:15048 [sender.py:send_request_defer():610] handle sender defer: 6
+2024-05-21 20:50:54,769 INFO    SenderThread:15048 [sender.py:transition_state():614] send defer: 7
+2024-05-21 20:50:54,785 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:50:54,785 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:50:54,785 INFO    HandlerThread:15048 [handler.py:handle_request_defer():172] handle defer: 7
+2024-05-21 20:50:54,833 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:50:54,833 INFO    SenderThread:15048 [sender.py:send_request_defer():610] handle sender defer: 7
+2024-05-21 20:50:54,959 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\wandb-summary.json
+2024-05-21 20:50:55,003 ERROR   FileStreamThread:15048 [file_stream.py:_handle_response():523] dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/tlsc/tlsc-project/e2b0zjhp/file_stream
+NoneType: None
+2024-05-21 20:50:55,978 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-21 20:50:56,085 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:50:59,852 INFO    SenderThread:15048 [sender.py:_output_raw_finish():1194] processing output...
+2024-05-21 20:51:01,151 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:51:06,364 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:51:06,602 ERROR   FileStreamThread:15048 [file_stream.py:_handle_response():523] dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/tlsc/tlsc-project/e2b0zjhp/file_stream
+NoneType: None
+2024-05-21 20:51:12,292 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:51:18,714 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:51:21,615 WARNING OutRawWr-stdout:15048 [sender.py:_output_raw_writer_thread():1217] Terminal output too large. Logging without processing.
+2024-05-21 20:51:21,851 ERROR   FileStreamThread:15048 [file_stream.py:_handle_response():523] dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/tlsc/tlsc-project/e2b0zjhp/file_stream
+NoneType: None
+2024-05-21 20:51:22,239 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:51:23,899 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-21 20:51:25,410 INFO    SenderThread:15048 [sender.py:transition_state():614] send defer: 8
+2024-05-21 20:51:25,410 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: poll_exit
+2024-05-21 20:51:25,410 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:51:25,410 INFO    HandlerThread:15048 [handler.py:handle_request_defer():172] handle defer: 8
+2024-05-21 20:51:25,410 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: status_report
+2024-05-21 20:51:25,410 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:51:25,410 INFO    SenderThread:15048 [sender.py:send_request_defer():610] handle sender defer: 8
+2024-05-21 20:51:25,410 INFO    SenderThread:15048 [job_builder.py:build():318] Attempting to build job artifact
+2024-05-21 20:51:25,410 INFO    Thread-16 :15048 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+2024-05-21 20:51:25,410 INFO    SenderThread:15048 [job_builder.py:_get_source_type():455] is repo sourced job
+2024-05-21 20:51:25,494 INFO    SenderThread:15048 [job_builder.py:build():431] adding wandb-job metadata file
+2024-05-21 20:51:25,509 INFO    SenderThread:15048 [sender.py:transition_state():614] send defer: 9
+2024-05-21 20:51:25,510 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:51:25,510 INFO    HandlerThread:15048 [handler.py:handle_request_defer():172] handle defer: 9
+2024-05-21 20:51:25,510 DEBUG   SenderThread:15048 [sender.py:send():379] send: artifact
+2024-05-21 20:51:26,348 ERROR   SenderThread:15048 [internal_api.py:execute():373] 404 response executing GraphQL.
+2024-05-21 20:51:26,348 ERROR   SenderThread:15048 [internal_api.py:execute():374] {"errors":[{"message":"failed to find run tlsc-project/e2b0zjhp","path":["createArtifactManifest"]}],"data":{"createArtifactManifest":null}}
+2024-05-21 20:51:26,348 ERROR   SenderThread:15048 [sender.py:send_artifact():1470] send_artifact: failed for artifact "job/job-https___github.com_dongspam0209_traffic_light_control_DQN.git_training_main.py": It appears that you do not have permission to access the requested resource. Please reach out to the project owner to grant you access. If you have the correct permissions, verify that there are no issues with your networking setup.(Error 404: Not Found)
+2024-05-21 20:51:26,348 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:51:26,348 INFO    SenderThread:15048 [sender.py:send_request_defer():610] handle sender defer: 9
+2024-05-21 20:51:26,348 INFO    SenderThread:15048 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-05-21 20:51:26,437 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-21 20:51:26,439 INFO    SenderThread:15048 [dir_watcher.py:finish():388] scan: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files
+2024-05-21 20:51:26,440 INFO    SenderThread:15048 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\conda-environment.yaml conda-environment.yaml
+2024-05-21 20:51:26,440 INFO    SenderThread:15048 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\config.yaml config.yaml
+2024-05-21 20:51:26,444 INFO    SenderThread:15048 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log output.log
+2024-05-21 20:51:26,447 INFO    SenderThread:15048 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\requirements.txt requirements.txt
+2024-05-21 20:51:26,451 INFO    SenderThread:15048 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\wandb-metadata.json wandb-metadata.json
+2024-05-21 20:51:26,452 INFO    SenderThread:15048 [dir_watcher.py:finish():402] scan save: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\wandb-summary.json wandb-summary.json
+2024-05-21 20:51:26,453 INFO    SenderThread:15048 [sender.py:transition_state():614] send defer: 10
+2024-05-21 20:51:26,453 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: poll_exit
+2024-05-21 20:51:26,453 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:51:26,453 INFO    HandlerThread:15048 [handler.py:handle_request_defer():172] handle defer: 10
+2024-05-21 20:51:26,459 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:51:26,459 INFO    SenderThread:15048 [sender.py:send_request_defer():610] handle sender defer: 10
+2024-05-21 20:51:26,460 INFO    SenderThread:15048 [file_pusher.py:finish():172] shutting down file pusher
+2024-05-21 20:51:26,647 ERROR   wandb-upload_1:15048 [internal_api.py:execute():373] 404 response executing GraphQL.
+2024-05-21 20:51:26,647 ERROR   wandb-upload_1:15048 [internal_api.py:execute():374] {"errors":[{"message":"run tlsc-project/e2b0zjhp not found during createRunFiles","path":["createRunFiles"]}],"data":{"createRunFiles":null}}
+2024-05-21 20:51:26,647 ERROR   Thread-15 :15048 [step_upload.py:_handle_event():200] Failed to upload file: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\config.yaml
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\lib\retry.py", line 131, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\internal\internal_api.py", line 369, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\lib\gql_request.py", line 59, in execute
+    request.raise_for_status()
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://api.wandb.ai/graphql
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\step_upload.py", line 288, in run_and_notify
+    self._do_upload_sync(event)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\step_upload.py", line 330, in _do_upload_sync
+    job.run()
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\upload_job.py", line 57, in run
+    self.push()
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\upload_job.py", line 106, in push
+    _, upload_headers, result = self._api.upload_urls(project, [self.save_name])
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\apis\normalize.py", line 73, in wrapper
+    raise err
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\apis\normalize.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\internal\internal_api.py", line 2386, in upload_urls
+    query_result = self.gql(
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\internal\internal_api.py", line 341, in gql
+    ret = self._retry_gql(
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\lib\retry.py", line 147, in __call__
+    retry_timedelta_triggered = check_retry_fn(e)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\util.py", line 910, in no_retry_auth
+    raise CommError(
+wandb.errors.CommError: It appears that you do not have permission to access the requested resource. Please reach out to the project owner to grant you access. If you have the correct permissions, verify that there are no issues with your networking setup.(Error 404: Not Found)
+2024-05-21 20:51:26,667 ERROR   wandb-upload_0:15048 [internal_api.py:execute():373] 404 response executing GraphQL.
+2024-05-21 20:51:26,667 ERROR   wandb-upload_0:15048 [internal_api.py:execute():374] {"errors":[{"message":"run tlsc-project/e2b0zjhp not found during createRunFiles","path":["createRunFiles"]}],"data":{"createRunFiles":null}}
+2024-05-21 20:51:26,667 ERROR   Thread-15 :15048 [step_upload.py:_handle_event():200] Failed to upload file: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\conda-environment.yaml
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\lib\retry.py", line 131, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\internal\internal_api.py", line 369, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\lib\gql_request.py", line 59, in execute
+    request.raise_for_status()
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://api.wandb.ai/graphql
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\step_upload.py", line 288, in run_and_notify
+    self._do_upload_sync(event)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\step_upload.py", line 330, in _do_upload_sync
+    job.run()
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\upload_job.py", line 57, in run
+    self.push()
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\upload_job.py", line 106, in push
+    _, upload_headers, result = self._api.upload_urls(project, [self.save_name])
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\apis\normalize.py", line 73, in wrapper
+    raise err
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\apis\normalize.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\internal\internal_api.py", line 2386, in upload_urls
+    query_result = self.gql(
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\internal\internal_api.py", line 341, in gql
+    ret = self._retry_gql(
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\lib\retry.py", line 147, in __call__
+    retry_timedelta_triggered = check_retry_fn(e)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\util.py", line 910, in no_retry_auth
+    raise CommError(
+wandb.errors.CommError: It appears that you do not have permission to access the requested resource. Please reach out to the project owner to grant you access. If you have the correct permissions, verify that there are no issues with your networking setup.(Error 404: Not Found)
+2024-05-21 20:51:27,085 ERROR   wandb-upload_2:15048 [internal_api.py:execute():373] 404 response executing GraphQL.
+2024-05-21 20:51:27,085 ERROR   wandb-upload_2:15048 [internal_api.py:execute():374] {"errors":[{"message":"run tlsc-project/e2b0zjhp not found during createRunFiles","path":["createRunFiles"]}],"data":{"createRunFiles":null}}
+2024-05-21 20:51:27,085 ERROR   Thread-15 :15048 [step_upload.py:_handle_event():200] Failed to upload file: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\output.log
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\lib\retry.py", line 131, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\internal\internal_api.py", line 369, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\lib\gql_request.py", line 59, in execute
+    request.raise_for_status()
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://api.wandb.ai/graphql
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\step_upload.py", line 288, in run_and_notify
+    self._do_upload_sync(event)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\step_upload.py", line 330, in _do_upload_sync
+    job.run()
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\upload_job.py", line 57, in run
+    self.push()
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\upload_job.py", line 106, in push
+    _, upload_headers, result = self._api.upload_urls(project, [self.save_name])
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\apis\normalize.py", line 73, in wrapper
+    raise err
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\apis\normalize.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\internal\internal_api.py", line 2386, in upload_urls
+    query_result = self.gql(
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\internal\internal_api.py", line 341, in gql
+    ret = self._retry_gql(
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\lib\retry.py", line 147, in __call__
+    retry_timedelta_triggered = check_retry_fn(e)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\util.py", line 910, in no_retry_auth
+    raise CommError(
+wandb.errors.CommError: It appears that you do not have permission to access the requested resource. Please reach out to the project owner to grant you access. If you have the correct permissions, verify that there are no issues with your networking setup.(Error 404: Not Found)
+2024-05-21 20:51:27,085 ERROR   wandb-upload_3:15048 [internal_api.py:execute():373] 404 response executing GraphQL.
+2024-05-21 20:51:27,085 ERROR   wandb-upload_3:15048 [internal_api.py:execute():374] {"errors":[{"message":"run tlsc-project/e2b0zjhp not found during createRunFiles","path":["createRunFiles"]}],"data":{"createRunFiles":null}}
+2024-05-21 20:51:27,100 ERROR   Thread-15 :15048 [step_upload.py:_handle_event():200] Failed to upload file: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\requirements.txt
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\lib\retry.py", line 131, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\internal\internal_api.py", line 369, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\lib\gql_request.py", line 59, in execute
+    request.raise_for_status()
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://api.wandb.ai/graphql
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\step_upload.py", line 288, in run_and_notify
+    self._do_upload_sync(event)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\step_upload.py", line 330, in _do_upload_sync
+    job.run()
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\upload_job.py", line 57, in run
+    self.push()
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\upload_job.py", line 106, in push
+    _, upload_headers, result = self._api.upload_urls(project, [self.save_name])
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\apis\normalize.py", line 73, in wrapper
+    raise err
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\apis\normalize.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\internal\internal_api.py", line 2386, in upload_urls
+    query_result = self.gql(
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\internal\internal_api.py", line 341, in gql
+    ret = self._retry_gql(
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\lib\retry.py", line 147, in __call__
+    retry_timedelta_triggered = check_retry_fn(e)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\util.py", line 910, in no_retry_auth
+    raise CommError(
+wandb.errors.CommError: It appears that you do not have permission to access the requested resource. Please reach out to the project owner to grant you access. If you have the correct permissions, verify that there are no issues with your networking setup.(Error 404: Not Found)
+2024-05-21 20:51:27,126 ERROR   wandb-upload_4:15048 [internal_api.py:execute():373] 404 response executing GraphQL.
+2024-05-21 20:51:27,126 ERROR   wandb-upload_4:15048 [internal_api.py:execute():374] {"errors":[{"message":"run tlsc-project/e2b0zjhp not found during createRunFiles","path":["createRunFiles"]}],"data":{"createRunFiles":null}}
+2024-05-21 20:51:27,137 ERROR   Thread-15 :15048 [step_upload.py:_handle_event():200] Failed to upload file: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\files\wandb-summary.json
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\lib\retry.py", line 131, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\internal\internal_api.py", line 369, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\lib\gql_request.py", line 59, in execute
+    request.raise_for_status()
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://api.wandb.ai/graphql
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\step_upload.py", line 288, in run_and_notify
+    self._do_upload_sync(event)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\step_upload.py", line 330, in _do_upload_sync
+    job.run()
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\upload_job.py", line 57, in run
+    self.push()
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\filesync\upload_job.py", line 106, in push
+    _, upload_headers, result = self._api.upload_urls(project, [self.save_name])
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\apis\normalize.py", line 73, in wrapper
+    raise err
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\apis\normalize.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\internal\internal_api.py", line 2386, in upload_urls
+    query_result = self.gql(
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\internal\internal_api.py", line 341, in gql
+    ret = self._retry_gql(
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\sdk\lib\retry.py", line 147, in __call__
+    retry_timedelta_triggered = check_retry_fn(e)
+  File "C:\Users\MNL431\Anaconda3\envs\yolov8\lib\site-packages\wandb\util.py", line 910, in no_retry_auth
+    raise CommError(
+wandb.errors.CommError: It appears that you do not have permission to access the requested resource. Please reach out to the project owner to grant you access. If you have the correct permissions, verify that there are no issues with your networking setup.(Error 404: Not Found)
+2024-05-21 20:51:27,346 INFO    Thread-15 :15048 [sender.py:transition_state():614] send defer: 11
+2024-05-21 20:51:27,346 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:51:27,346 INFO    HandlerThread:15048 [handler.py:handle_request_defer():172] handle defer: 11
+2024-05-21 20:51:27,346 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:51:27,346 INFO    SenderThread:15048 [sender.py:send_request_defer():610] handle sender defer: 11
+2024-05-21 20:51:27,346 INFO    SenderThread:15048 [file_pusher.py:join():178] waiting for file pusher
+2024-05-21 20:51:27,346 INFO    SenderThread:15048 [sender.py:transition_state():614] send defer: 12
+2024-05-21 20:51:27,346 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:51:27,346 INFO    HandlerThread:15048 [handler.py:handle_request_defer():172] handle defer: 12
+2024-05-21 20:51:27,346 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:51:27,346 INFO    SenderThread:15048 [sender.py:send_request_defer():610] handle sender defer: 12
+2024-05-21 20:51:27,346 INFO    SenderThread:15048 [file_stream.py:finish():614] file stream finish called
+2024-05-21 20:51:27,444 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-21 20:51:28,725 ERROR   FileStreamThread:15048 [file_stream.py:_handle_response():523] dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/tlsc/tlsc-project/e2b0zjhp/file_stream
+NoneType: None
+2024-05-21 20:51:28,931 INFO    SenderThread:15048 [file_stream.py:finish():618] file stream finish is done
+2024-05-21 20:51:28,931 INFO    SenderThread:15048 [sender.py:transition_state():614] send defer: 13
+2024-05-21 20:51:28,931 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: poll_exit
+2024-05-21 20:51:28,931 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:51:28,931 INFO    HandlerThread:15048 [handler.py:handle_request_defer():172] handle defer: 13
+2024-05-21 20:51:28,931 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:51:28,931 INFO    SenderThread:15048 [sender.py:send_request_defer():610] handle sender defer: 13
+2024-05-21 20:51:28,931 INFO    SenderThread:15048 [sender.py:transition_state():614] send defer: 14
+2024-05-21 20:51:28,931 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: defer
+2024-05-21 20:51:28,931 INFO    HandlerThread:15048 [handler.py:handle_request_defer():172] handle defer: 14
+2024-05-21 20:51:28,947 DEBUG   SenderThread:15048 [sender.py:send():379] send: final
+2024-05-21 20:51:28,947 DEBUG   SenderThread:15048 [sender.py:send():379] send: footer
+2024-05-21 20:51:28,947 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: defer
+2024-05-21 20:51:28,947 INFO    SenderThread:15048 [sender.py:send_request_defer():610] handle sender defer: 14
+2024-05-21 20:51:28,947 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-21 20:51:28,947 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: poll_exit
+2024-05-21 20:51:28,947 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: poll_exit
+2024-05-21 20:51:28,947 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: server_info
+2024-05-21 20:51:28,947 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: get_summary
+2024-05-21 20:51:28,947 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: sampled_history
+2024-05-21 20:51:28,947 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-21 20:51:28,947 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: poll_exit
+2024-05-21 20:51:28,947 DEBUG   SenderThread:15048 [sender.py:send_request():406] send_request: server_info
+2024-05-21 20:51:29,146 INFO    MainThread:15048 [wandb_run.py:_footer_history_summary_info():3920] rendering history
+2024-05-21 20:51:29,146 INFO    MainThread:15048 [wandb_run.py:_footer_history_summary_info():3952] rendering summary
+2024-05-21 20:51:29,146 INFO    MainThread:15048 [wandb_run.py:_footer_sync_info():3879] logging synced files
+2024-05-21 20:51:29,146 DEBUG   HandlerThread:15048 [handler.py:handle_request():146] handle_request: shutdown
+2024-05-21 20:51:29,160 INFO    HandlerThread:15048 [handler.py:finish():866] shutting down handler
+2024-05-21 20:51:29,962 INFO    WriterThread:15048 [datastore.py:close():296] close: C:\Users\MNL431\Desktop\traffic_signal_DQN\wandb\run-20240521_204748-e2b0zjhp\run-e2b0zjhp.wandb
+2024-05-21 20:51:30,149 INFO    SenderThread:15048 [sender.py:finish():1546] shutting down sender
+2024-05-21 20:51:30,149 INFO    SenderThread:15048 [file_pusher.py:finish():172] shutting down file pusher
+2024-05-21 20:51:30,149 INFO    SenderThread:15048 [file_pusher.py:join():178] waiting for file pusher
