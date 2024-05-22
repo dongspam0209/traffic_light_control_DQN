@@ -1,0 +1,95 @@
+episode 0
+Simulating
+Selected Action: 11 with ratios [8, 4, 8, 8]
+현재 i값:  0
+현재 ratio 값:  8
+green phase code:  0
+yellow phase code:  1
+현재 i값:  1
+현재 ratio 값:  4
+green phase code:  2
+yellow phase code:  3
+현재 i값:  2
+현재 ratio 값:  8
+green phase code:  4
+yellow phase code:  5
+현재 i값:  3
+현재 ratio 값:  8
+green phase code:  6
+yellow phase code:  7
+Selected Action: 13 with ratios [8, 8, 4, 8]
+현재 i값:  0
+현재 ratio 값:  8
+green phase code:  0
+yellow phase code:  1
+현재 i값:  1
+현재 ratio 값:  8
+green phase code:  2
+yellow phase code:  3
+현재 i값:  2
+현재 ratio 값:  4
+green phase code:  4
+yellow phase code:  5
+현재 i값:  3
+현재 ratio 값:  8
+green phase code:  6
+yellow phase code:  7
+Selected Action: 1 with ratios [6, 6, 6, 10]
+현재 i값:  0
+현재 ratio 값:  6
+green phase code:  0
+yellow phase code:  1
+현재 i값:  1
+현재 ratio 값:  6
+green phase code:  2
+yellow phase code:  3
+현재 i값:  2
+현재 ratio 값:  6
+green phase code:  4
+yellow phase code:  5
+현재 i값:  3
+현재 ratio 값:  10
+green phase code:  6
+yellow phase code:  7
+Selected Action: 4 with ratios [6, 10, 6, 6]
+현재 i값:  0
+현재 ratio 값:  6
+green phase code:  0
+yellow phase code:  1
+현재 i값:  1
+현재 ratio 값:  10
+green phase code:  2
+yellow phase code:  3
+현재 i값:  2
+현재 ratio 값:  6
+green phase code:  4
+yellow phase code:  5
+현재 i값:  3
+현재 ratio 값:  6
+green phase code:  6
+yellow phase code:  7
+Selected Action: 7 with ratios [4, 8, 8, 8]
+현재 i값:  0
+현재 ratio 값:  4
+green phase code:  0
+yellow phase code:  1
+현재 i값:  1
+현재 ratio 값:  8
+green phase code:  2
+yellow phase code:  3
+Traceback (most recent call last):
+  File "C:\Users\admin\cycletsc\traffic_light_control_DQN\training_main.py", line 86, in <module>
+    Simulation.run(episode, epsilon)
+  File "C:\Users\admin\cycletsc\traffic_light_control_DQN\simulation.py", line 179, in run
+    self._simulate(3)
+  File "C:\Users\admin\cycletsc\traffic_light_control_DQN\simulation.py", line 246, in _simulate
+    traci.simulationStep()
+  File "C:\Users\admin\anaconda3\lib\site-packages\traci\main.py", line 198, in simulationStep
+    connection.check().simulationStep(step)
+  File "C:\Users\admin\anaconda3\lib\site-packages\traci\connection.py", line 368, in simulationStep
+    result = self._sendCmd(tc.CMD_SIMSTEP, None, None, "D", step)
+  File "C:\Users\admin\anaconda3\lib\site-packages\traci\connection.py", line 231, in _sendCmd
+    return self._sendExact()
+  File "C:\Users\admin\anaconda3\lib\site-packages\traci\connection.py", line 137, in _sendExact
+    raise FatalTraCIError("Connection closed by SUMO.")
+traci.exceptions.FatalTraCIError: Connection closed by SUMO.

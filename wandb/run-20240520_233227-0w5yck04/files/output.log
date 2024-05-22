@@ -1,0 +1,11 @@
+episode 0
+Simulating
+Selected Action: 0 with ratios [7, 7, 7, 7]
+cycle 끝난 후 reward:  <bound method Simulation._reward of <simulation.Simulation object at 0x000002736ED8A040>>
+plot_reward:  0.0
+Traceback (most recent call last):
+  File "C:\Users\admin\cycletsc\traffic_light_control_DQN\training_main.py", line 86, in <module>
+    Simulation.run(episode, epsilon)
+  File "C:\Users\admin\cycletsc\traffic_light_control_DQN\simulation.py", line 188, in run
+    self._ReplayMemory.push(old_state, old_action_number, current_state, reward)
+UnboundLocalError: local variable 'old_action_number' referenced before assignment
