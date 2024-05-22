@@ -1,0 +1,53 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.9.16",
+    "heartbeatAt": "2024-05-20T13:45:57.009699",
+    "startedAt": "2024-05-20T13:45:55.092898",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\admin\\cycletsc\\traffic_light_control_DQN\\training_main.py",
+    "codePathLocal": "training_main.py",
+    "codePath": "training_main.py",
+    "git": {
+        "remote": "https://github.com/dongspam0209/traffic_light_control_DQN.git",
+        "commit": "362104e9f9338cffc964dedd21be5fbbbb121fe7"
+    },
+    "email": "tngoc@naver.com",
+    "root": "C:/Users/admin/cycletsc/traffic_light_control_DQN",
+    "host": "DESKTOP-PBF1L4K",
+    "username": "admin",
+    "executable": "C:\\Users\\admin\\anaconda3\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3192.0,
+        "min": 0.0,
+        "max": 3192.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3192.0,
+            "min": 0.0,
+            "max": 3192.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 222.43316268920898,
+            "used": 215.81692504882812
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060",
+            "memory_total": 12884901888
+        }
+    ],
+    "memory": {
+        "total": 31.8643798828125
+    }
+}

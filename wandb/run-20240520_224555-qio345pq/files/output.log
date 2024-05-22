@@ -1,0 +1,10 @@
+
+episode 0
+Simulating
+Selected Action: 12 with ratios [9, 9, 5, 5]
+Traceback (most recent call last):
+  File "C:\Users\admin\cycletsc\traffic_light_control_DQN\training_main.py", line 86, in <module>
+    Simulation.run(episode, epsilon)
+  File "C:\Users\admin\cycletsc\traffic_light_control_DQN\simulation.py", line 180, in run
+    cycle_count += 1
+UnboundLocalError: local variable 'cycle_count' referenced before assignment
