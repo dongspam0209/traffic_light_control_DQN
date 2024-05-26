@@ -1,3 +1,4 @@
+#### duration selection ####
 import traci
 import numpy as np
 import pandas as pd
@@ -104,15 +105,13 @@ class Simulation:
         # Inits
         #step은 시뮬레이션 초의 의미. 0초로 초기화. max_steps는 3600으로 선언함. 즉 3600초동안 시뮬레이션이 돌아감.
         self._step = 0
+        self.cyclecount=0
         #### vehicle duration calculate ####
         self.veh_time_in_lane={}
         self.veh_wait_time_in_lane={}
         #최초의 s_t=-1 a_t=-1 로 초기화, 어차피 맨처음 초기화 한 값은 메모리에 넣지 않을 것이기 때문에, 초기화만 해둠
         old_state = -1
         old_action_number = -1
-
-        previous_cycle_queue_length = 0  # 이전 사이클의 큐 길이
-        previous_cycle_wait_time = 0  # 이전 사이클의 대기 시간
 
         while self._step < self._max_steps:
             ############# Get state ##################
@@ -172,9 +171,8 @@ class Simulation:
             
             # 이전에 리워드 변수로 선언한 차선별 대기열을 나타내는 queue_len_per_lane 변수에 queue_length_sum_per_lane_list값 저장함.
             self.queue_len_per_lane = queue_length_sum_per_lane_list
-            current_total_queue_length = sum(queue_length_sum_per_lane_list)
-            self._reward_queue_length = current_total_queue_length - previous_cycle_queue_length # 이전 사이클과 현재 사이클의 큐 길이 차이
-            self.plot_queue_length += current_total_queue_length
+            self._reward_queue_length = sum(queue_length_sum_per_lane_list) 
+            self.plot_queue_length += self._reward_queue_length
 
             ############## To plot waiting time in one episode (total sum of waiting time in whole one episode ###################
             for lane_group in range(16):
@@ -204,6 +202,7 @@ class Simulation:
                 traci.trafficlight.setPhase("intersection", yellow_phase_code)
                 self._simulate(3)
             # 40 step이 지나고 1 cycle 종료
+            self.cyclecount+=1
             #######################################################################################################
 
             
@@ -211,8 +210,6 @@ class Simulation:
 
             old_state = current_state
             old_action_number = action_to_do
-            previous_cycle_queue_length = current_total_queue_length  # 이전 사이클의 큐 길이 업데이트
-            # previous_cycle_wait_time = current_total_wait  # 이전 사이클의 대기 시간 업데이트
 
         if len(self.veh_wait_time_in_lane)==1000:
             with open('dictionary_values.txt', 'w') as file:
@@ -222,9 +219,9 @@ class Simulation:
             num_cars=len(self.veh_wait_time_in_lane)
             average_wait_time=veh_total_wait_sum/num_cars if num_cars>0 else 0
 
-        self.reward_per_episode.append(self.plot_reward / 90)
+        self.reward_per_episode.append(self.plot_reward /self.cyclecount)
         self._waiting_time_per_episode.append(average_wait_time)
-        self._queue_length_per_episode.append(self.plot_queue_length / 90)
+        self._queue_length_per_episode.append(self.plot_queue_length / self.cyclecount)
         print(f"epsilon : {epsilon:.3f}")
 
         traci.close()
@@ -365,15 +362,15 @@ class Simulation:
         self.learn_step_counter += 1
 
     def _reward(self):
-        w_1 = 1
-        w_2 = 0
-        w_3 = 0
+        w_1 = 1/3
+        w_2 = 1/3
+        w_3 = 1/3
 
         waiting_time = self._reward_wait_time
         queue_length = self._reward_queue_length
 
-        avg_waiting_time = 1
-        avg_queue_length = 1.5
+        avg_waiting_time = 3000
+        avg_queue_length = 20
 
         each_waiting_time_for_fairness = self.wait_times_per_lane
         each_queue_length_for_fairness = self.queue_len_per_lane
