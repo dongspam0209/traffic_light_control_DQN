@@ -398,15 +398,25 @@ class Simulation:
         self.learn_step_counter+=1
 
     def _reward(self):
-        w_1=1
-        w_2=0
-        w_3=0
+        w_1=1/3
+        w_2=1/3
+        w_3=1/3
 
         waiting_time=self._reward_wait_time
+
+        #clipping for too low wait_time_reward
+        if self._reward_wait_time>=2500:
+            waiting_time=2500
+
         queue_length=self._reward_queue_length
 
-        avg_waiting_time=1
-        avg_queue_length=1.5
+        if self._reward_queue_length>=16:
+            queue_length=16
+            
+        avg_waiting_time=2500
+        avg_queue_length=16
+
+
 
         each_waiting_time_for_fairness=self.wait_times_per_lane
         each_queue_length_for_fairness=self.queue_len_per_lane
