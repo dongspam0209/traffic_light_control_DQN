@@ -23,7 +23,7 @@ memory_capacity = 1000
 
 wandb.init(
     # set the wandb project where this run will be logged
-    project="tlsc-project",
+    project="tls",
     # track hyperparameters and run metadata
     config={
         "learning_rate": 0.0001,
@@ -88,15 +88,23 @@ if __name__ == "__main__":
         print(f'loss in epsiode {episode}', Simulation.loss_store[episode])
         print(f'wait time in epsiode {episode}', Simulation.wait_time_store[episode])
         print(f'reward in epsiode {episode}', Simulation.reward_store[episode])
+        print(f'wait time in wait time W {episode}',Simulation.directional_waiting_times_W[episode])
+        print(f'wait time in wait time N {episode}',Simulation.directional_waiting_times_N[episode])
+        print(f'wait time in wait time W {episode}',Simulation.directional_waiting_times_E[episode])
+        print(f'wait time in wait time N {episode}',Simulation.directional_waiting_times_S[episode])
 
         # wandb
         wandb.log({
-            "episode": episode,
+            #"episode": episode,
             "epsilon": epsilon,
             "queue length": Simulation.queue_length_store[episode],
             "loss": Simulation.loss_store[episode],
             "wait time": Simulation.wait_time_store[episode],
             "reward": Simulation.reward_store[episode],
+            "wait time W": Simulation.directional_waiting_times_W[episode],
+            "wait time N": Simulation.directional_waiting_times_N[episode],
+            "wait time E": Simulation.directional_waiting_times_E[episode],
+            "wait time S": Simulation.directional_waiting_times_S[episode],
         })
 
         episode += 1

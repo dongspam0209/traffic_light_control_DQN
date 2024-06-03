@@ -65,7 +65,10 @@ class Simulation:
         self._sumo_cmd = sumo_cmd
         self._max_steps = max_steps
         self._num_states = num_states
-
+        self._directional_waiting_times_W = []
+        self._directional_waiting_times_N = []
+        self._directional_waiting_times_E = []
+        self._directional_waiting_times_S = []
         # Traffic signal duration 남북 직진, 남북 좌회전, 동서 직진, 동서 좌회전 순서대로이고, 중간중간에 노란 신호
         self.phases = [PHASE_NS_GREEN, PHASE_NS_YELLOW, PHASE_NSL_GREEN, PHASE_NSL_YELLOW,
                        PHASE_EW_GREEN, PHASE_EW_YELLOW, PHASE_EWL_GREEN, PHASE_EWL_YELLOW]
@@ -101,6 +104,12 @@ class Simulation:
         # 리워드 변수로 각 차선별 대기시간(wait_times_per_lane), 모든 차선의 대기시간 합한 값(_reward_wait_time).
         self.wait_times_per_lane = []
         self._reward_wait_time = 0
+        self.total_directional_waiting_times_W = 0
+        self.total_directional_waiting_times_E = 0
+        self.total_directional_waiting_times_S = 0
+        self.total_directional_waiting_times_N = 0
+
+
 
         # Inits
         #step은 시뮬레이션 초의 의미. 0초로 초기화. max_steps는 3600으로 선언함. 즉 3600초동안 시뮬레이션이 돌아감.
@@ -131,7 +140,7 @@ class Simulation:
 
             # 각 방향에 대해 집계
             for direction in ['W_in', 'N_in', 'E_in', 'S_in']:
-                # W_in_0 N_in_0 E_in_0 S_in_0으로 각 진입차도에 해당하는 좌회전 차선에 대한 대기시간 모두 함해서 wait_time_sum_per_lane_list에 넣기.
+                # W_in_0 N_in_0 E_in_0 S_in_0으로 각 진입차도에 해당하는 좌회전 차선에 대한 대기시간 모두 합해서 wait_time_sum_per_lane_list에 넣기.
                 wait_time_sum_per_lane_list.append(df3[direction + '_0'].sum())
 
                 # else lanes
@@ -146,8 +155,17 @@ class Simulation:
             current_total_wait = sum(wait_time_sum_per_lane_list)
             self._reward_wait_time = current_total_wait
             # self._reward_wait_time = current_total_wait - previous_cycle_wait_time # 이전 사이클과 현재 사이클의 대기 시간 차이 값을 리워드 값으로 저장함. 맨처음 대기시간은 0으로 초기화 했음
-            # print(f"previous_cycle_wait_time: {previous_cycle_wait_time}, current_total_wait: {current_total_wait}, _reward_wait_time: {self._reward_wait_time}")
+            self.total_waiting_time_W = df3[['W_in' + f'_{i}' for i in range(4)]].sum().sum()
+            self.total_directional_waiting_times_W += self.total_waiting_time_W
 
+            self.total_waiting_time_N = df3[['N_in' + f'_{i}' for i in range(4)]].sum().sum()
+            self.total_directional_waiting_times_N += self.total_waiting_time_N
+
+            self.total_waiting_time_E = df3[['E_in' + f'_{i}' for i in range(4)]].sum().sum()
+            self.total_directional_waiting_times_E += self.total_waiting_time_E
+
+            self.total_waiting_time_S = df3[['S_in' + f'_{i}' for i in range(4)]].sum().sum()
+            self.total_directional_waiting_times_S += self.total_waiting_time_S
             ########## Queue length calculate ###############
             # 대기열 계산
             df1 = df1.transpose()
@@ -215,6 +233,7 @@ class Simulation:
             with open('dictionary_values.txt', 'w') as file:
                 for key, value in self.veh_wait_time_in_lane.items():
                     file.write(f"{key}: {value}\n")
+
             veh_total_wait_sum=sum(self.veh_wait_time_in_lane.values())
             num_cars=len(self.veh_wait_time_in_lane)
             average_wait_time=veh_total_wait_sum/num_cars if num_cars>0 else 0
@@ -222,32 +241,20 @@ class Simulation:
         self.reward_per_episode.append(self.plot_reward /self.cyclecount)
         self._waiting_time_per_episode.append(average_wait_time)
         self._queue_length_per_episode.append(self.plot_queue_length / self.cyclecount)
+
         print(f"epsilon : {epsilon:.3f}")
+
+        self._directional_waiting_times_W.append(self.total_directional_waiting_times_W / self._step)
+        self._directional_waiting_times_N.append(self.total_directional_waiting_times_N / self._step)
+        self._directional_waiting_times_E.append(self.total_directional_waiting_times_E / self._step)
+        self._directional_waiting_times_S.append(self.total_directional_waiting_times_S / self._step)
+        print("self._directional_waiting_times_S: ", self._directional_waiting_times_S)
+        print("self._directional_waiting_times_W: ", self._directional_waiting_times_W)
+        print("self._directional_waiting_times_E: ", self._directional_waiting_times_E)
+        print("self._directional_waiting_times_N: ", self._directional_waiting_times_N)
 
         traci.close()
         
-
-    # def _get_state(self):
-    #     state = np.zeros((3, 16, 100))
-    #     car_list = traci.vehicle.getIDList()
-
-    #     for car_id in car_list:
-    #         lane_pos = 750 - traci.vehicle.getLanePosition(car_id)
-    #         lane_id = traci.vehicle.getLaneID(car_id)
-    #         lane_pos = min(999, lane_pos)
-    #         lane_group = -1
-
-    #         if lane_id in lane:
-    #             lane_cell = min(99, int(lane_pos / 7.5))
-    #             for idx in range(len(lane)):
-    #                 if lane_id == lane[idx]:
-    #                     lane_group = idx
-
-    #             state[0][lane_group][lane_cell] = 1
-    #             state[1][lane_group][lane_cell] = traci.vehicle.getSpeed(car_id)
-    #             state[2][lane_group][lane_cell] = traci.vehicle.getAccumulatedWaitingTime(car_id)
-
-    #     return state.tolist()
     def _get_state(self):
         state=np.zeros((3,16,100))
         vehicle_list=traci.vehicle.getIDList()
@@ -297,10 +304,24 @@ class Simulation:
                 lane_id = traci.vehicle.getLaneID(veh_id)  # 차선 ID
                 # print(f"Vehicle ID: {veh_id}, Lane ID: {lane_id}")  # 디버깅을 위한 출력
         
-                if lane_id.startswith('E_in_') or lane_id.startswith('N_in_') or lane_id.startswith('S_in_') or lane_id.startswith('W_in_'):
+                if lane_id.startswith('E_in_'):
                     if veh_id not in self.veh_time_in_lane:
                         self.veh_time_in_lane[veh_id] = []
+                    self.veh_time_in_lane[veh_id].append(self._step)
 
+                elif lane_id.startswith('N_in_'):
+                    if veh_id not in self.veh_time_in_lane:
+                        self.veh_time_in_lane[veh_id] = []
+                    self.veh_time_in_lane[veh_id].append(self._step)
+
+                elif lane_id.startswith('S_in_'):
+                    if veh_id not in self.veh_time_in_lane:
+                        self.veh_time_in_lane[veh_id] = []
+                    self.veh_time_in_lane[veh_id].append(self._step) 
+                    
+                elif lane_id.startswith('W_in_'):
+                    if veh_id not in self.veh_time_in_lane:
+                        self.veh_time_in_lane[veh_id] = []
                     self.veh_time_in_lane[veh_id].append(self._step)
                 else:
                     if veh_id in self.veh_time_in_lane:
@@ -324,19 +345,11 @@ class Simulation:
         non_final_next_states = torch.cat([s for s in batch.next_state if s is not None]).view(-1, 3, 16, 100).to(
             device)
 
-        # non_final_next_states = torch.cat([torch.tensor(s, dtype=torch.float).unsqueeze(0) for s in batch.next_state if s is not None]).to(device)
-
-        # state_batch = torch.cat(batch.state).view(BATCH_SIZE,3,48,100).to(device)
         state_batch = torch.cat(batch.state).view(BATCH_SIZE, 3, 16, 100).to(device)
         action_batch = torch.cat(batch.action).view(-1, 1).to(device)
         reward_batch = torch.cat(batch.reward).to(device)
-        # prev_actions_batch = torch.cat(batch.prev_actions).view(BATCH_SIZE, -1).to(device)  # prev_actions 처리
-
-        # print('prev_actions_batch',prev_actions_batch)
 
         q_eval = self.policy_net(state_batch).gather(1, action_batch)
-        # q_eval = self.policy_net(state_batch, prev_actions_batch).gather(1, action_batch)
-
         next_state_values = torch.zeros(BATCH_SIZE, device=device)
 
         with torch.no_grad():
@@ -364,7 +377,7 @@ class Simulation:
     def _reward(self):
         w_1 = 1/3
         w_2 = 1/3
-        w_3 = 1/3
+        w_3 = 0
 
         waiting_time = self._reward_wait_time
         queue_length = self._reward_queue_length
@@ -391,7 +404,22 @@ class Simulation:
             return square_of_sums / (len(values) * sum_of_squares)
         else:
             return 1
+    @property
+    def directional_waiting_times_W(self):
+        return self._directional_waiting_times_W
 
+    @property
+    def directional_waiting_times_N(self):
+        return self._directional_waiting_times_N
+
+    @property
+    def directional_waiting_times_E(self):
+        return self._directional_waiting_times_E
+
+    @property
+    def directional_waiting_times_S(self):
+        return self._directional_waiting_times_S
+    
     @property
     def queue_length_store(self):
         return self._queue_length_per_episode
