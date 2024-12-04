@@ -93,3 +93,5 @@
 fairness를 반영한 결과 각 진입차선에서의 대기시간이 보다 더 균등하게 빠지는 것을 알 수 있다.
 
 # 4. Contact
+
+iankim010209@gmail.com
